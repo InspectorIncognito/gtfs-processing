@@ -1,0 +1,33 @@
+ProcesaGTFS v1.5
+----------------
+
+1.- Se elimaron los blancos adicionales en Android_busstops.csv
+2.- Se puso en mayuculas el codigo metro (M)
+3.- Se corrigio la separacion de palabras con guon en nombre de parada
+
+ProcesaGTFS v1.4
+----------------
+
+1.- Se integro 2 campos extras a Andriod_services, cadenas de paradas para el sentido Ida y Regreso
+
+
+ProcesaGTFS v1.3
+----------------
+
+1.- Se integro grilla algoritmo para indetificar las rutas que intersectan una celda
+
+ProcesaGTFS v1.2
+----------------
+
+1.- Se integro grilla para optimizacion espacial de paraderos
+2.- Se integro grilla para optimizacion espacial de rutas y sus segmentos
+
+
+ProcesaGTFS v1.1
+----------------
+
+1.- Se modifco el agoritmo de construccion de la tabla de servcios Por parada para la eliminicacion de servicios repetidos
+    e liminacion de servicios que parten en ese paradero.
+2.- Modificacion de tabla Andriod_busstop, se elimino el codigo de parada del campo nombre
+
+

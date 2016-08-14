@@ -1,0 +1,15 @@
+Parametros Asignacion Paradero a validacion
+------------------------
+
+GTFS_Transantiago					* Nombre Archivo de salida de validaciones procesadas
+GTFS_Transantiago_kmls\				* carpeta para kmls
+GTFS_Transantiago_reportes\			* carpeta para reportes
+20.0								* Distancia para el tramado de la ruta
+7									* colores
+ED1C24 1					
+F58220 2				
+FFD400 3					
+0067AC 5					
+00D5FF 4				
+00B33C 6					
+00D9A3 7					
