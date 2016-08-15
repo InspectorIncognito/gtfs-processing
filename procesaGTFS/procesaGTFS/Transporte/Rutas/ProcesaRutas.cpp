@@ -31,6 +31,20 @@ void ProcesaRutas::MejoraExtremos()
 
 	cout << "Proceso X : Mejorando extremos de las rutas... " ;
 
+	
+	///Ciclo sobre secuencia de paradas
+	for (map< string, map < int, Paradero > >::iterator isec = fdd_->secParaderos.secuencias.begin(); isec != fdd_->secParaderos.secuencias.end();isec++)
+	{
+		///1.- Deteccion de rutas con problemas
+		map<string, Ruta>::iterator iruta = fdd_->rutas.mapeo->find((*isec).first);
+		
+		if (iruta != fdd_->rutas.mapeo->end())
+		{
+			//map<int, Vector3D> *nodosSimplificados;
+			//pair<int, int> ObtenerDistanciasRutas(Vector3D *p);
+		}
+	}
+
 
 //	cout <<reporte->tCrucePosExpediciones  << "(min)" << endl;
 }
