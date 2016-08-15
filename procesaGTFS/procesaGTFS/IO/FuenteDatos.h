@@ -109,6 +109,13 @@ class FuenteDatos{
 	void leeSecuenciaDeParadas();
 
 	/**
+	*	Metodo que lee un archivo de horarios, el metodo permite la no existencia del archivo
+	*   En caso de no existencia los horarios quedaran nulos con un guion (-)
+	*   El metodo necesita tener ya leido la lista de servicios del diccionario
+	*/
+	void leeHorarios();
+
+	/**
 	* Metodo que chequea si un par coordenada esta fuera de la zona de Santiago
 	*/
 	bool estaEnSantiago(int x_, int y_);

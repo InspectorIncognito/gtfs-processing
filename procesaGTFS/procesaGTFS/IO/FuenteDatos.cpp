@@ -46,6 +46,9 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 	///Instancia de lectura de secuencia de paraderos
 	leeSecuenciaDeParadas();
 
+	///Lectura de horarios de servicios
+	leeHorarios();
+
 	///Construccion de Grilla
 	ConstruyeGrilla();
 	IngresaParaderosAGrilla();
@@ -455,6 +458,77 @@ void FuenteDatos::leeSecuenciaDeParadas()
 
 }
 
+void FuenteDatos::leeHorarios()
+{
+	int nTimeStart = Cronometro::GetMilliCount();
+
+	///Archivo de entrada Principal
+	ifstream archivoHorarios;
+	archivoHorarios.open(parametros->nombreArchivoHorarios.c_str());
+
+	///Chequeo de archivo 
+	if (!archivoHorarios.good())
+	{
+		cout << "No se ha encontrado archivo de horarios " << parametros->nombreArchivoHorarios.c_str() << "!" << endl;
+		cout << "Los servicios quedaran con un horario nulo. "  << endl;
+
+		for (map<string, Servicio>::iterator iser = servicios.begin(); iser != servicios.end(); iser++)
+			(*iser).second.horario = string("-");
+
+		return;
+	}
+	else
+		cout << "Cargando datos de Diccionario (" << parametros->nombreCarpetaGTFS + parametros->slash + "routes.txt" << ")... ";
+
+	///Vector contenedor de la linea actual del archivo
+	vector<string> cur;
+
+	int nlineas = 0;
+
+	///Lectura del header
+	cur = StringFunctions::ExplodeF(';', &archivoHorarios);
+
+	map<string, Servicio>::iterator iser;
+	///Lectura archivo primario
+	while (archivoHorarios.good())
+	{
+		nlineas++;
+
+		///Lectura de linea del archivo
+		cur = StringFunctions::ExplodeF(';', &archivoHorarios);
+
+		///Condicion de salida, a veces no es suficiente solo la condicion del ciclo
+		if (cur.size() == 0 || cur[0].compare("") == 0)
+			continue;
+
+		iser = servicios.find(cur.at(0));
+		
+		if (iser != servicios.end())
+		{
+			(*iser).second.horario.append(cur.at(1) + "," + cur.at(2) + "," + cur.at(3) + "," + cur.at(4) + "-");
+		}
+	}
+
+
+	///DEBUG
+	ofstream fout;
+	fout.open("servicios_horario.csv");
+	for (map<string, Servicio>::iterator iser = servicios.begin(); iser != servicios.end(); iser++)
+	{
+		fout << (*iser).first << endl;
+		//fout << (*iser).second.nombre << ";";
+		vector<string> horarios = StringFunctions::Explode((*iser).second.horario, '-');
+		for (vector<string>::iterator ihor = horarios.begin(); ihor != horarios.end();ihor++)
+			fout << (*ihor) << endl;
+	}
+	fout.close();
+
+	reporte->tDiccionario = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
+
+	cout << reporte->tDiccionario << "(min)" << endl;
+
+}
+
 void FuenteDatos::ConstruyeGrilla()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
@@ -701,7 +775,6 @@ void FuenteDatos::IngresaRutasAGrilla()
 
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
-
 
 bool FuenteDatos::estaEnSantiago(COORD x_, COORD y_)
 {

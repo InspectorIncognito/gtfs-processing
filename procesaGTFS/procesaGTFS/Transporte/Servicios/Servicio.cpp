@@ -28,4 +28,5 @@ Servicio::Servicio(string nombre_, string origen_, string destino_, string color
 	origen = origen_;
 	destino = destino_;
 	color = color_;
+	horario = ("");
 }

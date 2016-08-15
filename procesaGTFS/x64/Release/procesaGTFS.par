@@ -2,6 +2,7 @@ Parametros Asignacion Paradero a validacion
 ------------------------
 
 GTFS_Transantiago					* Nombre Archivo de salida de validaciones procesadas
+horarios.csv						* Nombre de archivo con horario de servicios (opcional)
 GTFS_Transantiago_kmls\				* carpeta para kmls
 GTFS_Transantiago_reportes\			* carpeta para reportes
 20.0								* Distancia para el tramado de la ruta

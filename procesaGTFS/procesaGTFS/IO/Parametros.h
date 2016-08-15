@@ -54,6 +54,9 @@ public:
 	///Nombre del archivo con los datos de transacciones
 	string nombreCarpetaGTFS;
 
+	///Nombre de archivo con horarios del funcionamiento de servicios
+	string nombreArchivoHorarios;
+
 	///Nombre carpeta para guardar los kmls
 	string carpetaKmls;
 
