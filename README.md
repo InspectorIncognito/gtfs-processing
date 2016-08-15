@@ -1,4 +1,4 @@
 # GTFSProcessing
-Software for obtain and process the data for Transapp
+Software for obtain and process the GTFS data for Transapp
 
 Version 0.0
