@@ -148,6 +148,12 @@
     <ClCompile Include="IO\Tablas\TablaGrilla.cpp">
       <Filter>IO\Tablas</Filter>
     </ClCompile>
+    <ClCompile Include="Transporte\Rutas\ProcesaRutas.cpp">
+      <Filter>Transporte\Rutas</Filter>
+    </ClCompile>
+    <ClCompile Include="Transporte\Grid\GridProcess.cpp">
+      <Filter>Transporte\Grid</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Utilidades\ConvertCoordinate.h">
@@ -251,6 +257,12 @@
     </ClInclude>
     <ClInclude Include="IO\Tablas\TablaGrilla.h">
       <Filter>IO\Tablas</Filter>
+    </ClInclude>
+    <ClInclude Include="Transporte\Rutas\ProcesaRutas.h">
+      <Filter>Transporte\Rutas</Filter>
+    </ClInclude>
+    <ClInclude Include="Transporte\Grid\GridProcess.h">
+      <Filter>Transporte\Grid</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

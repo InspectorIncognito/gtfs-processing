@@ -15,6 +15,8 @@
 #include <iostream>
 #include "Utilidades/Cronometro.h"
 #include "IO/FuenteDatos.h"
+#include "Transporte/Rutas/ProcesaRutas.h"
+#include "Transporte/Grid/GridProcess.h"
 #include "IO/Visualizacion/Visualizaciones.h"
 #include "IO/Tablas/TablaDistanciaEnRutaParadas.h"
 #include "IO/Tablas/TablaServicios.h"
@@ -44,6 +46,12 @@ int main(int argc, const char* argv[])
 
 	///Referencia a estructura que almacena todos los datos externos
 	FuenteDatos *fdd = new FuenteDatos(argv[1]);
+
+	///Procesado de rutas
+	ProcesaRutas *pr = new ProcesaRutas(fdd);
+
+	///Procesando grilla
+	GridProcess *pg = new GridProcess(fdd);
 
 	///Tabla de paradas
 	TablaParadas *tparadas = new TablaParadas(fdd);

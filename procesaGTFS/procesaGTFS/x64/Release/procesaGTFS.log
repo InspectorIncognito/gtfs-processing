@@ -1,30 +1,33 @@
-﻿Build started 15/08/2016 9:00:32.
+﻿Build started 15/08/2016 9:50:51.
      1>Project "C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\procesaGTFS\procesaGTFS.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt IO\FuenteDatos.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt IO\FuenteDatos.cpp procesaGTFS.cpp Transporte\Grid\GridProcess.cpp Transporte\Rutas\ProcesaRutas.cpp
          FuenteDatos.cpp
-     1>IO\FuenteDatos.cpp(217): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(225): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(545): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>IO\FuenteDatos.cpp(546): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>IO\FuenteDatos.cpp(547): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>IO\FuenteDatos.cpp(548): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>IO\FuenteDatos.cpp(592): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(593): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(621): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(622): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(685): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(686): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(688): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(689): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(702): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
-     1>IO\FuenteDatos.cpp(702): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(703): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
-     1>IO\FuenteDatos.cpp(703): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(704): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
-     1>IO\FuenteDatos.cpp(704): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
-     1>IO\FuenteDatos.cpp(705): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
-     1>IO\FuenteDatos.cpp(705): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>IO\FuenteDatos.cpp(212): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>IO\FuenteDatos.cpp(220): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         procesaGTFS.cpp
+         GridProcess.cpp
+     1>Transporte\Grid\GridProcess.cpp(44): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(45): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(46): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(47): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(91): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(92): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(120): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(121): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(184): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(185): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(187): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(188): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(201): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(201): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(202): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(202): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(203): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(203): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(204): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Transporte\Grid\GridProcess.cpp(204): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+         ProcesaRutas.cpp
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.lib" /MACHINE:X64 x64\Release\FuenteDatos.obj
          x64\Release\Parametros.obj
@@ -46,9 +49,11 @@
          x64\Release\DiccionarioServicios.obj
          x64\Release\Cell.obj
          x64\Release\Grid.obj
+         x64\Release\GridProcess.obj
          x64\Release\Paradero.obj
          x64\Release\RedParadas.obj
          x64\Release\SecuenciaParaderos.obj
+         x64\Release\ProcesaRutas.obj
          x64\Release\Ruta.obj
          x64\Release\Rutas.obj
          x64\Release\Servicio.obj
@@ -66,4 +71,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:06.20
+Time Elapsed 00:00:08.11

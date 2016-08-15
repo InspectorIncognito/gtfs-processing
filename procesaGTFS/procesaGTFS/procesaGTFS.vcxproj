@@ -160,9 +160,11 @@
     <ClCompile Include="Transporte\Diccionarios\DiccionarioServicios.cpp" />
     <ClCompile Include="Transporte\Grid\Cell.cpp" />
     <ClCompile Include="Transporte\Grid\Grid.cpp" />
+    <ClCompile Include="Transporte\Grid\GridProcess.cpp" />
     <ClCompile Include="Transporte\Paraderos\Paradero.cpp" />
     <ClCompile Include="Transporte\Paraderos\RedParadas.cpp" />
     <ClCompile Include="Transporte\Paraderos\SecuenciaParaderos.cpp" />
+    <ClCompile Include="Transporte\Rutas\ProcesaRutas.cpp" />
     <ClCompile Include="Transporte\Rutas\Ruta.cpp" />
     <ClCompile Include="Transporte\Rutas\Rutas.cpp" />
     <ClCompile Include="Transporte\Servicios\Servicio.cpp" />
@@ -195,9 +197,11 @@
     <ClInclude Include="Transporte\Diccionarios\DiccionarioServicios.h" />
     <ClInclude Include="Transporte\Grid\Cell.h" />
     <ClInclude Include="Transporte\Grid\Grid.h" />
+    <ClInclude Include="Transporte\Grid\GridProcess.h" />
     <ClInclude Include="Transporte\Paraderos\Paradero.h" />
     <ClInclude Include="Transporte\Paraderos\RedParadas.h" />
     <ClInclude Include="Transporte\Paraderos\SecuenciaParaderos.h" />
+    <ClInclude Include="Transporte\Rutas\ProcesaRutas.h" />
     <ClInclude Include="Transporte\Rutas\Ruta.h" />
     <ClInclude Include="Transporte\Rutas\Rutas.h" />
     <ClInclude Include="Transporte\Servicios\Servicio.h" />
