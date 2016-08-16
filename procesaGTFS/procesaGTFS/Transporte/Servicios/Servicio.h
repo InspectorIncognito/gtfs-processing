@@ -47,5 +47,6 @@ public:
 	string destino;
 	string color;
 
-	string horario;
+	string horarioI;
+	string horarioR;
 };

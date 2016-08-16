@@ -39,7 +39,9 @@ void TablaServiciosParaAndroid::Crear()
 	fileout << "destiny;";
 	fileout << "color_id;";
 	fileout << "stopsI;";
-	fileout << "stopsR";
+	fileout << "stopsR;";
+	fileout << "scheduleI;";
+	fileout << "scheduleR";
 	fileout << endl;
 
 	for (map< string, Servicio >::iterator iserv = fdd_->servicios.begin(); iserv != fdd_->servicios.end(); iserv++)
@@ -103,6 +105,33 @@ void TablaServiciosParaAndroid::Crear()
 					fileout << "-" << (*ipar).second.codigo;
 			}
 		}
+		fileout << ";";
+
+		vector<string> horariosI = StringFunctions::Explode((*iserv).second.horarioI, '-');
+		for (vector<string>::iterator ihor = horariosI.begin(); ihor != horariosI.end(); ihor++)
+		{
+			if ((*ihor).compare("") == 0)
+				continue;
+
+			if (ihor == horariosI.begin())
+				fileout << (*ihor);
+			else
+				fileout << "-" << (*ihor);
+		}
+		fileout << ";";
+
+		vector<string> horariosR = StringFunctions::Explode((*iserv).second.horarioR, '-');
+		for (vector<string>::iterator ihor = horariosR.begin(); ihor != horariosR.end(); ihor++)
+		{
+			if ((*ihor).compare("") == 0)
+				continue;
+
+			if (ihor == horariosR.begin())
+				fileout << (*ihor);
+			else
+				fileout << "-" << (*ihor);
+		}
+
 		fileout << endl;
 
 	}

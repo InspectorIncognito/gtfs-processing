@@ -468,7 +468,10 @@ void FuenteDatos::leeHorarios()
 		cout << "Los servicios quedaran con un horario nulo. "  << endl;
 
 		for (map<string, Servicio>::iterator iser = servicios.begin(); iser != servicios.end(); iser++)
-			(*iser).second.horario = string("-");
+		{
+			(*iser).second.horarioI = string("-");
+			(*iser).second.horarioR = string("-");
+		}
 
 		return;
 	}
@@ -500,7 +503,16 @@ void FuenteDatos::leeHorarios()
 		
 		if (iser != servicios.end())
 		{
-			(*iser).second.horario.append(cur.at(1) + "," + cur.at(2) + "," + cur.at(3) + "," + cur.at(4) + "-");
+			std::locale loc;
+			std::string str = cur[1];
+			for (std::string::size_type i = 0; i < cur[1].length(); ++i)
+				str[i] = std::toupper(cur[1][i], loc);
+
+			//cout << (*iser).second.destino << "|" << str << endl;
+			if((*iser).second.destino.compare(str)==0)
+				(*iser).second.horarioI.append(cur.at(2) + "," + cur.at(3) + "," + cur.at(4) + "-");
+			else
+				(*iser).second.horarioR.append(cur.at(2) + "," + cur.at(3) + "," + cur.at(4) + "-");
 		}
 	}
 
@@ -510,11 +522,34 @@ void FuenteDatos::leeHorarios()
 	fout.open("servicios_horario.csv");
 	for (map<string, Servicio>::iterator iser = servicios.begin(); iser != servicios.end(); iser++)
 	{
-		fout << (*iser).first << endl;
-		//fout << (*iser).second.nombre << ";";
-		vector<string> horarios = StringFunctions::Explode((*iser).second.horario, '-');
-		for (vector<string>::iterator ihor = horarios.begin(); ihor != horarios.end();ihor++)
-			fout << (*ihor) << endl;
+		fout << (*iser).first << ";";
+		
+		vector<string> horariosI = StringFunctions::Explode((*iser).second.horarioI, '-');
+		for (vector<string>::iterator ihor = horariosI.begin(); ihor != horariosI.end(); ihor++)
+		{
+			if ((*ihor).compare("") == 0)
+				continue;
+
+			if (ihor == horariosI.begin())
+				fout << (*ihor);
+			else
+				fout << "-" << (*ihor);
+		}
+		fout << ";";
+
+		vector<string> horariosR = StringFunctions::Explode((*iser).second.horarioR, '-');
+		for (vector<string>::iterator ihor = horariosR.begin(); ihor != horariosR.end(); ihor++)
+		{
+			if ((*ihor).compare("") == 0)
+				continue;
+
+			if (ihor == horariosR.begin())
+				fout << (*ihor);
+			else
+				fout << "-" << (*ihor);
+		}
+
+		fout << endl;
 	}
 	fout.close();
 
