@@ -510,9 +510,9 @@ void FuenteDatos::leeHorarios()
 
 			//cout << (*iser).second.destino << "|" << str << endl;
 			if((*iser).second.destino.compare(str)==0)
-				(*iser).second.horarioI.append(cur.at(2) + "," + cur.at(3) + "," + cur.at(4) + "-");
+				(*iser).second.horarioI.append(cur.at(2) + "-" + cur.at(3) + "-" + cur.at(4) + "/");
 			else
-				(*iser).second.horarioR.append(cur.at(2) + "," + cur.at(3) + "," + cur.at(4) + "-");
+				(*iser).second.horarioR.append(cur.at(2) + "-" + cur.at(3) + "-" + cur.at(4) + "/");
 		}
 	}
 

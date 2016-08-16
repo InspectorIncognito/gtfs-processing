@@ -35,18 +35,20 @@ print "-------------------------------------------------------------"
 		
 webPC668 = urllib2.urlopen(link+"PC668")
 PC668 =json.load(webPC668)
-#print webPC668.read()
-for servicio in PC668['servicios']:
-	if(servicio['servicio'] == '518'):
-		if 'patente' not in servicio:
-			print  "1 PC668 : " + servicio['servicio']
-		else:
-			if servicio['patente'] is not None:
-				print  "1 PC668 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
-	
+print webPC668.read()
+"""print webPC668.read()
+#for servicio in PC668['servicios']:
+#	if(servicio['servicio'] == '518'):
+#		if 'patente' not in servicio:
+#			print  "1 PC668 : " + servicio['servicio']
+#		else:
+#			if servicio['patente'] is not None:
+#				print  "1 PC668 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
+"""	
+print "-------------------------------------------------------------"
 webPC668 = urllib2.urlopen(link2+"PC668")
-#print webPC668.read()
-PC668 =json.load(webPC668)
+print webPC668.read()
+"""PC668 =json.load(webPC668)
 for servicio in PC668['servicios']:
 	if(servicio['servicio'] == '518'):
 		if 'patente' not in servicio:
@@ -54,6 +56,7 @@ for servicio in PC668['servicios']:
 		else:
 			if servicio['patente'] is not None:
 				print  "2 PC668 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
+"""
 print "-------------------------------------------------------------"
 		
 webPC669 = urllib2.urlopen(link+"PC669")
@@ -99,6 +102,7 @@ for servicio in PC670['servicios']:
 print "-------------------------------------------------------------"
 			
 webPC975 = urllib2.urlopen(link+"PC975")
+print webPC975.read()
 PC975 =json.load(webPC975)
 for servicio in PC975['servicios']:
 	if(servicio['servicio'] == '518'):
