@@ -47,9 +47,6 @@ void TablaServiciosPorParada::Crear()
 
 			string servicio = (*iserv).first.substr(0,(*iserv).first.length() - 1);
 			string sentido = (*iserv).first.substr((*iserv).first.length() - 1, 1);
-
-			//cout << servicio << " | " << sentido << endl;
-
 			
 			///Caso de ser el primero del servicio no ingresar
 			if (it == output.end())
