@@ -179,27 +179,27 @@ void Visualizaciones::DibujaServicio(Ruta& ruta, map<int, Paradero>& secuencia, 
 	kml->CierraFolder();
 
 	//Dibujo secuencia
-	//kml->AbreFolder("paradas");
-	//for (map<int, Paradero>::iterator inodo = secuencia.begin(); inodo != secuencia.end(); inodo++)
-	//{
-	//	double lat, lon;
+	kml->AbreFolder("paradas");
+	for (map<int, Paradero>::iterator inodo = secuencia.begin(); inodo != secuencia.end(); inodo++)
+	{
+		double lat, lon;
 
-	//	ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
+		ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
 
-	//	string strlat = StringFunctions::Double2String(lat, 20);
-	//	string strlon = StringFunctions::Double2String(lon, 20);
+		string strlat = StringFunctions::Double2String(lat, 20);
+		string strlon = StringFunctions::Double2String(lon, 20);
 
-	//	string style("SheetColorAmarillo");
+		string style("SheetColorAmarillo");
 
-	//	kml->InsertaPunto((*inodo).second.codigo.c_str(),
-	//		"",
-	//		strlat.c_str(),
-	//		strlon.c_str(),
-	//		style.c_str(),
-	//		0);
+		kml->InsertaPunto((*inodo).second.codigo.c_str(),
+			"",
+			strlat.c_str(),
+			strlon.c_str(),
+			style.c_str(),
+			0);
 
-	//}
-	//kml->CierraFolder();
+	}
+	kml->CierraFolder();
 
 	//Dibujo ruta
 	//kml->AbreFolder("Tramado");

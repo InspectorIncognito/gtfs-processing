@@ -391,15 +391,23 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		vector<string> cod_serv = StringFunctions::Explode(cod[0], '-');
 		
 		string servicio = string(cod_serv[0] + cod_serv[1]);
+		//if (servicio.compare("I08I") == 0)
+		//	cout << "PAR1 : " << cur[3] << endl;
 
-		if (servicio.compare(servicio_ant) != 0)
+		//if (servicio.compare(servicio_ant) != 0)
 			activo = true;
 
-		if (servicio.compare(servicio_ant) == 0 && cur[4].compare("1") == 0)
-			activo = false;
+		//if (servicio.compare(servicio_ant) == 0 && cur[4].compare("1") == 0)
+		//	activo = false;
+
+		//if (servicio.compare("I08I") == 0)
+		//	cout << "PAR2 : " << cur[3] << endl;
 
 		if (activo)
 		{
+			//if (servicio.compare("I08I") == 0)
+			//	cout << "PAR3 : " << cur[3] << endl;
+
 			///Busco paradero en red de paradas
 			Paradero par;
 			ired = redParaderos.red.find(cur[3]);
@@ -425,6 +433,10 @@ void FuenteDatos::leeSecuenciaDeParadas()
 			{
 				(*iserv).second[atoi(cur[4].c_str())] = par;
 			}
+
+			//if (servicio.compare("I08I") == 0)
+			//	cout << "PAR4 : " << cur[3] << endl;
+
 		}
 
 

@@ -197,7 +197,7 @@ PA297;Parada 1 / Plaza Brasil;-33.44;-70.6652;119-505-508-514-J19
 PA298;Parada 7 / (M) Santa Ana;-33.4395;-70.661;119-505-508-514-J19
 PA299;Amunátegui Esq. / General Mackenna;-33.4335;-70.6574;301-402-502-502c-503-509-517
 PA3;Parada 10 / (M) Estación Central;-33.4495;-70.678;109-109N-345-406-422-426-507-513-B26-J16
-PA30;San Ignacio Esq. / Padre M. De Olivares;-33.4488;-70.6569;115-201-223-509
+PA30;San Ignacio Esq. / Padre M. De Olivares;-33.4488;-70.6569;113-115-201-223-509
 PA300;Parada 9 / Estación Mapocho;-33.4332;-70.6539;402-404-502-502c-503-509-517
 PA302;Parada 2 / Casa De Los Velasco;-33.4356;-70.6466;504-505-508-514
 PA303;Parada 1 / (M) Santa Ana;-33.437;-70.659;303-307-307e-312e-314-314e-316e-B29
@@ -205,7 +205,7 @@ PA305;Parada / Mercado De Anticuarios;-33.4302;-70.6659;121
 PA307;Av. Ricardo Cumming Esq. / Castillo;-33.4306;-70.6695;121
 PA308;Av. Ricardo Cumming Esq. / Andes;-33.4328;-70.6692;121
 PA309;Av. Ricardo Cumming Esq. / San Pablo;-33.4346;-70.6691;121-J10
-PA31;Parada / Palacio Cousiño;-33.4515;-70.6563;115-201-223-509
+PA31;Parada / Palacio Cousiño;-33.4515;-70.6563;113-115-201-223-509
 PA310;Av. Ricardo Cumming Esq. / Santo Domingo;-33.4374;-70.6688;121-J10
 PA311;Av. Ricardo Cumming Esq. / Compañía De Jesús;-33.4399;-70.6686;121
 PA312;Av. Ricardo Cumming Esq. / Agustinas;-33.4421;-70.6682;121-J10
@@ -215,7 +215,7 @@ PA315;Club Hípico Esq. / Raimundo Larraín;-33.4662;-70.665;121
 PA316;Club Hípico Esq. / Av. General Rondizzoni;-33.47;-70.6649;121
 PA318;Avenida Beaucheff Esq. / Av. General Rondizzoni;-33.4707;-70.6634;121
 PA319;Avenida Beaucheff Esq. / Marsella;-33.4675;-70.6635;121
-PA32;San Ignacio Esq. / Av. 10 De Julio;-33.4539;-70.6558;115-509
+PA32;San Ignacio Esq. / Av. 10 De Julio;-33.4539;-70.6558;113-115-509
 PA320;Parada / Movistar Arena;-33.4637;-70.6636;121
 PA321;Parada / Fantasilandia;-33.4589;-70.6639;121
 PA322;Parada 2 / Escuela De Ingeniería;-33.457;-70.6647;121-507
@@ -225,8 +225,8 @@ PA325;Av. Ricardo Cumming Esq. / Avenida Mapocho;-33.4324;-70.6691;J10
 PA326;Av. Ricardo Cumming Esq. / Av. Pdte. Balmaceda;-33.4294;-70.6694;J10
 PA327;Parada 4 / Puente Bulnes;-33.4283;-70.6715;J10
 PA329;Parada 13 / Estación Mapocho;-33.4319;-70.6522;214-307-307e-B02N-B03-B04-B20-B30N
-PA33;San Ignacio Esq. / Coquimbo;-33.4572;-70.6557;115-509
-PA331;Parada 5 / (M) Quinta Normal;-33.4411;-70.6799;313e
+PA33;San Ignacio Esq. / Coquimbo;-33.4572;-70.6557;113-115-509
+PA331;Parada 5 / (M) Quinta Normal;-33.4411;-70.6799;313e-313e
 PA332;Parada 2 / Liceo Uno;-33.4392;-70.657;504-505-508-514
 PA334;Parada 1 / Miraflores Merced;-33.438;-70.6461;504-505-508-517-B02N
 PA335;Parada 3 / (M) Unión Latinoamericana;-33.4493;-70.6722;507-510-513-516
@@ -234,7 +234,7 @@ PA336;Parada 3 / (M) República;-33.4481;-70.6678;210-210v-221e-412-418-419-423-
 PA337;Parada 8 / (M) Los Héroes;-33.4469;-70.662;210-210v-221e-412-418-419-423-424-510
 PA338;Parada 6 / (M) La Moneda;-33.4454;-70.6557;302N-345-346N-401-401N-405-406-407-412-418-421-426-427-541N
 PA339;Parada 5 / (M) Universidad De Chile;-33.4438;-70.6496;125-302N-401-401N-406-407-421-424-426-427-516-519e-541N-I08N-I10N
-PA34;Parada 6 / (M) Parque O'Higgins;-33.46;-70.6555;115-509
+PA34;Parada 6 / (M) Parque O'Higgins;-33.46;-70.6555;113-115-509
 PA340;Parada 9 / (M) Santa Lucía;-33.4431;-70.6465;401-401N-407-412-418-421-427-541N
 PA341;Parada 3 / (M) Universidad Católica;-33.4408;-70.6412;401-401N-405-406-407-412-418-421-426-427-516-519e-541N
 PA342;Parada 7 / Plaza Italia;-33.4379;-70.6368;106-401-401N-403-407-419-421-423-427-513-516-519e-541N
@@ -245,7 +245,7 @@ PA346;Parada 10 / (M) La Moneda;-33.4453;-70.6584;106-401N-401-405-419-421-423-5
 PA347;Parada 1 / (M) Los Héroes;-33.4465;-70.6632;106-401N-401-405-419-421-423-510-516-541N
 PA348;Parada 6 / (M) República;-33.4477;-70.668;106-401N-401-404-405-419-421-423-424-510-516-541N-J10
 PA349;Parada 4 / (M) Unión Latinoamericana;-33.4489;-70.6727;106-401N-401-404-405-419-421-423-424-510-516-541N-J10
-PA35;Parada 1 / (M) Toesca;-33.4532;-70.6589;113-125-302-302N-510
+PA35;Parada 1 / (M) Toesca;-33.4532;-70.6589;125-302-302N-510
 PA350;Parada 7 / (M) Universidad De Chile;-33.4444;-70.6518;106-404-405-419-423
 PA352;Parada / Hospital Traumatológico;-33.4346;-70.6593;303-314-314e-315e-402-502-502c-503-517-518-B29
 PA353;Parada 4 / Mercado Central;-33.4342;-70.6481;402-502-502c-503
@@ -254,7 +254,7 @@ PA355;Rosas Esq. / Avenida Matucana;-33.4373;-70.6799;402-505
 PA357;Avenida 10 De Julio Esq. / Avenida Portugal;-33.4515;-70.6342;422-D03-H13
 PA358;Portugal Esq. / Argomedo;-33.45;-70.6348;422-H13
 PA359;Parada / Claustro Del 900;-33.4462;-70.6358;422-H13
-PA36;Manuel Rodríguez Esq. / Domeyko;-33.4548;-70.6584;113-125-302-302N-510
+PA36;Manuel Rodríguez Esq. / Domeyko;-33.4548;-70.6584;125-302-302N-510
 PA360;Parada 2 / Posta Central;-33.4447;-70.6367;422
 PA361;Portugal Esq. / Diagonal Paraguay;-33.4432;-70.6376;422-518
 PA362;Parada / Hospital U.Católica;-33.442;-70.6386;422-518
@@ -264,7 +264,7 @@ PA366;Parada 4 / (M) Los Héroes;-33.4458;-70.6605;404-424
 PA367;Parada 3 / (M) Estación Central;-33.4502;-70.6774;346N-404-424-510-516-I08N-I09-I09e-I10N-I14-J10-J13
 PA368;Parada 4 / (M) Estación Central;-33.4506;-70.6771;405-406-422-426-507-513
 PA369;Parada 5 / (M) República;-33.4484;-70.6689;401-401N-405-406-407-421-426-427-541N
-PA37;Parada / Museo Militar;-33.456;-70.658;113-125-302-302N
+PA37;Parada / Museo Militar;-33.456;-70.658;125-302-302N
 PA370;Parada 9 / (M) Los Héroes;-33.4471;-70.663;401-401N-405-406-407-421-426-427-541N
 PA371;Parada 5 / (M) Santa Lucía;-33.4428;-70.6453;303-307-307e-314-314e-315e-405-406-426
 PA372;Parada 8 / Plaza Italia;-33.4383;-70.6375;405-406-426
@@ -274,14 +274,14 @@ PA375;Parada 2 / (M) Universidad De Chile;-33.4439;-70.6522;406-407-422-426-427-
 PA376;Parada 2 / (M) La Moneda;-33.4449;-70.6566;406-407-422-426-427-513
 PA377;Parada 2 / (M) Los Héroes;-33.4462;-70.662;406-407-422-426-427-513
 PA378;Parada 1 / (M) Estación Central;-33.4502;-70.6789;406-422-426
-PA38;Parada 1 / (M) Rondizzoni;-33.4698;-70.6567;113-125-302-302N
+PA38;Parada 1 / (M) Rondizzoni;-33.4698;-70.6567;125-302-302N
 PA380;Parada 4 / Estación Mapocho;-33.4326;-70.6514;408-408-408e-B20
 PA383;Parada 5 / Plaza Italia;-33.4376;-70.6358;412-418-503-505-508-514-515N-517
 PA384;Parada 11 / Plaza Italia;-33.4371;-70.6355;412-418-514-515N
 PA385;Parada 3 / (M) Santa Lucía;-33.4424;-70.6453;412-418-516-519e
 PA387;Avenida Mapocho Esq. / Herrera;-33.4329;-70.6786;502-502c-503-504-517-518-B26-J03
 PA388;Parada / Población Mapocho;-33.4326;-70.6756;502-502c-503-504-517-518-B26-J03
-PA39;Parada 1 / Centro De Justicia;-33.473;-70.6556;113-125-302-302N
+PA39;Parada 1 / Centro De Justicia;-33.473;-70.6556;125-302-302N
 PA390;Avenida Mapocho Esq. / Ricardo Cumming;-33.4322;-70.6694;502-502c-503-504-517-518-J03-J10
 PA391;Avenida Mapocho Esq. / General Baquedano;-33.4321;-70.6666;502-502c-503-504-517-518-J03
 PA392;Avenida Mapocho Esq. / Almirante Barroso;-33.4321;-70.6638;502-502c-503-504-517-518-J03
@@ -387,12 +387,12 @@ PA500;Lira Esq. / Ñuble;-33.4685;-70.6331;D05
 PA501;Ñuble Esq. / Avenida Portugal;-33.4679;-70.6304;D05
 PA502;Ñuble Esq. / Av.Vicuña Mackenna;-33.4675;-70.6268;D05-H07
 PA503;Portugal Esq. / Ñuble;-33.4674;-70.6304;D05-H13
-PA504;Portugal Esq. / Arauco;-33.4702;-70.6297;D05-H13
-PA505;Franklin Esq. / Sierra Bella;-33.4722;-70.6328;511-D05-H07-H13
-PA506;Franklin Esq. / Carmen;-33.4724;-70.6353;511-D05-H07-H13
-PA507;Franklin Esq. / San Isidro;-33.4727;-70.6391;511-D05-H07-H13-I01
-PA508;Franklin Esq. / Av. Santa Rosa;-33.4728;-70.6418;511-D05-H07-H13-I01
-PA509;Franklin Esq. / San Diego;-33.4732;-70.6479;511-D05-D07-E04-H06-H07-H13-I01
+PA504;Portugal Esq. / Arauco;-33.4702;-70.6297;D05-D05-H13
+PA505;Franklin Esq. / Sierra Bella;-33.4722;-70.6328;511-D05-D05-H07-H13
+PA506;Franklin Esq. / Carmen;-33.4724;-70.6353;511-D05-D05-H07-H13
+PA507;Franklin Esq. / San Isidro;-33.4727;-70.6391;511-D05-D05-H07-H13-I01
+PA508;Franklin Esq. / Av. Santa Rosa;-33.4728;-70.6418;511-D05-D05-H07-H13-I01
+PA509;Franklin Esq. / San Diego;-33.4732;-70.6479;511-D05-D05-D07-E04-H06-H07-H13-I01
 PA51;Parada 3 / (M) Santa Ana;-33.4386;-70.6582;201-223-301-509-518
 PA510;Santiago Concha Esq. / Amazonas;-33.4597;-70.6401;I01
 PA511;Santiago Concha Esq. / Victoria;-33.4625;-70.6393;I01
@@ -413,7 +413,7 @@ PA537;Av. General Rondizzoni Esq. / Avenida El Mirador;-33.4706;-70.6681;511-H07
 PA538;Av. General Rondizzoni Esq. / Avenida Beaucheff;-33.4705;-70.664;H07-I01
 PA539;Av. General Rondizzoni Esq. / Luis Cousiño;-33.4703;-70.66;H07-I01
 PA54;Santa Isabel Esq. / Lord Cochrane;-33.453;-70.6547;201-223-D03
-PA541;Parada 5 / (M) Franklin;-33.4763;-70.6493;D05-D05-D07-D07
+PA541;Parada 5 / (M) Franklin;-33.4763;-70.6493;D05-D05-D05-D07-D07
 PA542;Curicó Esq. / Lira;-33.4452;-70.6401;H13
 PA543;Parada 1 / Posta Central;-33.4442;-70.6372;422-H13
 PA544;Parada 4 / (M) Franklin;-33.4761;-70.6496;E04-E04-H14-H14
@@ -476,10 +476,10 @@ PA626;Parada 14 / (M) Santa Lucía;-33.441;-70.6465;404-B02N-B30N
 PA627;Nataniel Cox Esq. / Compañía De Jesús;-33.4555;-70.6524;201-214-223-226-229-301
 PA629;Portugal Esq. / Av. Manuel A. Matta;-33.4557;-70.6335;H13
 PA63;Parada 2 / (M) Franklin;-33.4759;-70.6481;201-214-223-226-229-301-H06-H12-H13-H14
-PA630;San Ignacio Esq. / Santiago;-33.4625;-70.6553;115
-PA633;Parada 5 / (M) Rondizzoni;-33.4702;-70.6547;115
-PA634;Parada 3 / Centro De Justicia;-33.4734;-70.6544;115-511
-PA635;San Ignacio Esq. / Centenario;-33.4765;-70.6541;115
+PA630;San Ignacio Esq. / Santiago;-33.4625;-70.6553;113-115
+PA633;Parada 5 / (M) Rondizzoni;-33.4702;-70.6547;113-115
+PA634;Parada 3 / Centro De Justicia;-33.4734;-70.6544;113-115-511
+PA635;San Ignacio Esq. / Centenario;-33.4765;-70.6541;113-115
 PA636;Parada 3 / (M) Franklin;-33.476;-70.6496;H12-H12
 PA637;Franklin Esq. / Avenida Portugal;-33.4715;-70.6289;511-H07
 PA638;Arauco Esq. / Avenida Portugal;-33.4707;-70.6298;511-H07-H13
@@ -492,7 +492,7 @@ PA643;Esperanza Esq. / Huérfanos;-33.4422;-70.6754;J02-J05
 PA65;San Diego Esq. / Ñuble;-33.4699;-70.6485;201-214-223-226-229-301-H06
 PA652;Parada 10 / (M) Los Héroes;-33.4455;-70.6609;201e-261e
 PA654;Parada 3 / Tarapacá San Francisco;-33.4466;-70.6471;214-230
-PA655;Sazié Esq. / Bascuñán Guerrero;-33.4526;-70.6747;I14-I17-I18
+PA655;Sazié Esq. / Bascuñán Guerrero;-33.4526;-70.6747;I14-I14-I17-I18
 PA656;Unión Americana Esq. / Sazié;-33.4523;-70.6736;I09-I09e
 PA657;Parada 5 / (M) Unión Latinoamericana;-33.4496;-70.6735;401-401N-405-406-407-412-418-421-426-427-541N-J10
 PA658;Avenida Matta Esq. / San Diego;-33.4598;-70.6495;506-506e-506v-507-507c-510
@@ -505,6 +505,7 @@ PA663;Parada 1 / Eleuterio Ramírez San Francisco;-33.4481;-70.6471;205-206-209
 PA664;San Alfonso Esq. / Ramón Subercaseaux;-33.4704;-70.673;345
 PA665;Parada 11 / (M) La Moneda;-33.445;-70.6555;301-509
 PA666;Avenida Matta Esq. / Sierra Bella;-33.4572;-70.6371;506-506v-507-507c-510
+PA667;Parada 12 / (M) Santa Ana;-33.4375;-70.6604;313e
 PA668;Parada 12 / (M) Los Héroes;-33.4465;-70.6602;403-404-422-513
 PA669;Parada 12 / Estación Mapocho;-33.4326;-70.6542;312e-312e-316e-316e
 PA67;San Diego Esq. / Santiago;-33.4629;-70.6489;201-214-223-226-229-301-H06
@@ -519,7 +520,7 @@ PA68;San Diego Esq. / Av. Manuel A. Matta;-33.4598;-70.6491;201-214-223-226-229-
 PA680;Parada / Penitenciaría;-33.4735;-70.66;511
 PA681;San Alfonso Esq. / Arz. Valenzuela;-33.4747;-70.673;345
 PA682;San Alfonso Esq. / Concha Castillo;-33.4727;-70.673;345
-PA683;Unión Americana Esq. / S. Sanfuentes;-33.4512;-70.674;I14-I17-I18
+PA683;Unión Americana Esq. / S. Sanfuentes;-33.4512;-70.674;I14-I14-I17-I18
 PA684;Av. General Rondizzoni Esq. / Francisco Pizarro;-33.4706;-70.6706;511-H07-I01
 PA685;Portugal Esq. / Av. 10 De Julio;-33.4512;-70.6346;H13
 PA686;Portugal Esq. / Santa Isabel;-33.4484;-70.6352;422-H13
@@ -596,8 +597,8 @@ PB10;Avenida Dorsal Esq. / La Plata;-33.3955;-70.6508;101-107-107c
 PB100;Av. Vicuña Mackenna Esq. / Themis;-33.4102;-70.7463;110-110c
 PB1000;Parada 5 / Independencia Vespucio;-33.3664;-70.6904;B07-B08-B11-B13-B18
 PB1001;Parada / Cruce Quilicura;-33.3641;-70.7007;B07
-PB1002;Parada / Pasarela Lautaro;-33.3448;-70.7095;313e-316e-B07
-PB1003;Parada / Panamerica Norte Altura Del 9400;-33.3395;-70.7115;313e-316e-B07
+PB1002;Parada / Pasarela Lautaro;-33.3448;-70.7095;316e-B07
+PB1003;Parada / Panamerica Norte Altura Del 9400;-33.3395;-70.7115;316e-B07
 PB1004;San Ignacio Esq. / Lincoyán;-33.333;-70.7112;B07-B12
 PB1005;San Ignacio Esq. / Galvarino;-33.3315;-70.7064;B07-B12
 PB1006;San Ignacio Esq. / Caupolicán;-33.3295;-70.7011;B05-B07-B12
@@ -610,8 +611,8 @@ PB1011;Caupolicán Esq. / El Totoral;-33.328;-70.703;B07
 PB1012;Parada / San Ignacio Altura Del 100;-33.3296;-70.7015;B05-B07-B12
 PB1013;San Ignacio Esq. / Galvarino;-33.3311;-70.7059;B05-B07-B12
 PB1014;San Ignacio Esq. / Lincoyán;-33.3326;-70.7105;B05-B07-B12
-PB1015;Parada / Pasarela Lautaro;-33.3448;-70.7103;316e-B07
-PB1016;Av. Edo. Frei Montalva Esq. / Las Esteras Sur;-33.3475;-70.7091;316e-B07
+PB1015;Parada / Pasarela Lautaro;-33.3448;-70.7103;313e-316e-B07
+PB1016;Av. Edo. Frei Montalva Esq. / Las Esteras Sur;-33.3475;-70.7091;313e-316e-B07
 PB1017;Parada / Pasarela El Molino;-33.359;-70.704;B07
 PB1018;Parada / Cruce Quilicura;-33.3653;-70.7022;B07
 PB1019;Avenida Lo Cruzat Esq. / El Alerce;-33.3527;-70.7206;B07
@@ -831,25 +832,25 @@ PB1224;La Coruña Esq. / Tupungato;-33.3775;-70.6791;B12
 PB1225;Tupungato Esq. / Nahuelbuta;-33.3805;-70.6789;B12
 PB1226;Tupungato Esq. / Diego Silva H.;-33.3842;-70.6789;B12
 PB1227;Juan Cristóbal Esq. / Av. Zapadores;-33.3871;-70.6504;B12-B19-B22
-PB1228;Avenida Principal Esq. / Juan Cristóbal;-33.381;-70.649;B13-B18-B18e-B19-B27
+PB1228;Avenida Principal Esq. / Juan Cristóbal;-33.381;-70.649;B18-B18e-B19-B27
 PB1229;Calle G Esq. / Pasaje Ercilla;-33.3799;-70.6493;B13-B18-B22-B25
 PB123;Av. Américo Vespucio Esq. / Av. El Guanaco;-33.3775;-70.6531;112-117-425-429-429c-B05
 PB1230;Calle G Esq. / Hubert Benítez;-33.3781;-70.6539;B13-B18-B22-B25
 PB1231;Calle G Esq. / Av. El Guanaco;-33.3771;-70.6567;B13-B18-B22-B25
-PB1232;Calle G Esq. / Renaico;-33.3762;-70.6592;B13-B18-B22
-PB1233;Calle G Esq. / General Gambino;-33.3751;-70.6619;B13-B18-B22
-PB1234;Calle G Esq. / Juan Muñoz;-33.3744;-70.6639;B13-B18-B19-B22
-PB1235;Calle G Esq. / El Mercurio;-33.3735;-70.6656;B13-B18-B19-B22
-PB1236;Calle G Esq. / Horacio Johnson;-33.3724;-70.6689;B13-B18-B19-B22
+PB1232;Calle G Esq. / Renaico;-33.3762;-70.6592;B18-B22
+PB1233;Calle G Esq. / General Gambino;-33.3751;-70.6619;B18-B22
+PB1234;Calle G Esq. / Juan Muñoz;-33.3744;-70.6639;B18-B19-B22
+PB1235;Calle G Esq. / El Mercurio;-33.3735;-70.6656;B18-B19-B22
+PB1236;Calle G Esq. / Horacio Johnson;-33.3724;-70.6689;B18-B19-B22
 PB1237;Senador Jaime Guzmán Esq. / Av. Manuel A. Matta;-33.3671;-70.7056;307-425-428-428e-B06-B21-B31N
 PB1239;Avenida Las Torres Esq. / Del Rodeo;-33.355;-70.7321;B13-B31N
 PB124;Av. Américo Vespucio Esq. / Juan Cristóbal;-33.3778;-70.6537;425-429-429c-435-B05-B13-B16-B18-B18e-B25
 PB1240;Avenida Las Torres Esq. / Lo Ovalle;-33.354;-70.7338;315e-B13-B31N
 PB1241;Avenida Las Torres Esq. / Est. Sn. Carlos De A.;-33.3523;-70.7369;315e-B13-B31N
 PB1242;Santa Luisa Esq. / Rigoberto Jara;-33.3557;-70.738;313e-315e-B13-B31N
-PB1243;Card. Raúl Silva H. Esq. / Pto. De Antofagasta;-33.3558;-70.752;B13-B31N
-PB1244;Pto. De Antofagasta Esq. / Puerto Navarino;-33.3584;-70.751;B13-B31N
-PB1245;Pto. De Antofagasta Esq. / Av. Lo Marcoleta;-33.3608;-70.75;B13-B31N
+PB1243;Card. Raúl Silva H. Esq. / Pto. De Antofagasta;-33.3558;-70.752;B13-B13-B31N
+PB1244;Pto. De Antofagasta Esq. / Puerto Navarino;-33.3584;-70.751;B13-B13-B31N
+PB1245;Pto. De Antofagasta Esq. / Av. Lo Marcoleta;-33.3608;-70.75;B13-B13-B31N
 PB1246;Peñablanca Esq. / Sotaquí;-33.3596;-70.7497;B13-B31N
 PB1247;Peñablanca Esq. / Tulahuén;-33.3582;-70.7506;B13-B31N
 PB1248;Peñablanca Esq. / Cerro Tololo;-33.3562;-70.7516;B13-B31N
@@ -863,7 +864,7 @@ PB1254;Avenida Las Torres Esq. / Del Trigal;-33.3561;-70.7309;315e-B13-B31N
 PB1255;Avenida Las Torres Esq. / Lib. B. O'Higgins;-33.3569;-70.7295;B13-B31N
 PB1256;Avenida Las Torres Esq. / Avenida Las Torres;-33.3625;-70.7195;B13-B31N
 PB1257;Avenida Las Torres Esq. / Av. Manuel A. Matta;-33.3646;-70.7192;B13-B31N
-PB1258;Parada 12 / (M) Vespucio Norte;-33.3807;-70.6461;B05-B13-B18-B19
+PB1258;Parada 12 / (M) Vespucio Norte;-33.3807;-70.6461;B05-B19
 PB1259;Bolivia Esq. / Duque De Kent;-33.4018;-70.6214;B14
 PB126;Parada 13 / (M) Vespucio Norte;-33.3803;-70.6471;112-425-429-429c-430-435
 PB1260;Venezuela Esq. / Las Canteras;-33.4049;-70.6229;B14
@@ -887,7 +888,7 @@ PB1276;Parada 3 / B. Mathieu Independencia;-33.4288;-70.6538;202c-214-230-B02-B0
 PB1277;Avenida Einstein Esq. / Agua Santa;-33.4032;-70.6606;B14-B21-B25
 PB1278;Avenida Einstein Esq. / El Guanaco;-33.4029;-70.6579;B14-B21-B25
 PB1279;Avenida Einstein Esq. / La Quintrala;-33.4033;-70.6555;B14-B21
-PB128;Av. Américo Vespucio Esq. / Avenida Recoleta;-33.3832;-70.6411;112-425-429-429c-430-435
+PB128;Av. Américo Vespucio Esq. / Avenida Recoleta;-33.3832;-70.6411;112-425-429-429c-429c-430-435
 PB1280;Avenida Einstein Esq. / La Conquista;-33.4039;-70.6529;B14-B21
 PB1281;Avenida Einstein Esq. / Obispo Del Pozo;-33.4046;-70.6495;B14-B21
 PB1282;Avenida Einstein Esq. / La Colonia;-33.4052;-70.6465;B14-B21
@@ -898,7 +899,7 @@ PB1286;Lircay Esq. / Avenida Las Torres;-33.4054;-70.6318;B14-B15
 PB1287;Lircay Esq. / Jardín;-33.4055;-70.628;B14-B15
 PB1288;Lircay Esq. / Reina De Chile;-33.4053;-70.6247;B14-B15
 PB1289;Bolivia Esq. / Duque De Kent;-33.4021;-70.6215;B14
-PB129;Av. Américo Vespucio Esq. / Alfredo Rosende;-33.3857;-70.6376;112N-112-425-429-429c
+PB129;Av. Américo Vespucio Esq. / Alfredo Rosende;-33.3857;-70.6376;112N-112-425-429-429c-429c
 PB1292;Avenida México Esq. / Adrian Miranda;-33.4093;-70.6317;B15
 PB1293;Avenida México Esq. / 6 Norte;-33.4102;-70.6288;B15
 PB1294;Arzobispo Valdivieso Esq. / 7 Norte;-33.4111;-70.6277;B15-B17
@@ -907,7 +908,7 @@ PB1296;Arzobispo Valdivieso Esq. / Comandante Véliz;-33.4114;-70.6328;B15-B17
 PB1297;Arzobispo Valdivieso Esq. / Francisco Silva;-33.4124;-70.6352;B15-B17
 PB1298;Arzobispo Valdivieso Esq. / Avenida El Salto;-33.4133;-70.6382;B15-B17
 PB1299;Loreto Esq. / A. López De Bello;-33.432;-70.6422;B15
-PB130;Av. Américo Vespucio Esq. / Héroe P. González ;-33.3893;-70.6326;112N-112-425-429-429c
+PB130;Av. Américo Vespucio Esq. / Héroe P. González ;-33.3893;-70.6326;112N-112-425-429-429c-429c
 PB1300;Loreto Esq. / Los Vecinos;-33.4296;-70.6418;B15
 PB1301;Avenida Perú Esq. / Los Tolomiros;-33.427;-70.6399;B15
 PB1302;Arzobispo Valdivieso Esq. / Francisco Silva;-33.4126;-70.6354;B15-B17
@@ -918,7 +919,7 @@ PB1306;Avenida México Esq. / 6 Norte;-33.4103;-70.6279;B15
 PB1307;Avenida México Esq. / Río Maule;-33.4097;-70.63;B15
 PB1308;Avenida México Esq. / Estudiante Navarro;-33.4091;-70.6322;B15
 PB1309;Avenida México Esq. / Avenida El Salto;-33.4081;-70.6347;B15
-PB131;Av. Américo Vespucio Esq. / Héroe Zenón Ortiz;-33.3916;-70.6297;112N-112-425-429-429c
+PB131;Av. Américo Vespucio Esq. / Héroe Zenón Ortiz;-33.3916;-70.6297;112N-112-425-429-429c-429c
 PB1311;Fresia Esq. / Los Helechos;-33.3974;-70.6932;B17
 PB1312;Colón Esq. / Av.Sen.Jaime Guzmán;-33.3999;-70.6939;B17
 PB1314;Bajos De Jiménez Esq. / Eugenio Matte;-33.4054;-70.6789;B17-B23
@@ -927,7 +928,7 @@ PB1316;Nueva 1 Esq. / Nueva De Matte;-33.4087;-70.6769;B17-B23
 PB1317;Nueva 1 Esq. / F. Gazziero;-33.4117;-70.6766;B17
 PB1318;Nueva 1 Esq. / Dgo. Santa María;-33.4142;-70.6763;B17
 PB1319;Domingo Santa María Esq. / Enrique Soro;-33.4154;-70.6706;B17
-PB132;Parada 1 / Palacio Riesco;-33.3936;-70.6266;112N-112-425-429-429c
+PB132;Parada 1 / Palacio Riesco;-33.3936;-70.6266;112N-112-425-429-429c-429c
 PB1320;Domingo Santa María Esq. / Amunátegui;-33.4155;-70.6678;B17
 PB1321;Domingo Santa María Esq. / Av. Fermín Vivaceta;-33.4156;-70.6646;B17
 PB1323;Profesor A. Zañartu Esq. / Monserrat;-33.4179;-70.6482;B17
@@ -952,7 +953,7 @@ PB1340;Ismael Briceño Esq. / Av. A. Vespucio;-33.3731;-70.7294;B18-B18e
 PB1341;Huechuraba Esq. / Horacio Johnson;-33.3725;-70.6696;B18-B19
 PB1342;Calle G Esq. / Espinelo;-33.3735;-70.6661;B18-B19-B22
 PB1343;Calle G Esq. / General Gambino;-33.3745;-70.664;B18-B19-B22
-PB1344;Huechuraba Esq. / Pedro Fontova;-33.3722;-70.6708;B13-B18-B19
+PB1344;Huechuraba Esq. / Pedro Fontova;-33.3722;-70.6708;B18-B19
 PB1345;Parada / Ismael Briceño Altura Del 1400;-33.3731;-70.7296;B18-B18e
 PB1346;Ismael Briceño Esq. / Calle 1;-33.3756;-70.7265;B18-B18e
 PB1348;Altona Esq. / Canberra;-33.371;-70.6831;B19
@@ -1140,8 +1141,8 @@ PB1526;Calle 1 Esq. / Psje. Los Tiuques;-33.3594;-70.6905;B12
 PB1527;El Sauce Esq. / Valle Del Maule;-33.3598;-70.6799;B10
 PB1528;Senador Jaime Guzmán Esq. / Los Juncos;-33.3999;-70.6952;B24
 PB153;Avenida Perú Esq. / Santos Dumont;-33.4226;-70.6404;116-B15
-PB1530;Alcalde Guzmán Esq. / Av. A. Vespucio;-33.3723;-70.7133;308-314-314e-315e-425-429c-430-435-B11-B13
-PB1531;Av. Américo Vespucio Esq. / Lo Campino;-33.3737;-70.7135;303e-314e-315e-429c-430-435-B11-B13-B18e
+PB1530;Alcalde Guzmán Esq. / Av. A. Vespucio;-33.3723;-70.7133;308-314-314e-315e-425-430-435-B11-B13
+PB1531;Av. Américo Vespucio Esq. / Lo Campino;-33.3737;-70.7135;303e-314e-315e-429c-430-435-B11-B13-B18-B18e
 PB1532;P. Sancho De La Hoz Esq. / Bartolomé Díaz;-33.5833;-70.6846;G08v
 PB1533;P. Sancho De La Hoz Esq. / Santa Marta;-33.5852;-70.6857;G08v
 PB1534;Portales Oriente Esq. / Calle 1;-33.6238;-70.7007;G08v
@@ -1174,7 +1175,7 @@ PB1570;Los Acacios Esq. / Los Aromos;-33.4076;-70.6924;B24
 PB1572;Los Acacios Esq. / Pasaje Agata;-33.4036;-70.6916;B24
 PB1573;Santa Marta De H. Esq. / Calle Nueva;-33.3628;-70.6748;B10
 PB1574;Santa Marta De H. Esq. / El Guanaco Norte;-33.3534;-70.6778;B08
-PB1575;Parada / Est. Intermodal Vespucio Norte;-33.3803;-70.6476;117-117-B16-B16-B18e-B18e-B25-B25-B27-B27
+PB1575;Parada / Est. Intermodal Vespucio Norte;-33.3803;-70.6476;117-117-B13-B13-B16-B16-B18-B18-B18e-B18e-B25-B25-B27-B27
 PB1576;Parada 1 / Recoleta Franciscana;-33.4324;-70.6486;502-503
 PB1577;Avenida Einstein Esq. / Aurelio Díaz Meza;-33.4062;-70.6349;B14
 PB1578;Avenida Lo Marcoleta Esq. / Cerro La Pirámide;-33.358;-70.7349;307-313e
@@ -1193,7 +1194,7 @@ PB1591;Pedro Fontova Esq. / Teniente Ponce;-33.3926;-70.6698;230-B10
 PB1592;Cañaveral Esq. / Acceso Oxiquim;-33.3234;-70.711;B05
 PB1593;Caupolicán Esq. / Cañaveral;-33.3232;-70.708;B05
 PB1594;Cañaveral Esq. / Lincoyán;-33.3244;-70.7145;B05
-PB1595;Avenida Lo Marcoleta Esq. / Pquia. Jesús Obrero;-33.3625;-70.7593;307-308-314-314e-315e-B06-B08-B11-B12-B13-B21-B31N
+PB1595;Avenida Lo Marcoleta Esq. / Pquia. Jesús Obrero;-33.3625;-70.7593;307-308-314-314e-315e-B06-B08-B11-B12-B12-B13-B13-B21-B31N
 PB1596;Parada / Cat Rental Store;-33.35;-70.707;316e-B07
 PB1597;Parada / Club De Golf Aconcagua;-33.3552;-70.7046;316e-B07
 PB1598;Av.Card.José Mª Caro Esq. / Muñoz Gamero;-33.4007;-70.6466;B21
@@ -1263,7 +1264,7 @@ PB1659;Brasil Esq. / Pdte. Aníbal Pinto;-33.3985;-70.7483;B03-B09-B20-B30N
 PB166;Avenida Perú Esq. / Santos Dumont;-33.4231;-70.6401;116-B15
 PB1660;Brasil Esq. / Campaña De Tacna;-33.3987;-70.7482;105-109-408e-410e-B03-B09-B20-B30N
 PB1661;Brasil Esq. / Pdte. Aníbal Pinto;-33.3982;-70.7499;105-109-408e-410e-B03-B09-B20-B30N
-PB1662;Lo Ovalle Esq. / Avenida Las Torres;-33.3546;-70.7339;313e
+PB1662;Lo Ovalle Esq. / Avenida Las Torres;-33.3546;-70.7339;313e-313e
 PB1663;Cam. Bosque De Stgo. Esq. / Las Mutillas;-33.381;-70.6208;116-117-117c-B05
 PB1664;Av. Américo Vespucio Esq. / Camino Vecinal;-33.3904;-70.7644;428-B09-J07-J07c
 PB1665;Avenida Lo Marcoleta Esq. / Altura Del 1400;-33.3631;-70.7619;307-314-314e-315e
@@ -1296,7 +1297,6 @@ PB1691;Parada / Centro Logístico Correos;-33.395;-70.687;303-307-314
 PB1692;Miraflores Esq. / Pdte. Aníbal Pinto;-33.401;-70.7507;105-109
 PB1694;Los Acacios Esq. / Los Pimientos;-33.4064;-70.6919;B24
 PB1695;Cam. Bosque De Stgo. Esq. / Los Retamos;-33.3784;-70.6239;116-117-117c-B05
-PB1696;Parada / Pasarela El Molino;-33.3591;-70.7032;313e
 PB1697;Los Libertadores Esq. / Berta Correa;-33.3538;-70.6835;B16
 PB1698;El Guanaco Esq. / Av. J. M. Caro;-33.3913;-70.6574;B25
 PB1699;El Guanaco Esq. / Urmeneta;-33.3932;-70.6573;B25
@@ -1312,9 +1312,9 @@ PB1707;Av. Independencia Esq. / El Pino;-33.3829;-70.6819;201-308
 PB1708;Parada 2 / Vuelta Del Padre;-33.3853;-70.6796;201-201e-223-308
 PB1709;Av. José M.Balmaceda Esq. / Claudio Matte P.;-33.4017;-70.7169;105-109-110-120-408-410-B09-B29
 PB171;El Salto Esq. / Doctor Ostornol;-33.4114;-70.637;116-B02N-B02
-PB1711;Av. Américo Vespucio Esq. / Manuel Rodríguez;-33.373;-70.7236;429c-B18e
-PB1712;Av. Américo Vespucio Esq. / Manuel Rodríguez;-33.3721;-70.7308;429c-B18e
-PB1713;Av. Américo Vespucio Esq. / San Martín;-33.3715;-70.7364;429c-B18e
+PB1711;Av. Américo Vespucio Esq. / Manuel Rodríguez;-33.373;-70.7236;B18e
+PB1712;Av. Américo Vespucio Esq. / Manuel Rodríguez;-33.3721;-70.7308;B18e
+PB1713;Av. Américo Vespucio Esq. / San Martín;-33.3715;-70.7364;B18e
 PB1714;Granada Esq. / Altona;-33.3705;-70.6862;230
 PB1715;Granada Esq. / Huechuraba;-33.3679;-70.6871;230
 PB1716;Huechuraba Esq. / Tokio;-33.3705;-70.6785;230
@@ -1349,10 +1349,10 @@ PB18;Roma Esq. / La Primaver;-33.3993;-70.6736;101-107-107c
 PB181;Cam. Bosque De Stgo. Esq. / Rep. De Noruega;-33.3757;-70.6311;116-117-117c-B02N-B02-B05
 PB182;Cam. Bosque De Stgo. Esq. / Rep. Estados Unidos;-33.375;-70.6332;116-117-117c-B02N-B02-B05
 PB184;Los Libertadores Esq. / Av. A. Vespucio;-33.3668;-70.681;201-201e
-PB1845;Av. Américo Vespucio Esq. / Alc. Juan Larenas;-33.3735;-70.719;429c-B18e
+PB1845;Av. Américo Vespucio Esq. / Alc. Juan Larenas;-33.3735;-70.719;B18e
 PB1847;Principal Esq. / Interior 2;-33.3944;-70.7601;B03-B20-B30N
 PB1848;Principal Esq. / Interior 3;-33.3944;-70.7597;B03-B30N
-PB185;Parada / Pasarela Albany;-33.3661;-70.6858;201-201e-425-429-429c-B08-B13-B18
+PB185;Parada / Pasarela Albany;-33.3661;-70.6858;201-201e-425-429-429c-B08-B18
 PB1851;Caupolicán Esq. / Altura Del 9550;-33.3318;-70.6981;B05-B12
 PB1852;Caupolicán Esq. / San Ignacio;-33.3315;-70.6981;B05-B12
 PB1853;Julio Parra Santos Esq. / I. Carrera Pinto;-33.3677;-70.69;B26
@@ -1554,16 +1554,16 @@ PB40;Avenida Dorsal Esq. / Diag. José M. Caro;-33.3955;-70.6538;101-107-107c
 PB400;Antonio Varas Esq. / Las Violetas;-33.3691;-70.744;303-303e
 PB401;Las Violetas Esq. / Sucre;-33.3695;-70.7419;303
 PB402;Blanco Encalada Esq. / General San Martín;-33.3702;-70.7387;303-303e
-PB403;General San Martín Esq. / General San Martín;-33.3681;-70.7381;303-428-429-429c-430-435
+PB403;General San Martín Esq. / General San Martín;-33.3681;-70.7381;303-428-429-430-435
 PB404;José F. Vergara Esq. / Los Carrera;-33.3672;-70.7343;303-303e-314-314e-428-B08
 PB405;Parada 3 / Plaza Quilicura;-33.368;-70.7326;303-312e-314-314e-428-B08
 PB406;Lib. Bdo. O'Higgins Esq. / Av. Manuel A. Matta;-33.3659;-70.7301;303-303e-428
-PB407;Parada 1 / Del Sauce Manuel A. Matta;-33.3656;-70.7276;425-429-429c-430-435-B06-B11-B21
+PB407;Parada 1 / Del Sauce Manuel A. Matta;-33.3656;-70.7276;425-428-429-430-435-B06-B11-B21
 PB408;Parada 1 / La Vendimia Manuel A. Matta;-33.3657;-70.7269;303-308
 PB409;Parada 1 / Nueva York Manuel A. Matta;-33.3663;-70.724;303-308
 PB41;Avenida Dorsal Esq. / Evaristo Lillo;-33.3957;-70.6506;101
 PB410;Parada 3 / Lo Cruzat Manuel A. Matta;-33.3665;-70.722;303-303e-308
-PB411;Parada 3 / 4 Oriente Manuel A. Matta;-33.3675;-70.7172;303-303e-307-307e-308-315e
+PB411;Parada 3 / 4 Oriente Manuel A. Matta;-33.3675;-70.7172;303-303e-307-307e-308-315e-B13
 PB412;Parada 1 / Lo Campino Manuel A. Matta;-33.3669;-70.7141;303-303e-307-308-315e
 PB413;Parada 1 / Las Parcelas Manuel A. Matta;-33.3663;-70.7116;303-307
 PB414;Parada 3 / Zañartu Manuel A. Matta;-33.3659;-70.7086;303-307
@@ -1616,23 +1616,23 @@ PB457;Parada 1 / Plaza Quilicura;-33.3679;-70.7313;303-428-428e
 PB458;José F. Vergara Esq. / Los Carrera;-33.3673;-70.7338;303-303e-314-314e-428-428e-B08-B18
 PB459;José F. Vergara Esq. / Av. General San Martín;-33.3663;-70.737;303-314-314e-428-428e-B08-B18
 PB46;Pedro Donoso Esq. / Las Violetas;-33.3988;-70.6351;101-107-107c
-PB460;General San Martín Esq. / Intend. Saavedra;-33.3705;-70.7385;428-428e-429-430-435-B18
+PB460;General San Martín Esq. / Intend. Saavedra;-33.3705;-70.7385;428-428e-429-429c-430-435-B18
 PB463;Juan Fco. González Esq. / Alcalde Cooper;-33.3686;-70.7464;303-303e
 PB464;Gabriela Mistral Esq. / Manuel Montt;-33.3703;-70.7445;303-303e
 PB465;Gabriela Mistral Esq. / Freire;-33.3707;-70.7427;303-303e
 PB466;Av. Américo Vespucio Esq. / Colo Colo;-33.3717;-70.7428;429c-430-435
-PB467;Lo Campino Esq. / Ramón Rosales;-33.3715;-70.7146;303e-307e-308-315e-425-429c-430-435-B08-B11-B13
-PB468;Parada / Pasarela Alcalde Guzmán;-33.3714;-70.708;303e-307e-308-314-314e-315e-425-428e-429c-430-435-B11-B18-B18e
-PB469;Av. Américo Vespucio Esq. / Alcalde Guzmán;-33.3726;-70.7108;303e-308-314-314e-315e-429c-B11-B13-B18
+PB467;Lo Campino Esq. / Ramón Rosales;-33.3715;-70.7146;303e-307e-308-315e-425-430-435-B08-B11-B13
+PB468;Parada / Pasarela Alcalde Guzmán;-33.3714;-70.708;303e-307e-308-314-314e-315e-425-428e-428e-429c-430-435-B11-B18-B18e
+PB469;Av. Américo Vespucio Esq. / Alcalde Guzmán;-33.3726;-70.7108;303e-308-314-314e-315e-429c-B11-B18
 PB47;Pedro Donoso Esq. / Gac Ovalle;-33.3999;-70.6304;101-107-107c
 PB470;Parada 2 / Zañartu Manuel A. Matta;-33.3658;-70.709;425-428-428e-429
 PB471;Parada 2 / Las Parcelas Manuel A. Matta;-33.3662;-70.7117;425-428-428e-429
 PB472;Parada 2 / Lo Campino Manuel A. Matta;-33.3667;-70.7135;425-428-428e-429
-PB473;Parada 2 / 4 Oriente Manuel A. Matta;-33.3673;-70.7167;425-428-428e-429-430-435-B13
-PB474;Parada 2 / Lo Cruzat Manuel A. Matta;-33.3665;-70.7212;425-428-428e-429-430-435-B13
-PB475;Parada 2 / De La Medialuna Manuel A. Matta;-33.3661;-70.7245;425-428-428e-429-430-435
-PB476;Parada 2 / Del Sauce Manuel A. Matta;-33.3655;-70.7273;425-428-428e-429-430-435
-PB477;Parada 2 / Mall San Valentín;-33.3656;-70.729;303e-312e-425-428-428e-429-430-435
+PB473;Parada 2 / 4 Oriente Manuel A. Matta;-33.3673;-70.7167;425-428-428e-429-429c-430-435-B13
+PB474;Parada 2 / Lo Cruzat Manuel A. Matta;-33.3665;-70.7212;425-428-428e-429-429c-430-435-B13
+PB475;Parada 2 / De La Medialuna Manuel A. Matta;-33.3661;-70.7245;425-428-428e-429-429c-430-435
+PB476;Parada 2 / Del Sauce Manuel A. Matta;-33.3655;-70.7273;425-428-428e-429-429c-430-435
+PB477;Parada 2 / Mall San Valentín;-33.3656;-70.729;303e-312e-425-428-428e-429-429c-430-435
 PB478;Av. Américo Vespucio Esq. / Camino Lo Echevers;-33.3756;-70.7477;428-428e-429
 PB479;Parada / Pasarela Central;-33.3784;-70.751;428
 PB48;Reina De Chile Esq. / Pasaje Progreso;-33.4022;-70.6286;101
@@ -1645,18 +1645,18 @@ PB485;Parada / Pasarela Central;-33.3792;-70.7511;428
 PB486;Av. Américo Vespucio Esq. / Camino Lo Echevers;-33.3767;-70.7482;428-428e
 PB487;Av. Américo Vespucio Esq. / San Martín;-33.3724;-70.743;428-428e-429
 PB488;Av. Américo Vespucio Esq. / General San Martín;-33.3718;-70.7394;428-428e-429
-PB489;Av. Américo Vespucio Esq. / Ismael Briceño;-33.3727;-70.7304;428e-B18-B18e
+PB489;Av. Américo Vespucio Esq. / Ismael Briceño;-33.3727;-70.7304;428e-429c-B18-B18e
 PB49;Reina De Chile Esq. / Marqués De Montepío;-33.4038;-70.6266;101
-PB490;Parada / Pasarela Renoir;-33.3735;-70.7232;428e-B18-B18e
-PB491;Av. Américo Vespucio Esq. / Lo Campino;-33.3743;-70.7158;428e-B18-B18e
+PB490;Parada / Pasarela Renoir;-33.3735;-70.7232;428e-429c-B18-B18e
+PB491;Av. Américo Vespucio Esq. / Lo Campino;-33.3743;-70.7158;428e-429c-B18-B18e
 PB492;Santa Luisa Esq. / Av. Lo Marcoleta;-33.3579;-70.7374;307e-313e-425-B06
 PB493;Parada / Santa Luisa Altura Del 300;-33.3531;-70.7388;313e-315e-B13-B31N
-PB494;Av. Manuel A. Matta Esq. / José Miguel Carrera;-33.3644;-70.7337;308-425-429-429c-430-435-B11-B12-B21
-PB495;Av. Manuel A. Matta Esq. / De La Luna;-33.3655;-70.7312;308-316e-425-429-429c-430-435-B11-B12-B21
-PB496;Parada 1 / Arturo Prat Manuel A. Matta;-33.3661;-70.7251;425-428-429-429c-430-435-B06-B11-B21
-PB497;Parada 1 / Pedro Lira Manuel A. Matta;-33.3664;-70.7233;425-428-429-429c-430-435-B06-B11-B21
-PB498;Parada 1 / Lo Cruzat Manuel A. Matta;-33.3667;-70.7208;315e-425-428-429-429c-430-435-B06-B07-B11-B21
-PB499;Parada 1 / 4 Oriente Manuel A. Matta;-33.3673;-70.7156;425-428-429-429c-430-435-B06-B07-B11-B21-B31N
+PB494;Av. Manuel A. Matta Esq. / José Miguel Carrera;-33.3644;-70.7337;308-425-429-430-435-B11-B12-B21
+PB495;Av. Manuel A. Matta Esq. / De La Luna;-33.3655;-70.7312;308-316e-425-429-430-435-B11-B12-B21
+PB496;Parada 1 / Arturo Prat Manuel A. Matta;-33.3661;-70.7251;425-428-429-430-435-B06-B11-B21
+PB497;Parada 1 / Pedro Lira Manuel A. Matta;-33.3664;-70.7233;425-428-429-430-435-B06-B11-B21
+PB498;Parada 1 / Lo Cruzat Manuel A. Matta;-33.3667;-70.7208;315e-425-428-429-430-435-B06-B07-B11-B21
+PB499;Parada 1 / 4 Oriente Manuel A. Matta;-33.3673;-70.7156;425-428-429-430-435-B06-B07-B11-B13-B21-B31N
 PB5;Pedro Donoso Esq. / María Eugenia;-33.3987;-70.6353;101-107-107c
 PB50;Reina De Chile Esq. / Las Canteras;-33.406;-70.6236;101-B14
 PB500;Parada 3 / Las Parcelas Manuel A. Matta;-33.3665;-70.7123;428-429-B06-B07-B21-B31N
@@ -1678,21 +1678,21 @@ PB514;Av. Américo Vespucio Esq. / Pedro Fontova;-33.373;-70.6652;425-429-429c-B
 PB515;Av. Américo Vespucio Esq. / Pedro Fontova;-33.371;-70.6704;425-429-429c-B05-B16
 PB516;Av. Américo Vespucio Esq. / Los Libertadores;-33.3688;-70.6762;425-429-429c-B08-B13-B18
 PB517;Parada / Mall Plaza Norte;-33.3678;-70.6791;425-429-429c-B08-B13-B18
-PB518;Parada 1 / Independencia Vespucio;-33.3659;-70.6879;425-429-429c-B08-B13-B18
-PB519;Parada / Barrio Industrial El Cortijo;-33.3656;-70.6961;308-425-429-429c-B07-B08-B11-B13-B18
+PB518;Parada 1 / Independencia Vespucio;-33.3659;-70.6879;425-429-429c-B08-B18
+PB519;Parada / Barrio Industrial El Cortijo;-33.3656;-70.6961;308-425-429-429c-B07-B08-B11-B18
 PB52;Av. Vicuña Mackenna Esq. / Selinonte;-33.4071;-70.7458;110-110c-B03
-PB520;Av. Manuel A. Matta Esq. / Los Torneros;-33.3652;-70.7315;308-425-429-430-435-B11-B12-B21
-PB521;Av. Manuel A. Matta Esq. / Los Limones;-33.3639;-70.7343;308-425-429-430-435-B11-B12-B21
-PB522;Av. Manuel A. Matta Esq. / General San Martín;-33.3633;-70.7364;308-316e-425-429-430-435-B11-B12-B21
+PB520;Av. Manuel A. Matta Esq. / Los Torneros;-33.3652;-70.7315;308-425-429-429c-430-435-B11-B12-B21
+PB521;Av. Manuel A. Matta Esq. / Los Limones;-33.3639;-70.7343;308-425-429-429c-430-435-B11-B12-B21
+PB522;Av. Manuel A. Matta Esq. / General San Martín;-33.3633;-70.7364;308-316e-425-429-429c-430-435-B11-B12-B21
 PB524;Santa Luisa Esq. / Av. Lo Marcoleta;-33.3585;-70.7371;425-B21
 PB525;Santa Luisa Esq. / Cerro Curacaví;-33.3563;-70.7378;307e-425-B06
 PB526;Intendente Saavedra Esq. / Pasaje Maipo;-33.3709;-70.7412;429c-430-435
-PB527;General San Martín Esq. / Blanco Encalada;-33.3703;-70.7384;429-429c-430-435
-PB528;General San Martín Esq. / Av. Manuel A. Matta;-33.3633;-70.737;429-429c-430-435-B12
-PB529;General San Martín Esq. / San Luis;-33.3657;-70.7378;429-430-435-B12
+PB527;General San Martín Esq. / Blanco Encalada;-33.3703;-70.7384;428-429-430-435
+PB528;General San Martín Esq. / Av. Manuel A. Matta;-33.3633;-70.737;429-430-435-B12
+PB529;General San Martín Esq. / San Luis;-33.3657;-70.7378;429-429c-430-435-B12
 PB53;José Miguel Infante Esq. / Poseidón;-33.4062;-70.7434;105-110-110c-408e-410e-B20-B30N
-PB531;Parada / Pasarela Alcalde Guzmán;-33.3703;-70.7073;308-314-314e-315e-429c-B11-B13-B18
-PB532;Lo Campino Esq. / Carampangue;-33.3692;-70.7138;308-315e-430-435-B08-B11-B13
+PB531;Parada / Pasarela Alcalde Guzmán;-33.3703;-70.7073;308-314-314e-315e-429c-B11-B18
+PB532;Lo Campino Esq. / Carampangue;-33.3692;-70.7138;308-315e-429c-430-435-B08-B11-B13
 PB534;Avenida Lo Marcoleta Esq. / Ntra. Sra. Del Carmen;-33.3626;-70.7577;307-308-314-314e-315e-B06-B08-B11-B12-B13-B21-B31N
 PB535;Avenida Lo Marcoleta Esq. / Los Benedictinos;-33.3621;-70.7549;307-308-314-314e-315e-B06-B08-B11-B12-B13-B21-B31N
 PB536;Avenida Lo Marcoleta Esq. / Volcán Argüelle;-33.3616;-70.7517;307-315e-B06-B13-B21-B31N
@@ -1722,21 +1722,21 @@ PB557;Antumalal Esq. / Lib. B. O'Higgins;-33.3528;-70.7288;307-307e-313e-315e-B0
 PB558;Lib. Bdo. O'Higgins Esq. / Doñihue;-33.3559;-70.7293;307-307e-315e-B12-B13-B31N
 PB559;Lib. Bdo. O'Higgins Esq. / Av. Lo Marcoleta;-33.3575;-70.7293;307-313e-316e-B12
 PB56;José Miguel Infante Esq. / Esmeralda;-33.4068;-70.7367;105-110-110c-408e-410e-B20-B30N
-PB560;Avenida Lo Marcoleta Esq. / Del Rodeo;-33.3576;-70.732;307-307e-313e
+PB560;Avenida Lo Marcoleta Esq. / Del Rodeo;-33.3576;-70.732;307-307e-313e-313e
 PB561;Avenida Lo Marcoleta Esq. / Cerro La Cruz;-33.3577;-70.735;307-B06
 PB562;Avenida Lo Marcoleta Esq. / Santa Luisa;-33.3579;-70.7371;307-307e-B06
 PB563;Avenida Lo Marcoleta Esq. / Pque. Central Oriente;-33.3593;-70.7421;307-B21
 PB564;Avenida Lo Marcoleta Esq. / Santa Laura;-33.3603;-70.7456;307-B21
 PB565;Avenida Lo Marcoleta Esq. / Barraza;-33.3607;-70.7484;307-315e-425-B06-B21
-PB566;Avenida Lo Marcoleta Esq. / Psje. Puerto Octay;-33.3612;-70.7512;307-315e-B06-B13-B31N
-PB567;Avenida Lo Marcoleta Esq. / San Luis;-33.3618;-70.7536;307-312e-315e-B06-B13-B21-B31N
-PB568;Avenida Lo Marcoleta Esq. / Ntra. Sra. Del Carmen;-33.3622;-70.7571;307-308-314-314e-315e-B06-B08-B11-B12-B13-B21-B31N
+PB566;Avenida Lo Marcoleta Esq. / Psje. Puerto Octay;-33.3612;-70.7512;307-315e-B06-B13-B13-B31N
+PB567;Avenida Lo Marcoleta Esq. / San Luis;-33.3618;-70.7536;307-312e-315e-B06-B13-B13-B21-B31N
+PB568;Avenida Lo Marcoleta Esq. / Ntra. Sra. Del Carmen;-33.3622;-70.7571;307-308-314-314e-315e-B06-B08-B11-B12-B12-B13-B13-B21-B31N
 PB569;Rigoberto Jara Esq. / Los Apeninos;-33.3547;-70.7482;307e-315e-425-B13-B31N
 PB57;José Miguel Infante Esq. / Pasaje 1;-33.407;-70.734;105-110-110c-408-408e-410-410e-B20-B30N
 PB570;Rigoberto Jara Esq. / Ramón Salinas;-33.3556;-70.7409;307e-307e-315e-425-B06-B13-B31N
-PB571;Lo Campino Esq. / Cachagua;-33.3724;-70.7147;303e-314-314e-315e-430-435-B11-B13-B18
-PB572;Rigoberto Jara Esq. / Kilimanjaro;-33.355;-70.744;307e-315e-425-B06-B13-B31N
-PB573;Rigoberto Jara Esq. / Los Apeninos;-33.3545;-70.7484;307e-315e-425-B13-B31N
+PB571;Lo Campino Esq. / Cachagua;-33.3724;-70.7147;303e-314-314e-315e-429c-430-435-B11-B13-B18
+PB572;Rigoberto Jara Esq. / Kilimanjaro;-33.355;-70.744;307e-315e-425-B06-B13-B13-B31N
+PB573;Rigoberto Jara Esq. / Los Apeninos;-33.3545;-70.7484;307e-315e-425-B13-B13-B31N
 PB574;San Luis Esq. / Av. Manuel A. Matta;-33.3635;-70.7534;308-314-314e-B08-B11-B12
 PB575;Av. Manuel A. Matta Esq. / Volcán Villarrica;-33.3628;-70.7493;308-B11
 PB576;Av. Manuel A. Matta Esq. / Volcán Llaima;-33.3624;-70.7469;308-316e-B11
@@ -1745,12 +1745,12 @@ PB578;Av. Manuel A. Matta Esq. / Estero Venados;-33.3622;-70.7421;308-316e-B11
 PB579;Av. Manuel A. Matta Esq. / Lucila Godoy;-33.3626;-70.7401;308-B11
 PB58;José Miguel Infante Esq. / Almendrillo;-33.4067;-70.7285;105-110-110c-408-408e-410-410e-B20-B30N
 PB580;Av. Manuel A. Matta Esq. / General San Martín;-33.3632;-70.7371;308-316e-B11
-PB581;Lo Campino Esq. / Las Parcelas;-33.3672;-70.7137;308-315e-429c-B11-B13
-PB582;Lo Campino Esq. / Carampangue;-33.3687;-70.7138;308-315e-425-429c-430-435
+PB581;Lo Campino Esq. / Las Parcelas;-33.3672;-70.7137;308-315e-B11-B13
+PB582;Lo Campino Esq. / Carampangue;-33.3687;-70.7138;308-315e-425-430-435
 PB583;Parada 3 / Independencia Vespucio;-33.3674;-70.6893;308
 PB587;Parada / Liceo Ignacio Carrera Pinto;-33.4249;-70.6515;308-B02N-B02-B14-B23
 PB59;Condell Esq. / Curicó;-33.4043;-70.7293;105-110-110c
-PB591;Lo Campino Esq. / Limarí;-33.3707;-70.7142;308-315e-430-435-B08-B11-B13
+PB591;Lo Campino Esq. / Limarí;-33.3707;-70.7142;308-315e-429c-430-435-B08-B11-B13
 PB592;Av. Manuel A. Matta Esq. / Estero Lumaco;-33.3629;-70.7377;308
 PB593;Av. Manuel A. Matta Esq. / Estero Lucila Godoy ;-33.3625;-70.7396;308-B11
 PB594;Av. Manuel A. Matta Esq. / Estero Venados;-33.3621;-70.7418;308-316e-B11
@@ -1811,7 +1811,7 @@ PB648;Lib. Bdo. O'Higgins Esq. / Av. Lo Marcoleta;-33.358;-70.7291;B12
 PB649;Santa Laura Esq. / P. Del Tamarugal;-33.358;-70.7478;307e-315e-425-B06
 PB65;Av. José M.Balmaceda Esq. / Los Nogales;-33.402;-70.7159;105-109-110-120-408-410-B03-B09-B20-B29-B30N
 PB650;Santa Laura Esq. / Av. Lo Marcoleta;-33.3601;-70.7466;307e-315e-425-B06
-PB651;Lo Campino Esq. / Av. Manuel A. Matta;-33.367;-70.7135;308-315e-430-435-B11-B13
+PB651;Lo Campino Esq. / Av. Manuel A. Matta;-33.367;-70.7135;308-315e-429c-430-435-B11-B13
 PB654;Esmeralda Esq. / Caleta Guapi;-33.4068;-70.7364;408-410
 PB655;Arturo Prat Esq. / Paula Jaraquemada;-33.4049;-70.7276;408-410
 PB656;Arturo Prat Esq. / Calle 4;-33.4047;-70.725;408-410
@@ -2000,7 +2000,7 @@ PB824;Costanera Norte Esq. / Dalcahue;-33.4119;-70.7266;B03
 PB825;Costanera Norte Esq. / Totoral Bajo;-33.4118;-70.7288;B03
 PB826;Costanera Norte Esq. / Clotario Blest Rifffo;-33.4113;-70.7323;B03
 PB827;Costanera Norte Esq. / Chiapa;-33.4111;-70.7348;B03
-PB828;Costanera Norte Esq. / Esmeralda;-33.4112;-70.7377;B03
+PB828;Costanera Norte Esq. / Esmeralda;-33.4112;-70.7377;408-410-B03
 PB829;Topocalma Esq. / Chungará;-33.4093;-70.739;B03
 PB83;Av. José M.Balmaceda Esq. / Angamos;-33.4035;-70.707;105-109-110-120-408-410-B03-B09-B20-B29-B30N
 PB830;Némesis Esq. / Poseidón;-33.409;-70.7423;B03
@@ -2120,8 +2120,8 @@ PB941;Lib. Bdo. O'Higgins Esq. / Doña Leticia;-33.3632;-70.7297;316e-B06-B12
 PB942;Lo Ovalle Esq. / Del Trigal;-33.3609;-70.7311;B06
 PB943;Lo Ovalle Esq. / Las Riendas;-33.3597;-70.7332;B06
 PB944;Lo Ovalle Esq. / Av. Lo Marcoleta;-33.3582;-70.7339;B06
-PB945;Rigoberto Jara Esq. / Kilimanjaro;-33.3554;-70.741;315e-425-B06-B13-B31N
-PB946;Rigoberto Jara Esq. / Monte Pissis;-33.3548;-70.7463;425-B13-B31N
+PB945;Rigoberto Jara Esq. / Kilimanjaro;-33.3554;-70.741;315e-425-B06-B13-B13-B31N
+PB946;Rigoberto Jara Esq. / Monte Pissis;-33.3548;-70.7463;425-B13-B13-B31N
 PB947;Los Cárpatos Esq. / Everest;-33.3533;-70.7467;B06
 PB948;Los Cárpatos Esq. / Bali;-33.3509;-70.7478;B06
 PB949;Bali Esq. / Santa Laura;-33.3522;-70.751;B06
@@ -2289,7 +2289,7 @@ PC1107;Parada 6 / (M) Tobalaba;-33.4184;-70.6013;429-C06
 PC1109;Parada 3 / Rotonda Atenas;-33.4182;-70.5516;225-503-541N-C04-C06-D11
 PC111;Av. Manquehue Sur Esq. / Av. Francisco Bilbao;-33.4306;-70.5651;216-C07
 PC1110;Camino Los Trapenses Esq. / Pedro Lira Urquieta;-33.3322;-70.5424;C10e-C12-C14-C17
-PC1111;Mons. Escrivá De Balaguer Esq. / Getsemaní;-33.365;-70.5089;C05
+PC1111;Mons. Escrivá De Balaguer Esq. / Getsemaní;-33.365;-70.5089;C05-C05
 PC1112;Mons. Escrivá De Balaguer Esq. / Betania;-33.3644;-70.5059;C05
 PC1113;Cam. Circunvalación Esq. / Senda 12;-33.3571;-70.501;C01-C01-C17-C17
 PC1114;Cam. Circunvalación Esq. / Senda 18;-33.359;-70.5004;C01-C01-C17-C17
@@ -2371,9 +2371,9 @@ PC15;Av. Pedro De Valdivia Esq. / Avenida Pocuro;-33.4363;-70.6079;103-114-117-5
 PC150;Parada 1 / Torres De Tajamar;-33.4298;-70.621;401-401N-407-412-418-421-427-541N-C04
 PC151;Parada 1 / (M) Manuel Montt;-33.4285;-70.6178;401-401N-407-412-418-421-427-503-515N-517-541N-C04
 PC152;Parada 3 / Guardia Vieja;-33.4242;-70.6113;117-117c-401-401N-407-421-427-541N
-PC153;Parada 3 / (M) Los Leones;-33.423;-70.6098;117-117c-401-401N-407-412-418-421-427-429c-541N
+PC153;Parada 3 / (M) Los Leones;-33.423;-70.6098;117-117c-401-401N-407-412-418-421-427-429c-429c-541N
 PC154;Parada 3 / Hospital Metropolitano;-33.4212;-70.6072;401-401N-407-421-427-541N
-PC155;Parada 1 / (M) Tobalaba;-33.419;-70.6032;117-117c-117c-401-401N-406-407-421-426-427-429c-429c-430
+PC155;Parada 1 / (M) Tobalaba;-33.419;-70.6032;117-117c-117c-401-401N-406-407-421-426-427-429c-429c-429c-430
 PC156;Avenida Apoquindo Esq. / A. Leguía Sur;-33.4171;-70.5976;401-401N-406-407-421-426-427-430
 PC157;Parada / Municipalidad De Las Condes;-33.4164;-70.5943;401-401N-406-407-421-426-427-430
 PC158;Parada / (M) Alcántara;-33.4155;-70.59;401-401N-406-407-421-426-427-430
@@ -2428,7 +2428,7 @@ PC202;Parada 3 / Torres De Tajamar;-33.4302;-70.6222;106-405-405c-406-426-503-51
 PC203;Parada 3 / (M) Pedro De Valdivia;-33.4256;-70.614;405-405c-411-411
 PC204;Parada 1 / Guardia Vieja;-33.4238;-70.6109;405-405c-406-411-426-503
 PC205;Parada 1 / (M) Los Leones;-33.4222;-70.6086;405-405c-406-426-503
-PC206;Parada 1 / Hospital Metropolitano;-33.4202;-70.6063;117-117c-405-405c-406-412-418-426-429c-503
+PC206;Parada 1 / Hospital Metropolitano;-33.4202;-70.6063;117-117c-405-405c-406-412-418-426-429c-429c-503
 PC207;Parada 2 / (M) Tobalaba;-33.4176;-70.6047;405-405c
 PC208;Avenida Vitacura Esq. / Zurich ;-33.4155;-70.604;405-405c
 PC209;Parada / La Portada De Vitacura;-33.4143;-70.6036;405-405c
@@ -2574,8 +2574,8 @@ PC337;Parada 4 / Mall Parque Arauco;-33.3996;-70.5764;409-411-417e-C15
 PC338;Av. Los Conquistadores Esq. / Los Hidalgos;-33.4137;-70.6094;409-411-502
 PC339;Av. Los Conquistadores Esq. / Avenida El Cerro;-33.4154;-70.6114;409-411-502
 PC34;Avenida Los Leones Esq. / Carlos Antúnez;-33.4273;-70.6034;104-212
-PC340;Av. Los Conquistadores Esq. / Padre Letelier;-33.4172;-70.6134;117-117c-409-411-429c-502
-PC341;Av. Los Conquistadores Esq. / Av. Pedro De Valdivia;-33.419;-70.6154;117-117c-409-411-429c-502
+PC340;Av. Los Conquistadores Esq. / Padre Letelier;-33.4172;-70.6134;117-117c-409-411-429c-429c-502
+PC341;Av. Los Conquistadores Esq. / Av. Pedro De Valdivia;-33.419;-70.6154;117-117c-409-411-429c-429c-502
 PC342;Parada / Clínica Indisa;-33.4207;-70.6173;409-502
 PC343;Avenida Bellavista Esq. / Los Piñones;-33.4285;-70.6254;409-502
 PC344;Avenida Bellavista Esq. / Magallanes;-33.4304;-70.6277;409-502
@@ -2603,7 +2603,7 @@ PC364;Raúl Labbé Esq. / San Lucas;-33.3632;-70.5113;411-426-430-C13-C16
 PC365;Raúl Labbé Esq. / Av. La Dehesa;-33.364;-70.514;411-426-430-C13-C16
 PC368;Parada 5 / (M) Pedro De Valdivia;-33.4264;-70.6153;C04
 PC37;Parada 4 / Avenida Suecia;-33.4206;-70.608;104-104
-PC370;Parada 1 / (M) Pedro De Valdivia;-33.4253;-70.6132;117-117c-412-418-429c-503-515N
+PC370;Parada 1 / (M) Pedro De Valdivia;-33.4253;-70.6132;117-117c-412-418-429c-429c-503-515N
 PC371;Parada 2 / Rotonda Caminos Real;-33.3429;-70.5458;414e-C08-C10e-C12-C14-C17
 PC372;Parada 1 / Rotonda Caminos Real;-33.3433;-70.5459;414e
 PC373;Parada 6 / (M) Manquehue;-33.4093;-70.5695;415e-417e
@@ -2638,7 +2638,7 @@ PC402;Circ. Las Flores Esq. / Camino La Fuente;-33.3949;-70.5224;421
 PC403;Circ. Las Flores Esq. / Fco. Bulnes Correa;-33.3953;-70.5173;421
 PC404;Circ. Las Flores Esq. / Circun. Las Flores;-33.3949;-70.5138;421
 PC405;Circ. Las Flores Esq. / Sn. C. De Apoquindo;-33.3955;-70.5095;421
-PC407;Avenida La Plaza Esq. / Camino El Alba;-33.3993;-70.5066;C02-C09
+PC407;Avenida La Plaza Esq. / Camino El Alba;-33.3993;-70.5066;C02-C02c-C09
 PC41;Manuel Montt Esq. / Av. Francisco Bilbao;-33.4391;-70.6157;106-126-D09
 PC412;Circ. Las Flores Esq. / Cam. Las Vertientes;-33.3947;-70.5139;421
 PC413;Circ. Las Flores Esq. / Fco. Bulnes Correa;-33.3951;-70.5168;421
@@ -2706,7 +2706,7 @@ PC476;Vital Apoquindo Esq. / Av. Paul Harris;-33.4235;-70.5296;401-503-504-504-5
 PC477;Parada 2 / Hospital Dipreca;-33.4171;-70.5294;401-407-503-504-541N-C04-C06
 PC478;La Quebrada Esq. / La Escuela;-33.4167;-70.5324;401-407-503-504-541N-C04-C06-C09
 PC479;Avenida Paul Harris Esq. / Pozo Almonte;-33.4166;-70.534;401-504
-PC48;Parada / Campvs College;-33.4372;-70.6143;106-126-D09
+PC48;Parada / Campvs College;-33.4372;-70.6143;106-126-D09-D09
 PC480;Avenida Paul Harris Esq. / Patricia;-33.419;-70.5333;401-504
 PC481;Avenida Paul Harris Esq. / Punitaqui;-33.4213;-70.5308;401-504
 PC482;Av. Francisco Bilbao Esq. / Polobanda;-33.4304;-70.5564;501-504-518-C05-D08-D08c
@@ -2717,7 +2717,7 @@ PC486;Av. Francisco Bilbao Esq. / Latadia;-33.4312;-70.5783;501-504-518-C01-C05-
 PC487;Av. Francisco Bilbao Esq. / Alcántara;-33.4314;-70.5807;501-504-518-C01-C05-C07
 PC488;Parada 6 / (M) Francisco Bilbao;-33.432;-70.5855;501-504-518
 PC489;Av. Francisco Bilbao Esq. / Amapolas;-33.4349;-70.5884;501-504-518
-PC49;Av. Antonio Varas Esq. / Av. Eliodoro Yáñez;-33.4329;-70.6157;106-126-D09
+PC49;Av. Antonio Varas Esq. / Av. Eliodoro Yáñez;-33.4329;-70.6157;106-126-D09-D09
 PC490;Av. Francisco Bilbao Esq. / Jorge Matte Gormaz;-33.4354;-70.5915;501-504-518
 PC491;Av. Francisco Bilbao Esq. / Hernando De Aguirre;-33.4359;-70.5952;501-504-518
 PC492;Av. Francisco Bilbao Esq. / Doc. Roberto Del Río;-33.4362;-70.5978;501-504-518
@@ -2729,17 +2729,17 @@ PC497;Av. Francisco Bilbao Esq. / Av. Manuel Montt;-33.4392;-70.6152;501-504-518
 PC498;Av. Francisco Bilbao Esq. / Av. J. Miguel Claro;-33.4396;-70.618;501-504-518
 PC499;Av. Francisco Bilbao Esq. / Av. José M. Infante;-33.4402;-70.621;501-504-518
 PC5;Parada 1 / Municipalidad De Providencia;-33.4312;-70.6096;103-114-117-515N
-PC50;Parada / Hospital Calvo Mackenna;-33.43;-70.6167;106-126-D09
+PC50;Parada / Hospital Calvo Mackenna;-33.43;-70.6167;106-126-D09-D09
 PC500;Av. Francisco Bilbao Esq. / Avenida Italia;-33.4411;-70.6248;501-504-518
 PC501;Av. Francisco Bilbao Esq. / Avenida Italia;-33.4417;-70.6261;501-504-518
-PC502;Av. Francisco Bilbao Esq. / Avenida Seminario;-33.4424;-70.6292;501-504-518-D18
+PC502;Av. Francisco Bilbao Esq. / Avenida Seminario;-33.4424;-70.6292;501-504-518-D18-D18
 PC503;Parada 4 / (M) Parque Bustamante;-33.4431;-70.6331;501-518
 PC505;Parada / Puente Racalamac;-33.4344;-70.6307;502-502c-B27
 PC506;Parada / Clínica Santa María;-33.4334;-70.6286;502-502c-B27
 PC507;Avenida Santa María Esq. / Del Arzobispo;-33.4317;-70.6266;502-502c-B27
 PC508;Avenida Santa María Esq. / J. Ewards De Ferrari;-33.4285;-70.6243;502-502c
 PC509;Parada 5 / (M) Tobalaba;-33.4184;-70.6017;412-418-429-541N
-PC51;Parada 4 / Biblioteca De Providencia;-33.4286;-70.6172;106-126-D09
+PC51;Parada 4 / Biblioteca De Providencia;-33.4286;-70.6172;106-126-D09-D09
 PC510;Parada 3 / (M) Cristóbal Colón;-33.4259;-70.591;503-517-541N-C04-C06
 PC511;Av. Cristóbal Colón Esq. / Marco Polo;-33.4257;-70.5884;503-517-541N-C04-C06
 PC512;Av. Cristóbal Colón Esq. / Alcántara;-33.4251;-70.5859;503-517-541N-C04-C06
@@ -2839,7 +2839,7 @@ PC618;Parada 1 / (M) Francisco Bilbao;-33.4312;-70.5852;C01-C01-C05-C05-C07-C07
 PC619;Lo Barnechea Esq. / El Toril;-33.3535;-70.5076;C17
 PC62;Av. Américo Vespucio Esq. / Avenida Vitacura;-33.3991;-70.5874;112-112N-219e-416e-425-C18-C22
 PC620;Warren Smith Esq. / Avenida Apoquindo;-33.4105;-70.5745;C14
-PC621;Circ. Las Flores Esq. / Avenida La Plaza;-33.3964;-70.5038;C02
+PC621;Circ. Las Flores Esq. / Avenida La Plaza;-33.3964;-70.5038;C02-C02c
 PC622;Avenida La Plaza Esq. / Av. Mons. A. Del Portillo;-33.4009;-70.5065;C02-C02c-C09
 PC623;General Blanche Esq. / Sn. C. De Apoquindo;-33.4014;-70.5098;C02-C02c-C09
 PC624;Sn. C. De Apoquindo Esq. / Camino El Alba;-33.3999;-70.5101;C02-C02c
@@ -2853,7 +2853,7 @@ PC633;Sn. C. De Apoquindo Esq. / General Blanche;-33.4;-70.5103;C02-C02c
 PC634;Parada 4 / Sn C. De Apoquindo Gral. Blanche;-33.4018;-70.5102;C02-C02c-C09
 PC635;General Blanche Esq. / Avenida La Plaza;-33.4013;-70.5068;C02-C02c-C09
 PC636;Avenida La Plaza Esq. / Camino El Alba;-33.3999;-70.5065;C02-C02c-C09
-PC637;Avenida La Plaza Esq. / Circun. Las Flores;-33.3964;-70.506;421-C02-C09
+PC637;Avenida La Plaza Esq. / Circun. Las Flores;-33.3964;-70.506;421-C02-C02c-C09
 PC639;Dag Hammarskjold Esq. / Los Abedules;-33.4057;-70.6007;C03
 PC64;Av. Américo Vespucio Esq. / C. Goyenechea;-33.3945;-70.59;112-112N-425-C18-C22
 PC640;Av. Bicentenario Esq. / Alonso De Córdova;-33.4009;-70.6012;C03-C03
@@ -2957,7 +2957,7 @@ PC732;Chesterton Esq. / Roberto Burns;-33.3978;-70.5458;C05
 PC733;Mons. Escrivá De Balaguer Esq. / Quinchamalí;-33.3638;-70.4993;C01c-C05-C23
 PC734;Mons. Escrivá De Balaguer Esq. / Río Jordan;-33.3641;-70.5012;C01c-C05-C23
 PC735;Mons. Escrivá De Balaguer Esq. / Escrivá De Balaguer;-33.3645;-70.5039;C05
-PC736;Mons. Escrivá De Balaguer Esq. / Nazareth;-33.3643;-70.506;C05
+PC736;Mons. Escrivá De Balaguer Esq. / Nazareth;-33.3643;-70.506;C05-C05
 PC738;Parada 4 / (M) Tobalaba;-33.4188;-70.6009;503-C06
 PC739;Parada / Puente Centenario;-33.3889;-70.5996;C22
 PC74;Parada 6 / (M) Escuela Militar;-33.4146;-70.5847;112N-112-420e-425-C01
@@ -3240,7 +3240,7 @@ PD1028;Av. José Arrieta Esq. / Av. Consistorial;-33.4633;-70.5387;513-517-D09-D
 PD1029;Av. José Arrieta Esq. / Laura Rodríguez;-33.4628;-70.5413;513-D01-D09-D10-D11
 PD103;Parada 1 / Irarrázaval Macul;-33.4545;-70.5982;104-212-224
 PD1030;Av. José Arrieta Esq. / De Lo Arrieta;-33.4631;-70.543;227-513-D01-D09-D11
-PD1031;Parada / Homecenter La Reina;-33.4632;-70.5465;227-513-D01-D09-D11
+PD1031;Parada / Homecenter La Reina;-33.4632;-70.5465;227-227-513-D01-D09-D11
 PD1032;Battle Y Ordóñez Esq. / General Gorostiaga;-33.453;-70.5825;D09
 PD1033;Battle Y Ordóñez Esq. / Montenegro;-33.4515;-70.5851;D09
 PD1034;Battle Y Ordóñez Esq. / Pedro Torres;-33.4501;-70.5881;D09
@@ -3311,7 +3311,7 @@ PD1113;Álvaro Casanova Esq. / Quebrada De Tana;-33.4719;-70.5243;D10-D11
 PD1114;Álvaro Casanova Esq. / Av. Diag. Las Torres;-33.4764;-70.5252;D10-D11
 PD1116;Parada 2 / (M) Príncipe De Gales;-33.4401;-70.5728;112-112N-216
 PD1119;Antonio Acevedo H. Esq. / Mauricio Rugendas;-33.5052;-70.6141;D13
-PD112;Dublé Almeyda Esq. / Campos De Deportes;-33.4552;-70.6095;126-D02
+PD112;Dublé Almeyda Esq. / Campos De Deportes;-33.4552;-70.6095;D02
 PD1120;Estadio Colo Colo Esq. / Nicomedes Guzmán;-33.5039;-70.614;D13
 PD1121;Estadio Colo Colo Esq. / Nicomedes Guzmán;-33.5041;-70.612;D13
 PD1122;Estadio Colo Colo Esq. / José Caroca;-33.5042;-70.6109;D13
@@ -3509,7 +3509,7 @@ PD1368;Av. José Arrieta Esq. / Caballero De La Montaña;-33.4663;-70.5288;D11
 PD1369;Talinay Esq. / Comb. De Iquique;-33.4589;-70.5347;412-D01-D15-D18
 PD137;Avenida Tobalaba Esq. / Av. Ramón Carnicer;-33.5104;-70.5608;106-107-418-508-514-514c-515N-D05-D12
 PD1370;Dublé Almeyda Esq. / Humberto Trucco;-33.4569;-70.5942;D02
-PD1371;Avenida Tobalaba Esq. / Avenida Oriental;-33.4695;-70.5523;418-420e-425-429
+PD1371;Avenida Tobalaba Esq. / Avenida Oriental;-33.4695;-70.5523;418-425-429
 PD1373;Av. José Arrieta Esq. / Diego Rojas;-33.4625;-70.5562;225-513-D09
 PD1374;Av. Departamental Esq. / Las Tejas;-33.5101;-70.5858;106-107-126-E17
 PD1375;Av. Américo Vespucio Esq. / Las Luciérnagas;-33.4325;-70.5747;216
@@ -3538,8 +3538,12 @@ PD1395;El Duraznal Esq. / Avenida El Valle;-33.4777;-70.5657;425-D10
 PD1396;Avenida Las Torres Esq. / Central;-33.5012;-70.5827;508-D10-D20
 PD1397;Los Cerezos Esq. / Los Matriceros;-33.5088;-70.5757;106
 PD1398;Av. Los Presidentes Esq. / Matías Cousiño;-33.4888;-70.55;D17
+PD1399;M. Sánchez Fontecilla Esq. / Antupirén;-33.4756;-70.5552;420e
 PD14;Av. Pedro De Valdivia Esq. / Av. Rodrigo De Araya;-33.4738;-70.6064;103-114-117-515N
 PD140;Av. San Luis De Macul Esq. / Las Cepas;-33.5081;-70.5638;106-514-514c-515N-D12-D20
+PD1400;M. Sánchez Fontecilla Esq. / Camilo Mori;-33.4827;-70.5574;420e
+PD1401;M. Sánchez Fontecilla Esq. / Avenida El Valle;-33.4797;-70.5572;420e
+PD1402;M. Sánchez Fontecilla Esq. / Avenida Grecia;-33.4739;-70.5545;420e
 PD1406;Parada / Avenida Quilín Altura Del 5700;-33.4937;-70.5696;D17
 PD1407;Avenida Quilín Esq. / Hacienda Macul;-33.4921;-70.5725;D17
 PD1409;Avenida Tobalaba Esq. / Jorge Prieto L.;-33.5101;-70.5607;106-107-418-508-514-514c-515N-D05-D12
@@ -3568,9 +3572,9 @@ PD1431;Parada 1 / Plaza Ossandón;-33.442;-70.5445;D02
 PD1432;Av. Las Perdices Esq. / Quebrada De Macul;-33.5088;-70.5431;D17
 PD1433;Av. Las Perdices Esq. / Talinay;-33.4595;-70.5297;D02-D08
 PD1434;Consistorial Esq. / El Embalse;-33.4997;-70.5521;D17
-PD1435;Parinacota Esq. / Avenida Larraín;-33.4525;-70.5316;403-422
+PD1435;Parinacota Esq. / Avenida Larraín;-33.4525;-70.5316;403-403-422-422
 PD1438;Álvaro Casanova Esq. / Arboretum Sur;-33.4765;-70.525;D10-D11
-PD1439;Av. Diagonal Las Torres Esq. / Álvaro Casanova ;-33.4812;-70.5237;511-517-519e-D02-D03-D07-D07c-D08-D09-D10-D11-D15-D18-D20
+PD1439;Av. Diagonal Las Torres Esq. / Álvaro Casanova ;-33.4812;-70.5237;511-517-519e-D02-D03-D03-D07-D07c-D08-D09-D09-D10-D10-D11-D15-D18-D20
 PD144;Av. San Luis De Macul Esq. / Los Cerezos;-33.5067;-70.5749;106-514-514c-515N-D12-D20
 PD1440;Avenida Quilín Esq. / Sn. Vicente De Paul;-33.4884;-70.5833;514-514c-D10
 PD1441;Nevado Incahuasi Esq. / Calle 402;-33.5039;-70.5797;D20
@@ -3602,8 +3606,8 @@ PD148;Parada / Plaza Pinto Durán;-33.501;-70.5949;104-106-114-126-212-224
 PD149;Avenida Macul Esq. / Dr. A. Neghme ;-33.4987;-70.5966;104-106-114-126-212-224
 PD15;Av. Pedro De Valdivia Esq. / Los Espinos;-33.4767;-70.6062;103-114-117-515N
 PD1583;Altos Del Parque;-33.4973;-70.5518;D17
-PD1585;Campos De Deportes Esq. / Dublé Almeyda;-33.4548;-70.6091;106
-PD1586;Avenida Irarrázaval Esq. / Campos De Deportes;-33.4537;-70.6098;106
+PD1585;Campos De Deportes Esq. / Dublé Almeyda;-33.4548;-70.6091;106-126
+PD1586;Avenida Irarrázaval Esq. / Campos De Deportes;-33.4537;-70.6098;106-126
 PD1587;Julio Vildósola Esq. / Diagonal Gaspar;-33.5215;-70.5954;322
 PD1589;Chile España Esq. / Av. Jaime Guzmán E;-33.4466;-70.5965;D09
 PD16;Av. Pedro De Valdivia Esq. / Los Olmos;-33.479;-70.606;103-114-117-515N-D07
@@ -3647,7 +3651,7 @@ PD194;Av. Vicuña Mackenna Esq. / Estadio Colo Colo;-33.5041;-70.6146;210-210v-D
 PD195;Parada / Paradero 7 Av.Vicuña Mackenna;-33.5013;-70.6152;210-210v-D14-F30N
 PD196;Parada / (M) San Joaquín;-33.4988;-70.6158;210-210v-213e-D14-F30N
 PD197;Parada 2 / Paradero 6 Av.Vicuña Mackenna;-33.4968;-70.6162;210-210v-D14-F30N-H05
-PD198;Parada 2 / (M) Camino Agrícola;-33.4906;-70.6176;210-210v-213e-D10-F30N-H02-H05-H09
+PD198;Parada 2 / (M) Camino Agrícola;-33.4906;-70.6176;210-210v-213e-D10-D10-F30N-H02-H05-H09
 PD199;Parada 3 / (M) Carlos Valdovinos;-33.4873;-70.6184;210-210v-213e-F30N
 PD2;Av. Departamental Esq. / Ramón Toro Ibáñez;-33.5092;-70.598;102-107-108-212-224
 PD20;Av. Escuela Agrícola Esq. / Vía Láctea;-33.4906;-70.6049;103-114-117-515N-D10
@@ -3717,7 +3721,7 @@ PD268;Av. Américo Vespucio Esq. / Pasaje Peatones 3;-33.4918;-70.5822;112N-112-
 PD269;Av. Américo Vespucio Esq. / Sta. T. De Los Andes;-33.4951;-70.5843;112N-112-225-D12-D14
 PD27;Froilán Roa Esq. / Las Codornices;-33.5043;-70.6012;103-117-D13
 PD270;Av. Américo Vespucio Esq. / Armando Pesantes;-33.5043;-70.5893;112N-112-225-514-514c-515N-D12
-PD271;Parada / Lider La Reina;-33.4606;-70.5466;225-227-227-D01
+PD271;Parada / Lider La Reina;-33.4606;-70.5466;225-227-227-227-D01
 PD273;Av. Américo Vespucio Esq. / Av. Sn. Luis De Macul;-33.5071;-70.5893;112-112N-225-514-514c-515N-D12
 PD274;Av. Américo Vespucio Esq. / Chillán;-33.5038;-70.5884;112-112N-225-514-514c-515N-D12
 PD275;Av. Américo Vespucio Esq. / Pque. Vespucio Sur;-33.4979;-70.5853;112-112N-225-D12-D14
@@ -3844,10 +3848,10 @@ PD387;Av. Los Presidentes Esq. / Los Lagos;-33.4843;-70.5646;420e-429-D07-D07c-D
 PD388;Av. Los Presidentes Esq. / Avenida Tobalaba;-33.486;-70.5593;420e-429-D07-D07c-D10
 PD389;Avenida Tobalaba Esq. / Los Presidentes;-33.4866;-70.5584;418-D05
 PD39;Av. Pedro De Valdivia Esq. / Quilín Sur;-33.4855;-70.6061;103-114-117-515N
-PD390;Avenida Tobalaba Esq. / Camilo Mori;-33.4829;-70.5582;418-420e-429-D05
+PD390;Avenida Tobalaba Esq. / Camilo Mori;-33.4829;-70.5582;418-429-D05
 PD391;Avenida Tobalaba Esq. / Avenida El Valle;-33.4799;-70.558;418-429-D05
 PD392;Avenida Tobalaba Esq. / El Continente;-33.4761;-70.5562;418-425-429
-PD393;Parada 4 / Tobalaba Avenida Grecia;-33.4743;-70.5554;418-420e-425-429
+PD393;Parada 4 / Tobalaba Avenida Grecia;-33.4743;-70.5554;418-425-429
 PD394;Avenida Tobalaba Esq. / Av. Las Parcelas;-33.471;-70.5535;418-425-429
 PD395;Avenida Tobalaba Esq. / Padre A. Hurtado;-33.4674;-70.5506;418-420e-425-429
 PD396;Avenida Tobalaba Esq. / Calle 127;-33.4651;-70.5504;418-425-429
@@ -3878,13 +3882,13 @@ PD417;Parada 1 / Hospital Militar;-33.4516;-70.5405;403-422-D01-D02-D08
 PD418;Andacollo Esq. / Pasaje 8;-33.4525;-70.5364;403-422-D08-D10
 PD419;Andacollo Esq. / Pasaje 12;-33.4558;-70.5368;403-422-D08-D10
 PD42;Av. Pedro De Valdivia Esq. / Los Espinos;-33.4772;-70.6058;103-114-117-515N
-PD420;Parinacota Esq. / Pasaje 3;-33.4559;-70.5321;403-422
-PD422;Parada / Colegio Las Américas;-33.4526;-70.5297;403-422-D02-D10
-PD423;Av. Las Perdices Esq. / Talinay;-33.4551;-70.5292;403-422
-PD424;Av. Las Perdices Esq. / Talinay;-33.4585;-70.5292;403-422
+PD420;Parinacota Esq. / Pasaje 3;-33.4559;-70.5321;403-403-422
+PD422;Parada / Colegio Las Américas;-33.4526;-70.5297;403-403-422-422-D02-D10
+PD423;Av. Las Perdices Esq. / Talinay;-33.4551;-70.5292;403-403-422-422
+PD424;Av. Las Perdices Esq. / Talinay;-33.4585;-70.5292;403-403-422-422
 PD426;Parada 11 / (M) Irarrázaval;-33.4521;-70.6293;519e-D13
 PD427;Parada 12 / (M) Irarrázaval;-33.4534;-70.629;516-519e-D13
-PD429;Dublé Almeyda Esq. / H. Covarrubias;-33.455;-70.6115;126-D02
+PD429;Dublé Almeyda Esq. / H. Covarrubias;-33.455;-70.6115;D02
 PD43;Av. Pedro De Valdivia Esq. / Av. Rodrigo De Araya;-33.4744;-70.6063;103-114-117-515N
 PD431;Dublé Almeyda Esq. / Los 3 Antonios;-33.4559;-70.603;D02
 PD432;Dublé Almeyda Esq. / Ramón Cruz Montt;-33.459;-70.5807;D02
@@ -3944,13 +3948,13 @@ PD49;Av. Pedro De Valdivia Esq. / Av. Irarrázaval;-33.4546;-70.6049;103-114-117
 PD490;Avenida Oriental Esq. / Avenida Tobalaba;-33.4695;-70.5527;505-510-516-D03-D10
 PD491;Av. Las Parcelas Esq. / Pasaje 445;-33.4698;-70.5511;505-510-516-D03-D10
 PD492;Av. Las Parcelas Esq. / Laguna Salada;-33.4705;-70.5476;505-510-516-D03-D10
-PD493;Av. Las Parcelas Esq. / Lago Rosselot;-33.4711;-70.5448;505-510-516-D03-D10
-PD494;Av. Las Parcelas Esq. / Av. Consistorial;-33.4717;-70.5418;505-510-516-D03-D10
-PD495;Av. Las Parcelas Esq. / Amanecer;-33.4723;-70.5389;505-510-516-D03
-PD496;Av. Las Parcelas Esq. / El Alto ;-33.4728;-70.5364;505-510-516-D03
-PD497;Av. Las Parcelas Esq. / Río Claro;-33.4733;-70.5336;505-510-516-D03
-PD498;Río Claro Esq. / Paso Nevado;-33.4701;-70.5324;510-513-517-D15
-PD499;Río Claro Esq. / Valle Hermoso;-33.4678;-70.5318;510-513-517-D15
+PD493;Av. Las Parcelas Esq. / Lago Rosselot;-33.4711;-70.5448;505-510-516-D03-D03-D10
+PD494;Av. Las Parcelas Esq. / Av. Consistorial;-33.4717;-70.5418;505-510-516-D03-D03-D10
+PD495;Av. Las Parcelas Esq. / Amanecer;-33.4723;-70.5389;505-510-516-D03-D03
+PD496;Av. Las Parcelas Esq. / El Alto ;-33.4728;-70.5364;505-510-516-D03-D03
+PD497;Av. Las Parcelas Esq. / Río Claro;-33.4733;-70.5336;505-510-516-D03-D03
+PD498;Río Claro Esq. / Paso Nevado;-33.4701;-70.5324;510-513-513-517-D15
+PD499;Río Claro Esq. / Valle Hermoso;-33.4678;-70.5318;510-510-513-513-517-D15
 PD5;Parada 3 / (M) Pedrero;-33.5082;-70.6121;102-103-107-108-117-I12
 PD50;Av. Pedro De Valdivia Esq. / Psje. Simón Bolívar;-33.4506;-70.6052;103-114-117-515N
 PD502;Río Claro Esq. / Los Baqueanos;-33.4697;-70.5324;510-513-517-D15
@@ -4061,7 +4065,7 @@ PD606;El Líbano Esq. / Dr. A. Neghme ;-33.4989;-70.5925;508-D06
 PD607;Dr. Amador Neghme R. Esq. / Juan Jofré;-33.4998;-70.59;508-514-514c-515N-D10-D14
 PD608;Avenida Las Torres Esq. / General Horacio Toro;-33.5009;-70.5843;508-D10-D20
 PD609;Avenida Las Torres Esq. / Nevado Incahuasi;-33.5018;-70.5797;508-D10-D20
-PD61;Parada / Utem Macul;-33.4663;-70.5985;104-106-212-224
+PD61;Parada / Utem Macul;-33.4663;-70.5985;104-106-126-212-224
 PD610;Avenida Las Torres Esq. / Avenida Los Mares;-33.5024;-70.5766;508-D10
 PD611;Avenida Las Torres Esq. / General Balmaceda;-33.5035;-70.5708;508-D10
 PD612;Avenida Las Torres Esq. / Los Arrieros;-33.5042;-70.5672;508-D10
@@ -4072,7 +4076,7 @@ PD616;Av. Departamental Esq. / Los Nogales ;-33.5119;-70.5559;508-514-514c-515N-
 PD617;Av. Departamental Esq. / Mariano Sánchez F.;-33.5116;-70.5597;508-514-514c-515N-D05-D12
 PD618;Avenida Tobalaba Esq. / Av. Sn. Luis De Macul;-33.5084;-70.5609;107-418-508-D05
 PD619;Avenida Tobalaba Esq. / Quebrada De Macul;-33.5069;-70.561;508-D05-D20
-PD62;Av. José P. Alessandri Esq. / Las Encinas;-33.4689;-70.5986;104-106-212-224
+PD62;Av. José P. Alessandri Esq. / Las Encinas;-33.4689;-70.5986;104-106-126-212-224
 PD620;Avenida Las Torres Esq. / Los Verduleros;-33.5045;-70.5644;107-508-D10
 PD621;Avenida Las Torres Esq. / Los Talladores;-33.5039;-70.5679;508-D10
 PD622;Avenida Las Torres Esq. / Calle 461;-33.5035;-70.57;508-D10
@@ -4187,18 +4191,18 @@ PD722;Avenida Larrain Esq. / Julia Bernstein;-33.453;-70.5258;D02-D10
 PD723;Álvaro Casanova Esq. / Talinay;-33.4547;-70.5214;D02-D10
 PD724;Álvaro Casanova Esq. / Talinay;-33.4593;-70.5231;D02-D10
 PD725;Talinay Esq. / Julia Bernstein;-33.4593;-70.5268;D02
-PD726;Parada / Club De Campo Militar;-33.4626;-70.5307;403-412-422-D02-D08-D15-D18
-PD727;Av. Las Perdices Esq. / Av. José Arrieta;-33.4652;-70.5313;403-412-422-D02-D08-D15-D18
+PD726;Parada / Club De Campo Militar;-33.4626;-70.5307;403-403-412-422-422-D02-D08-D15-D18
+PD727;Av. Las Perdices Esq. / Av. José Arrieta;-33.4652;-70.5313;403-403-412-422-422-D02-D08-D15-D18
 PD728;Av. Diagonal Las Torres Esq. / Los Arroyuelos;-33.4686;-70.5298;505-513-D02-D09-D18
 PD729;Av. Diagonal Las Torres Esq. / Río Lauca;-33.4717;-70.5283;505-513-D02-D09-D18
 PD73;Parada / Plaza Pinto Durán;-33.5008;-70.5953;104-106-114-126-212-224
 PD730;Av. Diagonal Las Torres Esq. / Los Baqueanos;-33.4743;-70.527;505-513-D02-D09-D18
-PD731;Av. Diagonal Las Torres Esq. / Alvaro Casanova;-33.4765;-70.5259;516-517-D02-D03-D07-D07c-D09-D15-D18
-PD732;Av. Diagonal Las Torres Esq. / Avenida Grecia;-33.4792;-70.5247;506-506e-506v-507-507c-516-517-D02-D03-D07-D07c-D09-D10-D11-D15-D18
+PD731;Av. Diagonal Las Torres Esq. / Alvaro Casanova;-33.4765;-70.5259;516-516-517-D02-D03-D03-D07-D07c-D09-D15-D18
+PD732;Av. Diagonal Las Torres Esq. / Avenida Grecia;-33.4792;-70.5247;506-506e-506v-507-507c-516-516-517-D02-D03-D03-D07-D07c-D09-D09-D10-D11-D15-D18
 PD733;Av. Diagonal Las Torres Esq. /  Quebrada De Taltal;-33.477;-70.5255;516-517-D02-D03-D07-D07c-D09-D15-D18
 PD734;Av. Diagonal Las Torres Esq. /  Quebrada De Taltal;-33.4764;-70.5258;516-517-D02-D03-D07-D07c-D09-D15-D18
 PD735;Av. Diagonal Las Torres Esq. / Río Lauca;-33.4716;-70.5281;505-513-D02-D09-D18
-PD736;Av. Diagonal Las Torres Esq. / Las Vertientes;-33.4688;-70.5294;505-513-D02-D09-D18
+PD736;Av. Diagonal Las Torres Esq. / Las Vertientes;-33.4688;-70.5294;505-505-513-D02-D09-D18
 PD737;Av. Diagonal Las Torres Esq. / Av. José Arrieta;-33.4659;-70.5308;513-D02-D09-D18
 PD738;Parada / Club De Campo Militar;-33.4626;-70.5306;403-412-422-D02-D08-D15-D18
 PD74;Parada / Liceo Camilo Ortúzar;-33.5055;-70.5918;104-106-114-126-212-224
@@ -4253,12 +4257,12 @@ PD79;Exequiel Fernández Esq. / Dublé Almeyda;-33.4561;-70.5997;D06
 PD790;Avenida Oriental Esq. / Los Molineros;-33.4643;-70.5665;D03
 PD791;Avenida Oriental Esq. / Parque 1;-33.4657;-70.5639;D03
 PD792;Avenida Oriental Esq. / Ictinos;-33.467;-70.5611;D03
-PD793;Los Baqueanos Esq. / Las Perdices;-33.4736;-70.532;505-513-516-517-D03-D07-D07c-D15
-PD794;Los Baqueanos Esq. / Río Lauca;-33.4742;-70.5294;505-513-516-517-D03-D07-D07c-D15
-PD795;Los Baqueanos Esq. / Quebrada San Pedro;-33.4746;-70.5272;505-513-516-517-D03-D07-D07c-D15
+PD793;Los Baqueanos Esq. / Las Perdices;-33.4736;-70.532;505-513-516-517-D03-D03-D07-D07c-D15
+PD794;Los Baqueanos Esq. / Río Lauca;-33.4742;-70.5294;505-513-516-517-D03-D03-D07-D07c-D15
+PD795;Los Baqueanos Esq. / Quebrada San Pedro;-33.4746;-70.5272;505-513-516-517-D03-D03-D07-D07c-D15
 PD796;Los Baqueanos Esq. / Río Lauca;-33.4741;-70.529;505-513-516-517-D03-D07-D07c-D15
-PD797;Los Baqueanos Esq. / Valle Hermoso;-33.4735;-70.5322;505-513-516-517-D03-D07-D07c-D15
-PD798;Los Baqueanos Esq. / Río Claro;-33.4733;-70.5331;505-513-516-517-D03-D07-D07c-D15
+PD797;Los Baqueanos Esq. / Valle Hermoso;-33.4735;-70.5322;505-513-513-516-517-D03-D07-D07c-D15
+PD798;Los Baqueanos Esq. / Río Claro;-33.4733;-70.5331;505-513-513-516-517-D03-D07-D07c-D15
 PD799;Avenida Oriental Esq. / Pasaje 59;-33.4668;-70.5614;D03
 PD8;Av. Pedro De Valdivia Esq. / Av. Irarrázaval;-33.4535;-70.6049;103-114-117-515N
 PD80;Exequiel Fernández Esq. / Av. Castillo Velasco;-33.4585;-70.6;D06
@@ -4287,7 +4291,6 @@ PD826;Coventry Esq. / Ldo. De Las Peñas;-33.4533;-70.5801;D16
 PD827;Coventry Esq. / Estrella Solitaria;-33.451;-70.5804;D16
 PD828;Coventry Esq. / Av. Simón Bolivar;-33.4487;-70.5807;D16
 PD829;Coventry Esq. / Avenida Echeñique;-33.4469;-70.5809;D16
-PD83;Exequiel Fernández Esq. / Las Palmeras;-33.4666;-70.6004;126
 PD830;Coventry Esq. / Avenida Pucara;-33.445;-70.5811;D16
 PD831;Coventry Esq. / Emilia Téllez;-33.442;-70.5815;D16
 PD832;Coventry Esq. / Las Amapolas;-33.4404;-70.5811;D16
@@ -4298,7 +4301,6 @@ PD836;Carlos Dittborn Esq. / Obispo Orrego;-33.4664;-70.6201;D05
 PD837;Carlos Dittborn Esq. / Los Jazmines;-33.4662;-70.6185;D05
 PD838;Carlos Dittborn Esq. / Avenida Marathon;-33.4658;-70.6152;D05
 PD839;Avenida Marathon Esq. / Avenida Zañartu;-33.4725;-70.614;D05-D13
-PD84;Las Encinas Esq. / Av. Jose Alessandri;-33.4691;-70.5992;126
 PD840;Avenida Marathon Esq. / Av. Rodrigo De Araya;-33.4742;-70.6139;D05-D13
 PD841;Av. Rodrigo De Araya Esq. / Castillo Urizar;-33.4745;-70.6103;D05
 PD842;Av. Rodrigo De Araya Esq. / Av. Pedro De Valdivia;-33.4742;-70.6066;D05
@@ -4384,7 +4386,7 @@ PD918;Río Claro Esq. / Salomón Corvalán;-33.4771;-70.5345;D07-D07c
 PD919;Av. Las Perdices Esq. / Calle 3;-33.4797;-70.5349;D07-D07c
 PD92;Parada 2 / Municipalidad De Macul;-33.4824;-70.5991;104-106-126-212-224
 PD920;Av. Las Perdices Esq. / Antupirén;-33.4828;-70.536;D07-D07c
-PD921;Antupirén Esq. / Maihue;-33.4833;-70.5335;D01-D07c-D07c
+PD921;Antupirén Esq. / Maihue;-33.4833;-70.5335;D01-D01-D07c-D07c
 PD922;Antupirén Esq. / Las Perdices;-33.4831;-70.5356;D01-D07c
 PD923;Antupirén Esq. / El Acueducto;-33.4819;-70.5389;D01-D07-D07c
 PD924;Antupirén Esq. / Ricardo Grellet;-33.4804;-70.5424;D01-D07-D07c
@@ -4455,7 +4457,7 @@ PD982;Consistorial Esq. / Avenida El Valle;-33.4855;-70.5482;D07-D07c-D20
 PD983;Consistorial Esq. / Avenida El Valle;-33.4838;-70.5468;D07-D07c-D20
 PD984;Consistorial Esq. / Antupirén;-33.4796;-70.5451;D07-D07c-D20
 PD985;Antupirén Esq. / Ricardo Grellet;-33.4804;-70.5428;D01-D07-D07c
-PD986;Antupirén Esq. / El Acueducto;-33.4818;-70.5395;D01-D07-D07c
+PD986;Antupirén Esq. / El Acueducto;-33.4818;-70.5395;D01-D01-D07-D07c
 PD987;Av. Las Perdices Esq. / Antupirén;-33.4828;-70.5359;D07-D07c
 PD988;Av. Las Perdices Esq. / Orlando Letelier;-33.4797;-70.5348;D07-D07c
 PD989;Av. Las Perdices Esq. / Avenida Grecia;-33.4792;-70.5347;D07-D07c
@@ -4523,7 +4525,7 @@ PE1279;Perú Esq. / Santa Amalia;-33.5432;-70.5831;E08-F25-F28N
 PE128;Parada 1 / Paradero 17 Av.Vicuña Mackenna;-33.5324;-70.5945;210-210v-F30N
 PE1280;San Jorge Esq. / Calle 11;-33.5588;-70.5785;E02-E11-E12
 PE1281;San Jorge Esq. / San Pablo;-33.5587;-70.5782;E02-E11-E12
-PE1282;Parada / Est. Intermodal De La Florida;-33.519;-70.5984;322-322-323-323-D06-D06-D13-D13-E05-E05-E06-E06-E07-E07-E08-E08-E13-E13-E14-E14-E15c-E15c-E17-E17-E18-E18-F25-F25-F25e-F25e
+PE1282;Parada / Est. Intermodal De La Florida;-33.519;-70.5984;322-322-323-323-D06-D06-D06-D13-D13-E05-E05-E06-E06-E07-E07-E08-E08-E08-E13-E13-E14-E14-E15c-E15c-E17-E17-E18-E18-F25-F25-F25e-F25e-F25e
 PE1283;Perú Esq. / Río Paraná;-33.5417;-70.5843;E08-F25-F28N
 PE1284;Av. Departamental Esq. / Punitaqui;-33.5109;-70.575;107
 PE1285;Av. Departamental Esq. / Volcán Calbuco;-33.5116;-70.5681;107
@@ -4535,7 +4537,7 @@ PE129;Parada 1 / (M) Rojas Magallanes;-33.536;-70.5927;210-210v-213e-222e-F28N-F
 PE1292;Av. Departamental Esq. / Avenida La Florida;-33.5109;-70.5893;102-108
 PE1294;Parada 3 / Paradero 28 Santa Rosa;-33.5502;-70.6328;203-206-212-216-G01
 PE1295;Parada 4 / Paradero 26 Santa Rosa;-33.5456;-70.6335;216
-PE1296;Parada 1 / (M) Vicuña Mackenna;-33.5191;-70.5961;118-225-D06-D13-E05-E06-E15-E17-F28N
+PE1296;Parada 1 / (M) Vicuña Mackenna;-33.5191;-70.5961;118-225-D06-D06-D13-E05-E06-E15-E17-F28N
 PE1297;Dr. Sótero Del Río Esq. / Huentelauquén;-33.5392;-70.6;E15-E15c
 PE1298;Dr. Sótero Del Río Esq. / Chaitén;-33.5393;-70.5998;E15-E15c
 PE1299;Elisa Correa Esq. / Rucalin;-33.5699;-70.592;E09-E16
@@ -4573,7 +4575,7 @@ PE1334;Froilán Roa Esq. / Av. Departamental;-33.5096;-70.602;D06
 PE1335;Froilán Roa Esq. / Froilán Lagos;-33.5134;-70.6009;E05
 PE1336;Las Araucarias Esq. / San Francisco;-33.52;-70.5524;E06-E17
 PE1337;Av. Las Perdices Esq. / Santa Berta;-33.5162;-70.547;E06-E17
-PE1338;Av. Las Perdices Esq. / María Angélica;-33.5145;-70.5479;E06-E17
+PE1338;Av. Las Perdices Esq. / María Angélica;-33.5145;-70.5479;E06-E06-E17
 PE1339;Paseo Los Naranjos Esq. / Los Perales;-33.5178;-70.5552;126
 PE134;Parada 1 / (M) San José De La Estrella;-33.5531;-70.5866;210-210v-213e-222e-F30N
 PE1341;San Francisco Esq. / Los Naranjos;-33.5198;-70.5554;126
@@ -4628,7 +4630,7 @@ PE1387;San Francisco Esq. / Borde Los Fresnos;-33.5198;-70.5502;E06-E17
 PE1388;Macul Alto Esq. / Santa Sofía;-33.5131;-70.5339;D17
 PE1389;Macul Alto Esq. / Santa Sofía;-33.5132;-70.5345;D17
 PE1390;Macul Alto Esq. / Cam. Del Canelo;-33.5134;-70.5321;D17
-PE1391;Filomena Soto Esq. / Av.Vicuña Mackenna;-33.5209;-70.5983;D06-D13-E05-E06-E17
+PE1391;Filomena Soto Esq. / Av.Vicuña Mackenna;-33.5209;-70.5983;D06-D06-D13-E05-E06-E17
 PE1392;Avenida Lo Ovalle Esq. / 15 Oriente;-33.5173;-70.626;I12
 PE1393;Parada / Colombia Altura Del 7700;-33.5248;-70.5894;F25-F28N
 PE1394;Colombia Esq. / Vicente Valdés;-33.5259;-70.5891;F25-F28N
@@ -4658,6 +4660,7 @@ PE1415;San Miguel Esq. / Mástil;-33.5621;-70.6115;G01
 PE1416;Rojas Magallanes Esq. / Centro;-33.5353;-70.5612;322-E07-E10
 PE1417;Rojas Magallanes Esq. / Lago Chungará;-33.5361;-70.557;E03
 PE1418;Rojas Magallanes Esq. / Centro;-33.5354;-70.5624;322-E07
+PE1419;Parada / Mall Florida Center;-33.5121;-70.6061;385-385-H14-H14-I12-I12
 PE142;Parada 2 / Paradero 24 Av.Vicuña Mackenna;-33.5575;-70.5858;210-210v-F30N
 PE1420;Avenida Santa Raquel Esq. / Lago Chungará;-33.5604;-70.6009;E12
 PE1421;Diagonal Santa Irene Esq. / Luna;-33.5219;-70.5687;E06
@@ -4671,7 +4674,7 @@ PE148;Parada 2 / (M) Rojas Magallanes;-33.5353;-70.5929;210-210v-213e-222e-F30N
 PE1484;Av. Américo Vespucio Esq. / Froilán Roa;-33.5194;-70.5955;D06-E06-F25-F28N
 PE1485;San Francisco Esq. / Las Araucarias;-33.52;-70.5522;126
 PE1486;Avenida México Esq. / Bahía Inglesa;-33.5623;-70.5681;210v
-PE1487;Parada 6 / (M) Mirador;-33.5131;-70.6086;385
+PE1488;Av. Vicuña Mackenna Esq. / Millaray;-33.5153;-70.6071;385
 PE1489;Parada 11 / (M) Bellavista De La Florida;-33.5179;-70.601;E15
 PE149;Parada 2 / Paradero 17 Av.Vicuña Mackenna;-33.5334;-70.5938;210-210v-225-323-E07-E15-E15c-F25-F28N-F30N
 PE1490;Parada 1 / (M) Bellavista De La Florida;-33.5194;-70.6002;210-210v-213e-221e-224N-224-F30N
@@ -4807,7 +4810,7 @@ PE270;La Serena Esq. / Calle H;-33.5223;-70.6261;226-E12
 PE271;La Serena Esq. / Pde. E. G. Vives;-33.5205;-70.6268;226-E12
 PE272;La Serena Esq. / Avenida Lo Ovalle;-33.518;-70.6278;226-E12
 PE273;Av. Departamental Esq. / Los Nogales ;-33.512;-70.5569;508-514-514c-515N-D05-D12
-PE274;Av. Departamental Esq. / Los Cerezos;-33.5121;-70.5538;514-514c-515N-D05-D12
+PE274;Av. Departamental Esq. / Los Cerezos;-33.5121;-70.5538;514-514-514c-515N-D05-D12
 PE275;Av. Departamental Esq. / Las Perdices;-33.5123;-70.5493;D05-D12
 PE276;Parada / Altos De La Arboleda;-33.5125;-70.5458;D05-D12-F28N
 PE277;Av. Departamental Esq. / Alto Macul;-33.5125;-70.5424;D05-D12
@@ -5426,7 +5429,7 @@ PF1008;Avenida México Esq. / Cerro San Cristóbal;-33.5953;-70.5585;210v-F05
 PF1009;Santa Elena Esq. / Pedro Lagos;-33.6117;-70.5726;F01-F01c-F11-F17
 PF101;Parada / (M) Protectora De La Infancia;-33.5887;-70.5799;205-205e-210-213e-222e-F01-F13-F15-F30N
 PF1010;Rosa Ester Esq. / Los Cipreses;-33.5803;-70.6063;E13-E15-E15c-E16
-PF1011;Creta Esq. / Pasaje América;-33.5811;-70.6031;E13-E15-E15c-F28N-F28N
+PF1011;Creta Esq. / Pasaje América;-33.5811;-70.6031;E13-E13-E15-E15-E15c-F28N-F28N
 PF1012;Bahía Catalina Esq. / Psje. Cabo Leones;-33.5756;-70.6083;E13-E15-E15c-F28N
 PF1013;Bahía Catalina Esq. / Clavel Del Aire;-33.5722;-70.609;E13-E15-E15c-F28N
 PF1014;9 De Agosto Esq. / Est. Los Álamos;-33.6203;-70.6178;F15
@@ -5493,7 +5496,7 @@ PF1116;Weber Esq. / La India 1 Norte;-33.6283;-70.6029;F12c
 PF1117;Weber Esq. / T. De Calcuta 7 Pte.;-33.6287;-70.6057;F12c
 PF1118;Weber Esq. / Monseñor Alvear;-33.6287;-70.6081;F12c
 PF1119;Weber Esq. / Bartok;-33.629;-70.6099;F12c
-PF112;Avenida Gabriela Esq. / 4 Oriente;-33.5825;-70.6058;205-E13-E15-E15c-E16-F20
+PF112;Avenida Gabriela Esq. / 4 Oriente;-33.5825;-70.6058;205-E13-E13-E15-E15-E15c-E16-F20
 PF1120;Parada 2 / Paradero 48 @ Santa Rosa;-33.6189;-70.6265;207c-207e-230
 PF1121;Avenida Santa Rosa Esq. / Av. Eyzaguirre;-33.6189;-70.6263;F03-F18
 PF1122;Avenida Santa Rosa Esq. / Fco. Coloane;-33.6329;-70.6296;207c-207e-230
@@ -5514,7 +5517,7 @@ PF128;Parada 2 / Portal Concha Y Toro;-33.5713;-70.5833;210-F30N
 PF129;Parada 4 / (M) Elisa Correa;-33.5684;-70.5838;210-213e-222e-F30N
 PF13;Parada 2 / Paradero 23 Av. La Florida;-33.5524;-70.564;102-104-112-112N-114-E04-E12-E14
 PF130;Parada 2 / Paradero 27 Av.Vicuña Mackenna;-33.5662;-70.5842;210-F30N
-PF137;Cabo Leones Esq. / Creta Norte;-33.5753;-70.6045;E13-E15-E15c-E16-F05-F28N-F28N
+PF137;Cabo Leones Esq. / Creta Norte;-33.5753;-70.6045;E13-E15-E15-E15c-E16-F05-F28N-F28N
 PF142;Del Caribe Esq. / Gran Caimán;-33.5817;-70.5781;226
 PF143;Maestro Palomo Esq. / C. Aguirres Luco;-33.5827;-70.5776;226
 PF144;Maestro Palomo Esq. / Luis Valdés;-33.5826;-70.5744;226
@@ -5622,8 +5625,8 @@ PF238;Avenida Eyzaguirre Esq. / Estación Sierra Nevada;-33.6172;-70.6154;209-F0
 PF239;Avenida Eyzaguirre Esq. / Avenida Juanita;-33.617;-70.6135;209-209e-F03-F03c-F18
 PF24;Nonato Coo Esq. / Maestro Palomo;-33.5826;-70.5686;112-F10-F20-F25
 PF240;Avenida Eyzaguirre Esq. / Baños Morales;-33.6168;-70.6119;F03-F03c-F12-F13-F15-F18-F25-F25e-F30N
-PF241;Avenida Eyzaguirre Esq. / San Guillermo;-33.6164;-70.6093;F03-F03c-F12-F13-F15-F18-F25-F25e-F30N
-PF242;Parada / Cementerio Bajos De Mena;-33.6158;-70.6035;F03-F03c-F10-F12-F13-F15-F18-F25-F25e-F30N
+PF241;Avenida Eyzaguirre Esq. / San Guillermo;-33.6164;-70.6093;F03-F03c-F12-F13-F15-F18-F25-F25e-F25e-F30N
+PF242;Parada / Cementerio Bajos De Mena;-33.6158;-70.6035;F03-F03c-F10-F12-F13-F15-F18-F25-F25e-F25e-F30N
 PF243;Avenida Eyzaguirre Esq. / Aurora;-33.6149;-70.5964;F03-F03c-F10-F12-F13-F13c-F15-F18-F25-F25e-F30N
 PF244;Parada / Colegio Raulí;-33.6145;-70.5934;F03-F03c-F10-F13-F13c-F15-F25-F25e
 PF245;Avenida Eyzaguirre Esq. / Ejército Libertador;-33.6144;-70.5911;F03-F03c-F10-F13-F13c-F15-F25-F25e
@@ -5826,7 +5829,7 @@ PF462;Domingo Tocornal Esq. / Santa Elena;-33.6027;-70.5746;F02-F19
 PF463;Domingo Tocornal Esq. / Nemesio Vicuña;-33.6023;-70.5718;F02-F19-F21
 PF464;Domingo Tocornal Esq. / Ignacio Domeyko;-33.6019;-70.5687;F02-F19-F21
 PF465;Domingo Tocornal Esq. / Nonato Coo;-33.6015;-70.5656;F02-F19-F21
-PF467;Avenida Juanita Esq. / Weber;-33.6291;-70.6119;F10-F12-F12c-F13-F13c-F15-F18-F25-F25e-F30N
+PF467;Avenida Juanita Esq. / Weber;-33.6291;-70.6119;F10-F12-F12c-F13-F13c-F15-F18-F25-F30N
 PF468;Weber Esq. / Av. Juanita Oriente;-33.629;-70.6119;F10-F10-F12c
 PF469;San Guillermo Esq. / El Silo;-33.6284;-70.6074;209-F10
 PF47;Nonato Coo Esq. / Av. San Carlos;-33.5969;-70.5663;112-226-F10-F25
@@ -5893,7 +5896,7 @@ PF531;Parada / Colegio Almenar Del Maipo;-33.5981;-70.5148;F11
 PF532;Avenida Juanita Esq. / La Lechería;-33.6255;-70.6124;F12-F15
 PF533;Avenida Juanita Esq. / Estación Temuco;-33.6232;-70.6125;209-F12-F13-F13c-F15-F25-F25e-F30N
 PF534;Avenida Juanita Esq. / Sargento Menadier;-33.6214;-70.6126;209-209e-F12-F13-F13c-F15-F25-F25e-F30N
-PF535;Avenida Juanita Esq. / Lagunillas;-33.6184;-70.6129;209-F12-F13-F25-F25e-F30N
+PF535;Avenida Juanita Esq. / Lagunillas;-33.6184;-70.6129;209-F12-F13-F25-F25e-F25e-F30N
 PF536;Óscar Bonilla Esq. / Hermano Domingo;-33.6165;-70.5938;F12
 PF537;Óscar Bonilla Esq. / Sargento Menadier;-33.6186;-70.5933;F12
 PF538;Sargento Menadier Esq. / Valle Central;-33.6196;-70.5968;F12
@@ -5978,8 +5981,8 @@ PF617;Creta Esq. / Miguel Angel;-33.584;-70.602;F08-F14-F23-F27-F28N
 PF618;Miguel Ángel Esq. / Julio César;-33.5844;-70.6036;F14
 PF619;Miguel Ángel Esq. / 4 Oriente;-33.5852;-70.6093;F14
 PF62;Av. Ejército Libertador Esq. / Luis Matte Larraín;-33.5878;-70.5964;204-204e-224N-224-224c-F26
-PF620;Belén Esq. / Río Maihue;-33.6293;-70.6149;F18-F25-F25e
-PF621;Belén Esq. / El Soldador;-33.6297;-70.6176;F18-F25-F25e
+PF620;Belén Esq. / Río Maihue;-33.6293;-70.6149;F18-F25
+PF621;Belén Esq. / El Soldador;-33.6297;-70.6176;F18-F25
 PF622;Sargento Menadier Esq. / Del Arquitecto;-33.621;-70.6109;F13c
 PF623;Sargento Menadier Esq. / San Guillermo;-33.6206;-70.6083;F13c
 PF626;Av. Ejército Libertador Esq. / Real Audiencia;-33.6229;-70.59;F02-F12c-F30N
@@ -6170,7 +6173,7 @@ PF844;Av. Ejército Libertador Esq. / Domingo Tocornal;-33.605;-70.5927;F15-F22
 PF845;Av. Ejército Libertador Esq. / Pedro Duarte;-33.61;-70.592;F22-F25e
 PF846;Avenida El Peñón Esq. / San Enrique;-33.5794;-70.5523;F05-F14
 PF847;Parada 3 / Hospital El Peral;-33.5797;-70.5518;F05-F14
-PF848;El Sauce Esq. / San Pedro;-33.6287;-70.6194;F25-F25e
+PF848;El Sauce Esq. / San Pedro;-33.6287;-70.6194;F25
 PF849;El Sauce Esq. / San Pedro;-33.6284;-70.6195;F25-F25e
 PF85;Parada 3 / (M) Las Mercedes;-33.6001;-70.5779;205-205e-210-213e-222e-F26-F30N
 PF850;Avenida Eyzaguirre Esq. / El Nogal;-33.6078;-70.5375;F11
@@ -6203,7 +6206,7 @@ PF875;Nocedal Esq. / Las Achiras;-33.6291;-70.5932;F12-F12c
 PF876;Nonato Coo Esq. / Los Loros;-33.6131;-70.5629;F01
 PF877;Nonato Coo Esq. / Av. Eyzaguirre;-33.6118;-70.5632;F01
 PF878;Nonato Coo Esq. / Av. Circunvalación;-33.6161;-70.5633;F01
-PF879;Av. Paseo Pie Andino Esq. / Av. Eduardo Cordero;-33.6034;-70.5549;210v-F02-F05-F06-F09-F19-F20-F21-F22
+PF879;Av. Paseo Pie Andino Esq. / Av. Eduardo Cordero;-33.6034;-70.5549;210v-F02-F05-F06-F06-F09-F19-F20-F20-F21-F22
 PF88;Parada 1 / (M) Plaza De Puente Alto;-33.6084;-70.5763;205-205e-210-213e-221e-222e-F16-F30N
 PF880;Av. Paseo Pie Andino Esq. / Cerro Providencia;-33.6023;-70.5558;210v-F02-F05-F06-F09-F19-F20-F21-F22
 PF881;Rafael Alberti Esq. / Dalí;-33.6131;-70.5885;F25
@@ -6322,7 +6325,7 @@ PF996;El Volcán Esq. / Los Suspiros;-33.61;-70.5246;F24
 PF997;El Volcán Esq. / El Bambú;-33.6091;-70.52;F01-F01c-F17-F24
 PF998;El Volcán Esq. / El Ombú;-33.6097;-70.5217;F24
 PF999;Independencia Esq. / Alto Pinar;-33.6009;-70.5813;F26
-PG1;Parada / (M) Lo Ovalle;-33.5184;-70.6593;201-223-229-301-G11-H03-I05-I12
+PG1;Parada / (M) Lo Ovalle;-33.5184;-70.6593;201-223-229-301-I12
 PG10;Parada 1 / Paradero 28 Gran Avenida;-33.5461;-70.6688;201-211-211c-301c2-F06-F20-G05-G15-G22
 PG100;General Franco Esq. / P. Aguirre Cerda;-33.5609;-70.638;203-203e-G11
 PG1000;Avenida Lo Blanco Esq. / General Silva;-33.5849;-70.6645;301c2-G08v-G16
@@ -6417,7 +6420,7 @@ PG1103;Rivadavia Esq. / Elías Fernández A.;-33.5277;-70.6415;G11
 PG1104;Rivadavia Esq. / Santa Ana;-33.525;-70.6409;G11
 PG1105;Rivadavia Esq. / Parroquia;-33.5221;-70.6402;G11
 PG1106;Rivadavia Esq. / Avenida Lo Ovalle;-33.5186;-70.6393;G11
-PG1107;Ciencias Esq. / Briones Luco;-33.5148;-70.6628;321-348-H07-H08
+PG1107;Ciencias Esq. / Briones Luco;-33.5148;-70.6628;321-348-G11-H03-H07-H08-I05
 PG1109;Rivadavia Esq. / Mirador;-33.5195;-70.6397;G11
 PG111;Parada 1 / Paradero 18 Santa Rosa;-33.5201;-70.6366;205-205e-207e-209-209e-230
 PG1110;Rivadavia Esq. / Parroquia;-33.5218;-70.6402;G11
@@ -6481,7 +6484,7 @@ PG1163;El Parrón Esq. / Chile España;-33.523;-70.671;G12-I12
 PG1164;Locarno Esq. / Quellón;-33.516;-70.6717;G12
 PG1165;Locarno Esq. / Berna;-33.5166;-70.6697;G12-G12
 PG1166;Locarno Esq. / San Luis;-33.5173;-70.6658;G12
-PG1167;Locarno Esq. / Paulina;-33.5182;-70.6613;321-348-G12-H07-H08
+PG1167;Locarno Esq. / Paulina;-33.5182;-70.6613;321-348-G12-H03-H07-H08-I05
 PG117;Parada 1 / Paradero 28 Santa Rosa;-33.5511;-70.6326;205-205e-207c-207e-209-209e-230
 PG1171;Julio Covarrubias Esq. / Avenida Sur;-33.5547;-70.661;G13-G16
 PG1172;Julio Chávez Esq. / D. Rebolledo ;-33.5806;-70.6576;206-302-302N-G11-G13
@@ -6770,15 +6773,15 @@ PG157;Avenida Lo Blanco Esq. / Tte. L. Cruz Martínez;-33.5855;-70.6602;301c2-G0
 PG1570;Eliodoro Yáñez Esq. / Altura Del 1840;-33.6686;-70.7388;G07
 PG1571;Eliodoro Yáñez Esq. / Altura Del 1810;-33.6681;-70.7356;G07
 PG1572;Eliodoro Yáñez Esq. / Av. Pdte. J. Alessandri;-33.666;-70.7207;G07
-PG1573;Parada 5 / (M) La Cisterna;-33.5392;-70.6646;211-228-301-301c2-428-428c-428e-F05-F06-F20-G04-G05-G08-G15-G16-G22
+PG1573;Parada 5 / (M) La Cisterna;-33.5392;-70.6646;211-228-301-301c2-428-428c-428e-F05-F06-F20-G04-G05-G08-G08v-G13-G15-G16-G22
 PG1574;Av. Pdte. J. Alessandri R. Esq. / Regina Gálvez;-33.6386;-70.7119;211-G02
 PG158;Avenida Lo Blanco Esq. / Av. San Francisco;-33.5852;-70.6629;301c2-G05
 PG1580;José Besa Esq. / Antonio Varas;-33.5982;-70.6939;201-201e-261e
 PG1581;José Besa Esq. / San José;-33.5987;-70.6943;201-201e-261e
 PG1582;Los Suspiros Esq. / Rinconada De Nos;-33.6241;-70.6923;G08v
-PG1583;Parada / Est. Intermodal La Cisterna;-33.5385;-70.6636;211c-211c-219e-301c2-301c-301c-G08v-G08v-G13-G13
+PG1583;Parada / Est. Intermodal La Cisterna;-33.5385;-70.6636;211c-211c-219e-228-228-301c2-301c-301c-428-428-428c-428c-428e-428e-F05-F05-F06-F06-F20-F20-G04-G04-G05-G05-G08-G08-G08v-G08v-G13-G13-G15-G15-G16-G16-G22-G22
 PG1584;Parada 1 / (M) La Cisterna;-33.5358;-70.6638;E05-G18
-PG1585;Parada / Est. Intermodal Lo Ovalle;-33.5173;-70.659;321-348-348-E02-E02-G12-G12-G18-G18-H07-H07-H08-H08
+PG1585;Parada / Est. Intermodal Lo Ovalle;-33.5173;-70.659;321-348-348-E02-E02-E03-E03-G11-G11-G12-G12-G18-G18-H03-H03-H07-H07-H08-H08-I05-I05
 PG1586;Parada 13 / (M) La Cisterna;-33.5358;-70.664;E05-G18
 PG1587;Paulina Esq. / Santa Corina;-33.5149;-70.661;321-348-H03-H07-H08-I05
 PG1588;Parada 4 / Parque Mapuhue;-33.5915;-70.6276;F06
@@ -6872,7 +6875,7 @@ PG1670;Julio Chávez Esq. / Julio Barrenechea;-33.5828;-70.6579;206-206e-302-302
 PG1671;Calle A Esq. / Los Nogales;-33.546;-70.6842;G01-G01c
 PG1672;Julio Covarrubias Esq. / Alejandro Guzman;-33.5566;-70.6615;G13-G16
 PG1673;Los Raulíes Esq. / Antonio Varas;-33.5628;-70.6656;203-G16
-PG1674;Parada / Paradero 18 Gran Avenida;-33.5162;-70.6587;G11-H03-I05-I12
+PG1674;Parada / Paradero 18 Gran Avenida;-33.5162;-70.6587;G12-I12
 PG1675;Vicuña Mackenna Esq. / Avenida Pero;-33.5443;-70.6557;228-G18
 PG1676;Vicuña Mackenna Esq. / San Pedro;-33.5447;-70.6532;228-G18
 PG1677;Batallón Chacabuco Esq. / El Fundador;-33.5905;-70.613;F06-G05
@@ -6961,7 +6964,7 @@ PG1762;Parada / Garden House;-33.5636;-70.7108;201e-261e
 PG1763;Avenida Portales Esq. / Frida Khalo;-33.629;-70.7035;211-G02-G07-G08v
 PG1764;Avenida Portales Esq. / Paulo Freire;-33.6266;-70.7024;211-G02-G07-G08v
 PG1765;Av. Pdte. J. Alessandri R. Esq. / Cam. La Vara Int. Sur;-33.5663;-70.7112;201e-261e
-PG1766;Caletera Acceso Sur Esq. / Dr. A. Neghme;-33.5975;-70.6073;G05-G13-G13
+PG1766;Caletera Acceso Sur Esq. / Dr. A. Neghme;-33.5975;-70.6073;G05-G05-G13-G13
 PG1767;Calle 6 Esq. / La Primavera;-33.5951;-70.6109;G13
 PG1768;Capilla De Nos Esq. / El Barrancón;-33.6363;-70.7228;G07
 PG1769;Capilla De Nos Esq. / Av. Pdte. J. Alessandri;-33.6364;-70.7226;G07
@@ -7057,7 +7060,7 @@ PG200;Av. Américo Vespucio Esq. / La Granja;-33.5399;-70.6508;118-211-229-302N-
 PG201;Av. Américo Vespucio Esq. / Blas Vial;-33.5391;-70.655;118-211-229-302N-302
 PG202;Av. Américo Vespucio Esq. / Uno Oriente;-33.5382;-70.6599;118-211-229-302N-302
 PG203;Parada 3 / (M) La Cisterna;-33.5374;-70.6632;118-211-229-302N-302-302e
-PG204;Parada 6 / (M) La Cisterna;-33.5397;-70.665;211-228-301-428-428c-428e-F05-F06-F20-G04-G05-G08-G15-G16-G18-G22
+PG204;Parada 6 / (M) La Cisterna;-33.5397;-70.665;211-301-G18
 PG205;José Joaquín Pérez Esq. / Nogales;-33.6025;-70.7031;211-211c-G07
 PG206;José Joaquín Pérez Esq. / Alfonso Donoso;-33.6058;-70.7042;211-211c-G07
 PG207;Eucaliptus Esq. / Bulnes;-33.6075;-70.7059;211-211c-G08-G08v
@@ -7124,12 +7127,12 @@ PG270;Av. J. J. Prieto Vial Esq. / Pdte. Adolfo López M;-33.5241;-70.6771;119-3
 PG271;Parada 2 / Estadio La Cisterna;-33.5208;-70.6755;214-302N-302-G12
 PG272;Av. J. J. Prieto Vial Esq. / Zurich Sur;-33.517;-70.6737;214-302N-302-G12
 PG273;Av. J. J. Prieto Vial Esq. / Pargua;-33.5152;-70.6728;214-302N-302
-PG274;Avenida Lo Ovalle Esq. / Nueva 2;-33.5112;-70.6697;214-227-321-348-H03-H05-H07-H08-I05
+PG274;Avenida Lo Ovalle Esq. / Nueva 2;-33.5112;-70.6697;214-227-321-348-G11-H03-H05-H07-H08-I05
 PG275;Bahía Catalina Esq. / Los Timbales;-33.5579;-70.6117;225-E09-E11-E13-E16-F05-F28N
 PG276;Bahía Catalina Esq. / General Arriagada;-33.5596;-70.6112;225-E09-E11-E13-E16-F05
 PG277;Bahía Catalina Esq. / San Miguel;-33.5618;-70.6106;225-E11-E13-E15-E15c-E16-F05-F28N-G18
-PG278;Avenida Lo Ovalle Esq. / Ciencias;-33.5134;-70.6626;226-227-321-348-H03-H07-H08-I05
-PG279;Parada 3 / Paradero 17 Gran Avenida;-33.5147;-70.6584;226-227-G11-H03-I05
+PG278;Avenida Lo Ovalle Esq. / Ciencias;-33.5134;-70.6626;226-227-321-348-G11-H03-H07-H08-I05
+PG279;Parada 3 / Paradero 17 Gran Avenida;-33.5147;-70.6584;226-227-G11-G12
 PG28;Urmeneta Esq. / 12 De Febrero;-33.5865;-70.7046;201-211-211c-G07
 PG280;Avenida Lo Ovalle Esq. / Esmeralda;-33.515;-70.6567;226-227-G11
 PG281;Avenida Lo Ovalle Esq. / Angamos;-33.5156;-70.6538;226-227-G11
@@ -7140,7 +7143,7 @@ PG285;Avenida Lo Ovalle Esq. / San Francisco;-33.5174;-70.6448;226-227-G11-I12
 PG286;Avenida Lo Ovalle Esq. / Alvear;-33.5179;-70.6422;226-227-G11-I12
 PG287;Avenida Lo Ovalle Esq. / Rivadavia;-33.5184;-70.6395;226-227-G11-I12
 PG288;Rivadavia Esq. / Mirador;-33.5199;-70.6397;227-G11
-PG289;Avenida Lo Ovalle Esq. / Colón;-33.5122;-70.6663;227-321-348-H03-H07-H08-I05
+PG289;Avenida Lo Ovalle Esq. / Colón;-33.5122;-70.6663;227-321-348-G11-H03-H07-H08-I05
 PG29;Urmeneta Esq. / Av. Colón Norte;-33.5891;-70.7056;201-211-211c-G07
 PG290;Vicuña Mackenna Esq. / Santa Josefina;-33.5428;-70.6652;228-F05-G04-G08-G08v-G13-G16-G18
 PG291;Vicuña Mackenna Esq. / San Miguel;-33.5432;-70.6624;228-F05-G04-G08-G08v-G13-G16-G18
@@ -7280,7 +7283,7 @@ PG418;Capricornio Esq. / Goycolea;-33.5354;-70.6824;428-428c-428e
 PG421;Avenida Lo Espejo Esq. / Pablo Neruda;-33.5333;-70.7012;105-125-H03-H12
 PG422;Avenida Lo Espejo Esq. / Ferrari;-33.5349;-70.6971;119-H03
 PG423;Parada 10 / (M) Santa Rosa;-33.5413;-70.6343;E01-E02
-PG425;Ciencias Esq. / Sergio Ceppi;-33.5164;-70.6633;321-348-E02-E03-G18-H07-H08
+PG425;Ciencias Esq. / Sergio Ceppi;-33.5164;-70.6633;321-348-E02-E03-G11-G11-G18-H03-H07-H08-I05
 PG426;Ciencias Esq. / Zurich Sur;-33.5189;-70.664;E02-E03-G18
 PG427;General Freire Esq. / Paulina;-33.5202;-70.6617;E02
 PG428;Parada 4 / Paradero 19 Gran Avenida;-33.5206;-70.6601;E02
@@ -7302,10 +7305,10 @@ PG441;General Freire Esq. / Iquique;-33.5224;-70.6504;E02
 PG442;General Freire Esq. / Angamos;-33.5215;-70.6549;E02
 PG443;Parada 3 / Paradero 19 Gran Avenida;-33.5207;-70.6593;E02
 PG444;General Freire Esq. / Paulina;-33.5203;-70.6612;E02-G18
-PG445;Paulina Esq. / Locarno;-33.5186;-70.6609;E02-E03-G11-G18-H03-I05
+PG445;Paulina Esq. / Locarno;-33.5186;-70.6609;E02-E03-G18
 PG446;Carvajal Esq. / Ciencias;-33.5156;-70.6628;E02-E03-G12
-PG447;Sergio Ceppi Esq. / Colón;-33.5156;-70.667;G12
-PG448;Sergio Ceppi Esq. / Nueva 1;-33.5148;-70.6696;G12
+PG447;Sergio Ceppi Esq. / Colón;-33.5156;-70.667;G11-G12
+PG448;Sergio Ceppi Esq. / Nueva 1;-33.5148;-70.6696;G11-G12
 PG45;Parada 2 / Paradero 39 Gran Avenida;-33.5768;-70.6924;201-211-211c
 PG451;Colón Esq. / Zurich Sur;-33.5181;-70.6681;G12
 PG452;General Freire Esq. / Ciencias;-33.5198;-70.6643;G12
@@ -7442,7 +7445,7 @@ PG586;Bernardino Parada Esq. / Cautín;-33.5793;-70.6449;206-F06
 PG587;Bernardino Parada Esq. / Punta De Horcón;-33.5795;-70.6423;206-F06
 PG588;Bernardino Parada Esq. / Playa Cartagena;-33.579;-70.6409;206-F06
 PG589;J. Manuel Balmaceda Esq. / Porto Alegre;-33.579;-70.6387;206-206e-F06
-PG59;Parada 2 / Paradero 27 Gran Avenida;-33.5431;-70.6661;201-211-223-228-301-428-428c-F05-G04-G05-G08-G15-G16-G22
+PG59;Parada 2 / Paradero 27 Gran Avenida;-33.5431;-70.6661;201-211-223-228-301-428c
 PG590;Ciudad De México Esq. / Tala;-33.5851;-70.6374;F06-F20-G05-G13
 PG591;Ciudad De México Esq. / Patagonia;-33.5854;-70.6346;F06-F20-G05-G13
 PG592;Ciudad De México Esq. / Aníbal Pinto;-33.5858;-70.6317;F06-F20-G05-G13
@@ -7452,12 +7455,12 @@ PG595;Avenida Santa Rosa Esq. / Lautaro;-33.5915;-70.6281;G13
 PG596;Parada 3 / Paradero 41 Santa Rosa;-33.5951;-70.627;G13
 PG597;El Ombú Esq. / El Ciruelillo;-33.5951;-70.6245;G13
 PG6;Parada / Iglesia Don Bosco;-33.5313;-70.6628;201-223-229-301
-PG60;Parada 2 / Liceo Laura Vicuña;-33.5404;-70.6649;228-428-428c-428e-F05-F06-F20-G04-G05-G08-G15-G16-G22
+PG60;Parada 2 / Liceo Laura Vicuña;-33.5404;-70.6649;428-F05-G04-G08-G08v-G13-G15-G16-G22
 PG600;Batallón Chacabuco Esq. / Avenida Juanita;-33.5909;-70.6191;F06
 PG601;Batallón Chacabuco Esq. / Soldado Lira;-33.5908;-70.6172;F06-G05
 PG602;Batallón Chacabuco Esq. / Soldado Martínez;-33.5909;-70.6156;F06-G05
 PG603;Batallón Chacabuco Esq. / El Sagrario;-33.5903;-70.6104;F06-G05
-PG604;Batallón Chacabuco Esq. / El Sagrario;-33.5902;-70.6101;F06
+PG604;Batallón Chacabuco Esq. / El Sagrario;-33.5902;-70.6101;F06-G05
 PG605;Batallón Chacabuco Esq. / Los Alcaldes;-33.5904;-70.6123;F06-G05
 PG606;Batallón Chacabuco Esq. / Soldado Martínez;-33.5906;-70.6153;F06-G05
 PG607;Soldado Lira Esq. / B. Chacabuco;-33.5906;-70.6171;F06-G05
@@ -7682,7 +7685,7 @@ PG828;Av. Santo Tomás Esq. / Las Parcelas;-33.5575;-70.62;G04
 PG829;Av. Las Parcelas Esq. / Aníbal Hunneus;-33.5598;-70.6189;G04
 PG83;Av. Pdte. J. Alessandri R. Esq. / Rodeo;-33.5769;-70.7127;201e
 PG830;General Arriagada Esq. / Los Olmecas;-33.5614;-70.6163;G01-G04-G15-G18
-PG832;La Serena Esq. / San Miguel;-33.5621;-70.6128;G01-G04
+PG832;La Serena Esq. / San Miguel;-33.5621;-70.6128;G01-G04-G15
 PG833;La Serena Esq. / General Arriagada;-33.5606;-70.6144;G01-G04-G15
 PG834;La Serena Esq. / Pasaje Otelo;-33.5593;-70.6154;G04
 PG835;La Serena Esq. / Av. Santo Tomás;-33.557;-70.616;G04
@@ -7747,7 +7750,7 @@ PG895;Porto Alegre Esq. / Ciudad De México;-33.5851;-70.6392;G05-G13
 PG896;Avenida Juanita Esq. / Miguel Angel;-33.5863;-70.6194;G05
 PG897;Avenida Juanita Esq. / Isla Condor;-33.589;-70.6192;G05
 PG898;Avenida Juanita Esq. / B. Chacabuco;-33.5907;-70.619;G05
-PG9;Parada 1 / Paradero 27 Gran Avenida;-33.5426;-70.6661;201-211-223-428-428c-428e-F06-F20-G05-G15
+PG9;Parada 1 / Paradero 27 Gran Avenida;-33.5426;-70.6661;201-211-223
 PG90;Parada 3 / Paradero 18 Santa Rosa;-33.5223;-70.6363;203-206-212-227-E05
 PG900;El Ombú Esq. / Sexto De Línea;-33.5945;-70.616;G13
 PG901;El Ombú Esq. / El Fundador;-33.5942;-70.6127;G13
@@ -7835,7 +7838,7 @@ PH10;Av. Departamental Esq. / 1ª Transversal;-33.5026;-70.6581;102-107-108-222e
 PH100;Alc.Carlos Valdovinos Esq. / Juan De Bastidas;-33.479;-70.6606;113-115-125-H04-H06
 PH101;Alc.Carlos Valdovinos Esq. / Los Talaveras;-33.4789;-70.6581;113-115-125-H04-H06
 PH102;Alc.Carlos Valdovinos Esq. / Av. J. J. Prieto Vial;-33.4789;-70.6567;H04-H06
-PH103;Alc.Carlos Valdovinos Esq. / Av. J. J. Prieto Vial;-33.4787;-70.655;115-H04-H06
+PH103;Alc.Carlos Valdovinos Esq. / Av. J. J. Prieto Vial;-33.4787;-70.655;113-115-H04-H06
 PH104;Alc.Carlos Valdovinos Esq. / Los Talaveras;-33.4787;-70.6579;113-115-125-H04-H06
 PH105;Alc.Carlos Valdovinos Esq. / Urzúa;-33.4787;-70.6624;113-115-125-H04-H06
 PH106;Alc.Carlos Valdovinos Esq. / Club Hípico ;-33.4786;-70.6645;113-115-125-H04-H06
@@ -7901,7 +7904,7 @@ PH1455;Av. Departamental Esq. / Av. Las Industrias;-33.5074;-70.6254;102-107-108
 PH1456;Av. Departamental Esq. / Av. Las Industrias;-33.5076;-70.6267;102-107-108-212-222e-E04
 PH1457;18 De Septiembre Esq. / Bermann;-33.5141;-70.6459;H14
 PH1458;18 De Septiembre Esq. / Vargas Buston;-33.51;-70.645;H14
-PH1459;San Ignacio Esq. / Av.Carlos Valdovinos;-33.4787;-70.6539;115
+PH1459;San Ignacio Esq. / Av.Carlos Valdovinos;-33.4787;-70.6539;113-115
 PH146;Parada 7 / Departamental Santa Rosa;-33.5066;-70.6387;203-203e-206-206e-212
 PH1460;Av. Las Industrias Esq. / Alc. P. Alarcón;-33.4902;-70.6295;E04
 PH1461;Clotario Blest Esq. / Lincoln;-33.5105;-70.6846;I12
@@ -7949,7 +7952,7 @@ PH150;Parada 4 / Paradero 16 Santa Rosa;-33.5173;-70.6367;203-203e-206-206e-212
 PH1500;Av. J. J. Prieto Vial Esq. / Concón;-33.5164;-70.6741;214-302-302N
 PH1501;Avenida Lo Ovalle Esq. / Armada Nacional;-33.5043;-70.6885;H03-H08
 PH1502;Salesianos Esq. / Romeo;-33.4897;-70.6617;H09-H12-H13
-PH1503;Parada 4 / (M) Carlos Valdovinos;-33.4874;-70.619;D10-D10-H02-H02
+PH1503;Parada 4 / (M) Carlos Valdovinos;-33.4874;-70.619;D10-D10-D10-H02-H02
 PH1504;Inés De Suárez Esq. / La Calera;-33.5126;-70.6829;I05
 PH1505;Lucila Godoy Esq. / Isabel Riquelme;-33.5147;-70.6829;321-I12
 PH1506;Lucila Godoy Esq. / Inés De Suárez;-33.5144;-70.6838;I05
@@ -7960,7 +7963,7 @@ PH1510;Sierra Bella Esq. / Lucrecia Fernández;-33.4871;-70.6324;E04
 PH1511;Pedro Lira Esq. / Francisco Mandiola;-33.5249;-70.702;321-345-346N
 PH1512;Gil De Castro Esq. / Exequiel Plaza;-33.5242;-70.6993;321-345-346N
 PH1513;Gil De Castro Esq. / Avenida Central;-33.5248;-70.6988;105-121-125-H03-H08-H12-I12
-PH1514;Gil De Castro Esq. / Pedro Lira;-33.524;-70.6994;321-345-346N-H06
+PH1514;Gil De Castro Esq. / Pedro Lira;-33.524;-70.6994;321-345-345-346N-H06
 PH1516;Buenaventura Esq. / Arturo Alessandri;-33.5081;-70.6868;121-345
 PH1517;Av. Departamental Esq. / Alcibiades;-33.4991;-70.6694;H05c
 PH1518;Av. Departamental Esq. / Alcibiades;-33.4992;-70.6698;H05c
@@ -8086,8 +8089,8 @@ PH245;Avenida Lo Ovalle Esq. / Macaroff;-33.5176;-70.643;226-227-G11-I12
 PH246;Avenida Lo Ovalle Esq. / San Petersburgo;-33.5168;-70.6475;226-227-G11-I12
 PH247;Avenida Lo Ovalle Esq. / María;-33.5161;-70.6509;226-227-G11-I12
 PH248;Avenida Lo Ovalle Esq. / Esmeralda;-33.5152;-70.6554;226-227-G11-I12
-PH249;Parada 4 / Paradero 17 Gran Avenida;-33.5147;-70.6577;226-227-I12
-PH250;Avenida Lo Ovalle Esq. / 2ª Transversal;-33.5135;-70.6618;227-321-348-H03-H07-H08-I05
+PH249;Parada 4 / Paradero 17 Gran Avenida;-33.5147;-70.6577;226-227-G11-I12
+PH250;Avenida Lo Ovalle Esq. / 2ª Transversal;-33.5135;-70.6618;227-321-348-G11-H03-H07-H08-I05
 PH251;Avenida Lo Ovalle Esq. / 4ª Transversal;-33.512;-70.6669;227-321-348-H03-H07-H08-I05
 PH252;Avenida Lo Ovalle Esq. / Pasaje 4;-33.511;-70.6702;214-227-321-348-H03-H05-H07-H08-I05
 PH253;Avenida Lo Ovalle Esq. / Las Magnolias;-33.5094;-70.674;227-321-348-H03-H05-H07-H08-I05
@@ -8291,7 +8294,7 @@ PH456;Parada 5 / Paradero 9 Santa Rosa;-33.4953;-70.6402;H02
 PH457;Av.Pdte.Salvador Allende Esq. / San Gregorio;-33.4956;-70.6363;H02
 PH458;Av.Pdte.Salvador Allende Esq. / Martín Henríquez;-33.4958;-70.633;H02
 PH459;Av.Pdte.Salvador Allende Esq. / Juan Rivadeneira;-33.4959;-70.6316;E04-H02
-PH46;Avenida Haydn Esq. / Entre Lagos;-33.5098;-70.6208;103-117-I12
+PH46;Avenida Haydn Esq. / Entre Lagos;-33.5098;-70.6208;103-117-117-I12
 PH460;Av.Pdte.Salvador Allende Esq. / Av. Las Industrias;-33.4962;-70.6288;H02
 PH461;Av.Pdte.Salvador Allende Esq. / Avenida Haydn;-33.4964;-70.6236;H02
 PH462;Av.Pdte.Salvador Allende Esq. / Canadá;-33.4965;-70.6216;H02
@@ -8299,7 +8302,7 @@ PH463;Parada 3 / Paradero 6 Av.Vicuña Mackenna;-33.4962;-70.6169;H02-H09
 PH464;Avenida Lo Ovalle Esq. / 3ª Transversal;-33.5127;-70.6646;348-H03-H07-I05
 PH465;Avenida Lo Ovalle Esq. / Arturo Alessandri;-33.5053;-70.6857;348-H03-H08
 PH466;Avenida Lo Ovalle Esq. / Avenida Central;-33.5036;-70.6905;348-H03-H08
-PH467;Pedro Lira Esq. / Francisco Mandiola;-33.5246;-70.7015;321-345-346N-H06
+PH467;Pedro Lira Esq. / Francisco Mandiola;-33.5246;-70.7015;321-345-345-346N-H06
 PH468;Pedro Lira Esq. / Juan Fco. González;-33.5254;-70.7036;H06-H08-H12
 PH47;Avenida Haydn Esq. / Psje. Lago Rupanco;-33.5126;-70.6202;103-117-385-I12
 PH472;Avenida Lo Espejo Esq. / Juan Fco. González;-33.5324;-70.704;105-125-H03-I12
@@ -8509,7 +8512,7 @@ PH690;Lucila Godoy Esq. / Huasco;-33.5155;-70.6805;321-I12
 PH691;Huasco Esq. / Av.Pdte.S.Allende;-33.5174;-70.6812;321
 PH692;Guanajuato Esq. / México;-33.5198;-70.6822;214-321-H13
 PH693;Guanajuato Esq. / Pdte. A. López Mateo;-33.521;-70.6828;214-321-H13
-PH695;Pdte. López Mateos Esq. / Hermosilla;-33.5228;-70.6785;214-321-H13
+PH695;Pdte. López Mateos Esq. / Hermosilla;-33.5228;-70.6785;214-321-H13-H13
 PH696;Av. Edo. Frei Montalva Esq. / Hermosilla;-33.5248;-70.679;321
 PH7;Av. Departamental Esq. / Av. J. J. Prieto Vial;-33.5003;-70.667;102-107-108-H05c
 PH700;Avenida Del Ferrocarril Esq. / Pasaje 19 Sur;-33.5176;-70.6868;321-I05
@@ -8694,7 +8697,7 @@ PI1071;Río Quetro Esq. / Pasaje Quillagua;-33.4688;-70.7061;385-I10-I10N
 PI1072;Río Quetro Esq. / Av. Las Rejas Sur;-33.4688;-70.7049;385-I10-I10N
 PI1073;Constantino Esq. / Porto Seguro;-33.4481;-70.6962;I10-J10
 PI1074;Parada / Liceo Iasura Dinator;-33.4471;-70.6794;I10-I17
-PI1075;Parada 9 / (M) Estación Central;-33.4504;-70.6791;313e-313e-I10-I17
+PI1075;Parada 9 / (M) Estación Central;-33.4504;-70.6791;313e-I10-I17
 PI1076;Avenida Ecuador Esq. / Ob. Manuel Umaña;-33.4508;-70.6854;346N-385-I10N-I10-I17
 PI1077;Avenida Ecuador Esq. / Ruiz Tagle;-33.4507;-70.6882;346N-385-I10N-I10-I16-I17
 PI1078;Avenida Ecuador Esq. / Francisco Javier;-33.4518;-70.6935;I10N-I10
@@ -8845,7 +8848,7 @@ PI1220;Uspallata Esq. / Pingüinos;-33.4715;-70.6962;I16
 PI1221;Uspallata Esq. / Capitán Gálvez;-33.4687;-70.6964;I16
 PI1222;Arz. Subercaseaux Esq. / Lautaro;-33.4672;-70.6955;I17
 PI1223;Arz. Subercaseaux Esq. / Hermanos Eyraud;-33.467;-70.6933;I17
-PI1230;Parada 5 / (M) San Alberto Hurtado;-33.4547;-70.6921;I08-I08
+PI1230;Parada 5 / (M) San Alberto Hurtado;-33.4547;-70.6921;I08-I08-I08
 PI1231;Las Tinajas Esq. / San Gregorio;-33.5159;-70.7881;I02
 PI1232;1° De Mayo Esq. / Mariquina;-33.4844;-70.6789;345
 PI1233;Carlos Marx Esq. / Libertad;-33.4849;-70.6782;345
@@ -9151,7 +9154,7 @@ PI1574;Avenida 4 Poniente Esq. / José M. Borgoño;-33.5089;-70.7904;109N-109-34
 PI1575;Avenida El Olimpo Esq. / El Champion;-33.5089;-70.7755;419-I07-I09e
 PI1576;José Manuel Borgoño Esq. / Antofagasta;-33.5096;-70.7969;I18
 PI1577;José Manuel Borgoño Esq. / Avenida 4 Poniente;-33.5087;-70.7906;I18
-PI1578;René Olivares Esq. / Osman Pérez Freire;-33.5407;-70.7859;108-118-419-506-509-I01-I03-I10N-I10-I21
+PI1578;René Olivares Esq. / Osman Pérez Freire;-33.5407;-70.7859;108-118-118-419-506-509-I01-I03-I10N-I10-I21
 PI158;Avenida El Olimpo Esq. / Nueva San Martín;-33.5242;-70.7755;108-118-419-509
 PI1580;14 De Octubre Esq. / Héctor Orrego;-33.4993;-70.7268;I04-I14
 PI1581;Camino A Rinconada Esq. / La Galaxia;-33.5066;-70.7958;350-I05-I09-I09c-I24
@@ -9264,7 +9267,7 @@ PI175;Parada 1 / Plaza Melipilla;-33.4691;-70.6791;109-109N
 PI176;Av. Pedro Aguirre Cerda Esq. / Ob. Manuel Umaña;-33.4713;-70.6821;109-109N-I18
 PI177;Av. Pedro Aguirre Cerda Esq. / Hipólito Villegas;-33.4734;-70.6849;109-109N-I18
 PI178;Av. Pedro Aguirre Cerda Esq. / Manuel Chacón;-33.4763;-70.6888;109-109N-I16-I18
-PI1788;Parada / Est. Intermodal Del Sol;-33.4895;-70.7527;I07-I08c-I09e-I22-I22
+PI1788;Parada / Est. Intermodal Del Sol;-33.4895;-70.7527;I07-I08-I08-I08c-I09e-I22-I22
 PI179;Av. Pedro Aguirre Cerda Esq. / Los Cisnes;-33.4789;-70.6917;109-109N-113-115-I01-I18
 PI1790;Avenida Grecia Esq. / El Cid;-33.5129;-70.7729;I03
 PI1791;Parada 3 / Hospital Maipú;-33.509;-70.7747;108-109-109N-118-348-350-I03-I05-I09-I09c-I18-I24
@@ -9333,7 +9336,7 @@ PI232;Avenida Los Pajaritos Esq. / Av. Pérez Llona;-33.5015;-70.7573;106-110-11
 PI233;Avenida Los Pajaritos Esq. / Alhué;-33.4987;-70.7573;106-110-111-401-401N-405-413c-421-431c-506-506e-506v-I09-I09c
 PI234;Parada 2 / (M) Santiago Bueras;-33.4955;-70.7572;106-110-111-401-401N-405-413c-416e-417e-419-421-431c-506-506v-I07-I09-I09c-I12
 PI235;Parada 2 / Paradero 14 Pajaritos;-33.4929;-70.7554;106-110-111-401-401N-405-413c-419-421-431c-506-506v-I07-I09-I09c-I09e
-PI236;Parada 2 / (M) Del Sol;-33.4888;-70.7517;106-401-401N-405-413c-419-421-431c-506-506e-506v-I08-I08N-I09-I09c
+PI236;Parada 2 / (M) Del Sol;-33.4888;-70.7517;106-401-401N-405-413c-419-421-431c-506-506e-506v-I08N-I09-I09c
 PI237;Parada / Mall Arauco Maipú;-33.4835;-70.7528;110-111-428-428c-I07-I08N
 PI238;Av. Américo Vespucio Esq. / Santa Elena;-33.4793;-70.7551;110-111-428-428c-I07-I08N
 PI239;Parada / Colegio Alicante De Maipú;-33.4746;-70.758;110-428-428c-I02-I08N-I08
@@ -9352,8 +9355,8 @@ PI25;El Mirador Esq. / Don Orione;-33.5049;-70.7178;101-101c-I04-I14
 PI250;Longitudinal Esq. / Santa Elena;-33.4786;-70.7494;111-I02-I07-I08N
 PI251;Parada / Mall Arauco Maipú Santa Elena;-33.4791;-70.7526;111-I02-I07-I08N
 PI252;Santa Elena Esq. / Av. A. Vespucio;-33.4791;-70.7549;111-I02-I07-I08N
-PI253;Parada 3 / (M) Del Sol;-33.4888;-70.7522;106-110-111-401N-401-405-413c-419-421-431c-506-506e-506v-I08-I08N-I09-I09c-I09e
-PI254;Parada 1 / (M) Del Sol;-33.4893;-70.7526;I07-I08N-I08
+PI253;Parada 3 / (M) Del Sol;-33.4888;-70.7522;106-110-111-401N-401-405-413c-419-421-431c-506-506e-506v-I08N-I09-I09c-I09e
+PI254;Parada 1 / (M) Del Sol;-33.4893;-70.7526;I07-I08N
 PI255;Parada 4 / (M) Del Sol;-33.4889;-70.7516;110-111-I07
 PI256;Parada / Mall Arauco Maipú Santa Elena;-33.4793;-70.752;111-I07-I08N
 PI257;Longitudinal Esq. / Erick Van Dyck;-33.4775;-70.7491;111-I07-I08N
@@ -9446,9 +9449,9 @@ PI338;Judea Esq. / Jorge Guerra;-33.5403;-70.7702;115-I04-I04c
 PI339;Parada 3 / Concón;-33.4552;-70.696;210-210v-401-401N-405-412-418-421-510-511-516-541N-J10-J13
 PI34;Parada / Parque Lo Errázuriz;-33.4857;-70.7246;101-101c-I04-I13-I14
 PI340;Parada 3 / (M) San Alberto Hurtado;-33.4538;-70.6894;106-210-210v-221e-346N-404-407-419-423-424-427
-PI341;Parada 1 / (M) Universidad De Santiago;-33.453;-70.6866;210-210v-221e-346N-401-401N-407-421-427-541N-I08N-I09-I09e-I10N-I14-I16-J10
-PI342;Parada 1 / San Borja;-33.4518;-70.681;106-404-419-423-424-510-I09-I09e-I14-J13
-PI343;Parada 6 / (M) Estación Central;-33.4509;-70.6784;106-210-210v-221e-346N-385-404-419-423-424-516-I08N-I09-I09e-I10N-I14-I17
+PI341;Parada 1 / (M) Universidad De Santiago;-33.453;-70.6866;210-210v-221e-346N-401-401N-407-421-427-541N-I08N-I09-I09e-I10N-I14-I14-I16-J10
+PI342;Parada 1 / San Borja;-33.4518;-70.681;106-404-419-423-424-510-I09-I09e-I14-I14-J13
+PI343;Parada 6 / (M) Estación Central;-33.4509;-70.6784;106-210-210v-221e-346N-385-404-419-423-424-516-I08N-I09-I09e-I10N-I14-I14-I17
 PI344;Parada 4 / San Borja;-33.4516;-70.6818;210-210v-313e-404-I08N-I09-I09e-I14-J10
 PI345;Parada 2 / (M) Universidad De Santiago;-33.4527;-70.6869;210-210v-407-412-418-424-427-510-511-516-J13
 PI346;Avenida Ecuador Esq. / Av. Padre A. Hurtado;-33.4513;-70.6913;346N-385-I10N-I10-I16-I17
@@ -9672,7 +9675,7 @@ PI560;A. Silva Carvallo Esq. / Los Franciscanos;-33.5276;-70.7631;506-506v-I01
 PI561;A. Silva Carvallo Esq. / Los Diamantes;-33.5281;-70.7668;506-506e-506v-I01
 PI562;A. Silva Carvallo Esq. / Cassandra;-33.5282;-70.7689;506-506e-506v
 PI563;A. Silva Carvallo Esq. / Monte Palomar;-33.5294;-70.7714;506-506e-506v
-PI564;René Olivares Esq. / Volcán Quizapu;-33.5417;-70.7873;108-118-419-506-509-I01-I03-I10N-I10-I21
+PI564;René Olivares Esq. / Volcán Quizapu;-33.5417;-70.7873;108-118-118-419-506-509-I01-I03-I10N-I10-I21
 PI565;Avenida Los Pajaritos Esq. / Cam. Melipilla;-33.5262;-70.7572;106-401-401N-431c-431v-506-506v
 PI566;Parada / Liceo Domingo Matte;-33.516;-70.7546;509-I02
 PI567;4 Álamos Esq. / Santa Gemita;-33.5161;-70.75;509-I02
@@ -9748,10 +9751,10 @@ PI637;Diagonal Oriente Esq. / Av. Pedro De Valdivia;-33.4455;-70.6064;D18
 PI638;Battle Y Ordóñez Esq. / Av. Ricardo Lyon;-33.4451;-70.6031;D18
 PI639;Battle Y Ordóñez Esq. / Avenida Los Leones;-33.4447;-70.5994;D18
 PI64;Parada 2 / 5 De Abril Las Rejas;-33.465;-70.705;102-107-I10-I10N
-PI640;Parada / Mall Plaza Oeste Camino Lonquén;-33.5174;-70.7208;H03-I24
+PI640;Parada / Mall Plaza Oeste Camino Lonquén;-33.5174;-70.7208;H03-I12-I24
 PI641;Camino A Lonquén Esq. / Camino Sin Nombre;-33.5157;-70.7195;H03-I12-I14-I24
 PI642;Parada / Homecenter Oeste;-33.5187;-70.714;H03-I12-I24
-PI643;Avenida Aeropuerto Esq. / Vista Clara;-33.5204;-70.7151;H03-I12-I14
+PI643;Avenida Aeropuerto Esq. / Vista Clara;-33.5204;-70.7151;H03-I12
 PI644;René Olivares Esq. / Avenida 3 Poniente;-33.5327;-70.7741;506v-I01
 PI645;Avenida 3 Poniente Esq. / Inocencio Pinto D.;-33.5333;-70.7732;506v-I01
 PI646;Avenida 3 Poniente Esq. / Av. Del Ferrocarril;-33.5359;-70.7709;I01
@@ -10058,9 +10061,9 @@ PI961;Parada / Escuela De Suboficiales;-33.5;-70.8245;I24
 PI962;Germán Greves Esq. / Los Aromos;-33.5086;-70.8241;I24
 PI963;Germán Greves Esq. / Central;-33.5089;-70.8262;I24
 PI964;Central Esq. / Campos De Deportes;-33.5112;-70.8265;I24
-PI965;José Garrido Esq. / Cam. A Rinconada;-33.5129;-70.8254;I24
-PI966;Camino A Rinconada Esq. / Vecinal;-33.5152;-70.8283;I24
-PI967;Camino A Rinconada Esq. / Camino Vecinal;-33.5152;-70.8325;I24
+PI965;José Garrido Esq. / Cam. A Rinconada;-33.5129;-70.8254;I24-I24
+PI966;Camino A Rinconada Esq. / Vecinal;-33.5152;-70.8283;I24-I24
+PI967;Camino A Rinconada Esq. / Camino Vecinal;-33.5152;-70.8325;I24-I24
 PI97;Avenida El Olimpo Esq. / Avenida Sur;-33.5217;-70.7753;108-118-419-509
 PI970;Av. El Conquistador Esq. / San José;-33.5177;-70.797;348
 PI971;Av. El Conquistador Esq. / Avenida Portales;-33.5198;-70.797;348
@@ -10073,10 +10076,9 @@ PI978;4 Álamos Esq. / Av. Del Ferrocarril;-33.5163;-70.7448;348
 PI979;Avenida Del Ferrocarril Esq. / Jose M. Irarrázaval;-33.5137;-70.7419;348
 PI98;Avenida El Olimpo Esq. / Avenida Portales;-33.5183;-70.7753;108-118-419-509
 PI980;Parada 4 / Portal Maipú;-33.5108;-70.7404;348
-PI981;Avenida Aeropuerto Esq. / Avenida Lo Espejo;-33.5233;-70.7165;H03-I12-I14
-PI982;Avenida Aeropuerto Esq. / Avenida Lo Espejo;-33.5262;-70.7181;I14
-PI983;Parada / Viña Canepa;-33.5263;-70.7197;H03-I14
-PI984;Avenida Lo Espejo Esq. / Camino A Lonquén;-33.524;-70.726;H03-I14
+PI981;Avenida Aeropuerto Esq. / Avenida Lo Espejo;-33.5233;-70.7165;H03-I12
+PI983;Parada / Viña Canepa;-33.5263;-70.7197;H03
+PI984;Avenida Lo Espejo Esq. / Camino A Lonquén;-33.524;-70.726;H03
 PI985;Camino A Lonquén Esq. / Los Yacimientos;-33.5314;-70.7325;I24
 PI986;Camino A Lonquén Esq. / Cerro Sombrero;-33.5365;-70.7369;I24
 PI988;Santa Marta Esq. / Henry Ford;-33.5414;-70.7416;I24
@@ -10268,7 +10270,7 @@ PJ1614;Camino Renca Lampa Esq. / Camino A Lampa;-33.3718;-70.7858;J07e
 PJ1615;Camino Renca Lampa Esq. / Cam. Aguas Claras;-33.372;-70.7853;J07
 PJ1616;Camino Renca Lampa Esq. / Alejandro Dip;-33.3848;-70.8091;J07e
 PJ162;Parada 2 / Vespucio San Pablo;-33.4438;-70.7789;428-428c-428e-J07e-J17
-PJ1620;J. M. Guzmán Riesco Esq. / Río Viejo Sur;-33.4269;-70.7721;418-418-422-422
+PJ1620;J. M. Guzmán Riesco Esq. / Río Viejo Sur;-33.4269;-70.7721;418-418-418-422-422
 PJ1621;Avenida Del Canal Esq. / Aurora;-33.4518;-70.8517;J12
 PJ1622;Avenida Del Canal Esq. / La Flores;-33.4518;-70.8498;J12
 PJ1623;Avenida Del Canal Esq. / Las Loicas;-33.4487;-70.8433;J12
@@ -10423,7 +10425,7 @@ PJ177;Parada / (M) Lo Prado;-33.4434;-70.7161;402-406-407-422-426-427-J13
 PJ1770;Federico Errázuriz Esq. / El Nogal;-33.4222;-70.7599;J04
 PJ1771;Av. Teniente Cruz Esq. / Los Placeres;-33.4272;-70.7404;110-110c
 PJ1772;Av. Teniente Cruz Esq. / Los Placeres;-33.4276;-70.7405;110-110c
-PJ1774;Parada 3 / Tropezón;-33.4312;-70.6925;105-109-120-313e-505-513
+PJ1774;Parada 3 / Tropezón;-33.4312;-70.6925;105-109-120-505-513
 PJ1775;Av. José Jo. Pérez Esq. / Ladrillero;-33.4317;-70.6963;503-504-507-517-518-J02
 PJ1776;Avenida San Pablo Esq. / Las Madreselvas;-33.4444;-70.7265;402-406-407-422-426-427-511
 PJ1777;Parada / Villa Los Poetas;-33.4446;-70.7339;402-406-407-422-426-427-511-J15c-J20
@@ -10494,7 +10496,7 @@ PJ1941;Serrano Esq. / Las Fragatas;-33.418;-70.7632;J05-J20
 PJ1942;Serrano Esq. / Austeridad;-33.4162;-70.7632;J05-J20
 PJ1943;Serrano Esq. / La Capilla;-33.415;-70.7632;J05-J20
 PJ1944;Serrano Esq. / Los Cormoranes;-33.415;-70.7633;J05-J20
-PJ1945;Avenida San Pablo Esq. / Altura Del 11000;-33.443;-70.7885;402-406-426-427-428c
+PJ1945;Avenida San Pablo Esq. / Altura Del 11000;-33.443;-70.7885;402-406-426-427-428c-428c
 PJ1946;General Buendía Esq. / Princeton;-33.4527;-70.7286;J19
 PJ198;Federico Errázuriz Esq. / Av. San Daniel;-33.4302;-70.7621;422-507
 PJ199;Serrano Esq. / Carmen;-33.4299;-70.7653;418-504-541N-J10-J18-J18c
@@ -11219,7 +11221,7 @@ PJ966;Parada / Colegio Saint Orland;-33.417;-70.7575;502c-J13-J13c
 PJ967;Salvador Gutiérrez Esq. / El Arrollo;-33.4168;-70.7557;502c-J13-J13c
 PJ968;Salvador Gutiérrez Esq. / Avenida La Estrella;-33.4166;-70.7535;502c-J13-J13c
 PJ969;Santos Luis Medel Esq. / Rodas;-33.4211;-70.7329;J13-J13c
-PJ97;Parada 2 / (M) Gruta De Lourdes;-33.4381;-70.691;109-313e-505-508-513-J05-J16
+PJ97;Parada 2 / (M) Gruta De Lourdes;-33.4381;-70.691;109-505-508-513-J05-J16
 PJ970;Santos Luis Medel Esq. / Avenida Mapocho;-33.4231;-70.733;J13-J13c
 PJ971;Avenida Las Torres Esq. / Mestizo Alejo;-33.424;-70.7303;J13-J13c
 PJ972;Torres De Pisa Esq. / Turín;-33.4263;-70.7305;J13-J13c

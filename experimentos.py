@@ -7,48 +7,46 @@ import time
 link = "http://dev.adderou.cl/transanpbl/busdata.php?paradero="
 link2 = "http://54.94.231.101/dtpm/busStopInfo/og2mgzby9crdm14wq6g7nxkb458gkny/"
 
-webPC666 = urllib2.urlopen(link+"PC666")
-PC666 =json.load(webPC666)
-for servicio in PC666['servicios']:
+webPD1439 = urllib2.urlopen(link+"PD1439")
+PD1439 =json.load(webPD1439)
+for servicio in PD1439['servicios']:
 	if(servicio['servicio'] == '518'):
-		print  "1 PC666 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
+		print  "1 PD1439 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
 		
-webPC666 = urllib2.urlopen(link2+"PC666")
-PC666 =json.load(webPC666)
-for servicio in PC666['servicios']:
+webPD1439 = urllib2.urlopen(link2+"PD1439")
+PD1439 =json.load(webPD1439)
+for servicio in PD1439['servicios']:
 	if(servicio['servicio'] == '518'):
-		print  "2 PC666 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
+		print  "2 PD1439 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
 print "-------------------------------------------------------------"
 
-webPC667 = urllib2.urlopen(link+"PC667")
-PC667 =json.load(webPC667)
-for servicio in PC667['servicios']:
+webPD1429 = urllib2.urlopen(link+"PD1429")
+PD1429 =json.load(webPD1429)
+for servicio in PD1429['servicios']:
 	if(servicio['servicio'] == '518'):
-		print  "1 PC667 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
+		print  "1 PD1429 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
 
-webPC667 = urllib2.urlopen(link2+"PC667")
-PC667 =json.load(webPC667)
-for servicio in PC667['servicios']:
+webPD1429 = urllib2.urlopen(link2+"PD1429")
+PD1429 =json.load(webPD1429)
+for servicio in PD1429['servicios']:
 	if(servicio['servicio'] == '518'):
-		print  "2 PC667 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
+		print  "2 PD1429 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
 print "-------------------------------------------------------------"
-		
+
+"""		
 webPC668 = urllib2.urlopen(link+"PC668")
 PC668 =json.load(webPC668)
-print webPC668.read()
-"""print webPC668.read()
-#for servicio in PC668['servicios']:
-#	if(servicio['servicio'] == '518'):
-#		if 'patente' not in servicio:
-#			print  "1 PC668 : " + servicio['servicio']
-#		else:
-#			if servicio['patente'] is not None:
-#				print  "1 PC668 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
-"""	
+for servicio in PC668['servicios']:
+	if(servicio['servicio'] == '518'):
+		if 'patente' not in servicio:
+			print  "1 PC668 : " + servicio['servicio']
+		else:
+			if servicio['patente'] is not None:
+				print  "1 PC668 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
+	
 print "-------------------------------------------------------------"
 webPC668 = urllib2.urlopen(link2+"PC668")
-print webPC668.read()
-"""PC668 =json.load(webPC668)
+PC668 =json.load(webPC668)
 for servicio in PC668['servicios']:
 	if(servicio['servicio'] == '518'):
 		if 'patente' not in servicio:
@@ -56,7 +54,7 @@ for servicio in PC668['servicios']:
 		else:
 			if servicio['patente'] is not None:
 				print  "2 PC668 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
-"""
+
 print "-------------------------------------------------------------"
 		
 webPC669 = urllib2.urlopen(link+"PC669")
@@ -186,7 +184,7 @@ for servicio in PC482['servicios']:
 			if servicio['patente'] is not None:
 				print  "2 PC482 : " + servicio['servicio'] + "	" + servicio['patente'] + "	" + servicio['tiempo'] + "			" + servicio['distancia']
 print "-------------------------------------------------------------"
-		
+"""
 #http://dev.adderou.cl/transanpbl/busdata.php?paradero=PI62
 
 #for service in services:
