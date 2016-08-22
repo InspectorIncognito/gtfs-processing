@@ -32,8 +32,8 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 	cout << "Proceso X : Creando e imprimiendo tabla servicios... " ;
 
 	///Construccion del dato
-	map<string, string> output;
-	map<string, string>::iterator it;
+	map<string, map<string,int> > output;
+	map<string, map<string, int> >::iterator it;
 	map<string, string>::iterator iDicServ;
 	for (map< string, map < int, Paradero > >::iterator iserv = fdd_->secParaderos.secuencias.begin(); iserv != fdd_->secParaderos.secuencias.end(); iserv++)
 	{
@@ -47,10 +47,14 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 			it = output.find((*ipar).second.codigo);
 
 			if (it == output.end())
-				output[(*ipar).second.codigo] = (*iDicServ).second;
+			{
+				map<string, int> tmp;
+				tmp[(*iDicServ).second] = 1;
+				output[(*ipar).second.codigo] = tmp;
+			}
 			else
 			{
-				(*it).second.append("-" + (*iDicServ).second);
+				(*it).second[(*iDicServ).second] = 1;
 			}
 
 		}
@@ -96,8 +100,16 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 		{
 			cout << "ADVERTENCIA :  no se encuentra el paradero " << (*it).first << " en la red." << endl;
 		}
+
+		for (map<string, int>::iterator it1 = (*it).second.begin(); it1 != (*it).second.end(); it1++)
+		{
+			if(it1== (*it).second.begin())
+				fileout << (*it1).first ;
+			else
+				fileout << "-" << (*it1).first;
+		}
+		fileout << endl;
 		
-		fileout << (*it).second << endl;
 	}
 	fileout.close();
 
@@ -122,4 +134,4 @@ string TablaServiciosPorParadaParaAndriod::EliminaCadenasBlancos(string in)
 
 	return out;
 	//return in;
-}
+}	

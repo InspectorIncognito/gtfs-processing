@@ -60,12 +60,12 @@
 109;Renca;Domingo y Festivos;05:30;23:45
 109;Renca;Sábado;05:30;23:45
 109;Renca;Lunes a Viernes;05:30;23:45
-109n;Maipu;Lunes a Viernes;00:00;05:00
-109n;Maipu;Domingo y Festivos;00:00;05:06
-109n;Maipu;Sábado;00:00;05:00
-109n;(M) Quinta Normal;Lunes a Viernes;00:00;05:00
-109n;(M) Quinta Normal;Domingo y Festivos;00:00;05:00
-109n;(M) Quinta Normal;Sábado;00:00;05:00
+109N;Maipu;Lunes a Viernes;00:00;05:00
+109N;Maipu;Domingo y Festivos;00:00;05:06
+109N;Maipu;Sábado;00:00;05:00
+109N;(M) Quinta Normal;Lunes a Viernes;00:00;05:00
+109N;(M) Quinta Normal;Domingo y Festivos;00:00;05:00
+109N;(M) Quinta Normal;Sábado;00:00;05:00
 110;Maipu;Domingo y Festivos;05:30;00:30
 110;Maipu;Sábado;05:30;00:30
 110;Maipu;Lunes a Viernes;05:30;00:30
@@ -90,12 +90,12 @@
 112;Nonato Coo;Domingo y Festivos;05:30;23:48
 112;Nonato Coo;Sábado;05:30;23:48
 112;Nonato Coo;Lunes a Viernes;05:30;23:40
-112n;Recoleta;Lunes a Viernes;00:00;05:20
-112n;Recoleta;Domingo y Festivos;00:00;05:20
-112n;Recoleta;Sábado;00:00;05:20
-112n;Av. La Florida;Domingo y Festivos;00:00;05:20
-112n;Av. La Florida;Sábado;00:00;05:20
-112n;Av. La Florida;Lunes a Viernes;00:00;05:20
+112N;Recoleta;Lunes a Viernes;00:00;05:20
+112N;Recoleta;Domingo y Festivos;00:00;05:20
+112N;Recoleta;Sábado;00:00;05:20
+112N;Av. La Florida;Domingo y Festivos;00:00;05:20
+112N;Av. La Florida;Sábado;00:00;05:20
+112N;Av. La Florida;Lunes a Viernes;00:00;05:20
 113;(M) La Moneda;Domingo y Festivos;05:30;23:45
 113;(M) La Moneda;Sábado;05:30;23:45
 113;(M) La Moneda;Lunes a Viernes;05:30;23:45
@@ -320,12 +320,12 @@
 224;Ñuñoa;Sábado;05:30;22:50
 224c;Gabriela;Lunes a Viernes;17:30;22:45
 224c;(M) Vicente Valdes;Lunes a Viernes;17:30;22:42
-224n;Gabriela;Sábado;23:00;05:07
-224n;Gabriela;Domingo y Festivos;23:00;05:03
-224n;Gabriela;Lunes a Viernes;23:00;05:07
-224n;(M) Pedrero;Domingo y Festivos;23:00;05:03
-224n;(M) Pedrero;Sábado;23:00;05:07
-224n;(M) Pedrero;Lunes a Viernes;23:00;05:07
+224N;Gabriela;Sábado;23:00;05:07
+224N;Gabriela;Domingo y Festivos;23:00;05:03
+224N;Gabriela;Lunes a Viernes;23:00;05:07
+224N;(M) Pedrero;Domingo y Festivos;23:00;05:03
+224N;(M) Pedrero;Sábado;23:00;05:07
+224N;(M) Pedrero;Lunes a Viernes;23:00;05:07
 225;Bahía Catalina;Sábado;05:30;00:40
 225;Bahía Catalina;Domingo y Festivos;05:30;00:40
 225;Bahía Catalina;Lunes a Viernes;05:30;00:40
@@ -394,12 +394,12 @@
 302e;San Ramón;Lunes a Viernes;06:00;09:00
 302e;(M) Los Heroes;Lunes a Viernes;17:30;20:18
 302e;(M) Los Heroes;Lunes a Viernes;06:00;08:54
-302n;La Pintana;Sábado;01:15;05:15
-302n;La Pintana;Domingo y Festivos;01:15;05:15
-302n;La Pintana;Lunes a Viernes;01:15;05:15
-302n;Alameda;Domingo y Festivos;01:00;05:00
-302n;Alameda;Sábado;01:00;05:00
-302n;Alameda;Lunes a Viernes;01:00;05:15
+302N;La Pintana;Sábado;01:15;05:15
+302N;La Pintana;Domingo y Festivos;01:15;05:15
+302N;La Pintana;Lunes a Viernes;01:15;05:15
+302N;Alameda;Domingo y Festivos;01:00;05:00
+302N;Alameda;Sábado;01:00;05:00
+302N;Alameda;Lunes a Viernes;01:00;05:15
 303;Plaza Italia;Lunes a Viernes;00:00;23:59
 303;Plaza Italia;Sábado;00:00;23:59
 303;Plaza Italia;Domingo y Festivos;00:00;23:59
@@ -474,12 +474,12 @@
 345;Lo Espejo;Sábado;05:30;00:30
 345;Lo Espejo;Domingo y Festivos;05:30;00:30
 345;Lo Espejo;Lunes a Viernes;05:30;00:30
-346n;Alameda;Sábado;01:15;05:15
-346n;Alameda;Domingo y Festivos;01:15;05:15
-346n;Alameda;Lunes a Viernes;01:15;05:15
-346n;Lo Espejo;Lunes a Viernes;01:15;05:15
-346n;Lo Espejo;Sábado;01:15;05:15
-346n;Lo Espejo;Domingo y Festivos;01:15;05:15
+346N;Alameda;Sábado;01:15;05:15
+346N;Alameda;Domingo y Festivos;01:15;05:15
+346N;Alameda;Lunes a Viernes;01:15;05:15
+346N;Lo Espejo;Lunes a Viernes;01:15;05:15
+346N;Lo Espejo;Sábado;01:15;05:15
+346N;Lo Espejo;Domingo y Festivos;01:15;05:15
 348;(M) Lo Ovalle;Lunes a Viernes;05:30;23:45
 348;(M) Lo Ovalle;Domingo y Festivos;05:30;23:40
 348;(M) Lo Ovalle;Sábado;05:30;23:45
@@ -500,12 +500,12 @@
 401;Maipu;Sábado;06:00;00:36
 401;Maipu;Lunes a Viernes;06:00;00:36
 401;Maipu;Domingo y Festivos;06:30;00:48
-401n;Los Dominicos;Domingo y Festivos;00:00;04:46
-401n;Los Dominicos;Sábado;00:00;04:41
-401n;Los Dominicos;Lunes a Viernes;00:00;04:41
-401n;Maipu;Sábado;01:02;05:51
-401n;Maipu;Domingo y Festivos;01:00;05:45
-401n;Maipu;Lunes a Viernes;01:02;05:51
+401N;Los Dominicos;Domingo y Festivos;00:00;04:46
+401N;Los Dominicos;Sábado;00:00;04:41
+401N;Los Dominicos;Lunes a Viernes;00:00;04:41
+401N;Maipu;Sábado;01:02;05:51
+401N;Maipu;Domingo y Festivos;01:00;05:45
+401N;Maipu;Lunes a Viernes;01:02;05:51
 402;Mapocho;Domingo y Festivos;05:42;00:10
 402;Mapocho;Lunes a Viernes;05:30;00:10
 402;Mapocho;Sábado;05:30;00:10
@@ -788,12 +788,12 @@
 514;Enea;Domingo y Festivos;05:30;23:40
 514c;San Luis De Macul;Lunes a Viernes;16:30;21:15
 514c;(M) Salvador;Lunes a Viernes;06:02;09:12
-515n;San Luis De Macul;Lunes a Viernes;00:00;05:13
-515n;San Luis De Macul;Sábado;00:00;05:17
-515n;San Luis De Macul;Domingo y Festivos;00:00;05:19
-515n;Centro;Sábado;00:06;05:10
-515n;Centro;Domingo y Festivos;00:00;05:10
-515n;Centro;Lunes a Viernes;00:06;05:07
+515N;San Luis De Macul;Lunes a Viernes;00:00;05:13
+515N;San Luis De Macul;Sábado;00:00;05:17
+515N;San Luis De Macul;Domingo y Festivos;00:00;05:19
+515N;Centro;Sábado;00:06;05:10
+515N;Centro;Domingo y Festivos;00:00;05:10
+515N;Centro;Lunes a Viernes;00:06;05:07
 516;Las Parcelas;Domingo y Festivos;00:00;23:59
 516;Las Parcelas;Sábado;00:00;23:59
 516;Las Parcelas;Lunes a Viernes;00:00;23:59
@@ -814,12 +814,12 @@
 518;J.J. Perez;Domingo y Festivos;00:00;23:59
 519e;Av.Grecia;Lunes a Viernes;06:40;09:59
 519e;Alameda;Lunes a Viernes;06:00;09:13
-541n;COLON;Lunes a Viernes;00:15;05:15
-541n;COLON;Domingo y Festivos;00:15;05:15
-541n;COLON;Sábado;00:15;05:15
-541n;EL TRANQUE;Domingo y Festivos;00:00;05:00
-541n;EL TRANQUE;Lunes a Viernes;00:00;05:00
-541n;EL TRANQUE;Sábado;00:00;05:00
+541N;COLON;Lunes a Viernes;00:15;05:15
+541N;COLON;Domingo y Festivos;00:15;05:15
+541N;COLON;Sábado;00:15;05:15
+541N;EL TRANQUE;Domingo y Festivos;00:00;05:00
+541N;EL TRANQUE;Lunes a Viernes;00:00;05:00
+541N;EL TRANQUE;Sábado;00:00;05:00
 B01;Huamachuco;Domingo y Festivos;05:50;00:40
 B01;Huamachuco;Sábado;05:50;00:30
 B01;Huamachuco;Lunes a Viernes;05:50;00:40
@@ -1552,18 +1552,18 @@ F27;Villa Portezuelo Oriente;Lunes a Viernes;06:20;09:11
 F27;Villa Portezuelo Oriente;Lunes a Viernes;17:30;21:19
 F27;Villa Padre Hurtado;Lunes a Viernes;06:30;09:18
 F27;Villa Padre Hurtado;Lunes a Viernes;17:30;21:30
-F28n;Diego Portales;Domingo y Festivos;01:00;04:56
-F28n;Diego Portales;Sábado;01:00;04:56
-F28n;Diego Portales;Lunes a Viernes;01:00;04:56
-F28n;La Primavera;Domingo y Festivos;01:00;04:56
-F28n;La Primavera;Lunes a Viernes;01:00;04:56
-F28n;La Primavera;Sábado;01:00;04:56
-F30n;La Moneda;Sábado;01:00;05:00
-F30n;La Moneda;Lunes a Viernes;01:00;05:00
-F30n;La Moneda;Domingo y Festivos;01:00;05:00
-F30n;Bajos De Mena;Domingo y Festivos;01:00;05:00
-F30n;Bajos De Mena;Lunes a Viernes;01:00;05:00
-F30n;Bajos De Mena;Sábado;01:00;05:00
+F28N;Diego Portales;Domingo y Festivos;01:00;04:56
+F28N;Diego Portales;Sábado;01:00;04:56
+F28N;Diego Portales;Lunes a Viernes;01:00;04:56
+F28N;La Primavera;Domingo y Festivos;01:00;04:56
+F28N;La Primavera;Lunes a Viernes;01:00;04:56
+F28N;La Primavera;Sábado;01:00;04:56
+F30N;La Moneda;Sábado;01:00;05:00
+F30N;La Moneda;Lunes a Viernes;01:00;05:00
+F30N;La Moneda;Domingo y Festivos;01:00;05:00
+F30N;Bajos De Mena;Domingo y Festivos;01:00;05:00
+F30N;Bajos De Mena;Lunes a Viernes;01:00;05:00
+F30N;Bajos De Mena;Sábado;01:00;05:00
 G01;Santo Tomás;Sábado;05:30;00:30
 G01;Santo Tomás;Lunes a Viernes;05:30;00:30
 G01;Santo Tomás;Domingo y Festivos;05:30;00:30
@@ -1788,12 +1788,12 @@ I08;(M) San Alberto Hurtado;Lunes a Viernes;05:30;00:40
 I08;Mall Arauco Maipú;Domingo y Festivos;05:30;00:40
 I08;Mall Arauco Maipú;Lunes a Viernes;05:30;00:40
 I08;Mall Arauco Maipú;Sábado;05:30;00:40
-I08n;Alameda;Sábado;01:00;05:15
-I08n;Alameda;Lunes a Viernes;01:00;05:15
-I08n;Alameda;Domingo y Festivos;01:00;05:15
-I08n;La Farfana;Sábado;01:00;05:15
-I08n;La Farfana;Lunes a Viernes;01:00;05:15
-I08n;La Farfana;Domingo y Festivos;01:00;05:15
+I08N;Alameda;Sábado;01:00;05:15
+I08N;Alameda;Lunes a Viernes;01:00;05:15
+I08N;Alameda;Domingo y Festivos;01:00;05:15
+I08N;La Farfana;Sábado;01:00;05:15
+I08N;La Farfana;Lunes a Viernes;01:00;05:15
+I08N;La Farfana;Domingo y Festivos;01:00;05:15
 I09;(M) Ula;Lunes a Viernes;04:30;01:00
 I09;(M) Ula;Sábado;05:00;00:48
 I09;(M) Ula;Domingo y Festivos;05:00;00:48
@@ -1812,12 +1812,12 @@ I10;Usach;Sábado;05:30;00:40
 I10;Villa Los Héroes;Domingo y Festivos;05:30;00:50
 I10;Villa Los Héroes;Sábado;05:30;00:50
 I10;Villa Los Héroes;Lunes a Viernes;05:30;00:50
-I10n;Alameda;Lunes a Viernes;01:00;05:15
-I10n;Alameda;Sábado;01:00;05:15
-I10n;Alameda;Domingo y Festivos;01:00;05:15
-I10n;Villa Los Heroes;Lunes a Viernes;01:15;05:15
-I10n;Villa Los Heroes;Sábado;01:15;05:15
-I10n;Villa Los Heroes;Domingo y Festivos;01:15;05:15
+I10N;Alameda;Lunes a Viernes;01:00;05:15
+I10N;Alameda;Sábado;01:00;05:15
+I10N;Alameda;Domingo y Festivos;01:00;05:15
+I10N;Villa Los Heroes;Lunes a Viernes;01:15;05:15
+I10N;Villa Los Heroes;Sábado;01:15;05:15
+I10N;Villa Los Heroes;Domingo y Festivos;01:15;05:15
 I11;(M) Plaza Maipu;Sábado;00:00;23:59
 I11;(M) Plaza Maipu;Lunes a Viernes;00:00;23:59
 I11;(M) Plaza Maipu;Domingo y Festivos;00:00;23:59

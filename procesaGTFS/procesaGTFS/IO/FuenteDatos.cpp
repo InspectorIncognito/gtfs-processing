@@ -129,7 +129,7 @@ void FuenteDatos::leeDiccionarioServicios()
 
 	///DEBUG
 	ofstream fout;
-	fout.open("dicSS.csv");
+	fout.open("dicSS.txt");
 	for (map<string, string>::iterator it = dicSS.servicios.begin(); it != dicSS.servicios.end(); it++)
 		fout << (*it).first << ";" << (*it).second << endl;
 	fout.close();
@@ -330,7 +330,7 @@ void FuenteDatos::leeRedDeParadas()
 
 	///DEBUG
 	ofstream fout;
-	fout.open("redParadas.csv");
+	fout.open("redParadas.txt");
 	for(map< string , Paradero >::iterator it=redParaderos.red.begin();it!=redParaderos.red.end();it++)
 	{
 		fout << (*it).second.codigo << "|";
@@ -446,7 +446,7 @@ void FuenteDatos::leeSecuenciaDeParadas()
 
 	///DEBUG
 	ofstream fout;
-	fout.open("secParadas.csv");
+	fout.open("secParadas.txt");
 	for (iserv = secParaderos.secuencias.begin(); iserv != secParaderos.secuencias.end(); iserv++)
 	{
 		for (map<int, Paradero>::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
@@ -531,7 +531,7 @@ void FuenteDatos::leeHorarios()
 
 	///DEBUG
 	ofstream fout;
-	fout.open("servicios_horario.csv");
+	fout.open("servicios_horario.txt");
 	for (map<string, Servicio>::iterator iser = servicios.begin(); iser != servicios.end(); iser++)
 	{
 		fout << (*iser).first << ";";
