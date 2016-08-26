@@ -33,7 +33,7 @@ void TablaParadas::Crear()
 
 	///Impresion de la tabla
 	ofstream fileout;
-	fileout.open("busstop.csv");
+	fileout.open("busstop" + fdd_->parametros->version + ".csv");
 	fileout.precision(10);
 	
 

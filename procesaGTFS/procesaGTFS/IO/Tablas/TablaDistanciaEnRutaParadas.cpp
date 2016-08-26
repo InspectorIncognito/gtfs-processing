@@ -33,7 +33,7 @@ void TablaDistanciaEnRutaParadas::Crear()
 
 	///Impresion de la tabla
 	ofstream fileout;
-	fileout.open("servicestopdistance.csv");
+	fileout.open("servicestopdistance" + fdd_->parametros->version + ".csv");
 	fileout << "paradero;";
 	fileout << "servicio;";
 	fileout << "distancia";

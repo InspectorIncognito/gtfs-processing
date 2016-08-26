@@ -33,7 +33,7 @@ void TablaServiciosParaAndroid::Crear()
 
 	///Impresion de la tabla
 	ofstream fileout;
-	fileout.open("Android_services.csv");
+	fileout.open("Android_services" + fdd_->parametros->version + ".csv");
 	fileout << "service;";
 	fileout << "origin;";
 	fileout << "destiny;";

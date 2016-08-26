@@ -47,7 +47,7 @@ void TablaServiciosPorParada::Crear()
 
 			string servicio = (*iserv).first.substr(0,(*iserv).first.length() - 1);
 			string sentido = (*iserv).first.substr((*iserv).first.length() - 1, 1);
-			
+
 			///Caso de ser el primero del servicio no ingresar
 			if (it == output.end())
 			{
@@ -61,7 +61,7 @@ void TablaServiciosPorParada::Crear()
 				is = (*it).second.find(servicio);
 
 				///Caso que el servicio no esta repetido
-				if (is != (*it).second.end())
+				if (is == (*it).second.end())
 				{
 					(*it).second[servicio] = sentido;
 				}
@@ -83,7 +83,7 @@ void TablaServiciosPorParada::Crear()
 	
 	///Impresion de la tabla
 	ofstream fileout;
-	fileout.open("servicesbybusstop.csv");
+	fileout.open("servicesbybusstop" + fdd_->parametros->version + ".csv");
 	fileout << "paradas;";
 	fileout << "servicios";
 	fileout << endl;

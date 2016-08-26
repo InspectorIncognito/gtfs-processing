@@ -33,7 +33,7 @@ void TablaRutasSimplificadas::Crear()
 
 	///Impresion de la tabla
 	ofstream fileout;
-	fileout.open("Android_routes.csv");
+	fileout.open("Android_routes" + fdd_->parametros->version + ".csv");
 	fileout << "id;";
 	fileout << "latitud;";
 	fileout << "longitud;";

@@ -41,6 +41,8 @@ Parametros::Parametros(const char *file)
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaKmls = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaReportes = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->distanciaTramado = atof(columnas[0].c_str());
+	columnas = StringFunctions::ExplodeF('\t', &ap);	this->version = columnas[0];
+	
 	
 	///Lectura de Colores
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nColores = atoi(columnas[0].c_str());

@@ -73,6 +73,9 @@ public:
 	///Caracter separador para path
 	string slash;
 
+	///sufijo para versionar los archivos
+	string version;
+
 	/**
 	 * Metodo para la impresion en consola de los parametros utilizados
 	 */

@@ -33,7 +33,7 @@ void TablaServicios::Crear()
 
 	///Impresion de la tabla
 	ofstream fileout;
-	fileout.open("services.csv");
+	fileout.open("services" + fdd_->parametros->version + ".csv");
 	fileout << "service;";
 	fileout << "origin;";
 	fileout << "destiny;";

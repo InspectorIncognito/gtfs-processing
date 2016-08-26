@@ -33,7 +33,7 @@ void TablaRutasTramadas::Crear()
 
 	///Impresion de la tabla
 	ofstream fileout;
-	fileout.open("servicelocation.csv");
+	fileout.open("servicelocation" + fdd_->parametros->version + ".csv");
 	fileout << "servicio;";
 	fileout << "distancia;";
 	fileout << "latitud;";
