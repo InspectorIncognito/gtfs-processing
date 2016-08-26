@@ -328,6 +328,8 @@ void FuenteDatos::leeRedDeParadas()
 		redParaderos.red[par.codigo] = par;
 	}
 
+	CorrigeParadasMismaPosicion();
+
 	///DEBUG
 	ofstream fout;
 	fout.open("redParadas.txt");
@@ -342,6 +344,61 @@ void FuenteDatos::leeRedDeParadas()
 		fout << endl;
 	}
 	fout.close();
+
+	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
+}
+
+void FuenteDatos::CorrigeParadasMismaPosicion()
+{
+	int nTimeStart = Cronometro::GetMilliCount();
+
+	cout << "Proceso X : Correccion de paradas misma posicion... ";
+
+	char *UTMZone = "19H";
+	///Ciclo sobre secuencia de paradas
+	for (map<string, Paradero>::iterator ipar1 = redParaderos.red.begin(); ipar1 != redParaderos.red.end(); ipar1++)
+	{
+		for (map<string, Paradero>::iterator ipar2 = redParaderos.red.begin(); ipar2 != redParaderos.red.end(); ipar2++)
+		{
+			if ((*ipar1).first.compare((*ipar2).first) != 0)
+			{
+				float dx = (*ipar1).second.x - (*ipar2).second.x;
+				float dy = (*ipar1).second.y - (*ipar2).second.y;
+				float dist = sqrt(dx*dx + dy*dy);
+
+				if (dist < 5)
+				{
+					if(abs(dx) <= abs(dy))
+					{
+						if ((*ipar1).second.x >= (*ipar2).second.x)
+							(*ipar1).second.x += 5;
+						else
+							(*ipar1).second.x -= 5;
+
+						double lat, lon;
+						ConvertCoordinate::UTMtoLL(23, (*ipar1).second.y, (*ipar1).second.x, UTMZone, lat, lon);
+
+						(*ipar1).second.lat = lat;
+						(*ipar1).second.lon = lon;
+					}
+					else
+					{
+						if ((*ipar1).second.y >= (*ipar2).second.y)
+							(*ipar1).second.y += 5;
+						else
+							(*ipar1).second.y -= 5;
+
+						double lat, lon;
+						ConvertCoordinate::UTMtoLL(23, (*ipar1).second.y, (*ipar1).second.x, UTMZone, lat, lon);
+
+						(*ipar1).second.lat = lat;
+						(*ipar1).second.lon = lon;
+					}
+					//cout << (*ipar1).first << "|" << (*ipar2).first << "|" << dist << endl;
+				}
+			}
+		}
+	}
 
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }

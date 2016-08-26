@@ -6,7 +6,7 @@ horarios.csv						* Nombre de archivo con horario de servicios (opcional)
 GTFS_Transantiago_kmls\				* carpeta para kmls
 GTFS_Transantiago_reportes\			* carpeta para reportes
 20.0								* Distancia para el tramado de la ruta
-v0.0								* version
+v0.1								* version
 7									* colores
 ED1C24 1					
 F58220 2				

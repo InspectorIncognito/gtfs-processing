@@ -1,49 +1,10 @@
-﻿Build started 25/08/2016 22:22:11.
-     1>Project "C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\procesaGTFS\procesaGTFS.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt IO\Tablas\TablaServiciosPorParada.cpp
-         TablaServiciosPorParada.cpp
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.lib" /MACHINE:X64 x64\Release\FuenteDatos.obj
-         x64\Release\Parametros.obj
-         x64\Release\ReporteFuenteDatos.obj
-         x64\Release\ReporteGlobal.obj
-         x64\Release\TablaDistanciaEnRutaParadas.obj
-         x64\Release\TablaGrilla.obj
-         x64\Release\TablaParadas.obj
-         x64\Release\TablaRutasSimplificadas.obj
-         x64\Release\TablaRutasTramadas.obj
-         x64\Release\TablaServicios.obj
-         x64\Release\TablaServiciosParaAndroid.obj
-         x64\Release\TablaServiciosPorParada.obj
-         x64\Release\TablaServiciosPorParadaParaAndriod.obj
-         x64\Release\ColorScale.obj
-         x64\Release\CreaKML.obj
-         x64\Release\Visualizaciones.obj
-         x64\Release\procesaGTFS.obj
-         x64\Release\DiccionarioServicios.obj
-         x64\Release\Cell.obj
-         x64\Release\Grid.obj
-         x64\Release\GridProcess.obj
-         x64\Release\Paradero.obj
-         x64\Release\RedParadas.obj
-         x64\Release\SecuenciaParaderos.obj
-         x64\Release\ProcesaRutas.obj
-         x64\Release\Ruta.obj
-         x64\Release\Rutas.obj
-         x64\Release\Servicio.obj
-         x64\Release\ConvertCoordinate.obj
-         x64\Release\Cronometro.obj
-         x64\Release\Geometry2.obj
-         x64\Release\Histogram.obj
-         x64\Release\Scatter.obj
-         x64\Release\StringFunctions.obj
-         x64\Release\TimeStampHandler.obj
-         Generating code
-         Finished generating code
-         procesaGTFS.vcxproj -> C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.exe
-     1>Done Building Project "C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\procesaGTFS\procesaGTFS.vcxproj" (Build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:06.15
+﻿  ProcesaParadas.cpp
+Transporte\Paraderos\ProcesaParadas.cpp(42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Transporte\Paraderos\ProcesaParadas.cpp(43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  procesaGTFS.cpp
+  Generating code
+  26 of 3685 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    33 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  procesaGTFS.vcxproj -> C:\workspace\tranSapp\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.exe

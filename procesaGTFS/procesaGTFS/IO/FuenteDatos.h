@@ -101,6 +101,7 @@ class FuenteDatos{
 	* @return referencia o puntero a objeto tipo Paraderos con el conjunto de paradas de la red
 	*/
 	void leeRedDeParadas();
+	void CorrigeParadasMismaPosicion();
 
 	/**
 	* Metodo de lectura de datos de secuencia de paraderos

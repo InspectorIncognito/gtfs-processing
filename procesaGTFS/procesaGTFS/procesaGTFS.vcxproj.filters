@@ -154,6 +154,9 @@
     <ClCompile Include="Transporte\Grid\GridProcess.cpp">
       <Filter>Transporte\Grid</Filter>
     </ClCompile>
+    <ClCompile Include="Transporte\Paraderos\ProcesaParadas.cpp">
+      <Filter>Transporte\Paraderos</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Utilidades\ConvertCoordinate.h">
@@ -263,6 +266,9 @@
     </ClInclude>
     <ClInclude Include="Transporte\Grid\GridProcess.h">
       <Filter>Transporte\Grid</Filter>
+    </ClInclude>
+    <ClInclude Include="Transporte\Paraderos\ProcesaParadas.h">
+      <Filter>Transporte\Paraderos</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

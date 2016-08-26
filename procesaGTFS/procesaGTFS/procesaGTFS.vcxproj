@@ -47,7 +47,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
     <ConfigurationType>Application</ConfigurationType>
     <UseDebugLibraries>false</UseDebugLibraries>
-    <PlatformToolset>v120</PlatformToolset>
+    <PlatformToolset>v140</PlatformToolset>
     <WholeProgramOptimization>true</WholeProgramOptimization>
     <CharacterSet>Unicode</CharacterSet>
   </PropertyGroup>
@@ -162,6 +162,7 @@
     <ClCompile Include="Transporte\Grid\Grid.cpp" />
     <ClCompile Include="Transporte\Grid\GridProcess.cpp" />
     <ClCompile Include="Transporte\Paraderos\Paradero.cpp" />
+    <ClCompile Include="Transporte\Paraderos\ProcesaParadas.cpp" />
     <ClCompile Include="Transporte\Paraderos\RedParadas.cpp" />
     <ClCompile Include="Transporte\Paraderos\SecuenciaParaderos.cpp" />
     <ClCompile Include="Transporte\Rutas\ProcesaRutas.cpp" />
@@ -199,6 +200,7 @@
     <ClInclude Include="Transporte\Grid\Grid.h" />
     <ClInclude Include="Transporte\Grid\GridProcess.h" />
     <ClInclude Include="Transporte\Paraderos\Paradero.h" />
+    <ClInclude Include="Transporte\Paraderos\ProcesaParadas.h" />
     <ClInclude Include="Transporte\Paraderos\RedParadas.h" />
     <ClInclude Include="Transporte\Paraderos\SecuenciaParaderos.h" />
     <ClInclude Include="Transporte\Rutas\ProcesaRutas.h" />

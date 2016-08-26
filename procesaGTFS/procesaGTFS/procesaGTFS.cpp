@@ -16,6 +16,7 @@
 #include "Utilidades/Cronometro.h"
 #include "IO/FuenteDatos.h"
 #include "Transporte/Rutas/ProcesaRutas.h"
+#include "Transporte/Paraderos/ProcesaParadas.h"
 #include "Transporte/Grid/GridProcess.h"
 #include "IO/Visualizacion/Visualizaciones.h"
 #include "IO/Tablas/TablaDistanciaEnRutaParadas.h"
@@ -49,6 +50,9 @@ int main(int argc, const char* argv[])
 
 	///Procesado de rutas
 	ProcesaRutas *pr = new ProcesaRutas(fdd);
+
+	///Procesado de paraderos
+	ProcesaParadas *pp = new ProcesaParadas(fdd);
 
 	///Procesando grilla
 	GridProcess *pg = new GridProcess(fdd);
