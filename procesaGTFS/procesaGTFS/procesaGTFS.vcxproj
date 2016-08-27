@@ -147,6 +147,7 @@
     <ClCompile Include="IO\Tablas\TablaDistanciaEnRutaParadas.cpp" />
     <ClCompile Include="IO\Tablas\TablaGrilla.cpp" />
     <ClCompile Include="IO\Tablas\TablaParadas.cpp" />
+    <ClCompile Include="IO\Tablas\TablaPuntoCarga.cpp" />
     <ClCompile Include="IO\Tablas\TablaRutasSimplificadas.cpp" />
     <ClCompile Include="IO\Tablas\TablaRutasTramadas.cpp" />
     <ClCompile Include="IO\Tablas\TablaServicios.cpp" />
@@ -157,6 +158,7 @@
     <ClCompile Include="IO\Visualizacion\CreaKML.cpp" />
     <ClCompile Include="IO\Visualizacion\Visualizaciones.cpp" />
     <ClCompile Include="procesaGTFS.cpp" />
+    <ClCompile Include="Transporte\CargaBip\PuntoBip.cpp" />
     <ClCompile Include="Transporte\Diccionarios\DiccionarioServicios.cpp" />
     <ClCompile Include="Transporte\Grid\Cell.cpp" />
     <ClCompile Include="Transporte\Grid\Grid.cpp" />
@@ -186,6 +188,7 @@
     <ClInclude Include="IO\Tablas\TablaDistanciaEnRutaParadas.h" />
     <ClInclude Include="IO\Tablas\TablaGrilla.h" />
     <ClInclude Include="IO\Tablas\TablaParadas.h" />
+    <ClInclude Include="IO\Tablas\TablaPuntoCarga.h" />
     <ClInclude Include="IO\Tablas\TablaRutasSimplificadas.h" />
     <ClInclude Include="IO\Tablas\TablaRutasTramadas.h" />
     <ClInclude Include="IO\Tablas\TablaServicios.h" />
@@ -195,6 +198,7 @@
     <ClInclude Include="IO\Visualizacion\ColorScale.h" />
     <ClInclude Include="IO\Visualizacion\CreaKML.h" />
     <ClInclude Include="IO\Visualizacion\Visualizaciones.h" />
+    <ClInclude Include="Transporte\CargaBip\PuntoBip.h" />
     <ClInclude Include="Transporte\Diccionarios\DiccionarioServicios.h" />
     <ClInclude Include="Transporte\Grid\Cell.h" />
     <ClInclude Include="Transporte\Grid\Grid.h" />

@@ -95,14 +95,15 @@ void TablaGrilla::Crear()
 	fileout1 << "iLon;";
 	fileout1 << "stops;";
 	fileout1 << "services;";
-	fileout1 << "route_segments";
+	fileout1 << "route_segments;";
+	fileout1 << "puntos";
 	fileout1 << endl;
 
 	for (int iLat = 0; iLat < fdd_->grid.cells.size(); iLat++)
 	{
 		for (int iLon = 0; iLon < fdd_->grid.cells.at(iLat).size(); iLon++)
 		{
-			if (!fdd_->grid.cells.at(iLat).at(iLon).stops.empty() || !fdd_->grid.cells.at(iLat).at(iLon).routesSegments.empty())
+			if (!fdd_->grid.cells.at(iLat).at(iLon).stops.empty() || !fdd_->grid.cells.at(iLat).at(iLon).routesSegments.empty() || !fdd_->grid.cells.at(iLat).at(iLon).puntos.empty())
 			{
 				fileout1 << iLat << ";";
 				fileout1 << iLon << ";";
@@ -142,8 +143,15 @@ void TablaGrilla::Crear()
 							fileout1 << "-" << (*isegment).first;
 						}
 					}
-
-
+				}
+				fileout1 << ";";
+				///Puntos
+				for (vector<int>::iterator istops = fdd_->grid.cells.at(iLat).at(iLon).puntos.begin(); istops != fdd_->grid.cells.at(iLat).at(iLon).puntos.end(); istops++)
+				{
+					if (istops == fdd_->grid.cells.at(iLat).at(iLon).puntos.begin())
+						fileout1 << (*istops);
+					else
+						fileout1 << "/" << (*istops);
 				}
 				fileout1 << endl;
 			}

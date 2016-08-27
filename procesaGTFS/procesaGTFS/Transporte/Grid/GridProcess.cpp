@@ -22,6 +22,7 @@ GridProcess::GridProcess(FuenteDatos *fdd)
 	ConstruyeGrilla();
 	IngresaParaderosAGrilla();
 	IngresaRutasAGrilla();
+	IngresaPuntosBipsAGrilla();
 }
 
 GridProcess::~GridProcess(void)
@@ -272,5 +273,25 @@ void GridProcess::IngresaRutasAGrilla()
 
 	}
 
+	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
+}
+
+void GridProcess::IngresaPuntosBipsAGrilla()
+{
+	int nTimeStart = Cronometro::GetMilliCount();
+	cout << "Ingresando puntos de carga a grilla regular....";
+
+	for (map< int, PuntoBip >::iterator it = fdd_->puntosDeCargaBip.begin(); it != fdd_->puntosDeCargaBip.end(); it++)
+	{
+		///Calculo la celda
+		int iLat = ((*it).second.lat - fdd_->grid.minLat) / fdd_->grid.ddLat;
+		int iLon = ((*it).second.lon - fdd_->grid.minLon) / fdd_->grid.ddLon;
+
+		//cout << iLat << "|" << (*it).second.lat << "|" << (*it).second.lat - fdd_->grid.minLat << endl;
+		//cout << iLon << "|" << (*it).second.lon << "|" << (*it).second.lon - fdd_->grid.minLon << endl;
+
+		if(iLat >= 0 && iLat < fdd_->grid.nLat && iLon >= 0 && iLon < fdd_->grid.nLon)
+			fdd_->grid.cells.at(iLat).at(iLon).puntos.push_back((*it).second.id);
+	}
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }

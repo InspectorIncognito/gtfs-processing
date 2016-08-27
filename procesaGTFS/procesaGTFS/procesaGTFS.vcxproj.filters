@@ -47,6 +47,9 @@
     <Filter Include="Transporte\Grid">
       <UniqueIdentifier>{94051387-2102-4c82-8e1d-fea42af7981a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Transporte\PuntoBip">
+      <UniqueIdentifier>{122c1100-fa17-45bb-ae2b-a988bef0993b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="procesaGTFS.cpp">
@@ -156,6 +159,12 @@
     </ClCompile>
     <ClCompile Include="Transporte\Paraderos\ProcesaParadas.cpp">
       <Filter>Transporte\Paraderos</Filter>
+    </ClCompile>
+    <ClCompile Include="Transporte\CargaBip\PuntoBip.cpp">
+      <Filter>Transporte\PuntoBip</Filter>
+    </ClCompile>
+    <ClCompile Include="IO\Tablas\TablaPuntoCarga.cpp">
+      <Filter>IO\Tablas</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -269,6 +278,12 @@
     </ClInclude>
     <ClInclude Include="Transporte\Paraderos\ProcesaParadas.h">
       <Filter>Transporte\Paraderos</Filter>
+    </ClInclude>
+    <ClInclude Include="Transporte\CargaBip\PuntoBip.h">
+      <Filter>Transporte\PuntoBip</Filter>
+    </ClInclude>
+    <ClInclude Include="IO\Tablas\TablaPuntoCarga.h">
+      <Filter>IO\Tablas</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

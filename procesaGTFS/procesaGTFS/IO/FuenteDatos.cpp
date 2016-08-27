@@ -49,6 +49,9 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 	///Lectura de horarios de servicios
 	leeHorarios();
 
+	///Lectura de puntos de carga
+	leePuntosDeCargaBip();
+
 	///Creacion de directorio para almacenar los kmls	
 	system(string("mkdir " + parametros->carpetaKmls).c_str());
 	system(string("mkdir " + parametros->carpetaReportes).c_str());
@@ -195,6 +198,7 @@ void FuenteDatos::leeRutas()
 		///Transformacion de coordenadas
 		ConvertCoordinate::LLtoUTM(23, atof(cur[1].c_str()), atof(cur[2].c_str()), y, x, UTMZone);
 
+		
 		map< string, Ruta >::iterator iserv = rutas.mapeo->find(cod.at(0));
 
 		if (iserv == rutas.mapeo->end())
@@ -625,6 +629,76 @@ void FuenteDatos::leeHorarios()
 	reporte->tDiccionario = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
 
 	cout << reporte->tDiccionario << "(min)" << endl;
+
+}
+
+void FuenteDatos::leePuntosDeCargaBip()
+{
+	int nTimeStart = Cronometro::GetMilliCount();
+
+	///Archivo de entrada Principal
+	ifstream archivoPuntosBips;
+	archivoPuntosBips.open(parametros->nombreArchivoPuntosCargaBip.c_str());
+
+	///Chequeo de archivo 
+	if (!archivoPuntosBips.good())
+		cout << "Error : No se encuentra el archivo " << parametros->nombreArchivoPuntosCargaBip << "!" << endl;
+	else
+		cout << " Cargando red de puntos de carga... " << endl;
+
+	///Vector contenedor de la linea actual del archivo
+	vector<string> cur;
+
+	///Iterador para buscar los paraderos
+	map< int, PuntoBip >::iterator itPar;
+
+	int id = 1;
+
+	///Lectura del header
+	cur = StringFunctions::ExplodeF(';', &archivoPuntosBips);
+
+	double x, y;
+	char UTMZone[5];
+
+	///Lectura archivo primario
+	while (archivoPuntosBips.good())
+	{
+		///Lectura de linea del archivo
+		cur = StringFunctions::ExplodeF(';', &archivoPuntosBips);
+
+		///Condicion de salida, a veces no es suficiente solo la condicion del ciclo
+		if (cur.size() == 0 || cur[0].compare("") == 0)
+		{
+			//mde_->Advertencia("Advertencia : se ha encontrado linea vacia en " + parametros->nombreArchivoRedParadas + "!\n");
+			continue;
+		}
+
+		ConvertCoordinate::LLtoUTM(23, atof(cur[2].c_str()), atof(cur[1].c_str()), y, x, UTMZone);
+
+		//stop_id,stop_code,stop_name,stop_lat,stop_lon
+		PuntoBip punto = PuntoBip(id,cur[0],atof(cur[2].c_str()), atof(cur[1].c_str()), (int)x, (int)y);
+
+		puntosDeCargaBip[id] = punto;
+
+		id++;
+	}
+
+
+	///DEBUG
+	ofstream fout;
+	fout.open("puntosCargaBip.txt");
+	for (map< int, PuntoBip >::iterator it = puntosDeCargaBip.begin(); it != puntosDeCargaBip.end(); it++)
+	{
+		fout << (*it).second.nombre << "|";
+		fout << (*it).second.x << "|";
+		fout << (*it).second.y << "|";
+		fout << (*it).second.lat << "|";
+		fout << (*it).second.lon << "|";
+		fout << endl;
+	}
+	fout.close();
+
+	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 
 }
 

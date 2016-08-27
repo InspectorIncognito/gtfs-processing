@@ -56,5 +56,7 @@ public:
 	double ddLon;
 
 
+
+
 	vector< vector< Cell > > cells;
 };

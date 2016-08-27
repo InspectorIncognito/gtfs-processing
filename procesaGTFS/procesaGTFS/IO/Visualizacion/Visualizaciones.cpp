@@ -42,6 +42,7 @@ void Visualizaciones::DibujaGoogleEarth()
 	CreaKML *kml = new CreaKML(pathkml.c_str(), pathkml.c_str());
 
 	DibujaRedParadas(kml);
+	DibujaRedPuntosBips(kml);
 	DibujaGrillaParadas(kml);
 
 	///Creacion del archivo .kml
@@ -245,6 +246,35 @@ void Visualizaciones::DibujaRedParadas(CreaKML *kml)
 		string style2("SheetColorNaranja");
 
 		kml->InsertaPunto((*ipar).second.codigo.c_str(),
+			"",
+			strlat.c_str(),
+			strlon.c_str(),
+			style.c_str(),
+			0);
+	}
+
+	kml->CierraFolder();
+
+}
+
+void Visualizaciones::DibujaRedPuntosBips(CreaKML *kml)
+{
+	//Dibujo trayectoria bus
+	kml->AbreFolder("Red de puntos ");
+
+	for (map<int, PuntoBip>::iterator ipar = fdd_->puntosDeCargaBip.begin(); ipar != fdd_->puntosDeCargaBip.end(); ipar++)
+	{
+		double lat, lon;
+
+		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, UTMZONE, lat, lon);
+
+		string strlat = StringFunctions::Double2String(lat, 20);
+		string strlon = StringFunctions::Double2String(lon, 20);
+
+		string style("SheetColorRosado");
+
+
+		kml->InsertaPunto((*ipar).second.nombre.c_str(),
 			"",
 			strlat.c_str(),
 			strlon.c_str(),

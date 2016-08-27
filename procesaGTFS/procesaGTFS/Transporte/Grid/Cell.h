@@ -50,6 +50,9 @@ public:
 	///bus stops of the cell
 	vector<string> stops;
 
+	///bus stops of the cell
+	vector<int> puntos;
+
 	///cell's route (servicio, lista de segmentos)
 	map< string, map<int,int> > routesSegments;
 };

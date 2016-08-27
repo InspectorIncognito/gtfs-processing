@@ -1,10 +1,8 @@
-﻿  ProcesaParadas.cpp
-Transporte\Paraderos\ProcesaParadas.cpp(42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-Transporte\Paraderos\ProcesaParadas.cpp(43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-  procesaGTFS.cpp
+﻿  procesaGTFS.cpp
   Generating code
-  26 of 3685 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+  28 of 3805 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    33 functions had inline decision re-evaluated but remain unchanged
+    18 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  procesaGTFS.vcxproj -> C:\workspace\tranSapp\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.exe
+  procesaGTFS.vcxproj -> C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.exe
+  procesaGTFS.vcxproj -> C:\workspace\Pragxis\TRANSAPP\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.pdb (Full PDB)
