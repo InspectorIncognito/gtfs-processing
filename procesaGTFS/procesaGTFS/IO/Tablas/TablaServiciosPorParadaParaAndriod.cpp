@@ -69,6 +69,7 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 	fileout << "longitude;";
 	fileout << "services";
 	fileout << endl;
+	fileout.precision(10);
 
 	for (it = output.begin(); it != output.end(); it++)
 	{
