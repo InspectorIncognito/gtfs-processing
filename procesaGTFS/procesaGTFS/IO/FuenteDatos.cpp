@@ -435,6 +435,8 @@ void FuenteDatos::leeSecuenciaDeParadas()
 	bool activo = false;
 	string servicio_ant = string("-");
 
+	map<string, Ruta>::iterator iRuta;
+
 	///Lectura archivo primario
 	while (archivoParaderos.good())
 	{
@@ -452,7 +454,10 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		vector<string> cod_serv = StringFunctions::Explode(cod[0], '-');
 		
 		string servicio = string(cod_serv[0] + cod_serv[1]);
-		//if (servicio.compare("I08I") == 0)
+
+		
+
+		//if (servicio.compare("D03I") == 0 && cur[3].compare("PD219")==0)
 		//	cout << "PAR1 : " << cur[3] << endl;
 
 		//if (servicio.compare(servicio_ant) != 0)
@@ -482,17 +487,26 @@ void FuenteDatos::leeSecuenciaDeParadas()
 				continue;
 			}
 
+			iRuta = rutas.mapeo->find(servicio);
+			Vector3D p = Vector3D((*ired).second.x, (*ired).second.y, 0.0);
+			float distance = -1;
+			if (iRuta != rutas.mapeo->end())
+			{
+				distance = (*iRuta).second.GetDistanceOnRoute(&p);
+				//cout << distance << endl;
+			}
+
 			///Construccion de secuencia
 			iserv = secParaderos.secuencias.find(servicio);
 			if (iserv == secParaderos.secuencias.end())
 			{
 				map<int, Paradero> tmp;
-				tmp[ atoi(cur[4].c_str()) ] = par;
+				tmp[int(distance)] = par;
 				secParaderos.secuencias[servicio] = tmp;
 			}
 			else
 			{
-				(*iserv).second[atoi(cur[4].c_str())] = par;
+				(*iserv).second[int(distance)] = par;
 			}
 
 			//if (servicio.compare("I08I") == 0)

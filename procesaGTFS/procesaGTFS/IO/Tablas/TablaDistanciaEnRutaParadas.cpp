@@ -31,6 +31,61 @@ void TablaDistanciaEnRutaParadas::Crear()
 
 	cout << "Proceso X : Creando e imprimiendo tabla de distancias en ruta de paradas... " ;
 
+	///Deteccion de paraderos con ambos sentidos
+	///output == parada, servicioSentido - Sentido
+	map<string, map<string, string> > serviciosPorParada;
+	map<string, string> servicioParadaRepetida;
+	map<string, map<string, string> >::iterator it;
+	map<string, string>::iterator is;
+	map<string, string>::iterator iDicServ;
+	for (map< string, map < int, Paradero > >::iterator iserv = fdd_->secParaderos.secuencias.begin(); iserv != fdd_->secParaderos.secuencias.end(); iserv++)
+	{
+		for (map < int, Paradero >::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
+		{
+			iDicServ = fdd_->dicSS.servicios.find((*iserv).first);
+
+			string servicio = (*iserv).first.substr(0, (*iserv).first.length() - 1);
+			string sentido = (*iserv).first.substr((*iserv).first.length() - 1, 1);
+
+			it = serviciosPorParada.find((*ipar).second.codigo);
+
+			///Caso de ser el primero del servicio no ingresar
+			if (it == serviciosPorParada.end())
+			{
+				map<string, string> tmp;
+				tmp[servicio] = sentido;
+
+				serviciosPorParada[(*ipar).second.codigo] = tmp;
+			}
+			else
+			{
+				is = (*it).second.find(servicio);
+
+				///Caso que el servicio no esta repetido
+				if (is == (*it).second.end())
+				{
+					(*it).second[servicio] = sentido;
+				}
+				///Caso servicio repetido
+				else
+				{
+					///identifico que no sea el primer paradero de la secuencia
+					servicioParadaRepetida[servicio] = (*ipar).second.codigo;
+				}
+			}
+		}
+	}
+
+	/////DEBUG
+	//ofstream dbg;
+	//dbg.open("paradasRepetidas.dbg");
+	//for (map<string, string>::iterator iit = servicioParadaRepetida.begin(); iit != servicioParadaRepetida.end(); iit++)
+	//{
+	//	dbg << (*iit).first << "|" << (*iit).second << endl;
+	//}
+	//dbg.close();
+
+
 	///Impresion de la tabla
 	ofstream fileout;
 	fileout.open("servicestopdistance" + fdd_->parametros->version + ".csv");
@@ -39,14 +94,22 @@ void TablaDistanciaEnRutaParadas::Crear()
 	fileout << "distancia";
 	fileout << endl;
 
-	map<string, string>::iterator iDicServ;
+	//map<string, string>::iterator iDicServ;
 	map<string, Ruta>::iterator iRuta;
 	int id = 0;
 	for (map< string, map < int, Paradero > >::iterator iserv = fdd_->secParaderos.secuencias.begin(); iserv != fdd_->secParaderos.secuencias.end(); iserv++)
 	{
 		for (map < int, Paradero >::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
 		{
-			//fileout << ++id << ";";
+			///Determino si es el primero y ultimo de un servicio, y saco el caso de ser el primero
+			string servicio = (*iserv).first.substr(0, (*iserv).first.length() - 1);
+			string sentido = (*iserv).first.substr((*iserv).first.length() - 1, 1);
+
+			map<string, string>::iterator iit = servicioParadaRepetida.find(servicio);
+			if (iit != servicioParadaRepetida.end() && (*iit).second.compare((*ipar).second.codigo)==0 && ipar == (*iserv).second.begin())
+				continue;
+				
+
 			fileout << (*ipar).second.codigo << ";";
 			fileout << (*iserv).first << ";";
 
@@ -58,9 +121,6 @@ void TablaDistanciaEnRutaParadas::Crear()
 				distance = (*iRuta).second.GetDistanceOnRoute(&p);
 			
 			fileout << int(distance) << endl;
-			
-			
-
 		}
 	}
 	fileout.close();
