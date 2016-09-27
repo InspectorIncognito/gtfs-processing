@@ -5634,7 +5634,7 @@ PF1117|PF1117-Weber Esq. / T. De Calcuta 7 Pte.|351065|6277856|-33.6287|-70.6057
 PF1118|PF1118-Weber Esq. / Monseñor Alvear|350848|6277857|-33.6287|-70.6081|
 PF1119|PF1119-Weber Esq. / Bartok|350677|6277818|-33.629|-70.6099|
 PF112|PF112-Avenida Gabriela Esq. / 4 Oriente|350976|6282981|-33.5825|-70.6058|
-PF1120|PF1120-Parada 2 / Paradero 48 @ Santa Rosa|349120|6278912|-33.6189|-70.6265|
+PF1120|PF1120-Parada 2 / Paradero 48 @ Santa Rosa|349120|6278911|-33.6189|-70.6265|
 PF1121|PF1121-Avenida Santa Rosa Esq. / Av. Eyzaguirre|349138|6278912|-33.6189|-70.6263|
 PF1122|PF1122-Avenida Santa Rosa Esq. / Fco. Coloane|348858|6277358|-33.6329|-70.6296|
 PF1123|PF1123-Avenida Santa Rosa Esq. / Punta Chilen|348964|6277956|-33.6275|-70.6283|
@@ -6015,7 +6015,6 @@ PF51|PF51-Parada  / Condominio   Valle Verde|351676|6284583|-33.5681|-70.598|
 PF510|PF510-Sargento Menadier Esq. / V. Pérez Rosales|354252|6279339|-33.6158|-70.5711|
 PF511|PF511-Sargento Menadier Esq. / Augusto D'Halmar|354024|6279298|-33.6161|-70.5736|
 PF512|PF512-Parada 2 / (M) Plaza De   Puente Alto|353937|6280068|-33.6091|-70.5744|
-PF515|PF515-Santa Elena Esq. / Av. Eduardo Cordero|353974|6280488|-33.6054|-70.5739|
 PF516|PF516-Carlos Aguirre Luco Esq. / Sargento Menadier|354409|6279379|-33.6154|-70.5694|
 PF52|PF52-Parada  / Escuela Gabriela|351626|6284271|-33.5709|-70.5986|
 PF520|PF520-Av. Circunvalación Esq. / Tomé|355718|6279477|-33.6147|-70.5553|
@@ -6351,7 +6350,6 @@ PF882|PF882-Rafael Alberti Esq. / Ejército Libertador|352430|6279569|-33.6134|-
 PF883|PF883-San Guillermo Esq. / El Tambillo|350909|6278065|-33.6268|-70.6074|
 PF884|PF884-San Guillermo Esq. / Lluta|350766|6279179|-33.6167|-70.6087|
 PF885|PF885-San Guillermo Esq. / La Melga|350912|6278099|-33.6265|-70.6073|
-PF886|PF886-Santa Elena Esq. / Juan S. Bach|353926|6280751|-33.603|-70.5744|
 PF887|PF887-Santa Elena Esq. / Domingo Tocornal|353931|6280772|-33.6028|-70.5744|
 PF888|PF888-Sargento Menadier Esq. / Est. Cherquenco|350012|6278578|-33.622|-70.6169|
 PF889|PF889-Sargento Menadier Esq. / Est. Sierra Nevada|350173|6278614|-33.6217|-70.6152|
@@ -6427,7 +6425,6 @@ PF960|PF960-Santa Elena Esq. / José Luis Coo|354057|6280071|-33.6091|-70.5731|
 PF961|PF961-Valle Central Esq. / Cerro Hornilla|351866|6278791|-33.6204|-70.5969|
 PF965|PF965-La Primavera Esq. / Charwa|351337|6281743|-33.5937|-70.6021|
 PF966|PF966-La Primavera Esq. / Creta|351486|6281767|-33.5935|-70.6005|
-PF967|PF967-Manuel Muñoz B. Esq. / Del Huerto|351615|6280013|-33.6093|-70.5994|
 PF968|PF968-Parada 4 / Paradero 26   Av. La Florida|355397|6285635|-33.5592|-70.5578|
 PF969|PF969-Diego Portales Esq. / Avenida Las Torres|355691|6285673|-33.5588|-70.5546|
 PF97|PF97-Parada 2 / (M) Las Mercedes|353641|6280977|-33.6009|-70.5774|
