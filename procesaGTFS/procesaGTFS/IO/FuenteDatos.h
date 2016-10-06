@@ -76,6 +76,9 @@ class FuenteDatos{
 	///Estructura de secuencia de paraderos
 	SecuenciaParaderos secParaderos;
 
+	///Estructura de secuencia de paraderos
+	SecuenciaParaderos secParaderosTODOS;
+
 	///Estructura de servicios
 	map<string, Servicio> servicios;
 

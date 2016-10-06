@@ -1,12 +1,8 @@
-﻿  FuenteDatos.cpp
-IO\FuenteDatos.cpp(216): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-IO\FuenteDatos.cpp(224): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-IO\FuenteDatos.cpp(369): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-IO\FuenteDatos.cpp(370): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-IO\FuenteDatos.cpp(495): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+﻿  TablaServiciosPorParada.cpp
+  TablaServiciosPorParadaParaAndriod.cpp
   Generating code
-  26 of 3849 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+  27 of 3849 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    18 functions had inline decision re-evaluated but remain unchanged
+    21 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   procesaGTFS.vcxproj -> C:\workspace\tranSapp\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.exe

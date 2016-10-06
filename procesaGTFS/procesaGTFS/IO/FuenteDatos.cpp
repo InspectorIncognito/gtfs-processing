@@ -455,47 +455,42 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		
 		string servicio = string(cod_serv[0] + cod_serv[1]);
 
-		
-
 		//if (servicio.compare("D03I") == 0 && cur[3].compare("PD219")==0)
 		//	cout << "PAR1 : " << cur[3] << endl;
 
-		//if (servicio.compare(servicio_ant) != 0)
+		if (servicio.compare(servicio_ant) != 0)
 			activo = true;
 
-		//if (servicio.compare(servicio_ant) == 0 && cur[4].compare("1") == 0)
-		//	activo = false;
+		if (servicio.compare(servicio_ant) == 0 && cur[4].compare("1") == 0)
+			activo = false;
 
 		//if (servicio.compare("I08I") == 0)
 		//	cout << "PAR2 : " << cur[3] << endl;
 
+		///Busco paradero en red de paradas
+		Paradero par;
+		ired = redParaderos.red.find(cur[3]);
+		if (ired != redParaderos.red.end())
+		{
+			par = (*ired).second;
+		}
+		else
+		{
+			cout << "ERROR : paradero " << cur[3] << " de stops_times.txt no se encuentra en stops.txt!" << endl;
+			continue;
+		}
+
+		iRuta = rutas.mapeo->find(servicio);
+		Vector3D p = Vector3D((*ired).second.x, (*ired).second.y, 0.0);
+		float distance = -1;
+		if (iRuta != rutas.mapeo->end())
+		{
+			distance = (*iRuta).second.GetDistanceOnRoute(&p);
+			//cout << distance << endl;
+		}
+
 		if (activo)
 		{
-			//if (servicio.compare("I08I") == 0)
-			//	cout << "PAR3 : " << cur[3] << endl;
-
-			///Busco paradero en red de paradas
-			Paradero par;
-			ired = redParaderos.red.find(cur[3]);
-			if (ired != redParaderos.red.end())
-			{
-				par = (*ired).second;
-			}
-			else
-			{
-				cout << "ERROR : paradero " << cur[3] << " de stops_times.txt no se encuentra en stops.txt!" << endl;
-				continue;
-			}
-
-			iRuta = rutas.mapeo->find(servicio);
-			Vector3D p = Vector3D((*ired).second.x, (*ired).second.y, 0.0);
-			float distance = -1;
-			if (iRuta != rutas.mapeo->end())
-			{
-				distance = (*iRuta).second.GetDistanceOnRoute(&p);
-				//cout << distance << endl;
-			}
-
 			///Construccion de secuencia
 			iserv = secParaderos.secuencias.find(servicio);
 			if (iserv == secParaderos.secuencias.end())
@@ -508,13 +503,20 @@ void FuenteDatos::leeSecuenciaDeParadas()
 			{
 				(*iserv).second[int(distance)] = par;
 			}
-
-			//if (servicio.compare("I08I") == 0)
-			//	cout << "PAR4 : " << cur[3] << endl;
-
 		}
 
-
+		///Construccion de secuencia
+		iserv = secParaderosTODOS.secuencias.find(servicio);
+		if (iserv == secParaderosTODOS.secuencias.end())
+		{
+			map<int, Paradero> tmp;
+			tmp[int(distance)] = par;
+			secParaderosTODOS.secuencias[servicio] = tmp;
+		}
+		else
+		{
+			(*iserv).second[int(distance)] = par;
+		}
 			
 		servicio_ant = servicio;
 	}

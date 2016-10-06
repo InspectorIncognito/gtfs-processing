@@ -35,7 +35,7 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 	map<string, map<string,int> > output;
 	map<string, map<string, int> >::iterator it;
 	map<string, string>::iterator iDicServ;
-	for (map< string, map < int, Paradero > >::iterator iserv = fdd_->secParaderos.secuencias.begin(); iserv != fdd_->secParaderos.secuencias.end(); iserv++)
+	for (map< string, map < int, Paradero > >::iterator iserv = fdd_->secParaderosTODOS.secuencias.begin(); iserv != fdd_->secParaderosTODOS.secuencias.end(); iserv++)
 	{
 		for (map < int, Paradero >::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
 		{
