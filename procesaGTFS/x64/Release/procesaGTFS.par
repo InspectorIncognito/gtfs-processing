@@ -1,13 +1,13 @@
 Parametros Asignacion Paradero a validacion
 ------------------------
 
-GTFS_Transantiago_26_9_2016					* Nombre Archivo de salida de validaciones procesadas
+GTFS_Transantiago_12_12_2016					* Nombre Archivo de salida de validaciones procesadas
 horarios.csv						* Nombre de archivo con horario de servicios (opcional)
 cargaBip.csv						* Nombre de archivo con puntos de carga bip
 GTFS_Transantiago_kmls\				* carpeta para kmls
 GTFS_Transantiago_reportes\			* carpeta para reportes
 20.0								* Distancia para el tramado de la ruta
-v0.6								* version
+v0.7								* version
 7									* colores
 ED1C24 1					
 F58220 2				

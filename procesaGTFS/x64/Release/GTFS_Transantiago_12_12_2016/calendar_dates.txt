@@ -1,0 +1,3 @@
+service_id,date,exception_type
+D_V27,20161208,1
+L_V27,20161208,2
