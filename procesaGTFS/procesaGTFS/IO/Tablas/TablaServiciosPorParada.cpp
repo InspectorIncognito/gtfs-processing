@@ -9,7 +9,7 @@
 * not be disclosed to third parties or copied or duplicated in any form,
 * in whole or in part, without the prior written consent of Pragxis SpA.
 * Copyright:  Pragxis (c) 2016
-* Last modified : Mauricio Zuñiga 18-06-2016
+* Last modified : Jorge Roa 16-02-2017
 */
 #include "TablaServiciosPorParada.h"
 
@@ -100,44 +100,6 @@ void TablaServiciosPorParada::Crear()
 		fileout << endl;
 	}
 	fileout.close();
-	
-
-	/*
-	///Impresion de la tabla
-	ofstream fileout;
-	fileout.open("servicesbybusstop.csv");
-	fileout << "id;";
-	fileout << "code;";
-	fileout << "service_id;";
-	fileout << "busStop_id";
-	fileout << endl;
-
-	map<string, string>::iterator iDicServ;
-	int id = 0;
-	for (map< string, map < int, Paradero > >::iterator iserv = fdd_->secParaderos.secuencias.begin(); iserv != fdd_->secParaderos.secuencias.end(); iserv++)
-	{
-		for (map < int, Paradero >::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
-		{
-			iDicServ = fdd_->dicSS.servicios.find((*iserv).first);
-
-			fileout << ++id << ";";
-			fileout << (*iserv).first << ";";
-			if (iDicServ != fdd_->dicSS.servicios.end())
-				fileout << (*iDicServ).second << ";";
-			else
-			{
-				cout << "ERROR : Servicio-sentido sin servicio usuario encontrado : " << (*iserv).first << endl;
-				fileout << "-" << ";";
-			}
-
-			fileout << (*ipar).second.codigo << endl;
-			
-
-		}
-	}
-	fileout.close();
-	*/
-
 
 	cout << Cronometro::GetMilliSpan( nTimeStart )/60000.0 << "(min)" << endl;
 }

@@ -9,7 +9,7 @@
 * not be disclosed to third parties or copied or duplicated in any form,
 * in whole or in part, without the prior written consent of Pragxis SpA.
 * Copyright:  Pragxis (c) 2016
-* Last modified : Mauricio Zuñiga 18-06-2016
+* Last modified : Jorge Roa 16-02-2017
 */
 #include "TablaServiciosParaAndroid.h"
 
@@ -86,15 +86,23 @@ void TablaServiciosParaAndroid::Crear()
 		{
 			for (map < int, Paradero >::iterator ipar = (*isI).second.begin(); ipar != (*isI).second.end(); ipar++)
 			{
+				map< string, Paradero >::iterator ired = fdd_->redParaderos.red.find((*ipar).second.codigo);
 				if (ipar == (*isI).second.begin())
-					fileout << (*ipar).second.codigo;
+					fileout << (*ired).second.codigo;
 				else
-					fileout << "-" << (*ipar).second.codigo;
+					fileout << "---" << (*ired).second.codigo;
 			}
 		}
 		fileout << ";";
 
-		map< string, map < int, Paradero > >::iterator isR = fdd_->secParaderos.secuencias.find((*iserv).first + "R");
+		map< string, map < int, Paradero > >::iterator isR;
+		if (fdd_->parametros->nombreArchivoIR != "" && fdd_->parametros->nombreArchivoIR != "-") {
+			map<string, string>::iterator servicioR = fdd_->serviciosIR.find((*iserv).first);
+			isR = fdd_->secParaderos.secuencias.find((*servicioR).second + "I");
+		}
+		else {
+			isR = fdd_->secParaderos.secuencias.find((*iserv).first + "R");
+		}
 		if (isR != fdd_->secParaderos.secuencias.end())
 		{
 			for (map < int, Paradero >::iterator ipar = (*isR).second.begin(); ipar != (*isR).second.end(); ipar++)
@@ -102,7 +110,7 @@ void TablaServiciosParaAndroid::Crear()
 				if (ipar == (*isR).second.begin())
 					fileout << (*ipar).second.codigo;
 				else
-					fileout << "-" << (*ipar).second.codigo;
+					fileout << "---" << (*ipar).second.codigo;
 			}
 		}
 		fileout << ";";

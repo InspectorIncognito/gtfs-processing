@@ -1,0 +1,82 @@
+agency_id,agency_name,agency_phone,agency_url,agency_timezone,agency_lang
+1,Administradora Francke Ltda.,560996398652,http://www.transporteinforma.cl,America/Santiago,es
+2,Buses Cruz Del Sur,560652436410,http://www.busescruzdelsur.cl,America/Santiago,es
+3,Expresos Austral,560998883369,http://www.transporteinforma.cl,America/Santiago,es
+4,Buses Isla Chiloe,560652635604,http://www.transporteinforma.cl,America/Santiago,es
+5,Buses J.B.,560652290850,http://www.transporteinforma.cl,America/Santiago,es
+6,Buses Ojeda,56098874129,http://www.transporteinforma.cl,America/Santiago,es
+7,Bus Norte Chile,560642233319,http://www.busnortechile.cl,America/Santiago,es
+8,Transportes Chinquihue Ltda.,560652288244,http://www.transporteinforma.cl,America/Santiago,es
+9,Cumbres Nevadas,560652721390,http://www.transporteinforma.cl,America/Santiago,es
+10,Expreso Lago Puyehue,560642243919,http://www.transporteinforma.cl,America/Santiago,es
+11,Fortuoso Subiabre,560988637143,http://www.transporteinforma.cl,America/Santiago,es
+12,Frankol Ltda.,560642216330,http://www.transporteinforma.cl,America/Santiago,es
+13,Full Express,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+14,Guido Molina,560991470836,http://www.transporteinforma.cl,America/Santiago,es
+15,Héctor Mascareña,560985311429,http://www.transporteinforma.cl,America/Santiago,es
+16,Buses De Ancud,560652620962,http://www.transporteinforma.cl,America/Santiago,es
+17,Inversiones Oceánicas S.A.,560991832554,http://www.transporteinforma.cl,America/Santiago,es
+18,Jorge Sandoval Loncon,560995092317,http://www.transporteinforma.cl,America/Santiago,es
+19,Juan Contreras,560992477157,http://www.transporteinforma.cl,America/Santiago,es
+20,Juan Guenchur,560996438680,http://www.transporteinforma.cl,America/Santiago,es
+21,Juan Ruiz,560961662477,http://www.transporteinforma.cl,America/Santiago,es
+22,Brembus,560983600006,http://www.transporteinforma.cl,America/Santiago,es
+23,Julio Huinao,560988521946,http://www.transporteinforma.cl,America/Santiago,es
+24,Kemelbus,560652256450,http://www.kemelbus.cl,America/Santiago,es
+25,Leonel Molina,560996433472,http://www.transporteinforma.cl,America/Santiago,es
+26,Semaju Bus,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+27,Via Lago Sur,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+28,Buses Fierro,560642230295,http://www.busesfierro.cl,America/Santiago,es
+29,Manuel Guichaman,560996209658,http://www.transporteinforma.cl,America/Santiago,es
+30,Naviera Austral,560652270430,http://www.navieraustral.cl,America/Santiago,es
+31,Naviera Cruz Del Sur,560652436410,http://www.busescruzdelsur.cl/transbordos-a-chiloe.html,America/Santiago,es
+32,Naviera Paredes,560652276490,http://www.navieraparedes.cl,America/Santiago,es
+33,Naviera Puelche,560652270761,http://www.navierapuelche.cl,America/Santiago,es
+34,Puerto Varas Express,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+35,Queilen Bus,560652632594,http://www.queilenbus.cl,America/Santiago,es
+36,Raúl Velásquez,560991944944,http://www.transporteinforma.cl,America/Santiago,es
+37,Rubén Mansilla,560995628819,http://www.transporteinforma.cl,America/Santiago,es
+38,Sociedad De Transportes Centenario Ltda.,560998470070,http://www.transporteinforma.cl,America/Santiago,es
+39,Sociedad De Transportes Central Ltda.,560989052225,http://www.transporteinforma.cl,America/Santiago,es
+40,Sociedad De Transportes Línea Nueve Ltda.,560974952305,http://www.transporteinforma.cl,America/Santiago,es
+41,Sociedad De Transportes Línea Uno Ltda.,560652635853,http://www.transporteinforma.cl,America/Santiago,es
+42,Sociedad De Transportes Tres V Limitada.,560979786065,http://www.transporteinforma.cl,America/Santiago,es
+43,Sociedad De Transportes Vía Azul Ltda.,560986258497,http://www.transporteinforma.cl,America/Santiago,es
+44,Sociedad Transporte Via Alerce Ltda.,560652253323,http://www.transporteinforma.cl,America/Santiago,es
+45,Suyai,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+46,Thaebus,560652420120,http://www.transporteinforma.cl,America/Santiago,es
+47,Transmontt S.A.,560652971765,http://www.transmontt.cl,America/Santiago,es
+48,Transporte Camino Real Ltda.,560642200811,http://www.transporteinforma.cl,America/Santiago,es
+49,Transporte Lagunitas S.A.,560652435791,http://www.transporteinforma.cl,America/Santiago,es
+50,Transporte Maritimo Chiloé Aysen S.A.,560652270000,http://www.transmarchilay.cl,America/Santiago,es
+51,Transporte Mirasol Pichipelluco,560652348819,http://www.transporteinforma.cl,America/Santiago,es
+52,Empresas De Energía Eso Ltda.,560642270508,http://www.transporteinforma.cl,America/Santiago,es
+53,Transportes Manpue Cia. Ltda.,560652641387,http://www.transporteinforma.cl,America/Santiago,es
+54,Victor Oyarzo Cárdenas,560652681122,http://www.transporteinforma.cl,America/Santiago,es
+56,Buses Vargas,560984295374,http://www.transporteinforma.cl,America/Santiago,es
+58,Buses Aguas Azules,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+59,Buses Calbuco,560994028937,http://www.transporteinforma.cl,America/Santiago,es
+60,Buses Gunther,560974517846,http://www.transporteinforma.cl,America/Santiago,es
+62,E.T.C.,560978389647,http://www.transporteinforma.cl,America/Santiago,es
+63,Buses Bohle,560652279055,http://www.transporteinforma.cl,America/Santiago,es
+64,Licanbus,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+65,Nikbus,560963522524,http://www.transporteinforma.cl,America/Santiago,es
+66,Buses Ruta Azul,560995762110,http://www.transporteinforma.cl,America/Santiago,es
+67,Buses San Carlos,560993596134,http://www.transporteinforma.cl,America/Santiago,es
+68,Buses Asecan,560984064554,http://www.transporteinforma.cl,America/Santiago,es
+69,Transportes Piscis,560981712086,http://www.transporteinforma.cl,America/Santiago,es
+70,Ana María Jaramillo,560982467340,http://www.transporteinforma.cl,America/Santiago,es
+71,César Torres Vargas,560992150940,http://www.transporteinforma.cl,America/Santiago,es
+72,Bus Maullín,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+73,E.T.M.,560652256253,http://www.transporteinforma.cl,America/Santiago,es
+74,Transportes El Mañio,560652257820,http://www.transporteinforma.cl,America/Santiago,es
+75,Buses Aguilar,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+76,Baysur,560652283000,http://www.transporteinforma.cl,America/Santiago,es
+77,Expresos Fresia,560652238000,http://www.transporteinforma.cl,America/Santiago,es
+78,Fresia Express,560652238000,http://www.transporteinforma.cl,America/Santiago,es
+79,Expressos Degañ,560976506219,http://www.transporteinforma.cl,America/Santiago,es
+80,José Ojeda,560998834445,http://www.transporteinforma.cl,America/Santiago,es
+81,Expresso Llamaca,560652691469,http://www.transporteinforma.cl,America/Santiago,es
+82,Buses Juanito,560976486638,http://www.transporteinforma.cl,America/Santiago,es
+83,Expresso Catalina,560652691469,http://www.transporteinforma.cl,America/Santiago,es
+88,Sociedad Transporte Mayor Quinto Centenario S.A.,642221906,http://www.transporteinforma.cl,America/Santiago,es

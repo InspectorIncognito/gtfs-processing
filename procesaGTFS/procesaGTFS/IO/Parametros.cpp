@@ -9,7 +9,7 @@
 * not be disclosed to third parties or copied or duplicated in any form,
 * in whole or in part, without the prior written consent of Pragxis SpA.
 * Copyright:  Pragxis (c) 2016
-* Last modified : Mauricio Zuñiga 18-06-2016
+* Last modified : Jorge Roa 16-02-2017
 */
 
 #include "Parametros.h"
@@ -54,6 +54,10 @@ Parametros::Parametros(const char *file)
 		mapeoColores[columnas1.at(0)] = columnas1.at(1);
 
 	}
+
+
+	///Lectura de Parametro
+	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoIR = columnas[0].c_str();
 
 	///debug
 	//for (map<string, string>::iterator it = mapeoColores.begin(); it != mapeoColores.end(); it++)

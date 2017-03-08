@@ -8,7 +8,12 @@
 
 namespace ConvertCoordinate{
 
-	#define UTMZONE "19H"
+	#define UTMZONE "18H"
+	/**
+	/* Metodo que asigna el valor UTMZone
+	*/
+	void setUTMZONE(const char* UTMZone);
+	//const char* getUTMZONE();
 	/**
 	*	Metodo que convierte coordenadas en Latitud/Longitud a UTM
 	*/

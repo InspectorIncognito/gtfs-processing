@@ -1,0 +1,16 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+7,3,L10,,,3,,6e4b20,FFFFFF
+6,3,L14,,,3,,d94920,FFFFFF
+9,3,L2,,,3,,ed5c0c,FFFFFF
+8,3,L113,,,3,,F7A800,000000
+15,2,L7,,,3,,a62139,FFFFFF
+13,2,L8,,,3,,e30916,FFFFFF
+14,2,L9,,,3,,a33324,FFFFFF
+11,2,L16,,,3,,eb467c,FFFFFF
+12,2,L5,,,3,,e80250,FFFFFF
+10,2,L12,,,3,,b52f89,FFFFFF
+3,1,L4,,,3,,246396,FFFFFF
+2,1,L1N,,,3,,41a332,FFFFFF
+1,1,L15,,,3,,0A262C,FFFFFF
+5,1,L6,,,3,,60B3E4,000000
+4,1,L1R,,,3,,047d39,FFFFFF

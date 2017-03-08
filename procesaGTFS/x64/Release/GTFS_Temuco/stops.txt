@@ -1,0 +1,1577 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+95120,,Pedro De Valdivia / Hochsteller - Sur,,-38.72860142,-72.61040012,,,0,,,0
+95121,,Manuel Rodriguez / Pasaje Huelen,,-38.73450816,-72.60199361,,,0,,,0
+95122,,Inglaterra / Mall Portal Temuco,,-38.73209019,-72.61011867,,,0,,,0
+95123,,Alemania / Iquique,,-38.73153195,-72.62087054,,,0,,,0
+95124,,Alemania / Volcan Tupungato,,-38.73158819,-72.62017563,,,0,,,0
+95125,,Alemania / Las Delicias,,-38.73237312,-72.61840664,,,0,,,0
+95126,,Alemania / Recreo,,-38.73279448,-72.61721052,,,0,,,0
+95127,,Alemania / Torremolinos,,-38.7333325,-72.61567633,,,0,,,0
+95128,,Alemania / Espana,,-38.73437897,-72.61280717,,,0,,,0
+95129,,Alemania / Dinamarca,,-38.73609534,-72.60593129,,,0,,,0
+95324,,Manuel Recabarren / Portal Del Maipo - Sur,,-38.75740006,-72.65874647,,,0,,,0
+95323,,Manuel Recabarren / Portal Del Maipo - Norte,,-38.75707437,-72.65906877,,,0,,,0
+95326,,S - 40 - Sur / río Cautín,,-38.75778578,-72.6648968,,,0,,,0
+95325,,S - 40 / Los Urbanistas - Sur,,-38.75731808,-72.66210262,,,0,,,0
+95328,,"S-40/ km 1,5",,-38.76019383,-72.67492503,,,0,,,0
+95327,,"S-40/ km 1,5",,-38.76050965,-72.67486181,,,0,,,0
+95329,,S-40 / S-262,,-38.76098642,-72.7030916,,,0,,,0
+95320,,Manuel Recabarren / Marte - Sur,,-38.75604825,-72.63822778,,,0,,,0
+95322,,Manuel Recabarren / Martin Lutero - Sur,,-38.75720122,-72.64746227,,,0,,,0
+95321,,Manuel Recabarren / Tomas Alba Edison - Sur,,-38.75683065,-72.64172158,,,0,,,0
+95130,,Alemania / Dr Carrillo - Sur,,-38.73621062,-72.60522272,,,0,,,0
+95131,,Alemania / Phillippi - Sur,,-38.7363558,-72.6044909,,,0,,,0
+95134,,Alemania / 18 De Septiembre,,-38.73580421,-72.60675526,,,0,,,0
+95135,,Alemania / Francia,,-38.73524197,-72.60978255,,,0,,,0
+95132,,Alemania / Phillippi - Norte,,-38.73631015,-72.60412619,,,0,,,0
+95133,,Alemania / Dr Carrillo - Norte,,-38.73611226,-72.60506645,,,0,,,0
+95138,,Alemania / Casino Dreams Araucania,,-38.73286434,-72.61646185,,,0,,,0
+95139,,Alemania / Reusch,,-38.73239332,-72.61784779,,,0,,,0
+95136,,Alemania / Mall Portal Temuco,,-38.73450077,-72.61185198,,,0,,,0
+95137,,Alemania / Hochstetter,,-38.73400869,-72.61333218,,,0,,,0
+95337,,Las Tranquera / Italia - Sur,,-38.75114263,-72.6275615,,,0,,,0
+95336,,Las Tranquera / Los Corrales - Sur,,-38.75120146,-72.62977057,,,0,,,0
+95335,,Las Tranquera / Las Vaquerias - Sur,,-38.75129679,-72.6314587,,,0,,,0
+95334,,S-40 - Sur / los Labradores,,-38.76101303,-72.72045978,,,0,,,0
+95339,,Las Encinas / Simon Bolicar - Oriente,,-38.7476063,-72.6286958,,,0,,,0
+95338,,Las Tranquera / Mantua - Sur,,-38.75105941,-72.62533254,,,0,,,0
+95333,,"S-40/ km 7,2",,-38.76469197,-72.73924525,,,0,,,0
+95332,,"S-40/ km 5,7",,-38.76064604,-72.72323436,,,0,,,0
+95331,,"S-40/ km 5,7",,-38.76097007,-72.72296863,,,0,,,0
+95330,,S-40/ S-262,,-38.76065266,-72.70319134,,,0,,,0
+95143,,San Martin / Sta Teresa,,-38.73904408,-72.61344571,,,0,,,0
+95144,,San Martin / Senador Estebanez,,-38.73876806,-72.61518482,,,0,,,0
+95145,,San Martin / Recreo,,-38.73720047,-72.61864247,,,0,,,0
+95146,,San Martin / Porvenir,,-38.73687381,-72.61983335,,,0,,,0
+95140,,San Martin / Phillippi,,-38.74025051,-72.60573317,,,0,,,0
+95141,,San Martin / Dieciocho De Septiembre,,-38.73984443,-72.60827723,,,0,,,0
+95142,,San Martin / San Guillermo,,-38.73965317,-72.6095523,,,0,,,0
+95147,,San Martin / Coquimbo,,-38.73644666,-72.62163493,,,0,,,0
+95148,,San Martin / Andes,,-38.7360504,-72.62312934,,,0,,,0
+95149,,Andes / San Martin - Poniente,,-38.73561079,-72.62327479,,,0,,,0
+95349,,"S-40/ km 2,5",,-38.76183255,-72.68555568,,,0,,,0
+95348,,S - 30 / La Cosecha - Sur,,-38.76707303,-72.76041694,,,0,,,0
+95347,,1 Norte / 6 Poniente - Norte,,-38.76678385,-72.75899717,,,0,,,0
+95342,,S - 30 / Las Taguas - Norte,,-38.76699329,-72.76160041,,,0,,,0
+95341,,S - 30 / La Cosecha - Norte,,-38.76691012,-72.76044708,,,0,,,0
+95340,,Las Encinas / Simon Bolicar - Poniente,,-38.74726046,-72.62997864,,,0,,,0
+95156,,Bernardo Ohiggins / Hochstetter,,-38.7390027,-72.61814121,,,0,,,0
+95157,,Bernardo Ohiggins / Uruguay,,-38.74003304,-72.61540221,,,0,,,0
+95154,,Bernardo Ohiggins / Rayen,,-38.73746541,-72.62275935,,,0,,,0
+95155,,Bernardo Ohiggins / Foye,,-38.73812713,-72.62005196,,,0,,,0
+95152,,Andes / Volcan Ollague - Oriente,,-38.73272045,-72.62185499,,,0,,,0
+95153,,Andes / Volcan Ollague - Poniente,,-38.73242539,-72.621854,,,0,,,0
+95150,,Andes / Arica - Oriente,,-38.73521838,-72.62286511,,,0,,,0
+95151,,Andes / Volcan Lanin,,-38.73396585,-72.62234129,,,0,,,0
+95158,,Bernardo Ohiggins / Maria Luisa,,-38.74041709,-72.61276659,,,0,,,0
+95159,,Bernardo Ohiggins / San Guillermo,,-38.74079884,-72.61028659,,,0,,,0
+94997,,Pedro De Valdivia / La Catedral - Norte,,-38.71056829,-72.63563462,,,0,,,0
+94998,,Pedro De Valdivia / Venezuela - Norte,,-38.72711865,-72.61215454,,,0,,,0
+95359,,Manuel Recabarren / Mantua - Norte,,-38.75448233,-72.6264088,,,0,,,0
+95358,,Manuel Recabarren / Imperiali - Norte,,-38.75433386,-72.62435004,,,0,,,0
+95357,,Universidad Diego Portales,,-38.76485476,-72.74250851,,,0,,,0
+95356,,S-40 - Norte / Camino Trañi Trañi,,-38.76076452,-72.69660597,,,0,,,0
+95355,,S-40/ km 3,,-38.76189845,-72.6924902,,,0,,,0
+95354,,S-40/ km 3,,-38.76174557,-72.69151912,,,0,,,0
+95352,,1 Norte / 1 Oriente - Norte,,-38.76599473,-72.75284829,,,0,,,0
+95350,,S - 30 / Las Taguas - Sur,,-38.76715583,-72.7617087,,,0,,,0
+95360,,Manuel Recabarren / Marga Marga - Norte,,-38.75468594,-72.63348863,,,0,,,0
+95361,,Manuel Recabarren / Isla Baleares - Norte,,-38.75494156,-72.63582664,,,0,,,0
+95362,,Manuel Recabarren / Carlos Darwin - Norte,,-38.75630359,-72.64042518,,,0,,,0
+95363,,Manuel Recabarren / Tomas Alba Edison - Norte,,-38.75651481,-72.64268344,,,0,,,0
+95364,,Manuel Recabarren / Cerro Colorado - Norte,,-38.75666376,-72.64505885,,,0,,,0
+95365,,Manuel Recabarren / Martin Lutero - Norte,,-38.75678353,-72.64754801,,,0,,,0
+95366,,Manuel Recabarren / Cerro Colorado - Sur,,-38.75701729,-72.6450939,,,0,,,0
+95367,,Manuel Recabarren / Guillermo Marconi - Norte,,-38.75692443,-72.64974326,,,0,,,0
+95368,,Manuel Recabarren / San Gabriel - Norte,,-38.75709565,-72.65207409,,,0,,,0
+95369,,Manuel Recabarren / Miguel Faraday - Norte,,-38.7572202,-72.65442355,,,0,,,0
+95372,,Manuel Recabarren / Miguel Faraday - Sur,,-38.75766019,-72.65439073,,,0,,,0
+95373,,S-40/ Reconectador,,-38.76169829,-72.72899754,,,0,,,0
+95370,,Manuel Recabarren / Guillermo Marconi - Sur,,-38.75744937,-72.65070316,,,0,,,0
+95371,,Manuel Recabarren / San Gabriel - Sur,,-38.75753781,-72.65270405,,,0,,,0
+95376,,Condominio Apumanque,,-38.76453527,-72.7359308,,,0,,,0
+95377,,Condominio Apumanque,,-38.76456608,-72.73665024,,,0,,,0
+95374,,S-40/ Reconectador,,-38.76192515,-72.72874706,,,0,,,0
+95375,,"S-40/ km 6,7",,-38.76450293,-72.73303018,,,0,,,0
+95378,,Universidad Diego Portales,,-38.76499898,-72.74093947,,,0,,,0
+95379,,1 Norte / 5 Oriente - Norte,,-38.76496029,-72.74819959,,,0,,,0
+95108,,Gabriela Mistral / Pedro De Valdivia,,-38.72838397,-72.61105729,,,0,,,0
+95107,,Regidor Francisco Poblete / Pto Montt,,-38.7238019,-72.60875786,,,0,,,0
+95109,,Regidor Francisco Poblete / Frutillar - Sur,,-38.72275928,-72.61010085,,,0,,,0
+95104,,Hochstetter / Argentina,,-38.72724573,-72.60934038,,,0,,,0
+95103,,Regidor Francisco Poblete / Vista Hermosa - Sur,,-38.72803209,-72.60790786,,,0,,,0
+95106,,Regidor Francisco Poblete / Antihue - Sur,,-38.72543634,-72.60666885,,,0,,,0
+95105,,Hochstetter / Quirihue,,-38.72628362,-72.60767529,,,0,,,0
+95100,,Prieto Norte / Los Cerezos,,-38.729452,-72.59921068,,,0,,,0
+95380,,4 Oriente / 2 Norte - Oriente,,-38.7640055,-72.74971974,,,0,,,0
+95102,,Supermercado Lider,,-38.7289728,-72.59951015,,,0,,,0
+95101,,Regidor Francisco Poblete / Paillaco - Sur,,-38.72793288,-72.60542563,,,0,,,0
+95385,,Los Raulies / 1 Oriente - Norte,,-38.76298852,-72.75398832,,,0,,,0
+95386,,Los Raulies / Los Alerces - Norte,,-38.76309717,-72.75604278,,,0,,,0
+95387,,Los Avellanos / Las Begonias - Poniente,,-38.76375487,-72.75780557,,,0,,,0
+95388,,El Bosque / Gorbea - Sur,,-38.76099668,-72.75132686,,,0,,,0
+95381,,4 Oriente - Oriente,,-38.76249882,-72.74970317,,,0,,,0
+95382,,El Bosque / Los Alamos - Sur,,-38.76074101,-72.74677063,,,0,,,0
+95383,,El Bosque - Sur / a los Ulmos,,-38.76083945,-72.74908423,,,0,,,0
+95384,,El Bosque / Gorbea - Norte,,-38.76086488,-72.7513285,,,0,,,0
+95389,,Los Raulies / 1 Oriente - Sur,,-38.76314817,-72.75375059,,,0,,,0
+95119,,Pedro De Valdivia / Hochsteller - Norte,,-38.72855843,-72.61003804,,,0,,,0
+95118,,Pedro De Valdivia / Espana,,-38.72911595,-72.6089053,,,0,,,0
+95117,,Pedro De Valdivia / Francia - Sur,,-38.72975489,-72.6071451,,,0,,,0
+95116,,Pedro De Valdivia / Trizano,,-38.73041283,-72.60541441,,,0,,,0
+95115,,Pedro De Valdivia / Cherquenco,,-38.73061488,-72.60511604,,,0,,,0
+95114,,Pedro De Valdivia / Cherquenco - Sur,,-38.73109963,-72.60457878,,,0,,,0
+95391,,Los Avellanos / Las Begonias - Oriente,,-38.76371002,-72.75765624,,,0,,,0
+95113,,Pedro De Valdivia / Gral Pinto Puelma,,-38.73185324,-72.60338647,,,0,,,0
+95390,,Los Raulies / Los Alerces - Sur,,-38.76322167,-72.755953,,,0,,,0
+95112,,Gabriela Mistral / Andes,,-38.72921619,-72.62037213,,,0,,,0
+95111,,Gabriela Mistral / Las Delicias,,-38.72898532,-72.61829317,,,0,,,0
+95110,,Recreo / Gabriela Mistral,,-38.72864774,-72.61521468,,,0,,,0
+95398,,S - 30 / Los Portones - Norte,,-38.76806336,-72.76843206,,,0,,,0
+95399,,Santa Maria / La Estancia - Oriente,,-38.76496471,-72.77573207,,,0,,,0
+95396,,S - 30 / El Portico - Norte,,-38.76778911,-72.77087908,,,0,,,0
+95397,,S - 30 - Oriente / El Pozo,,-38.76716273,-72.77311131,,,0,,,0
+95394,,S - 30 / Los Aguiluchos - Norte,,-38.76726874,-72.76386832,,,0,,,0
+95395,,S - 30 / Sergio Aguilera Drago - Norte,,-38.76769816,-72.76609729,,,0,,,0
+95393,,3 Poniente / 2 Norte - Oriente,,-38.76544567,-72.75740231,,,0,,,0
+95817,,Castanos / Raulies,,-38.67878912,-72.505618,,,0,,,0
+95818,,Bernardo Ohiggins / Alexandro Urrutia,,-38.67706098,-72.50399241,,,0,,,0
+95815,,Alexandro Urrutia / caupolicán,,-38.67582954,-72.50331189,,,0,,,0
+95819,,Huerfanos / Bandera - Oriente,,-38.71658453,-72.55671477,,,0,,,0
+95821,,B Urrutia / Temuco,,-38.72841921,-72.57659593,,,0,,,0
+95820,,Huerfanos / Moneda - Oriente,,-38.71457184,-72.55697668,,,0,,,0
+95825,,7 Norte / 8 Oriente - Oriente,,-38.72031577,-72.56010688,,,0,,,0
+95824,,Ziem / 4 Oriente - Oriente,,-38.72269843,-72.56266063,,,0,,,0
+95823,,Ziem / Centenario - Sur,,-38.72402419,-72.56759615,,,0,,,0
+95822,,Ziem / Fresia - Sur,,-38.72468087,-72.57063133,,,0,,,0
+95826,,Siete Norte / Nahuelbuta - Oriente,,-38.71803323,-72.56090355,,,0,,,0
+95827,,Cacique Lemunao / Cacique Colipan - Sur,,-38.71595717,-72.56131791,,,0,,,0
+95828,,Huerfanos / Moneda - Poniente,,-38.71450571,-72.55726664,,,0,,,0
+95830,,1 Norte / Braulio Sandoval - Poniente,,-38.7197766,-72.56422045,,,0,,,0
+95832,,Rudencio Ortega / Kolossa,,-38.7243219,-72.5731054,,,0,,,0
+95831,,Valparaiso / Jose Reyes Morales,,-38.72603932,-72.56851695,,,0,,,0
+95834,,Rudecindo Ortega / Cacique Lienan,,-38.71175231,-72.55942211,,,0,,,0
+95833,,Rudecindo Ortega / Cacique Melivilu,,-38.71355049,-72.56140343,,,0,,,0
+95836,,Nahuelbuta / 8 Norte - Norte,,-38.71818669,-72.560574,,,0,,,0
+95835,,Huerfanos / Cruce,,-38.71257098,-72.55748541,,,0,,,0
+95300,,Pedro De Valdivia / Dario Salas - Norte,,-38.73294975,-72.60140135,,,0,,,0
+95308,,Manuel Recabarren / Leonardo Da Vinci - Norte,,-38.7545371,-72.62964631,,,0,,,0
+95305,,Manuel Recabarren / Leonardo Da Vinci - Sur,,-38.75497565,-72.62993057,,,0,,,0
+95306,,Manuel Recabarren / Venecia - Norte,,-38.75414913,-72.62177293,,,0,,,0
+95303,,Manuel Recabarren / Monza - Sur,,-38.75456155,-72.62276027,,,0,,,0
+95304,,Manuel Recabarren / Los Pioneros - Norte,,-38.75458977,-72.6320509,,,0,,,0
+95301,,Las Encinas / Bosque Grande - Norte,,-38.74860397,-72.62449172,,,0,,,0
+95302,,Manuel Recabarren / Los Pioneros - Sur,,-38.75503562,-72.6328771,,,0,,,0
+95803,,Valparaiso / Rudencio Ortega,,-38.7212934,-72.5703527,,,0,,,0
+95802,,Nahuelbuta / 4 Norte,,-38.71854356,-72.56288773,,,0,,,0
+95801,,Nahuelbuta / 8 Norte - Sur,,-38.71828249,-72.56050491,,,0,,,0
+95800,,Nahuelbuta / 12 Norte,,-38.71805175,-72.55788061,,,0,,,0
+95808,,Barros Arana / Supermercado Lider,,-38.73199352,-72.57330313,,,0,,,0
+95809,,Barros Arana / Bascunan Sta Maria,,-38.73071439,-72.57168687,,,0,,,0
+95310,,Las Encinas / Bosque Grande - Sur,,-38.74897963,-72.62431887,,,0,,,0
+95311,,Las Encinas / Bucalemu - Norte,,-38.74801429,-72.62690417,,,0,,,0
+95804,,Ecuador / Kolossa - Sur,,-38.72280652,-72.57365732,,,0,,,0
+95805,,21 De Mayo / Brasil,,-38.72394264,-72.57477604,,,0,,,0
+95806,,Bascuna Sta Maria / David Perry,,-38.72638708,-72.573344,,,0,,,0
+95807,,David Perry / Temuco,,-38.72858925,-72.57384344,,,0,,,0
+95317,,Manuel Recabarren / Alejandro Volta - Sur,,-38.7553288,-72.63594164,,,0,,,0
+95318,,Manuel Recabarren / Mercurio - Sur,,-38.755669,-72.63714462,,,0,,,0
+95319,,Manuel Recabarren / Marte - Norte,,-38.7556505,-72.63825221,,,0,,,0
+95312,,Las Encinas / Bucalemu - Sur,,-38.74829307,-72.6267301,,,0,,,0
+95313,,Manuel Recabarren / Venecia - Sur,,-38.75449113,-72.62209153,,,0,,,0
+95314,,Manuel Recabarren / Imperiali - Sur,,-38.75471094,-72.62466436,,,0,,,0
+95315,,Manuel Recabarren / Mantua - Sur,,-38.7547957,-72.62573408,,,0,,,0
+95309,,Las Encinas / Las Fucsias,,-38.75078624,-72.61698795,,,0,,,0
+95812,,Barros Arana / Melinka - Oriente,,-38.7252133,-72.56242323,,,0,,,0
+95811,,Barros Arana / Valparaiso,,-38.72814712,-72.56744928,,,0,,,0
+95814,,Barros Arana / Huerfanos,,-38.7184319,-72.55679987,,,0,,,0
+95813,,Barros Arana / 5 Norte - Oriente,,-38.72312004,-72.56022861,,,0,,,0
+95810,,Barros Arana / Daniel De La Vega,,-38.72937325,-72.56968273,,,0,,,0
+95758,,Sausalito - Norte / Trafanrulli,,-38.76522797,-72.60646341,,,0,,,0
+95759,,Villa Alegre/ Bombero Carlos Escobar,,-38.76420532,-72.6069663,,,0,,,0
+95756,,Aillarehue / Aillacara,,-38.76853168,-72.60187675,,,0,,,0
+95757,,Sausalito - Norte / Millelche,,-38.76674987,-72.60504334,,,0,,,0
+95754,,Sausalito - Sur / Millelche,,-38.76690475,-72.60499313,,,0,,,0
+95755,,Bombero Carlos Escobar - Oeste / San Nicolas,,-38.76705905,-72.60319258,,,0,,,0
+95752,,Villa Alegre - Norte / Estado,,-38.76157484,-72.60310829,,,0,,,0
+95753,,Villa Alegre - Norte / Bombero R Fierro,,-38.76372444,-72.60659419,,,0,,,0
+95750,,Guido Beck De Ramberga - Oeste / Nihue,,-38.75880337,-72.59953111,,,0,,,0
+95751,,Sausalito - Sur / Relun,,-38.76515461,-72.60665642,,,0,,,0
+95553,,S - 215 / Vega modelo- Sur,,-38.69430232,-72.52549372,,,0,,,0
+95552,,S - 215 / Vista Volcan - Sur,,-38.69524216,-72.5273664,,,0,,,0
+95551,,S - 215 / Vista Volcan - Norte,,-38.69529097,-72.52781948,,,0,,,0
+95550,,S - 215 / Valle De Asturias II- Oriente,,-38.69859174,-72.53411125,,,0,,,0
+95559,,S - 215 - Poniente / Ctro . E. La Granja,,-38.68132109,-72.51107702,,,0,,,0
+95558,,S - 215 - Poniente / Vilcún,,-38.6834869,-72.51268743,,,0,,,0
+95557,,S - 215 / Villa Santa Carolina 1 - Norte,,-38.69055168,-72.5183136,,,0,,,0
+95556,,S - 215 / Villa Santa Carolina - Sur,,-38.69050713,-72.51789858,,,0,,,0
+95555,,S - 215 / Villa Santa Carolina 2 - Norte,,-38.69093945,-72.51911377,,,0,,,0
+95554,,S - 215 /Vega Modelo,,-38.69453227,-72.52633575,,,0,,,0
+95749,,Guido Beck De Ramberga - Este,,-38.75362947,-72.59015694,,,0,,,0
+95745,,Huichahue - Este / Baquedano,,-38.76395763,-72.58908408,,,0,,,0
+95746,,Huichahue_Oeste / Santa Maria,,-38.76232231,-72.59076628,,,0,,,0
+95747,,Villa Alegre / Psje Villa Alegre,,-38.75406869,-72.58976742,,,0,,,0
+95748,,Guido Beck De Ramberga - Oeste / Almirante Barroso,,-38.75743042,-72.59756397,,,0,,,0
+95741,,Pulmahue / Pasaje N3,,-38.77385609,-72.59245223,,,0,,,0
+95742,,Pulmahue / La Quebrada,,-38.77370299,-72.59009328,,,0,,,0
+95743,,Huichahue_Sur / Pulmahue,,-38.77235982,-72.58559619,,,0,,,0
+95744,,Huichahue - Oeste / Cerro,,-38.76561589,-72.58706498,,,0,,,0
+95540,,S - 215 / Calderon De La Barca - Poniente,,-38.70649465,-72.54873848,,,0,,,0
+95542,,S - 215 / Juan Rulfo - Norte,,-38.70370085,-72.54497166,,,0,,,0
+95541,,S - 215 / Valle De Asturias II - Poniente,,-38.69852286,-72.53421557,,,0,,,0
+95548,,S - 215 / Villa El Retiro - Poniente,,-38.70044994,-72.53821108,,,0,,,0
+95547,,S - 215 / Tirso De Molina,,-38.70321062,-72.54389747,,,0,,,0
+95549,,S - 215 / Valle De Asturias - Oriente,,-38.69961875,-72.53622762,,,0,,,0
+95544,,S - 215 / Villa El Retiro - Oriente,,-38.70091839,-72.53877809,,,0,,,0
+95739,,Huichahue_Este / Santa Maria,,-38.76204386,-72.59059938,,,0,,,0
+95543,,S - 215 / Gustavo Adolfo Bequer - Oriente,,-38.70574927,-72.54766492,,,0,,,0
+95738,,Huichahue - Oeste_Los Araucanos,,-38.7635958,-72.5897098,,,0,,,0
+95546,,S - 215 / Gustavo Adolfo Bequer - Poniente,,-38.70551497,-72.54776253,,,0,,,0
+95545,,S - 215 / Roni Bandini,,-38.70495619,-72.54704066,,,0,,,0
+95732,,Las Avutardas / Los Ruisenores,,-38.77527529,-72.59280912,,,0,,,0
+95733,,Huichahue_Norte / El Sauce - Mira Cautin,,-38.77212257,-72.58553862,,,0,,,0
+95529,,Nahuelbuta / 7 Norte - Sur,,-38.71836852,-72.56119445,,,0,,,0
+95730,,Pulmahue / La Quebrada,,-38.7736594,-72.58897747,,,0,,,0
+95731,,Pulmahue / Las Parinas,,-38.77297871,-72.58687956,,,0,,,0
+95736,,Huichahue - Este / Cementerio,,-38.76659507,-72.58696785,,,0,,,0
+95737,,Huichahue - Este / El Cerro,,-38.76471135,-72.5876475,,,0,,,0
+95734,,Huichahue_Este / Licanco,,-38.7704954,-72.58660434,,,0,,,0
+95735,,Huichahue / Los Hualles,,-38.76849159,-72.58665507,,,0,,,0
+95531,,S - 215 / Los Tineos - Poniente,,-38.71037951,-72.55143847,,,0,,,0
+95530,,S - 215 / Jacinto Benavente,,-38.70882288,-72.55050916,,,0,,,0
+95535,,S - 215 / Jacaranda - Poniente,,-38.71163727,-72.55245399,,,0,,,0
+95534,,S - 215 / Huingan - Poniente,,-38.71320204,-72.55350453,,,0,,,0
+95729,,Pulmahue / Painemilla,,-38.77389998,-72.59163013,,,0,,,0
+95533,,S - 215 / Huingan - Oriente,,-38.71323792,-72.55328777,,,0,,,0
+95728,,Las Avutardas / Las Aguilas,,-38.77473706,-72.59280308,,,0,,,0
+95532,,S - 215 / Bandera - Poniente,,-38.71576419,-72.5551131,,,0,,,0
+95727,,Los Ruisenore - Sur / Las Bandurrias,,-38.77559011,-72.59430053,,,0,,,0
+95539,,S - 215 / Antonio Machado - Poniente,,-38.70745706,-72.54949572,,,0,,,0
+95538,,S - 215 / Albert Camus,,-38.70851573,-72.54996219,,,0,,,0
+95537,,S - 215 / Los Tineos - Oriente,,-38.71043455,-72.55135968,,,0,,,0
+95536,,S - 215 / Jacaranda - Oriente,,-38.71170761,-72.55229133,,,0,,,0
+95518,,Cautin / B Urrutia,,-38.72955307,-72.57715018,,,0,,,0
+95519,,Anibal Pinto / Cautín,,-38.72918771,-72.57817332,,,0,,,0
+95720,,Pamemilla / Aillacara,,-38.76829407,-72.59195765,,,0,,,0
+95721,,Vilumilla / Pamemilla,,-38.76989187,-72.59216489,,,0,,,0
+95723,,Los Pelicanos / Los Ruisenores,,-38.7757745,-72.5970554,,,0,,,0
+95724,,Camino Querevan - Este / Las Aguilas,,-38.77496297,-72.59801016,,,0,,,0
+95725,,Camino Querevan - Oeste / Las Perdices,,-38.77529863,-72.59808094,,,0,,,0
+95726,,Los Ruisenores / Los Pelicanos,,-38.77577856,-72.59648374,,,0,,,0
+95520,,Ecuador / 21 De Mayo - Norte,,-38.72311297,-72.57507948,,,0,,,0
+95522,,Tacna / 5 De Abril,,-38.72158545,-72.57262012,,,0,,,0
+95717,,La Paz / Francisco Pleiteado,,-38.75610054,-72.59097985,,,0,,,0
+95521,,Ecuador / Kolossa - Norte,,-38.722742,-72.57374172,,,0,,,0
+95716,,Villa Alegre / Psje Villa Alegre,,-38.75465097,-72.59038974,,,0,,,0
+95524,,5 De Abril / Tacna,,-38.72137529,-72.57256046,,,0,,,0
+95719,,Aillacara / Huada,,-38.76810973,-72.59393899,,,0,,,0
+95523,,Rudencio Ortega / Centenario,,-38.72037035,-72.56877333,,,0,,,0
+95718,,Aillacara - Norte / Cacique Conoepan,,-38.76824134,-72.59949122,,,0,,,0
+95526,,Nahuelbuta / Terpel,,-38.71881021,-72.56577335,,,0,,,0
+95525,,Rudencio Ortega / Vicente Perez Rosales,,-38.71897443,-72.56760331,,,0,,,0
+95528,,Nahuelbuta / 1 Norte - Sur,,-38.71869392,-72.56473118,,,0,,,0
+95527,,Nahuelbuta / Rudecindo Ortega - Sur,,-38.71890999,-72.56673964,,,0,,,0
+95795,,S - 31 - Oriente / Los Coigues,,-38.67865023,-72.50784681,,,0,,,0
+95794,,S - 215 / Valle De Asturias - Poniente,,-38.6995506,-72.53634544,,,0,,,0
+95793,,5 De Abril / Valparaiso,,-38.72090415,-72.57043755,,,0,,,0
+95792,,Claudio Vicuna / Ecuador,,-38.72369927,-72.57639069,,,0,,,0
+95791,,Claudio Vicuna / Rancagua,,-38.72536002,-72.57572736,,,0,,,0
+95790,,Capolican / Anibal Pinto - Norte,,-38.72721233,-72.57762002,,,0,,,0
+95799,,S - 215 / Juan Rulfo - Sur,,-38.70392401,-72.54488354,,,0,,,0
+95509,,Camino Querevan - Este / Los Queltehues,,-38.77318586,-72.5975522,,,0,,,0
+95798,,S - 215 / Parque Costanera II - Oriente,,-38.7023542,-72.5417204,,,0,,,0
+95508,,Camino Querevan - Oeste / Pulmahue,,-38.77349814,-72.59777014,,,0,,,0
+95797,,S - 215 - Oriente / Ctro Edu. La Granja,,-38.68163576,-72.51117024,,,0,,,0
+95507,,Villa Alegre - Este / Almirante Barroso,,-38.7581837,-72.59539493,,,0,,,0
+95796,,S - 31 / Arturo Prat - Oriente,,-38.68035584,-72.50971721,,,0,,,0
+95516,,Vilumila / Yuriloche,,-38.77024153,-72.59978276,,,0,,,0
+95517,,B Urrutia / Tucapel - Poniente,,-38.73037671,-72.57713353,,,0,,,0
+95514,,Aillacara - Norte / Maquehue,,-38.76813484,-72.59646319,,,0,,,0
+95515,,Camino Querevan - Oeste / Vilumila,,-38.77094742,-72.59752027,,,0,,,0
+95512,,Viluma / Cacique Conoepan,,-38.77019232,-72.59883186,,,0,,,0
+95513,,Vilumila / Aillarehue,,-38.77028747,-72.6015997,,,0,,,0
+95510,,Camino Querevan_Este / Conun Huenu,,-38.77145453,-72.59736333,,,0,,,0
+95511,,Los Ruisenores - Norte / Las Bandurrias,,-38.77557328,-72.5947693,,,0,,,0
+95782,,Aillacara - Sur / Maquehue,,-38.76820571,-72.59648591,,,0,,,0
+95781,,Huichahue / S51 - Sur_16,,-38.78595887,-72.57392399,,,0,,,0
+95784,,Enrique Mac Iver - Norte / Fuentes,,-38.76078306,-72.59760612,,,0,,,0
+95783,,Aillacara - Sur / Peni,,-38.76829183,-72.59913523,,,0,,,0
+95780,,Huichahue / Cruce Chomio,,-38.81235153,-72.55487133,,,0,,,0
+95789,,Barros Arana / 3 Norte - Oriente,,-38.72412703,-72.56102747,,,0,,,0
+95786,,Enrique Mac Iver - Norte / Cacique Conoepan,,-38.76334385,-72.60251142,,,0,,,0
+95785,,Enrique Mac Iver - Norte / Corral,,-38.76234024,-72.60063031,,,0,,,0
+95788,,Enrique Mac Iver - Oeste / Bombero A Castro,,-38.76578522,-72.60467637,,,0,,,0
+95787,,Enrique Mac Iver - Oeste / Bombero D Ibacache,,-38.76467094,-72.60425856,,,0,,,0
+95503,,Bombero Carlos Escobar - Este / Corvalan,,-38.76702668,-72.60310679,,,0,,,0
+95504,,Villa Alegre / Lillo,,-38.75755796,-72.59386611,,,0,,,0
+95505,,Enrique Mac Iver - Sur / Fuentes,,-38.76087261,-72.59753276,,,0,,,0
+95506,,Pulmahue / Las Parinas,,-38.77328332,-72.58811886,,,0,,,0
+95500,,Enrique Mac Iver - Sur / Tomas Guevara,,-38.76242166,-72.60056345,,,0,,,0
+95501,,Enrique Mac Iver - Sur / Cacique Conoepan,,-38.76344162,-72.60245042,,,0,,,0
+95502,,Villa Alegre - Oeste / Almirante Barroso,,-38.75848016,-72.59572514,,,0,,,0
+95773,,Juan Pablo/ Galilea,,-38.87220166,-72.39738922,,,0,,,0
+95772,,S459_2 / Juan Pablo II,,-38.86973557,-72.39555624,,,0,,,0
+95770,,General Mackenna - Este / Pedro Leon Gallo,,-38.7463141,-72.58829043,,,0,,,0
+95777,,S459_7 / Los Copihues,,-38.8709768,-72.38689127,,,0,,,0
+95776,,Los Olivos / Los Boldos,,-38.87302576,-72.39346277,,,0,,,0
+95775,,S459_5 / Los Olivos,,-38.87384771,-72.39506341,,,0,,,0
+95774,,S459_4 / Ilusión,,-38.87421056,-72.39727234,,,0,,,0
+95779,,Huichahue / S-51_Sur_9,,-38.81670726,-72.54695239,,,0,,,0
+95778,,S-51/ Sur 2,,-38.85021865,-72.44803887,,,0,,,0
+95760,,Guido Beck De Ramberga - Oeste,,-38.75490062,-72.59277468,,,0,,,0
+95762,,Huichahue_Norte / Camino El Sauce,,-38.7735109,-72.58448509,,,0,,,0
+95761,,Huichahue_Sur / Camino El Sauce,,-38.77383177,-72.58432392,,,0,,,0
+95764,,Huichabue / Metrenco,,-38.77840083,-72.58094504,,,0,,,0
+95763,,Huichahue / Ruta 5,,-38.77665572,-72.58235543,,,0,,,0
+95766,,Huichahue / S51 - Norte_19,,-38.77933659,-72.57982863,,,0,,,0
+95765,,Huichahue / S51 - Sur_20,,-38.77996294,-72.57943915,,,0,,,0
+95768,,Huichahue / S51 - Norte_17,,-38.78095023,-72.57823125,,,0,,,0
+95767,,Huichahue / S51 - Sur_18,,-38.78145604,-72.57793188,,,0,,,0
+95769,,General Mackenna - Oeste / El Remanso,,-38.74662758,-72.58849261,,,0,,,0
+96265,,Los Alerces / Gabriela Mistral - Sur 2,,-38.67904203,-72.5044546,,,0,,,0
+96266,,Los Alerces / Los Robles,,-38.68006175,-72.50551408,,,0,,,0
+96267,,Libertad / Las Lilas,,-38.68110658,-72.50546555,,,0,,,0
+96268,,Roble Viejo / Calafquén,,-38.68251989,-72.50429635,,,0,,,0
+96269,,Laguna Quepe / Volcán Llaima,,-38.68318571,-72.50368213,,,0,,,0
+96274,,Pumalal / Cancha Futbol Cajón,,-38.68142692,-72.50810752,,,0,,,0
+96275,,Los Alerces / Los Coigues,,-38.68034232,-72.50561574,,,0,,,0
+96272,,Arturo Prat - Las Rosas,,-38.68272508,-72.50849937,,,0,,,0
+96273,,Arturo Prat - Las Raices,,-38.68161118,-72.50948107,,,0,,,0
+96276,,Galvarino / Caupolicán,,-38.6766738,-72.50278895,,,0,,,0
+96271,,Arturo Prat / Álamos,,-38.68410906,-72.50477915,,,0,,,0
+96270,,Codinhue / curaco,,-38.68402322,-72.50286137,,,0,,,0
+96283,,S-40/ 4 Oriente,,-38.76599448,-72.74877408,,,0,,,0
+96287,,Gral Carrera / Eduardo Rodriguez,,-38.74585408,-72.59907732,,,0,,,0
+96288,,Gral Carrera / Imperial,,-38.74414913,-72.59865914,,,0,,,0
+96289,,Bernardo Ohiggins / Arturo Prat,,-38.74352363,-72.5922806,,,0,,,0
+96280,,Colegio Cumbres,,-38.76821754,-72.7579982,,,0,,,0
+96282,,S-40/ Dos Oriente,,-38.76649431,-72.75103251,,,0,,,0
+96281,,S-40/ Dos Poniente,,-38.76763616,-72.75489757,,,0,,,0
+95170,,Cristobal Colon / Pedro De Valdivia,,-38.721799,-72.61846434,,,0,,,0
+95171,,Pedro De Valdivia / Puelo,,-38.72044432,-72.61909806,,,0,,,0
+95598,,Barros Arana / David Perry,,-38.73269127,-72.57420858,,,0,,,0
+95599,,Barros Arana / Vicente Perez Rosales - Oriente,,-38.72660352,-72.56483612,,,0,,,0
+95594,,Barros Arana / Vicente Perez Rosales - Poniente,,-38.72659817,-72.56497604,,,0,,,0
+95595,,Barros Arana / Pedro Cartes - Poniente,,-38.72600239,-72.56404082,,,0,,,0
+96299,,"S-20/ km 2,7",,-38.69512758,-72.6605911,,,0,,,0
+95596,,Barros Arana / Francisco Bilbao - Sur,,-38.73360145,-72.57602401,,,0,,,0
+96298,,s -20 / Cementerio Parque,,-38.69241864,-72.66606817,,,0,,,0
+95597,,Barros Arana / Tucapel,,-38.73119635,-72.57248406,,,0,,,0
+95590,,Barros Arana / 3 Norte - Poniente,,-38.72406192,-72.56113401,,,0,,,0
+96296,,Vilumilla / Pifilca,,-38.76998674,-72.59236107,,,0,,,0
+95591,,Barros Arana / Melinka - Poniente,,-38.72499796,-72.56237917,,,0,,,0
+96295,,Paimenilla / Luncopechon,,-38.76885329,-72.59182999,,,0,,,0
+95592,,Barros Arana / Valparaiso,,-38.72834717,-72.56796787,,,0,,,0
+96294,,Ailacara / Huaba,,-38.76804606,-72.59370217,,,0,,,0
+95593,,Barros Arana / Pedro Cartes - Oriente,,-38.72602166,-72.5638984,,,0,,,0
+96292,,Francisco Huenchumilla 2,,-38.68693136,-72.65566145,,,0,,,0
+96293,,S - 304 / Manzanal,,-38.68520408,-72.65559146,,,0,,,0
+96290,,"Francisco Huenchumilla km 1,1 / Pasaje Manzanar",,-38.68986243,-72.65564242,,,0,,,0
+96291,,Francisco Huenchumilla 3,,-38.68920295,-72.65396629,,,0,,,0
+95177,,Pedro De Valdivia - Norte / Terminal,,-38.71322922,-72.63269813,,,0,,,0
+95176,,Pedro De Valdivia / Mallin - Norte,,-38.71473767,-72.63092834,,,0,,,0
+95179,,Pedro De Valdivia / La Catedral - Sur,,-38.7107378,-72.63564571,,,0,,,0
+95178,,Pedro De Valdivia / Trayen,,-38.71232894,-72.63375385,,,0,,,0
+95173,,Pedro De Valdivia / Trabuco - Norte,,-38.71811737,-72.62273876,,,0,,,0
+95172,,Pedro De Valdivia / Chivilcan,,-38.71866831,-72.62042345,,,0,,,0
+95175,,Pedro De Valdivia / Charana - Norte,,-38.7158456,-72.62894657,,,0,,,0
+95174,,Pedro De Valdivia / Camina,,-38.71679392,-72.627121,,,0,,,0
+95160,,Bernardo Ohiggins / Sta Margarita,,-38.74119942,-72.60750869,,,0,,,0
+95589,,Barros Arana / 5 Norte - Poniente,,-38.72299821,-72.5602697,,,0,,,0
+95587,,Barros Arana / 10 Norte,,-38.71999767,-72.55812296,,,0,,,0
+95588,,Barros Arana / 7 Norte,,-38.72193357,-72.55956391,,,0,,,0
+95586,,Barros Arana / 6 Oriente,,-38.72116721,-72.558935,,,0,,,0
+95583,,Barros Arana / 12 Norte,,-38.71886806,-72.55739274,,,0,,,0
+95584,,Barros Arana / 9 Norte,,-38.72058153,-72.55861579,,,0,,,0
+95581,,Cacique Lemunao / Cacique Melivilu - Poniente,,-38.71498869,-72.55967323,,,0,,,0
+95582,,Cacique Lemunao / Cacique Colipan - Norte,,-38.71584381,-72.56121294,,,0,,,0
+95580,,Cacique Lemunao / Cacique Melivilu - Oriente,,-38.71501418,-72.55959013,,,0,,,0
+95169,,Cristobal Colon - Norte / Yumbel,,-38.72238999,-72.61600746,,,0,,,0
+95168,,Recreo - Poniente / Cristobal Colón,,-38.72224656,-72.61436496,,,0,,,0
+95167,,Recreo / Regidor Francisco Poblete - Poniente,,-38.72060316,-72.61336655,,,0,,,0
+95166,,Regidor Francisco Poblete / Traiguen,,-38.72144798,-72.61166003,,,0,,,0
+95165,,San Fernando / Canete,,-38.72296502,-72.61166318,,,0,,,0
+95164,,San Fernando / Talcahuano,,-38.72497761,-72.61259856,,,0,,,0
+95163,,Cristobal Colon - Sur / Yumbel,,-38.72250215,-72.61589712,,,0,,,0
+95162,,Recreo - Oriente / Cristobal Colón,,-38.72209388,-72.61421424,,,0,,,0
+95161,,Bernardo Ohiggins / Dreves,,-38.74163084,-72.60462676,,,0,,,0
+95577,,Rudencio Ortega / Ecuador,,-38.72224484,-72.57107491,,,0,,,0
+95579,,S - 215 / Bandera - Oriente,,-38.71585982,-72.55497144,,,0,,,0
+95190,,"S - 258 - Oriente km 0,87 / Fco Huenchumilla",,-38.69077223,-72.65691421,,,0,,,0
+95192,,"S - 258 - Poniente / Km 0,14",,-38.69692957,-72.65486418,,,0,,,0
+95193,,"S - 258 - Poniente / Km 0,61",,-38.69279696,-72.65653183,,,0,,,0
+95570,,Alexandro Urrutia / Gabriela Mistral,,-38.67782334,-72.50550156,,,0,,,0
+95571,,S-31 / Terminal,,-38.67674608,-72.50617843,,,0,,,0
+95573,,B Urrutia / Patzke - Poniente,,-38.73234341,-72.57759984,,,0,,,0
+95574,,Manuel Antonio Matta / Patzke,,-38.73229434,-72.58059986,,,0,,,0
+95575,,Manuel Antonio Matta / Caulin,,-38.72888657,-72.57975918,,,0,,,0
+95195,,Camila / Lluta,,-38.71235729,-72.62529629,,,0,,,0
+95194,,Camila - Poniente / tacora,,-38.71530239,-72.6264643,,,0,,,0
+95197,,Javiera Carrera / Las Vinas - Poniente,,-38.71919676,-72.62401515,,,0,,,0
+95196,,Camila / Caquena,,-38.71638252,-72.62672487,,,0,,,0
+95199,,Juan Canuillan / Cordillera - Sur,,-38.72382734,-72.62436979,,,0,,,0
+95198,,Javiera Carrera / Uno Sur,,-38.72255925,-72.62503191,,,0,,,0
+95567,,Bernardo Ohiggins / Galvarino,,-38.67752201,-72.50350426,,,0,,,0
+95568,,Los Alerces / Gabriela Mistral - Sur,,-38.67909774,-72.50434708,,,0,,,0
+95181,,"S-20/ km 0,7",,-38.70529424,-72.64352377,,,0,,,0
+95182,,S-20/ km 1,,-38.70430366,-72.64569199,,,0,,,0
+95569,,Los Alerces / Gabriela Mistral - Norte,,-38.67868797,-72.50449423,,,0,,,0
+95180,,"S-20/ km 1,1",,-38.70371367,-72.64780791,,,0,,,0
+95563,,Gabriela Mistral / S-31,,-38.67748318,-72.50650691,,,0,,,0
+95564,,Gabriela Mistral / Alexandro Urrutia,,-38.67764564,-72.50597417,,,0,,,0
+95186,,"S-20/ km 1,8",,-38.69919384,-72.65209965,,,0,,,0
+95185,,"S-20/ km 1,6",,-38.70024901,-72.65010204,,,0,,,0
+95184,,"S-20/ km 1,4",,-38.7022148,-72.64935705,,,0,,,0
+95183,,"S-20/ km 1,1",,-38.70351391,-72.64783914,,,0,,,0
+95189,,"S - 258 - Oriente / Km 0,39",,-38.69493322,-72.6555345,,,0,,,0
+95188,,"El Molino / Km 2,0",,-38.69796396,-72.65389724,,,0,,,0
+95187,,"S - 258 Oriente / KM 0,14",,-38.69657984,-72.65488228,,,0,,,0
+95268,,Uruguay / Montevideo - Poniente,,-38.74861826,-72.61811677,,,0,,,0
+95269,,Uruguay / Montevideo - Oriente,,-38.748576,-72.61799648,,,0,,,0
+95264,,Pablo Neruda / Hochstetter,,-38.74116656,-72.61841894,,,0,,,0
+95265,,Pablo Neruda / Uruguay,,-38.74163268,-72.61626731,,,0,,,0
+95266,,Uruguay / Arauco,,-38.74306972,-72.61619224,,,0,,,0
+95267,,Uruguay / Imperial,,-38.74473711,-72.6167571,,,0,,,0
+95260,,Tiburcio Saavedra / Nacional Huerquehue,,-38.74517766,-72.62863278,,,0,,,0
+95262,,Pablo Neruda / Lago Huilipilun,,-38.73897998,-72.62752156,,,0,,,0
+95263,,Teatro Municipal Temuco,,-38.74015468,-72.62272893,,,0,,,0
+95463,,Huichahue_Oeste / Martin Alonqueo,,-38.77022403,-72.5868999,,,0,,,0
+95462,,"S-51/ Km 38,4",,-38.83146822,-72.52876888,,,0,,,0
+95465,,S-51 / Escuela Pehuen,,-38.82188165,-72.54037876,,,0,,,0
+95464,,S-51 / Escuela Pehuen,,-38.82197425,-72.5404638,,,0,,,0
+95460,,S - 40 / Los Urbanistas - Norte,,-38.75701168,-72.66180143,,,0,,,0
+95467,,Roble Huacho,,-38.82341196,-72.53840047,,,0,,,0
+95466,,Villa Alegre - Sur / Cacique Conoepan,,-38.76271276,-72.6047481,,,0,,,0
+95469,,Metrenco/ Cayahue,,-38.77756958,-72.58144636,,,0,,,0
+95468,,Huichahue / S51 - Este_13,,-38.79925064,-72.56671461,,,0,,,0
+95279,,Inglaterra / Hochsteller,,-38.73131546,-72.61219488,,,0,,,0
+95278,,Manuel Rodriguez / Trizano,,-38.73368539,-72.60643959,,,0,,,0
+95275,,Manuel Rodriguez / Gral Pinto Puelma,,-38.73410304,-72.60407728,,,0,,,0
+95276,,Pedro De Valdivia / Francia - Norte,,-38.72951362,-72.6074582,,,0,,,0
+95274,,San Martin / Palinhue,,-38.73609108,-72.62348029,,,0,,,0
+95271,,Leon Gallo / Hochstetter,,-38.74064474,-72.6186609,,,0,,,0
+95272,,Pablo Neruda / Folilco,,-38.74017391,-72.62127697,,,0,,,0
+95270,,Leon Gallo / Uruguay,,-38.74099045,-72.61617254,,,0,,,0
+95476,,Acceso Momberg,,-38.83377371,-72.52608003,,,0,,,0
+95475,,Huichahue / S-51_Norte_8,,-38.81665467,-72.54679953,,,0,,,0
+95474,,Huichahue / Cruce Chomio,,-38.81223294,-72.55482443,,,0,,,0
+95473,,Huichahue / S-5112,,-38.80697701,-72.56363905,,,0,,,0
+95472,,Huichahue / S51 - Oeste_14,,-38.79887038,-72.56697813,,,0,,,0
+95471,,Huichahue /  S51 - Norte_15,,-38.78590158,-72.57383034,,,0,,,0
+95470,,Villa Alegre / Las Rosas Jon,,-38.75167082,-72.58776349,,,0,,,0
+95479,,Huichahue / Condell,,-38.76046321,-72.59108656,,,0,,,0
+95478,,Huichahue - Oeste / Cementerio,,-38.76749399,-72.5870988,,,0,,,0
+95477,,S-51/ Norte 1,,-38.84989763,-72.44822889,,,0,,,0
+95246,,Surire / Los Apachetas,,-38.71346419,-72.62433584,,,0,,,0
+95247,,Alemania / Los Apeninos,,-38.73085809,-72.62228221,,,0,,,0
+95248,,Alemania / Cataluna - Norte,,-38.73002636,-72.62434669,,,0,,,0
+95249,,Javiera Carrera / Santona,,-38.73258792,-72.62746169,,,0,,,0
+95240,,Camarones / Pua,,-38.71141695,-72.62609809,,,0,,,0
+95241,,Los Riscos / Regidor Francisco Poblete - Sur,,-38.71977177,-72.61349997,,,0,,,0
+95242,,Los Riscos - Poniente / Purranque,,-38.71837759,-72.61290373,,,0,,,0
+95243,,Los Riscos / La Trilla - Poniente,,-38.71715298,-72.61237699,,,0,,,0
+95244,,Los Maitenes / Huascaran - Sur,,-38.71574141,-72.61334496,,,0,,,0
+95245,,Surire / Cuisama - Norte,,-38.71392404,-72.62093198,,,0,,,0
+96302,,S-20/ Terminal Línea 9,,-38.69703257,-72.6553825,,,0,,,0
+95441,,Los Pioneros / Torrijos - Oriente,,-38.75257319,-72.63251203,,,0,,,0
+95440,,Las Encinas / Javiera Carrera,,-38.74516563,-72.63331501,,,0,,,0
+95443,,Las Tranquera / Italia - Norte,,-38.7510155,-72.62750726,,,0,,,0
+95442,,Las Tranquera / Mantua - Norte,,-38.7508392,-72.62513954,,,0,,,0
+95445,,Las Tranquera / Los Aperos - Norte,,-38.75117018,-72.63198607,,,0,,,0
+95444,,Las Tranquera / Los Corrales - Norte,,-38.75108269,-72.62976132,,,0,,,0
+95447,,Los Pioneros / Rio Longavi - Poniente,,-38.75403769,-72.63271159,,,0,,,0
+95446,,Los Pioneros / Torrijos - Poniente,,-38.7523136,-72.6326995,,,0,,,0
+96300,,"S-20/ km 2,7",,-38.69504384,-72.66052136,,,0,,,0
+95449,,1 Oriente / Los Lingues - Poniente,,-38.76180731,-72.75380931,,,0,,,0
+96301,,S-20/ Terminal Línea 9,,-38.6972105,-72.65529399,,,0,,,0
+95448,,El Bosque - Norte / a Lago hermoso,,-38.76076444,-72.74908796,,,0,,,0
+95259,,Tiburcio Saavedra / Parque Nacional Quiltraco,,-38.74353171,-72.62817852,,,0,,,0
+95257,,Parque Nacional Los Paraguas / Paula Jaraquemada,,-38.74317508,-72.62702724,,,0,,,0
+95258,,Paula Jaraquemada / Claro De Luna,,-38.74255169,-72.62926628,,,0,,,0
+95251,,Javiera Carrera / Lago Pirihueco,,-38.73538167,-72.62816757,,,0,,,0
+95252,,Javiera Carrera / Los Ciervos,,-38.74345116,-72.6320085,,,0,,,0
+95250,,Javiera Carrera / Jose Argomedo,,-38.73435466,-72.62811785,,,0,,,0
+95255,,Triburcuo Saavedra / Lago Palena,,-38.74194331,-72.62710536,,,0,,,0
+95256,,San Martin / Francisco Sepulveda,,-38.73409395,-72.63205189,,,0,,,0
+95253,,San Martin / Ignacio Carrera Pinto - Norte,,-38.73453287,-72.62931391,,,0,,,0
+95254,,Pablo Neruda / Lago Neitume,,-38.73850231,-72.62820139,,,0,,,0
+95450,,1 Oriente / Los Lingues - Oriente,,-38.76181067,-72.75373154,,,0,,,0
+95454,,S-40 - Norte / Los Labradores,,-38.76070161,-72.72021372,,,0,,,0
+95453,,Condominio Apumanque,,-38.7649079,-72.73649704,,,0,,,0
+95452,,1 Norte - Norte / 2 Poniente,,-38.76671823,-72.75621529,,,0,,,0
+95451,,3 Poniente / 2 Norte - Poniente,,-38.76545016,-72.75749447,,,0,,,0
+95458,,"S-40/ km 2,5",,-38.76218031,-72.68607358,,,0,,,0
+95457,,S-40 - Sur / Camino Trañi Trañi,,-38.7610032,-72.69665205,,,0,,,0
+95456,,"S-40/ km 5,2",,-38.76068972,-72.71767719,,,0,,,0
+95455,,S-40/ km 5,,-38.76094085,-72.71580644,,,0,,,0
+95459,,S - 40 - Norte / Río Cautin,,-38.75767885,-72.66546096,,,0,,,0
+95221,,Ariquilda / La Hondonada,,-38.70801519,-72.62321478,,,0,,,0
+95220,,Toco / Promauca,,-38.70930741,-72.62286293,,,0,,,0
+95223,,Isquina / Chacalluta,,-38.70978864,-72.62525803,,,0,,,0
+95222,,Chacayuta / El Arenal,,-38.70814488,-72.62484092,,,0,,,0
+95229,,Chacayuta / Cariquina,,-38.70918266,-72.62507657,,,0,,,0
+95228,,La Hondonada / Los Molles,,-38.70768594,-72.62417332,,,0,,,0
+95225,,Isquina 1 / Isquina 2,,-38.71299677,-72.62308478,,,0,,,0
+95224,,Isquina 4 / Alt Tambo,,-38.7115187,-72.6242567,,,0,,,0
+95227,,Ariquilda / Moquella,,-38.70892235,-72.62364032,,,0,,,0
+95226,,Villama / Mollaca,,-38.70976559,-72.6221924,,,0,,,0
+95234,,"S - 258 - Poniente / Km 0,39",,-38.69495951,-72.65566272,,,0,,,0
+95233,,"S - 258 - Oriente / Km 0,61",,-38.69279247,-72.65636342,,,0,,,0
+95232,,Cariquina / Isquina - Oriente,,-38.71338646,-72.62173096,,,0,,,0
+95231,,Isquina 2 / Isquina 1,,-38.71229814,-72.62322195,,,0,,,0
+95230,,Isquina 5 / altura Ayliu,,-38.71076257,-72.62441653,,,0,,,0
+95239,,Camila / Los Apachetas,,-38.71398517,-72.62521544,,,0,,,0
+95238,,Camila - Oriente / Tacora,,-38.7153432,-72.62642263,,,0,,,0
+95237,,Pedro De Valdivia / Recreo - Norte,,-38.72532529,-72.61438993,,,0,,,0
+95236,,Pedro de Valdivia/ Anunciacion - Norte,,-38.70950503,-72.63669947,,,0,,,0
+95235,,"S-20/ km 1,6",,-38.70035747,-72.65024602,,,0,,,0
+95201,,Huentenao Millanao / Luis Durand,,-38.72638912,-72.62008937,,,0,,,0
+95200,,Huentenao Millanao / Hilario Huentenao - Oriente,,-38.725165,-72.62115904,,,0,,,0
+95203,,Javiera Carrera / Las Vinas - Oriente,,-38.71904826,-72.6237393,,,0,,,0
+95202,,Andes / Luis Durand - Sur,,-38.72809936,-72.62067568,,,0,,,0
+95205,,Javiera Carrera / Pasaje Dos,,-38.72239499,-72.62467602,,,0,,,0
+95204,,Javiera Carrera / Pasaje Uno,,-38.72085523,-72.62425462,,,0,,,0
+95207,,Juan Canuillan / Curinanco - Norte,,-38.72413492,-72.62207178,,,0,,,0
+95206,,Juan Canuillan / Cordillera - Norte,,-38.72376802,-72.62431188,,,0,,,0
+95209,,Huentenao Millanao / Tromen,,-38.72633474,-72.62003461,,,0,,,0
+95208,,Huentenao Millanao / Hilario Huentenao - Poniente,,-38.72515001,-72.62128046,,,0,,,0
+95488,,Guido Beck De Ramberga - Oeste,,-38.75455915,-72.59247443,,,0,,,0
+95489,,Guido Beck De Ramberga - Este / Nelson Salvador,,-38.75621413,-72.5945993,,,0,,,0
+95480,,Huichahue_Oeste / Oscar Moser,,-38.75985145,-72.59150164,,,0,,,0
+95481,,Huichahue_Norte / Oscar Moser,,-38.75985324,-72.59133686,,,0,,,0
+95482,,Villa Alegre / Lillo,,-38.75662765,-72.59286039,,,0,,,0
+95483,,Villa Alegre - Sur / La Paz,,-38.75581076,-72.59171766,,,0,,,0
+95484,,Huichahue / Los Yaganes,,-38.75940438,-72.59185787,,,0,,,0
+95485,,Villa Alegre - Norte / La Paz,,-38.75553137,-72.5916529,,,0,,,0
+95486,,Guido Beck De Ramberga - Oeste,,-38.75391064,-72.59037302,,,0,,,0
+95487,,Guido Beck De Ramberga / Las Rosas Jon,,-38.75221529,-72.5880926,,,0,,,0
+95212,,Los Riscos - Oriente / Purranque,,-38.71838508,-72.61280776,,,0,,,0
+95211,,Regidor Francisco Poblete / Monte Aguila,,-38.72019662,-72.61326664,,,0,,,0
+95210,,Andes / Luis Durand - Norte,,-38.7278352,-72.62036951,,,0,,,0
+95216,,Los Maitenes / Independencia - Norte,,-38.71459723,-72.61799788,,,0,,,0
+95215,,Los Maitenes / Sur 7 Escuela,,-38.71464879,-72.61528008,,,0,,,0
+95214,,Los Maitenes / Huascaran - Norte,,-38.71568994,-72.61326476,,,0,,,0
+95213,,Los Riscos / La Trilla - Oriente,,-38.71719779,-72.61227981,,,0,,,0
+95219,,Villama / Aiquina,,-38.71078525,-72.62201101,,,0,,,0
+95218,,Villama / Chilvicán,,-38.71237168,-72.62122522,,,0,,,0
+95217,,Chivican / Surire,,-38.71451675,-72.61954567,,,0,,,0
+95499,,Enrique Mac Iver - Este / Lord Cochrane,,-38.76583198,-72.60458918,,,0,,,0
+95493,,Guido Beck De Ramberga - Oeste / Nelson Salvador,,-38.75605102,-72.59506884,,,0,,,0
+95494,,Villa Alegre - Norte / Cacique Conoepan,,-38.76253208,-72.60462377,,,0,,,0
+95491,,Guido Beck De Ramberga - Oeste / Queule,,-38.76055903,-72.60225334,,,0,,,0
+95492,,Guido Beck De Ramberga - Este / Queule,,-38.76034131,-72.60162458,,,0,,,0
+95497,,Villa Alegre - Sur / Barnet,,-38.76158142,-72.60283064,,,0,,,0
+95498,,Enrique Mac Iver - Oeste / Bombero D Ibacache,,-38.76472837,-72.60417391,,,0,,,0
+95495,,Lillo / Pleiteado,,-38.75850816,-72.59222103,,,0,,,0
+95496,,Guido Beck De Ramberga - Este / Nihue,,-38.75865931,-72.59870716,,,0,,,0
+95700,,Diego Portales / Manuel Bulnes,,-38.73752523,-72.58924871,,,0,,,0
+95704,,Diego Portales / Manuel Antonio Matta,,-38.73845209,-72.58273581,,,0,,,0
+95703,,Diego Portales / Ministro Zenteno,,-38.73834646,-72.58376507,,,0,,,0
+95702,,Diego Portales / General Cruz,,-38.73809792,-72.58530615,,,0,,,0
+95701,,Diego Portales / General Aldunate,,-38.73765995,-72.58828643,,,0,,,0
+95711,,Lautaro / General Pedro Lagos,,-38.73490805,-72.59254524,,,0,,,0
+95710,,Lautaro / General Las Heras,,-38.73452078,-72.5950246,,,0,,,0
+95713,,General Aldunate / Diego Portales,,-38.73835906,-72.58770072,,,0,,,0
+95712,,General Aldunate / Miraflores,,-38.73457213,-72.58675384,,,0,,,0
+95715,,Villa Alegre / Guido Beck Ramberga,,-38.75307107,-72.58888484,,,0,,,0
+95714,,Aillacara / Aillarehue,,-38.76834037,-72.60166269,,,0,,,0
+95705,,Manuel Antonio Matta / Miraflores,,-38.73560782,-72.58138923,,,0,,,0
+95706,,Balmaceda / General Las Heras,,-38.7321484,-72.59414136,,,0,,,0
+95707,,Balmaceda / Blanco Encalada,,-38.73168281,-72.59714354,,,0,,,0
+95708,,Lautaro / General Prieto Norte,,-38.7337938,-72.59981905,,,0,,,0
+95709,,Lautaro / Blanco Encalada,,-38.73410826,-72.59771641,,,0,,,0
+95428,,Los Tulipanes / Las Achiras - Oriente,,-38.75949212,-72.74303918,,,0,,,0
+95429,,"S-40/ km 1,7",,-38.76104846,-72.67731574,,,0,,,0
+95426,,Nahuen Antu / Las Rosas - Poniente,,-38.75727258,-72.74124075,,,0,,,0
+95427,,Nahuen Antu / Los Gladiolos - Poniente,,-38.75903517,-72.74171711,,,0,,,0
+95424,,Rayenco / Las Hormigas - Oriente,,-38.75677521,-72.73868828,,,0,,,0
+95425,,Portal De La Esperanza / Las Obreras - Norte,,-38.75615018,-72.74004652,,,0,,,0
+95422,,El Bosque / Los Alamos - Norte,,-38.76055858,-72.74681915,,,0,,,0
+95423,,Rayenco / Los Pensamientos - Oriente,,-38.75855743,-72.73929584,,,0,,,0
+95420,,Las Rosas / Los Copihues - Norte,,-38.75669921,-72.74296892,,,0,,,0
+95421,,Los Copihues / Los Crisantemos - Poniente,,-38.75833833,-72.74399333,,,0,,,0
+95039,,"S-20/ km 1,8",,-38.69926411,-72.65233849,,,0,,,0
+95038,,S-20/ km 1,,-38.70455889,-72.64532926,,,0,,,0
+95037,,"S-20/ km 0,7",,-38.70541096,-72.64353544,,,0,,,0
+95036,,Pedro de Valdivia/ Anunciacion - Sur,,-38.70968064,-72.63671672,,,0,,,0
+95035,,Pedro De Valdivia / Pablo De Rocka,,-38.7125728,-72.63364059,,,0,,,0
+95034,,Pedro De Valdivia - Sur / Terminal,,-38.71348151,-72.63254859,,,0,,,0
+95033,,Pedro De Valdivia / Mallin - Sur,,-38.7149934,-72.63088377,,,0,,,0
+95032,,Tecnologico Protec,,-38.70704454,-72.64028547,,,0,,,0
+95031,,Pedro De Valdivia / Charana - Sur,,-38.71600846,-72.62891738,,,0,,,0
+95030,,Pedro De Valdivia / Pablo Neruda,,-38.71709201,-72.62665291,,,0,,,0
+95419,,Los Tulipanes / Los Claveles - Oriente,,-38.75773169,-72.7422924,,,0,,,0
+95437,,Javiera Carrera / Pio Baroja,,-38.74731097,-72.63532209,,,0,,,0
+95438,,Javiera Carrera / Monte Igeldo,,-38.74574596,-72.63414209,,,0,,,0
+95439,,Las Encinas / Cardona,,-38.746146,-72.63157012,,,0,,,0
+95433,,Javiera Carrera / Sirah,,-38.75448363,-72.6387394,,,0,,,0
+95434,,Javiera Carrera / Santander - Oriente,,-38.75308132,-72.63837056,,,0,,,0
+95435,,Javiera Carrera / Altamira - Oriente,,-38.75100992,-72.63747108,,,0,,,0
+95436,,Simon Bolivar / Javiera Carrera,,-38.74891767,-72.63655073,,,0,,,0
+95430,,"S-40/ km 1,7",,-38.76132535,-72.67739324,,,0,,,0
+95431,,"S-40/ km 1,2",,-38.75929951,-72.67171391,,,0,,,0
+95432,,"S-40/ km 1,2",,-38.75957615,-72.67163302,,,0,,,0
+95027,,Pedro De Valdivia / La Florida - Sur,,-38.71771411,-72.62421512,,,0,,,0
+95026,,Tecnologico Protec,,-38.707152,-72.64039562,,,0,,,0
+95029,,Pedro De Valdivia / La Peninsula,,-38.71720473,-72.62538572,,,0,,,0
+95028,,Pedro De Valdivia / La Florida - Norte,,-38.7173784,-72.62462093,,,0,,,0
+95023,,Pedro De Valdivia / Las Vegas,,-38.72055692,-72.61935923,,,0,,,0
+95022,,Pedro De Valdivia / Cristobal Colon,,-38.72144451,-72.61893429,,,0,,,0
+95025,,Pedro De Valdivia / Trabuco - Sur,,-38.7182677,-72.62273357,,,0,,,0
+95024,,Pedro De Valdivia / Cacique Aillan Marillan,,-38.71867843,-72.62089526,,,0,,,0
+95021,,Pedro De Valdivia / Juan Currin,,-38.72278638,-72.61844878,,,0,,,0
+95020,,Camila / Putre,,-38.71312403,-72.62551063,,,0,,,0
+95402,,S - 30 - Poniente / El Pozo,,-38.76725787,-72.77316903,,,0,,,0
+95403,,S - 30 / El Portico - Sur,,-38.7679239,-72.7709414,,,0,,,0
+95401,,Santa Maria / La Estancia - Poniente,,-38.76427426,-72.77575505,,,0,,,0
+95406,,Los Robles / Los Chilcos - Poniente,,-38.76411186,-72.76006674,,,0,,,0
+95407,,Los Chilcos / Los Avellanos - Sur,,-38.7641302,-72.75787005,,,0,,,0
+95404,,S - 30 / Los Portones - Sur,,-38.76820978,-72.7682615,,,0,,,0
+95405,,S - 30 / Los Borgones - Sur,,-38.76766726,-72.76455519,,,0,,,0
+95018,,Pedro De Valdivia / Tromen,,-38.72435948,-72.61720325,,,0,,,0
+95017,,San Fernando / Cauquenes,,-38.72471103,-72.6123832,,,0,,,0
+95016,,Camarones / Parinacota,,-38.71163802,-72.62536408,,,0,,,0
+95015,,Pedro De Valdivia / Recreo - Sur,,-38.72529087,-72.6147032,,,0,,,0
+95019,,Pedro De Valdivia / Concepcion,,-38.72284345,-72.61828594,,,0,,,0
+95010,,Francisco Huenchumilla 3,,-38.68942619,-72.65434842,,,0,,,0
+95014,,Pedro De Valdivia / Venezuela - Sur,,-38.72717419,-72.61224602,,,0,,,0
+95013,,"S-20/ km 1,4",,-38.70207746,-72.64963059,,,0,,,0
+95012,,Camila - Chucuyo,,-38.71401718,-72.62528047,,,0,,,0
+95011,,Francisco Huenchumilla 2 / Portal San Francisco,,-38.68939272,-72.65496669,,,0,,,0
+95411,,Los Tulipanes / Los Azaleas - Poniente,,-38.75846752,-72.74275902,,,0,,,0
+95412,,Los Tulipanes / Los Achiras - Poniente,,-38.75983802,-72.74248777,,,0,,,0
+95413,,Nahuen Antu / Los Pensamientos - Poniente,,-38.75839661,-72.74138313,,,0,,,0
+95414,,Nahuen Antu / Las Rosas - Oriente,,-38.75667779,-72.74090295,,,0,,,0
+95415,,Portal De La Esperanza / Las Obreras - Sur,,-38.75626016,-72.73909738,,,0,,,0
+95416,,Rayenco / Las Estrellas - Poniente,,-38.75748545,-72.73908586,,,0,,,0
+95417,,Rayenco / Los Gladiolos - Poniente,,-38.75913755,-72.73968754,,,0,,,0
+95418,,Rayenco / Las Achiras - Oriente,,-38.76034124,-72.73991049,,,0,,,0
+95947,,Nahuelbuta / Doce Norte - Norte,,-38.71798826,-72.5579376,,,0,,,0
+95410,,Las Rosas / Los Tulipanes - Sur,,-38.75680194,-72.74207897,,,0,,,0
+95005,,Javiera Carrera / Dos Sur,,-38.72094402,-72.62454137,,,0,,,0
+95004,,Francisco Huenchumilla / Nueva Esperanza,,-38.68801862,-72.65568778,,,0,,,0
+95007,,Francisco Huenchumilla 5,,-38.69030898,-72.65283881,,,0,,,0
+95006,,Francisco Huenchumilla 2,,-38.68723302,-72.65599753,,,0,,,0
+95009,,Francisco Huenchumilla / Pasaje Adelfa,,-38.68987896,-72.65543404,,,0,,,0
+95008,,Francisco Huenchumilla 4,,-38.6896734,-72.65256674,,,0,,,0
+95409,,Los Copihues / Los Claveles - Oriente,,-38.75788147,-72.74352454,,,0,,,0
+95408,,Los Copihues / Pasaje Las Achiras - Oriente,,-38.75946891,-72.7442309,,,0,,,0
+95001,,Francisco Huenchumilla / Manzanal,,-38.68632762,-72.65530623,,,0,,,0
+95000,,Juan Canuillan / Curinanco - Sur,,-38.72420988,-72.62204141,,,0,,,0
+95003,,Recreo / Regidor Francisco Poblete - Oriente,,-38.72041315,-72.6131602,,,0,,,0
+95002,,"El Molino / Km 2,0",,-38.69801934,-72.65423715,,,0,,,0
+95064,,Javiera Carrera / Lago Budi,,-38.7415295,-72.63044622,,,0,,,0
+95065,,Alemania / Cataluna - Sur,,-38.73034922,-72.62413164,,,0,,,0
+95062,,Pablo Neruda / Ines De Suarez,,-38.73726327,-72.63357547,,,0,,,0
+95063,,San Martin / Francisco Escalona,,-38.73397518,-72.63165739,,,0,,,0
+95068,,Sta Teresa / Municipal,,-38.74450365,-72.61523601,,,0,,,0
+95850,,Ziem / Rudencio Ortega - Sur,,-38.72526284,-72.57349832,,,0,,,0
+95069,,Universidad De La Frontera - Oriente,,-38.74652823,-72.61718529,,,0,,,0
+95066,,Pablo Neruda / Lago Lanaihue,,-38.73959811,-72.62480124,,,0,,,0
+95067,,Pablo Neruda / Gangers,,-38.74066498,-72.62054201,,,0,,,0
+95853,,Manuel Antonio Matta / Balmaceda,,-38.73392174,-72.58105133,,,0,,,0
+95854,,Manuel Antonio Matta / Miraflores,,-38.73521418,-72.58138589,,,0,,,0
+95851,,Manuel Antonio Matta / Tucapel,,-38.72994539,-72.58001599,,,0,,,0
+95852,,Manuel Antonio Matta / Janequeo,,-38.73167402,-72.5805303,,,0,,,0
+95857,,Diego Portales / Blanco Encalada,,-38.73632857,-72.59739655,,,0,,,0
+95858,,Diego Portales / Gral Carrera,,-38.73645716,-72.59645654,,,0,,,0
+95855,,Manuel Antonio Matta / Lautaro,,-38.73634285,-72.58166652,,,0,,,0
+95856,,Manuel Antonio Matta / Manuel Rodriguez,,-38.73738045,-72.58191653,,,0,,,0
+95656,,Gral Pedro Lagos / San Martin,,-38.74251452,-72.59414043,,,0,,,0
+95655,,San Martin / Las Heras,,-38.74159204,-72.59659884,,,0,,,0
+95849,,Ziem / Valparaiso - Sur,,-38.7242896,-72.56890943,,,0,,,0
+95654,,San Martin / Gral Pedro Lagos,,-38.74202358,-72.59392682,,,0,,,0
+95848,,Ziem / Vicente Perez Rosales - Sur,,-38.7236976,-72.56606287,,,0,,,0
+95653,,Manuel Recabarren / Milano,,-38.75388305,-72.61204243,,,0,,,0
+95659,,Bernando Ohiggins / Blanco Encalada,,-38.74235363,-72.59989813,,,0,,,0
+95658,,Bernando Ohiggins / Gral Carrera,,-38.74255797,-72.5984417,,,0,,,0
+95657,,Bernando Ohiggins / Palacio Lynch,,-38.74295495,-72.59583984,,,0,,,0
+95061,,Ines De Suarez / Luis Cruz Martinez,,-38.73544827,-72.63302798,,,0,,,0
+95652,,Manuel Recabarren / Capri / Sur,,-38.75411269,-72.61446265,,,0,,,0
+95060,,Pablo Neruda / Javiera Carrera,,-38.73844717,-72.62980099,,,0,,,0
+95651,,Vicuna Mackenna / Anton / Poniente,,-38.74007072,-72.59228976,,,0,,,0
+95650,,Vicuna Mackenna / Claro Solar / Poniente,,-38.73902012,-72.59202595,,,0,,,0
+95073,,Javiera Carrera / Lago Callatue,,-38.7376463,-72.62901838,,,0,,,0
+95074,,Pablo Neruda / Juan Ignacio Bolivar,,-38.73778423,-72.63258181,,,0,,,0
+95075,,Javiera Carrera / Gabriela Mistral - Oriente,,-38.73055936,-72.62633546,,,0,,,0
+95076,,Ines De Suarez / Osvaldo Burgemeister,,-38.73684025,-72.63392685,,,0,,,0
+95077,,Ines De Suarez / German Krause,,-38.73525816,-72.63332763,,,0,,,0
+95078,,Ines De Suarez / San Martin,,-38.73410863,-72.63253685,,,0,,,0
+95079,,San Martin / Ignacio Carrera Pinto - Sur,,-38.73464248,-72.6297844,,,0,,,0
+95840,,Los Coigues - Sur / Los Lingues,,-38.67998123,-72.50601492,,,0,,,0
+95639,,Caupolican / San Martin / Oriente,,-38.74104904,-72.60311029,,,0,,,0
+95841,,S - 215 - Oriente / A P de las Casas,,-38.68355944,-72.51238043,,,0,,,0
+95842,,S - 215 / Parque Costanera II - Poniente,,-38.70218312,-72.54175805,,,0,,,0
+95843,,S - 215 / Calderon De La Barca - Oriente,,-38.70668746,-72.54857095,,,0,,,0
+95844,,S - 215 / Antonio Machado - Orienta,,-38.70766,-72.54933296,,,0,,,0
+95845,,Ziem / 4 Norte - Sur,,-38.72169635,-72.56152963,,,0,,,0
+95846,,1 Norte / Ziem - Poniente,,-38.72260437,-72.56320468,,,0,,,0
+95847,,Ziem / Pedro Cartes - Norte,,-38.72330935,-72.56485785,,,0,,,0
+95838,,Caupolican / Anibal Pinto - Sur,,-38.72744718,-72.57746387,,,0,,,0
+95643,,Caupolican / Diego Portales / Poniente,,-38.73704822,-72.59602648,,,0,,,0
+95837,,Manuel Antonio Matta / Janequeo,,-38.73103983,-72.58026934,,,0,,,0
+95642,,Caupolican / Manuel Montt / Oriente,,-38.73773982,-72.59679705,,,0,,,0
+95645,,Diego Portales / Geral Pedro Lagos,,-38.73695904,-72.59301028,,,0,,,0
+95839,,Caupolican / Claudio Vicuna,,-38.72619139,-72.57553658,,,0,,,0
+95644,,Diego Portales / Patricio Lynch,,-38.73678716,-72.59428667,,,0,,,0
+95647,,Vicuna Mackenna / Manuel Montt / Poniente,,-38.73797853,-72.59176184,,,0,,,0
+95646,,Diego Portales / Vicuna Mackenna,,-38.7371426,-72.59185895,,,0,,,0
+95649,,Manuel Montt / Gral Pedro Lagos,,-38.73798066,-72.5927396,,,0,,,0
+95648,,Manuel Montt / Gral Pedro Lagos,,-38.73787924,-72.59350226,,,0,,,0
+95070,,Universidad De La Frontera - Poniente,,-38.74656707,-72.61743085,,,0,,,0
+95072,,Javiera Carrera / Emilio Rubilar,,-38.73316111,-72.62729463,,,0,,,0
+95641,,Caupolican / Antonio Varas / Poniente,,-38.73884142,-72.59944621,,,0,,,0
+95071,,Javiera Carrera / Gabriela Mistral - Poniente,,-38.73057211,-72.62652526,,,0,,,0
+95640,,Caupolican / Prieto Sur / Oriente,,-38.74066825,-72.6025728,,,0,,,0
+95871,,San Martin / Blanco Encalada,,-38.74120164,-72.59952256,,,0,,,0
+95046,,Los Maitenes / Independencia - Sur,,-38.71477505,-72.61831178,,,0,,,0
+95047,,Surire / Chivican,,-38.71419694,-72.61976633,,,0,,,0
+95044,,Los Riscos / Regidor Francisco Poblete - Norte,,-38.71977386,-72.61364241,,,0,,,0
+95870,,Gral Pedro Lagos / Manuel Montt / Oriente,,-38.73814154,-72.59311383,,,0,,,0
+95045,,Los Maitenes - Norte / Escuela,,-38.71449788,-72.61563491,,,0,,,0
+95042,,San Fernando / Cristobal Colon,,-38.72328138,-72.61192205,,,0,,,0
+95043,,Regidor Francisco Poblete / San Fernando,,-38.72188952,-72.61123929,,,0,,,0
+95040,,"S - 258 - Poniente km 0,87 / Fco Huenchumilla",,-38.6907136,-72.65706318,,,0,,,0
+95041,,Camarones / Huasquinta,,-38.71134303,-72.62676325,,,0,,,0
+95879,,Caupolican / Almirante Patricio Lynch,,-38.73590175,-72.59383757,,,0,,,0
+95877,,Manuel Recabarren / Poniente,,-38.74914225,-72.60316846,,,0,,,0
+95878,,Manuel Recabarren / Oriente,,-38.74919702,-72.60276393,,,0,,,0
+95875,,Manuel Recabarren / Capri / Norte,,-38.75371511,-72.61440685,,,0,,,0
+95876,,Manuel Recabarren / Francisco Salazar,,-38.75394805,-72.61787406,,,0,,,0
+95873,,Manuel Recabarren / Los Sauces,,-38.75348382,-72.61190615,,,0,,,0
+95048,,Surire / Cuisama - Sur,,-38.71402638,-72.620849,,,0,,,0
+95874,,Manuel Recabarren / Toscana / Sur,,-38.75429826,-72.61781639,,,0,,,0
+95049,,Cariquina / Isquina - Poniente,,-38.7134622,-72.62181941,,,0,,,0
+95679,,Balmaceda / Anibal Pinto,,-38.73467195,-72.5801389,,,0,,,0
+95678,,Balmaceda / General Mackenna - Sur,,-38.73395829,-72.58477478,,,0,,,0
+95677,,General Mackenna / Manuel Rodriguez,,-38.73738011,-72.58601988,,,0,,,0
+95676,,General Mackenna / Manuel Montt,,-38.73925815,-72.5864859,,,0,,,0
+95675,,General Mackenna / Antonio Varas,,-38.74120154,-72.58695632,,,0,,,0
+95674,,Barros Arana / Lautaro - Norte,,-38.73663734,-72.57975545,,,0,,,0
+95673,,Barros Arana / Manuel Rodriguez,,-38.73753575,-72.58039577,,,0,,,0
+95672,,Barros Arana / Anibal Pinto - Poniente,,-38.73712994,-72.58028705,,,0,,,0
+95671,,Barros Arana / Anibal Pinto - Oriente,,-38.73713918,-72.57994434,,,0,,,0
+95670,,Manuel Rodriguez / Ministro Zenteno,,-38.73731304,-72.58295841,,,0,,,0
+95055,,Paula Jaraquemada / Tuburcio Saavedra,,-38.74282169,-72.62813278,,,0,,,0
+95056,,Paula Jaraquemada / Rocio,,-38.74228384,-72.63041895,,,0,,,0
+95860,,Francisco Salazar / Pelantaro / Poniente,,-38.74936959,-72.61427542,,,0,,,0
+95057,,Javiera Carrera / Pasaje Bayona,,-38.74078675,-72.63053652,,,0,,,0
+95861,,Francisco Salazar / Alcalde Bustos / Poniente,,-38.74789757,-72.61234549,,,0,,,0
+95058,,Javiera Carrera / Lago Pullinque,,-38.7390535,-72.62978701,,,0,,,0
+95051,,Isquina 3 / Cariquina,,-38.71180351,-72.62385319,,,0,,,0
+95052,,Tiburcio Saavedra / Isabel Riquelme,,-38.74597824,-72.62898598,,,0,,,0
+95053,,San Martin / Abelardo Silva,,-38.73433774,-72.63108212,,,0,,,0
+95054,,Tiburcio Saavedra / Parque Nacional Huerquehue,,-38.74455229,-72.62852247,,,0,,,0
+95867,,Gral Carrera / Imperial,,-38.74385995,-72.59866268,,,0,,,0
+95868,,Gral Carrera / Eduardo Rodriguez,,-38.74572513,-72.5991064,,,0,,,0
+95869,,Gral Carrera / San Martin,,-38.74205779,-72.59821687,,,0,,,0
+95862,,Caupolican / Andres Bello / Oriente,,-38.73986898,-72.60087868,,,0,,,0
+95059,,Javiera Carrera / Pedro Mendez,,-38.73869068,-72.62939062,,,0,,,0
+95863,,Caupolican / Imperial / Poniente,,-38.74320909,-72.60646171,,,0,,,0
+95864,,Caupolican / Leon Gallo / Oriente,,-38.74271638,-72.60528168,,,0,,,0
+95865,,Caupolican / Blanco Encalada,,-38.73875336,-72.59876477,,,0,,,0
+95669,,Manuel Rodriguez / Plaza Teodoro Schmidt,,-38.7360897,-72.59087034,,,0,,,0
+95668,,Manuel Rodriguez / General Aldunate,,-38.73673141,-72.58684544,,,0,,,0
+95665,,Fin B8 - Vicuna Mackenna / Diego Portales,,-38.73703008,-72.59159034,,,0,,,0
+95859,,Francisco Salazar / Juan Xxiii,,-38.74988939,-72.61458028,,,0,,,0
+95664,,Gral Pedro Lagos / Antonio,,-38.74018681,-72.59355132,,,0,,,0
+95667,,Manuel Rodriguez / Arturo Prat,,-38.73637529,-72.58910814,,,0,,,0
+95666,,Manuel Rodriguez / General Mackenna,,-38.73689815,-72.58563085,,,0,,,0
+95661,,Alemania / Gral Carrera,,-38.7372351,-72.59766526,,,0,,,0
+95660,,Bernardo Ohiggins / Prieto Sur,,-38.74202626,-72.60194541,,,0,,,0
+95050,,Villama / Lanuzana,,-38.71163847,-72.62202242,,,0,,,0
+95663,,Claro Solas / Ramon Freire,,-38.7381809,-72.59896801,,,0,,,0
+95662,,Blanco Encalada / Claro Solas,,-38.73795327,-72.59855296,,,0,,,0
+95609,,Ziem / 4 Norte - Norte,,-38.72160729,-72.56153098,,,0,,,0
+95608,,Ziem / Pedro Cartes - Sur,,-38.72335049,-72.56477286,,,0,,,0
+95607,,Ziem / 4 Oriente - Poniente,,-38.72266461,-72.56275509,,,0,,,0
+95895,,Balmaceda / General Prieto Norte,,-38.73056669,-72.59940053,,,0,,,0
+95606,,Ziem / Valparaiso - Norte,,-38.72421286,-72.56888414,,,0,,,0
+95890,,Manuel Rodriguez / Almirante Patricio Lynch,,-38.7356183,-72.59396127,,,0,,,0
+95894,,Balmaceda / General Pedro Lagos,,-38.73243595,-72.59198866,,,0,,,0
+95893,,General Balmaceda / Arturo Prat,,-38.73276231,-72.5896735,,,0,,,0
+95892,,Manuel Rodriguez / General Jose Miguel Carrera,,-38.73530586,-72.59613127,,,0,,,0
+95611,,Ziem / Centenario - Norte,,-38.7239378,-72.56766884,,,0,,,0
+95612,,Ziem / Vicente Perez Rosales - Norte,,-38.72360263,-72.56610598,,,0,,,0
+95610,,7 Norte / 8 Oriente - Poniente,,-38.7202406,-72.5602636,,,0,,,0
+95616,,Rudencio Ortega / Vicente Perez Rosales,,-38.7196551,-72.56794101,,,0,,,0
+95613,,Siete Norte / Nahuelbuta - Poniente,,-38.71807625,-72.56101356,,,0,,,0
+95884,,General Aldunate / Leon Gallo,,-38.74452876,-72.58779726,,,0,,,0
+95887,,Balmaceda / Ministro Zenteno,,-38.73425796,-72.58258967,,,0,,,0
+95880,,Balmaceda / Basilio Urrutia,,-38.73446988,-72.57866203,,,0,,,0
+95882,,General Mackenna/ San Martin,,-38.74268332,-72.58734939,,,0,,,0
+95600,,David Perry / Tucapel,,-38.7311155,-72.5744524,,,0,,,0
+95601,,Rudecindo Ortega / Claudio Vicuna,,-38.72643652,-72.57500698,,,0,,,0
+95602,,Barros Arana / Condominio Plaza Club,,-38.72981583,-72.57046147,,,0,,,0
+95603,,Barros Arana / Francisco Bilbao - Norte,,-38.7336763,-72.57628887,,,0,,,0
+95604,,Ziem / Rudencio Ortega - Norte,,-38.72516902,-72.57351315,,,0,,,0
+95605,,Ziem / Fresia - Norte,,-38.72462685,-72.57083117,,,0,,,0
+95629,,Francisco Salazar / Los Castanos,,-38.75150849,-72.616655,,,0,,,0
+95628,,Francisco Salazar / Los Lirios,,-38.75247876,-72.61784238,,,0,,,0
+95089,,Parque Nacional Los Paraguas / Parque Nacional Huerquehue,,-38.74500284,-72.62773247,,,0,,,0
+95088,,Javiera Carrera / Lago Ranco,,-38.73625979,-72.62880571,,,0,,,0
+95087,,Pablo Neruda / Tiburcio Saavedra,,-38.73900923,-72.62593877,,,0,,,0
+95086,,Tiburcio Saavedra / Lago Caburga,,-38.74014087,-72.6264424,,,0,,,0
+95085,,Pablo Neruda / Huincul,,-38.73965377,-72.62339794,,,0,,,0
+95084,,San Martin / Lago Calafquen,,-38.7354574,-72.62601023,,,0,,,0
+95082,,San Martin / Javiera Carrera,,-38.73492802,-72.62839851,,,0,,,0
+95083,,Pablo Neruda / Ignacio Carrera Pinto,,-38.7379207,-72.63068971,,,0,,,0
+95630,,Francisco Salazar / Las Encinas,,-38.75090626,-72.61628383,,,0,,,0
+95080,,Javiera Carrera / Juan Bautista Campos,,-38.73767138,-72.62939697,,,0,,,0
+95081,,Javiera Carrera / Parque Nacional Huerquehue,,-38.74328692,-72.63146462,,,0,,,0
+95637,,Caupolican / Bernando O`Higgins / Poniente,,-38.74194733,-72.60468613,,,0,,,0
+95638,,Caupolican / San Martin / Oriente,,-38.74107645,-72.60351878,,,0,,,0
+95635,,Caupolican / Las Aguilas / Poniente,,-38.74444122,-72.60811178,,,0,,,0
+95636,,Caupolican / Las Camelias,,-38.74429125,-72.60742692,,,0,,,0
+95633,,Francisco Salazar / Caupolican / Poniente,,-38.74633595,-72.61048455,,,0,,,0
+95634,,Caupolican / Francisco Salazar / Oriente,,-38.74511621,-72.60851494,,,0,,,0
+95631,,Francisco Salazar / Pablo VI / Oriente,,-38.74834323,-72.61254924,,,0,,,0
+95632,,Franciso Salazar / Caupolican / Oriente,,-38.74644047,-72.61031385,,,0,,,0
+95618,,Nahuelbuta / Rudecindo Ortega - Norte,,-38.71880954,-72.56664569,,,0,,,0
+95617,,Ecuador / Veintiuno De Mayo - Sur,,-38.72319165,-72.57493121,,,0,,,0
+95099,,Alemania / Prieto Norte - Norte,,-38.73684498,-72.60057851,,,0,,,0
+95096,,Alemania / Coquimbo,,-38.73191617,-72.61975562,,,0,,,0
+95095,,Andes / Arica - Poniente,,-38.73483122,-72.62299658,,,0,,,0
+95098,,Alemania / Prieto Norte - Sur,,-38.7369418,-72.60132104,,,0,,,0
+95097,,Alemania / 18 De Septiembre,,-38.73585263,-72.60733828,,,0,,,0
+95091,,San Martin / Cataluna,,-38.73515213,-72.62687125,,,0,,,0
+95092,,Sta Teresa / Santa Lucia,,-38.74261996,-72.61460651,,,0,,,0
+95093,,Andes / San Martin - Oriente,,-38.73569845,-72.62306552,,,0,,,0
+95094,,Alemania / Senador Estebanez,,-38.73531093,-72.61022549,,,0,,,0
+95090,,Sta Teresa / Leon Gallo,,-38.74143113,-72.61418824,,,0,,,0
+95624,,B Urrutia / Balmaceda - Oriente,,-38.73448722,-72.57812833,,,0,,,0
+95625,,Francisco Salazar / Los Leones,,-38.75366468,-72.61979023,,,0,,,0
+95626,,Francisco Salazar / Manuel Recabarren / Oriente,,-38.75368992,-72.61935548,,,0,,,0
+95627,,Francisco Salazar / Los Eucaliptos,,-38.75249621,-72.61825603,,,0,,,0
+95621,,Nahuelbuta / 1 Norte - Norte,,-38.71858426,-72.5646086,,,0,,,0
+95622,,Nahuelbuta / 5 Norte,,-38.71838065,-72.56231963,,,0,,,0
+95623,,Nahuelbuta / 7 Norte - Norte,,-38.71828308,-72.56119076,,,0,,,0
+95690,,Balmaceda / General Cruz,,-38.73378629,-72.58343507,,,0,,,0
+95691,,Balmaceda / General Mackenna - Norte,,-38.7334525,-72.58555261,,,0,,,0
+95693,,General Aldunate / Manuel Rodriguez,,-38.73635414,-72.58719797,,,0,,,0
+95695,,General Aldunate / Manuel Montt,,-38.73956477,-72.58801948,,,0,,,0
+95696,,General Aldunate / Antonio Varas,,-38.74059381,-72.58827205,,,0,,,0
+95697,,General Aldunate / Andres Bello,,-38.74128163,-72.58844269,,,0,,,0
+95698,,Vicuna Mackenna / Plaza Teodoro Schmidt,,-38.73526188,-72.59110467,,,0,,,0
+95699,,Diego Portales / Arturo Prat,,-38.73733253,-72.59057362,,,0,,,0
+95680,,Barros Arana / Basilio Urrutia - Poniente,,-38.73576746,-72.57878397,,,0,,,0
+95681,,Barros Arana / Miraflores - Poniente,,-38.73626708,-72.57934864,,,0,,,0
+95684,,Manuel Rodriguez / Vicuna Mackenna,,-38.73601284,-72.59158448,,,0,,,0
+95685,,Manuel Rodriguez / Blanco Encalada,,-38.7350301,-72.5980568,,,0,,,0
+95682,,Manuel Rodriguez / Manuel Antonio Matta,,-38.73750884,-72.58170992,,,0,,,0
+95683,,Manuel Rodriguez / Manuel Bulnes,,-38.73649607,-72.58827842,,,0,,,0
+95689,,Balmaceda / Manuel Antonio Mata,,-38.73421839,-72.58067394,,,0,,,0
+95686,,Manuel Rodriguez / General Prieto Norte,,-38.73468291,-72.60027476,,,0,,,0
+95687,,Barros Arana / Miraflores - Oriente,,-38.73606522,-72.57874197,,,0,,,0
+95290,,Gabriela Mistral - Poniente / Supemercardo Lider,,-38.72769942,-72.60362447,,,0,,,0
+95291,,Monte Los Olivos / Apostol Simon,,-38.72735086,-72.60146097,,,0,,,0
+95292,,Regidor Francisco Poblete / Paillaco - Norte,,-38.72786763,-72.60524632,,,0,,,0
+95298,,Andes / Valladolid,,-38.7337832,-72.62252165,,,0,,,0
+95297,,Regidor Francisco Poblete / Frutillar - Norte,,-38.72275301,-72.6099706,,,0,,,0
+95299,,Pedro De Valdivia / Dario Salas - Sur,,-38.73312048,-72.60135503,,,0,,,0
+95294,,Hochstetter / Argentina - Oriente,,-38.72698874,-72.60902672,,,0,,,0
+95293,,Regidor Francisco Poblete / Vista Hermosa - Norte,,-38.72793753,-72.60791225,,,0,,,0
+95296,,Regidor Francisco Poblete / Pargua,,-38.72410894,-72.60825188,,,0,,,0
+95295,,Regidor Francisco Poblete / Antihue - Norte,,-38.72543842,-72.60642981,,,0,,,0
+95280,,Inglaterra / Francia,,-38.73277311,-72.60819695,,,0,,,0
+95281,,Inglaterra / Calatayud,,-38.73058359,-72.61427498,,,0,,,0
+95289,,Gabriela Mistral - Oriente / Supermercado Lider,,-38.72800947,-72.60373158,,,0,,,0
+95288,,Monte Los Olivos / Prieto Norte,,-38.72779464,-72.59924443,,,0,,,0
+95287,,Monte Los Olivos / Apostol San Felipe,,-38.72730279,-72.60232662,,,0,,,0
+95286,,Monte Los Olivos / Apostol San Marco,,-38.72773486,-72.60007212,,,0,,,0
+95285,,Inglaterra / Talagante,,-38.73032667,-72.61895356,,,0,,,0
+95284,,Andes / Inglaterra,,-38.72977497,-72.6205751,,,0,,,0
+95283,,Prieto Norte / Carmine,,-38.73072585,-72.59990723,,,0,,,0
+95282,,Inglaterra / Resuch,,-38.73008114,-72.61659061,,,0,,,0
+1502309,,S-40 / Terminal Linea 4,,-38.75871832,-72.66776383,,,0,,,0
+1502326,,Cam  a Labranza / Lago Gris,,-38.7591931,-72.75233388,,,0,,,0
+1502327,,Lago Hermoso / Lago Gris,,-38.75899231,-72.75031418,,,0,,,0
+1502328,,Cam a Labranza / Lago Peñuelas,,-38.75804065,-72.75191009,,,0,,,0
+1502329,,Cam a Labranza / Currahue,,-38.76089978,-72.7527684,,,0,,,0
+1502342,,Los Raulies / Los Avellanos,,-38.76318156,-72.75762051,,,0,,,0
+1502728,,Los Raulies / Los Robles,,-38.7632945,-72.75988966,,,0,,,0
+1502729,,Los Raulies / Maipo,,-38.76345136,-72.76455671,,,0,,,0
+1502730,,Los Raulies / Tronador,,-38.76336352,-72.76283205,,,0,,,0
+1502731,,Los Raulies / Tupungato,,-38.76337607,-72.76135147,,,0,,,0
+1502732,,3 Norte / Los Avellanos,,-38.76462254,-72.75774926,,,0,,,0
+1502746,,1 Oriente / Los Maquis,,-38.76235126,-72.75378495,,,0,,,0
+1502752,,Los Coigues / Los Albaratos,,-38.76704223,-72.76246727,,,0,,,0
+1502753,,S-30 / El Sembrador,,-38.76765289,-72.76504755,,,0,,,0
+1502755,,Las Encinas / Las Bellotas,,-38.74927222,-72.62205362,,,0,,,0
+1502759,,"S-40/ km 6,6",,-38.76423145,-72.73235679,,,0,,,0
+1502760,,Las Encinas / Manantial,,-38.7459252,-72.63163179,,,0,,,0
+1502761,,"S-40/ km 4,8",,-38.7609939,-72.71225631,,,0,,,0
+1502762,,Inés de Suárez / Arturo Pérez Canto,,-38.73954871,-72.63453662,,,0,,,0
+1502763,,Areturo Pérez Canto / Francisco Contreras,,-38.73868675,-72.63757288,,,0,,,0
+1502764,,Máximo Reyes / Vicente Muñoz,,-38.73746493,-72.63814151,,,0,,,0
+1502770,,Rudecindo Ortega / Unión Norte,,-38.70582834,-72.55325497,,,0,,,0
+1502771,,Rudecindo Ortega / Bencinera Copec,,-38.71035768,-72.55829215,,,0,,,0
+1502772,,Caupolicán / Caupolicán,,-38.72776911,-72.57858574,,,0,,,0
+1502773,,Min Zenteno / Fco Bilbao,,-38.73272807,-72.58194655,,,0,,,0
+1504690,,"S-40/ km 1,3",,-38.76001926,-72.67327577,,,0,,,0
+1504692,,S-40/ km 1,,-38.75898395,-72.66909957,,,0,,,0
+1504707,,La esperanza / San Esteban,,-38.7728433,-72.76405513,,,0,,,0
+1504708,,Arturo Pérez Canto / inés de Suárez,,-38.7393395,-72.63508916,,,0,,,0
+1504709,,La esperanza / San Lucas,,-38.77192738,-72.76417315,,,0,,,0
+1504734,,Av Recabarren / G Marconi,,-38.75731487,-72.6488918,,,0,,,0
+1504735,,La esperanza / San Pedro,,-38.77100725,-72.76423752,,,0,,,0
+1504736,,Las Encinas / Las Enredaderas,,-38.74920109,-72.62315869,,,0,,,0
+1504738,,Manuel Recabarren / Benjamín Franklin,,-38.7564343,-72.63970524,,,0,,,0
+1504743,,Jerusalem / Los conquistadores,,-38.77048445,-72.76099741,,,0,,,0
+1504744,,Nazarethe / Los conquistadores,,-38.77073749,-72.76302248,,,0,,,0
+1504778,,Francisco Salazar / Padre Luis de Valdivia,,-38.74928059,-72.61382997,,,0,,,0
+1504783,,Pablo Neruda / Máximo Reyes,,-38.7366406,-72.63762116,,,0,,,0
+1504785,,Pablo Neruda / Eduardo Aranis,,-38.73691677,-72.63641953,,,0,,,0
+1504824,,Ecuador / 12 de Febrero,,-38.72368868,-72.57731438,,,0,,,0
+1504827,,Vicente Pérez Rosales / Rodoviario,,-38.7167326,-72.56867498,,,0,,,0
+1504834,,Rudecindo Ortega / Unión Norte,,-38.70615905,-72.5531745,,,0,,,0
+1504838,,Calpucura / Pircunche,,-38.73376586,-72.57126331,,,0,,,0
+1504839,,Pircunche / Quidel,,-38.73343109,-72.56873667,,,0,,,0
+1504840,,Pircunche / Galvarino,,-38.73286199,-72.56622076,,,0,,,0
+1504841,,Valparaíso / Guacolda,,-38.73065246,-72.56666332,,,0,,,0
+1504842,,S-31 / Rudencio Ortega,,-38.67266165,-72.5069654,,,0,,,0
+1504843,,Tegualda / Manuel Gandarillas,,-38.7297088,-72.56479114,,,0,,,0
+1504844,,Tegualda / Allipén,,-38.72943469,-72.56357879,,,0,,,0
+1504845,,Tegualda / Quitratúe,,-38.72923173,-72.56257563,,,0,,,0
+1504846,,Tegualda / Río Duero,,-38.72673123,-72.55925238,,,0,,,0
+1504847,,Cost / Tamesis,,-38.72370124,-72.5564146,,,0,,,0
+1504848,,Río Don / Río Támesis,,-38.72373681,-72.55521297,,,0,,,0
+1504849,,Río Don / Langdon Quince,,-38.72259217,-72.55474627,,,0,,,0
+1504850,,Río Colorado / Río Plata,,-38.71913089,-72.55487233,,,0,,,0
+1504852,,Los Escultores / Los Trovadores,,-38.70873979,-72.6606533,,,0,,,0
+1504853,,Los Escultores / Los Organilleros,,-38.70853886,-72.66262472,,,0,,,0
+1504854,,Los Escritores/ Los Organilleros,,-38.71001234,-72.66320139,,,0,,,0
+1504855,,Los Escritores / De Bussy,,-38.71110697,-72.65580118,,,0,,,0
+1504857,,Los Escritores / Los Creadores,,-38.71155485,-72.65407921,,,0,,,0
+1504858,,Los Creadores / Colegio Adventista,,-38.71619893,-72.65236258,,,0,,,0
+1504859,,Los Creadores / Emplame los creadores,,-38.71739391,-72.65191197,,,0,,,0
+1504860,,Luis Durand /Canadá Sur,,-38.72278468,-72.63809323,,,0,,,0
+1504861,,Luis Durand / Eduardo Barrios,,-38.72693212,-72.62444079,,,0,,,0
+1504862,,Luis Durand / Taital,,-38.72739664,-72.62209922,,,0,,,0
+1504863,,Luis Durand / Caldera,,-38.72776911,-72.6210022,,,0,,,0
+1504864,,Andes / Carlos Pezoa Veliz,,-38.7285475,-72.62085199,,,0,,,0
+1504865,,Andes / Alemania,,-38.73096213,-72.62126505,,,0,,,0
+1504868,,Cacique Lemunao / Melivilu,,-38.71467745,-72.55928993,,,0,,,0
+1504870,,Antifil / Araucaria,,-38.73819301,-72.57514715,,,0,,,0
+1504871,,Antifil / Voltaire,,-38.73762812,-72.57313013,,,0,,,0
+1504873,,Antifil / Quidel,,-38.73654227,-72.56789178,,,0,,,0
+1504876,,Antifil / Av Valparaiso,,-38.73595017,-72.5650835,,,0,,,0
+1504934,,Cacique Melivilu / Coliman,,-38.71657354,-72.55882323,,,0,,,0
+1504938,,Cacique Melivilu/ Nahuelbuta,,-38.71790246,-72.55826801,,,0,,,0
+1504959,,Luis Durand / Caldera,,-38.72760589,-72.62134552,,,0,,,0
+1504964,,Luis Durand / Colegio San Francisco,,-38.72512418,-72.63094783,,,0,,,0
+1504981,,Río Don /Río Grande,,-38.71499556,-72.5519085,,,0,,,0
+1504982,,Río Claro / Río Don,,-38.71723487,-72.55280972,,,0,,,0
+1504983,,Río Don / Río Huequén,,-38.72064391,-72.55411863,,,0,,,0
+1504986,,Río Pidenco / Lontué,,-38.71868723,-72.5533998,,,0,,,0
+1504988,,Río Don / Río de La Plata,,-38.71926064,-72.55363047,,,0,,,0
+1504993,,Río Don / Río Quepe,,-38.72139936,-72.55434394,,,0,,,0
+1504994,,Cost / Langdon doce,,-38.72373473,-72.55673647,,,0,,,0
+1504996,,Cost / Langdon Nueve,,-38.72487099,-72.55719244,,,0,,,0
+1504997,,Cost / Río Leña,,-38.72580007,-72.55754381,,,0,,,0
+1504999,,Cost / Río Duero,,-38.72678564,-72.55795151,,,0,,,0
+1505004,,Cost / Futaleufú,,-38.72808716,-72.55845845,,,0,,,0
+1505005,,Cost / Chacao,,-38.72941376,-72.55898953,,,0,,,0
+1505006,,Cost / Pircunche,,-38.73138898,-72.55978346,,,0,,,0
+1505007,,Cost / Melipeuco,,-38.73273226,-72.5603199,,,0,,,0
+1505008,,Colima / Niagara,,-38.7338098,-72.56125331,,,0,,,0
+1505014,,Colima / Belgrado,,-38.73409435,-72.56263465,,,0,,,0
+1505015,,Colima / Valparaiso,,-38.73467391,-72.56508618,,,0,,,0
+1505016,,Valparaíso / Antifil,,-38.73546687,-72.56500035,,,0,,,0
+1505020,,Antifil / Sargente Aldea,,-38.73611127,-72.56620467,,,0,,,0
+1505024,,Antifil / Calpucura,,-38.73703812,-72.57007778,,,0,,,0
+1505026,,Río Don / Langdon Quince,,-38.72256914,-72.55481601,,,0,,,0
+1505028,,Río Don / Río Támesis,,-38.72373681,-72.55529344,,,0,,,0
+1505031,,Recabarren / Los urbanistas,,-38.75723121,-72.66033411,,,0,,,0
+1505035,,Recabarren / Brisas del Maipo,,-38.75734415,-72.65943825,,,0,,,0
+1505040,,"Milano, 3500-3600",,-38.75977246,-72.65051723,,,0,,,0
+1505041,,Wunurai / Guillermo Marconi,,-38.7616318,-72.64983594,,,0,,,0
+1505042,,Milano / Pto Tranquilo,,-38.76084749,-72.63462245,,,0,,,0
+1505043,,Milano / Marco Polo,,-38.76042919,-72.63186246,,,0,,,0
+1505044,,Milano / Miguel Angel,,-38.76029115,-72.63102293,,,0,,,0
+1505045,,Milano / Da Vinci,,-38.76002553,-72.62923121,,,0,,,0
+1505046,,Milano / Av Italia,,-38.75963232,-72.62631565,,,0,,,0
+1505047,,Florencia / Ravena,,-38.75608291,-72.61665165,,,0,,,0
+1505049,,Florencia / Tivoli,,-38.75574824,-72.61528909,,,0,,,0
+1505051,,Florencia / Capri,,-38.7554345,-72.61393726,,,0,,,0
+1505053,,Capri / Barleta,,-38.75481536,-72.61388093,,,0,,,0
+1505055,,Capri / Recabarren,,-38.75414393,-72.61411428,,,0,,,0
+1505058,,Armando Jobet/ Caupolicán,,-38.75020726,-72.60881692,,,0,,,0
+1505061,,Armando Jobet/ Los Copihues,,-38.75010058,-72.6067248,,,0,,,0
+1505063,,Las Quilas/ Los sauces,,-38.74847105,-72.60498405,,,0,,,0
+1505064,,Las Quilas / Los Temos,,-38.74723056,-72.60472655,,,0,,,0
+1505066,,Las Quilas / Imperial,,-38.74418888,-72.60402381,,,0,,,0
+1505068,,Prieto Sur / Imperial,,-38.7438709,-72.60277659,,,0,,,0
+1505069,,Prieto Sur / León Gallo,,-38.74281025,-72.60244399,,,0,,,0
+1505092,,Calpucura / Quidel,,-38.73226567,-72.57171661,,,0,,,0
+1505093,,Mailef / Calpucura,,-38.73292475,-72.57133842,,,0,,,0
+1505095,,Calpucura / Pircunche,,-38.73422825,-72.57150739,,,0,,,0
+1505102,,Antifil / Diego Portales,,-38.73920978,-72.57704615,,,0,,,0
+1505105,,Tegualda / Río Duero,,-38.72671449,-72.55938918,,,0,,,0
+1505109,,Tegualda / Llancahue,,-38.72858726,-72.5607115,,,0,,,0
+1505110,,Pircunche / Calpucura,,-38.73391859,-72.5707537,,,0,,,0
+1505112,,Quitratúe / Tegualda,,-38.72908316,-72.56265074,,,0,,,0
+1505114,,Calpucura / Catrihuala,,-38.73521999,-72.57096023,,,0,,,0
+1505116,,Antifil / Quidel,,-38.73638535,-72.56753236,,,0,,,0
+1505118,,Tegualda / Allipén,,-38.72933216,-72.5637424,,,0,,,0
+1505119,,Antifil / Sargente Aldea,,-38.73617404,-72.56615638,,,0,,,0
+1505123,,Tegualda / Manuel Gandarillas,,-38.72957279,-72.56488234,,,0,,,0
+1505125,,Pircunche / Belgrado,,-38.73211921,-72.56324083,,,0,,,0
+1505128,,Pircunche / Quitrahue,,-38.73177397,-72.56184876,,,0,,,0
+1505129,,Cornelio Saavedra / Pircunche,,-38.73140572,-72.56063372,,,0,,,0
+1505130,,León Gallo / Plaza Dreves,,-38.74166172,-72.61117458,,,0,,,0
+1505131,,Cornelio Saavedra / Boroa,,-38.73060016,-72.56095022,,,0,,,0
+1505132,,Cornelio Saavedra / Palguín,,-38.72976947,-72.56120235,,,0,,,0
+1505135,,Cornelio Saavedra / Hualpin,,-38.72772307,-72.56203115,,,0,,,0
+1505136,,Cornelio Saavedra / Comuy,,-38.72715183,-72.56217331,,,0,,,0
+1505139,,Cornelio Saavedra / Comuy,,-38.72689445,-72.56232887,,,0,,,0
+1505146,,Cornelio Saavedra / Chepu,,-38.72626461,-72.56255686,,,0,,,0
+1505147,,Ancud / Melinka,,-38.72537738,-72.56163149,,,0,,,0
+1505151,,Recabarren / ALbireo,,-38.75518768,-72.63690233,,,0,,,0
+1505155,,Recabarren / Los Urbanistas,,-38.75696139,-72.66087056,,,0,,,0
+1505156,,"S-40/ km 2,7",,-38.76205218,-72.6893261,,,0,,,0
+1505157,,Barros Arana / Los Nogales,,-38.71391564,-72.55399526,,,0,,,0
+1505159,,Barros Arana / Tegucigalpa,,-38.70608579,-72.54818291,,,0,,,0
+1505160,,Barros Arana / Mariano Azuela,,-38.70457875,-72.54647165,,,0,,,0
+1505171,,Tegualda / Valparaíso,,-38.72996616,-72.56688058,,,0,,,0
+1505172,,Valparaíso / Guacolda,,-38.73059388,-72.56675721,,,0,,,0
+1505174,,Pircunche / Galvarino,,-38.73280131,-72.5663656,,,0,,,0
+1505175,,Pircunche / Quidel,,-38.7333725,-72.56879568,,,0,,,0
+1505176,,Pircunche / Calpucura,,-38.73383699,-72.5708127,,,0,,,0
+1505180,,S-30 /Av Santa María,,-38.76684983,-72.775653,,,0,,,0
+1505196,,"Manuel Montt, 1535-1599",,-38.73984997,-72.57964253,,,0,,,0
+1505205,,Manuel Antonio Matta / San Martín,,-38.74341903,-72.58348882,,,0,,,0
+1505207,,Manuel Antonio Matta / Antonio Varas,,-38.74161988,-72.58303821,,,0,,,0
+1505211,,Pedro León Gallo / Min Zenteno,,-38.74566789,-72.58536368,,,0,,,0
+1505214,,Pedro León Gallo / Malvoa,,-38.74624318,-72.58187949,,,0,,,0
+1505423,,Río Don / Río Marañon,,-38.71794221,-72.55312086,,,0,,,0
+1505828,,Javiera Carrera / Gabriela Mistral,,-38.72967741,-72.62669384,,,0,,,0
+1506202,,Río Leña / Tegualda,,-38.72562221,-72.5587964,,,0,,,0
+1506288,,Javiera Carrera / Las Tórtolas,,-38.75559137,-72.63906285,,,0,,,0
+1506290,,Javiera Carrera / El Monte,,-38.75203757,-72.63788402,,,0,,,0
+1506293,,Javiera Carrera / Isabel Riquelme,,-38.74464702,-72.63298094,,,0,,,0
+1506294,,3 Poniente / 1 Norte,,-38.76695021,-72.75699288,,,0,,,0
+1506295,,Los Raulies / Los Boldos,,-38.7631,-72.7543804,,,0,,,0
+1506296,,Lago Peñuelas / Lago Hermoso,,-38.75814523,-72.75033832,,,0,,,0
+1506297,,Lago Hermoso / Lago Gris,,-38.75904042,-72.75042415,,,0,,,0
+1506298,,Los Alamos / Los Nostros,,-38.75617076,-72.74572492,,,0,,,0
+1506299,,Los Pinos / Los Alamos,,-38.75904042,-72.74654567,,,0,,,0
+1506300,,Los Canelos / Los Alamos,,-38.75744246,-72.74612188,,,0,,,0
+1506301,,Los Alamos / Los Nogales,,-38.75730023,-72.7461648,,,0,,,0
+1506302,,Los Alamos / Los Pinos,,-38.75889819,-72.7466476,,,0,,,0
+1506303,,"Los Bosques / Terminal salida Linea 5,",,-38.76080985,-72.74805039,,,0,,,0
+1506311,,Balmaceda / Prieto Norte,,-38.73169028,-72.59937823,,,0,,,0
+1507812,,Vilumilla / Aillarehue,,-38.77039662,-72.60189146,,,0,,,0
+1507826,,Rudecindo Ortega / 21 de Mayo,,-38.72498608,-72.57405549,,,0,,,0
+1507828,,Av Maquehue/ Aillacara,,-38.7678432,-72.59602278,,,0,,,0
+1567065,,Camino el Sauce / Terminal linea 8,,-38.77193365,-72.58349955,,,0,,,0
+1567066,,Camino El Sauce/ Las Araucarias,,-38.77149032,-72.57950574,,,0,,,0
+1567067,,Camino el Sauce/ Las Araucarias,,-38.77155096,-72.57952183,,,0,,,0
+1567068,,Camino el Sauce/ Las Palmas,,-38.77168062,-72.57602155,,,0,,,0
+1567069,,Camino el Sauce/ Las Palmas,,-38.77174753,-72.57601619,,,0,,,0
+1567073,,Camino el Sauce/ Los Liliums,,-38.77175172,-72.57405817,,,0,,,0
+1567074,,Camino el Sauce/ Los Liliums,,-38.77179772,-72.57412523,,,0,,,0
+1567154,,S-459 / Villa Las Rosas,,-38.87165239,-72.3896724,,,0,,,0
+1567155,,S-459 / Villa las Rosas,,-38.87175054,-72.38959461,,,0,,,0
+1567157,,Las Praderas / S-459,,-38.87218281,-72.39304126,,,0,,,0
+1567158,,Las Praderas / S-459,,-38.87242086,-72.39235997,,,0,,,0
+1567160,,Los Manantiales/ Las Praderas,,-38.87144357,-72.39521921,,,0,,,0
+1567164,,S-459 / SN,,-38.86690356,-72.38980919,,,0,,,0
+1567165,,Cruce San Ramón /S-459,,-38.86382104,-72.38916546,,,0,,,0
+1567166,,S- 51 / S-459,,-38.86378136,-72.38891065,,,0,,,0
+1567167,,Colegio Cumbres,,-38.86201658,-72.39611506,,,0,,,0
+1567168,,Colegio Cumbres,,-38.86208968,-72.396276,,,0,,,0
+1567169,,S-51 km 26,,-38.86152369,-72.39825547,,,0,,,0
+1567170,,"S-51 km 27,1",,-38.85902157,-72.40984797,,,0,,,0
+1567171,,"S-51/ km 27,7",,-38.85713761,-72.41631478,,,0,,,0
+1567172,,S-51,,-38.85931397,-72.40906209,,,0,,,0
+1567498,,"S-51 Km 28,4",,-38.85533925,-72.42454112,,,0,,,0
+1567499,,"S-51 Km 28,9",,-38.85405676,-72.42924839,,,0,,,0
+1567500,,S-51 Km 29,,-38.85359096,-72.43099451,,,0,,,0
+1567501,,Escuela Lenfuen,,-38.85275963,-72.43781537,,,0,,,0
+1567584,,"S-51 Km 29,7",,-38.85242542,-72.4408114,,,0,,,0
+1567585,,"S-51 km 29,7",,-38.85216432,-72.44151413,,,0,,,0
+1567599,,"S-51 Km 30,8",,-38.84874275,-72.44952321,,,0,,,0
+1567606,,Jardín del Edén,,-38.84579314,-72.45250851,,,0,,,0
+1567607,,S-51 Km 32,,-38.84157741,-72.45763689,,,0,,,0
+1567608,,"S-51 Km 32,4",,-38.84066445,-72.46354043,,,0,,,0
+1567609,,Escuela Hermano Pascual,,-38.83683911,-72.47473329,,,0,,,0
+1567611,,"S-51 Km 34,2",,-38.83420032,-72.48400033,,,0,,,0
+1567612,,"S-51/ Km 34,9",,-38.83445522,-72.49122351,,,0,,,0
+1567613,,Tromen - Quepe,,-38.83372186,-72.49832064,,,0,,,0
+1567614,,Escuela Tromen,,-38.83355262,-72.50326127,,,0,,,0
+1567615,,"S-51 Km 36,9",,-38.83507366,-72.51098603,,,0,,,0
+1567618,,Acceso Momberg,,-38.83366753,-72.52600908,,,0,,,0
+1567619,,Caupolicán / Francisco Salazar,,-38.74651513,-72.60923803,,,0,,,0
+1567621,,Caupolicán / Francisco Salazar,,-38.74608838,-72.60902614,,,0,,,0
+1567700,,Los Hualles/ El Olivo,,-38.76962914,-72.57699788,,,0,,,0
+1567707,,Las Araucarias/ Los Sauces,,-38.7702586,-72.57926971,,,0,,,0
+1567708,,Acceso Sur Temuco / S-532,,-38.76573097,-72.60930509,,,0,,,0
+1567709,,"Ruta 5/ km 676,5",,-38.76553438,-72.6090315,,,0,,,0
+1567710,,Pulmahue / Painemilla,,-38.77378222,-72.59136647,,,0,,,0
+1567711,,Ruta 5 / Licanco,,-38.79595924,-72.62084395,,,0,,,0
+1567712,,Ruta 5 / Licanco,,-38.79584008,-72.62109071,,,0,,,0
+1567713,,Ruta 5 / La Cantera,,-38.80337583,-72.62585431,,,0,,,0
+1567714,,Ruta 5 / La Cantera,,-38.803959,-72.62670993,,,0,,,0
+1567715,,Maquehue/ Vilumila,,-38.77031297,-72.59719759,,,0,,,0
+1567719,,Sausalito/ Quidora,,-38.76806697,-72.60376364,,,0,,,0
+1567721,,Radal/ Los Molles,,-38.76759643,-72.60647267,,,0,,,0
+1567722,,Villa Alegre/ Manil,,-38.76568077,-72.60798007,,,0,,,0
+1567730,,Villa Alegre/ Liquiñe,,-38.76096671,-72.60185927,,,0,,,0
+1567741,,S-269 km 17 / Terminal Salida Linea 8D,,-38.77669926,-72.41486371,,,0,,,0
+1567742,,"S-269/ Km16,5",,-38.77522507,-72.41788656,,,0,,,0
+1567743,,S-269/ km 15,,-38.77102607,-72.43667543,,,0,,,0
+1567746,,"S-269/ km 15,2",,-38.77151123,-72.43456453,,,0,,,0
+1567748,,"S-269/ km 14,7",,-38.77048027,-72.43897408,,,0,,,0
+1567749,,"S-269/ km 13,5",,-38.77187928,-72.45275527,,,0,,,0
+1581345,,"Ruta 5/ km 682,9",,-38.81956714,-72.62311041,,,0,,,0
+1581346,,Ruta 5 / Metrenco,,-38.827535,-72.623384,,,0,,,0
+1581347,,Ruta 5 / Metrenco,,-38.82710664,-72.62385875,,,0,,,0
+1581348,,Santuario San Sebastián de Metrenco,,-38.83425255,-72.62365222,,,0,,,0
+1581349,,Ruta 5 / Enlace Metrenco,,-38.8445648,-72.61717737,,,0,,,0
+1581350,,Ruta 5 /Enlace Metrenco,,-38.84455853,-72.61765212,,,0,,,0
+1581351,,"Ruta 5/ km 686,3",,-38.84848582,-72.61738122,,,0,,,0
+1581352,,"Ruta 5/ km 686,3",,-38.84978094,-72.61689037,,,0,,,0
+1581353,,Ruta 5 / Pasarela Maihuadache,,-38.85690368,-72.61636466,,,0,,,0
+1581354,,Ruta 5 / Pasarela Maihuadache,,-38.85694755,-72.61675625,,,0,,,0
+1581358,,Ruta 5 / Enlace Quepe Norte,,-38.86629375,-72.61739731,,,0,,,0
+1581359,,Ruta 5 / Enlace Quepe Norte,,-38.86633552,-72.61687964,,,0,,,0
+1581360,,Ruta 5 / Enlace Quepe Sur,,-38.87026996,-72.61720688,,,0,,,0
+1581364,,21 de Mayo/ Barros,,-38.87073773,-72.61548758,,,0,,,0
+1581365,,Barros/ Camino Balneario,,-38.87083797,-72.61146426,,,0,,,0
+1581366,,Camino Balneario/ Huichahue,,-38.86879144,-72.61100292,,,0,,,0
+1581367,,Sargento Aldea/ Camino Balneario,,-38.86651512,-72.61083394,,,0,,,0
+1581368,,Sargento Aldea/ 21 de Mayo,,-38.86615592,-72.61453807,,,0,,,0
+1581369,,21 de Mayo/ Huichahue,,-38.86891465,-72.61520326,,,0,,,0
+1581370,,21 de Mayo/ Barros,,-38.87020522,-72.61554658,,,0,,,0
+1581376,,Santuario San Sebastián de Metrenco,,-38.83336875,-72.62328744,,,0,,,0
+1587225,,Ruta 5 / Bypass Temuco,,-38.78612919,-72.61321843,,,0,,,0
+1587227,,"S-269/ km 12,5",,-38.76895576,-72.46454358,,,0,,,0
+1587230,,S-269/ km 11,,-38.76505755,-72.47946739,,,0,,,0
+1587231,,S-269/ km 10,,-38.76176984,-72.48979121,,,0,,,0
+1587232,,"S-269/ km 9,5",,-38.75964487,-72.4946782,,,0,,,0
+1587233,,Valparaíso / Pircunche,,-38.73244561,-72.56600619,,,0,,,0
+1587234,,"S-269/ km 5,8",,-38.74373492,-72.53301233,,,0,,,0
+1587235,,"S-269/ km 5,2",,-38.74272866,-72.54064053,,,0,,,0
+1587238,,"S-269/ km 4,4",,-38.74385834,-72.54954546,,,0,,,0
+1587239,,"S-269/ km 3,3",,-38.74063242,-72.56051302,,,0,,,0
+1587240,,"S-269/ km 1,8",,-38.74779118,-72.57353783,,,0,,,0
+1587241,,"S-269/ km 1,5",,-38.7489417,-72.57689327,,,0,,,0
+1596762,,"S-269/ Km16,5",,-38.77531708,-72.41791874,,,0,,,0
+1596763,,"S-269/ km 15,2",,-38.7715886,-72.43461549,,,0,,,0
+1596764,,S-269/ km 15,,-38.77109508,-72.4367398,,,0,,,0
+1596765,,"S-269/ km 14,7",,-38.77057647,-72.43901968,,,0,,,0
+1596766,,"S-269/ km 13,5",,-38.77195247,-72.45280623,,,0,,,0
+1596767,,"S-269/ km 12,5",,-38.76904987,-72.46455431,,,0,,,0
+1596768,,S-269/ km 11,,-38.76513493,-72.47948885,,,0,,,0
+1596770,,S-269/ km 10,,-38.76186395,-72.48985827,,,0,,,0
+1596772,,"S-269/ km 9,5",,-38.75974736,-72.49468893,,,0,,,0
+1596773,,"S-269/ km 5,8",,-38.74383743,-72.53302038,,,0,,,0
+1596774,,"S-269/ km 5,2",,-38.74281025,-72.54045814,,,0,,,0
+1596775,,"S-269/ km 4,4",,-38.74395876,-72.54942745,,,0,,,0
+1596776,,"S-269/ km 3,3",,-38.74068891,-72.56061763,,,0,,,0
+1596777,,"S-269/ km 1,8",,-38.74806941,-72.5738436,,,0,,,0
+1597174,,Francisco Huenchumilla 5,,-38.69040257,-72.65285611,,,0,,,0
+1597175,,Francisco Huenchumilla 6,,-38.69019531,-72.65480876,,,0,,,0
+1597176,,Francisco Huenchumilla / Av Nueva Esperanza,,-38.68812684,-72.6555115,,,0,,,0
+1597179,,S-258 / Av Nueva Esperanza,,-38.68867746,-72.6580891,,,0,,,0
+1597180,,S-304 / Capitán Pastene,,-38.68641842,-72.65655756,,,0,,,0
+1597236,,San Petersburgo/ Letonia,,-38.76726182,-72.60188341,,,0,,,0
+1597237,,San Petersburgo/ Letonia,,-38.76722418,-72.60195047,,,0,,,0
+1597239,,San Petersburgo/ Av Coñoepan,,-38.76647967,-72.60044307,,,0,,,0
+1597242,,San Petersburgo/ Av Coñoepan,,-38.76638974,-72.60044038,,,0,,,0
+1597248,,Coñoepan/ Las Penas,,-38.76718235,-72.5996545,,,0,,,0
+1597249,,Coñoepan/ Las Penas,,-38.76721999,-72.59974033,,,0,,,0
+1597274,,Aillacara/ Pifilca,,-38.76807743,-72.59250104,,,0,,,0
+1597275,,Aillacara/ Pifilca,,-38.7680105,-72.59250373,,,0,,,0
+1597281,,Vilumilla/ Av Maquehue,,-38.77007457,-72.59697765,,,0,,,0
+1597283,,Cacique Aillan Marillán / Las Américas,,-38.72119637,-72.62210727,,,0,,,0
+1597285,,Av Maquehue/ Vilumilla,,-38.76998047,-72.59715199,,,0,,,0
+1597288,,Av Maquehue/ Ongolmo,,-38.76505755,-72.59549707,,,0,,,0
+1597295,,Av Maquehue/ Corvalán,,-38.7630749,-72.59667993,,,0,,,0
+1597306,,Curiñanco / Llico,,-38.72577705,-72.62247741,,,0,,,0
+1597335,,Blanco Encalada / Plaza Dagoberto Godoy,,-38.73685819,-72.59821415,,,0,,,0
+1597354,,Corvalán/ Almirante Barroso,,-38.76159624,-72.59367585,,,0,,,0
+1597357,,Corvalán/ Almirante Barroso,,-38.76145611,-72.59339422,,,0,,,0
+1597368,,Corvalán/ Los Patagones,,-38.7612135,-72.59191096,,,0,,,0
+1597369,,Corvalán/ Los Patagones,,-38.76115703,-72.5919351,,,0,,,0
+1597373,,Huichahue/ Corvalán,,-38.76091651,-72.59108484,,,0,,,0
+1597376,,Pleiteado/ Lillo,,-38.7583272,-72.59196997,,,0,,,0
+1597377,,Pleiteado/ La Paz,,-38.75651587,-72.59083807,,,0,,,0
+1597378,,La Paz/ Villa Alegre,,-38.75570641,-72.59129941,,,0,,,0
+1597379,,Tomás Guevara/ Araucanos,,-38.76721163,-72.59625077,,,0,,,0
+1597380,,Corvalán/ Tomás Guevara,,-38.76410597,-72.5987345,,,0,,,0
+1597381,,Tomás Guevara/ Las Penas,,-38.76575397,-72.59751946,,,0,,,0
+1597383,,Las Bandurrias/ Los Ruiseñores,,-38.77549064,-72.59520471,,,0,,,0
+1597385,,Las Bandurrias/ Los Ruiseñores,,-38.77592349,-72.59426058,,,0,,,0
+1597386,,Las Bandurrias/ San Expedito,,-38.77686864,-72.59284705,,,0,,,0
+1597474,,Santa Catalina de Alejandría/ Los Chincoles,,-38.77573111,-72.59063959,,,0,,,0
+1597475,,Santa Catalina de Alejandría/ Los Chincoles,,-38.77568302,-72.59088099,,,0,,,0
+1597476,,La Quebrada/ Sta. Catalina de Alejandría,,-38.7755011,-72.58887469,,,0,,,0
+1597477,,Los Halcones/ Las Avutardas,,-38.77688954,-72.59241521,,,0,,,0
+1597478,,Las Avutardas/ Los Halcones,,-38.77646297,-72.59232938,,,0,,,0
+1597490,,"Ruta 194/ km 1,2",,-38.76905405,-72.62130529,,,0,,,0
+1597491,,"Ruta 194/ km 1,2",,-38.76887838,-72.62090027,,,0,,,0
+1597493,,Río Cisnes / Río Pilcomayo,,-38.71501649,-72.55043864,,,0,,,0
+1597495,,Isla Chiloé / Cam A Cisnes,,-38.71364776,-72.54900634,,,0,,,0
+1597496,,Isla Guafo / Río Pilcomayo,,-38.71158834,-72.54881322,,,0,,,0
+1597499,,"Ruta 194/ km 1,6",,-38.76983408,-72.62581408,,,0,,,0
+1597502,,Isla de Pascua / Buenos Aires,,-38.70878375,-72.54648507,,,0,,,0
+1597503,,Isla de Pascua / Bogotá,,-38.70909142,-72.54732728,,,0,,,0
+1597504,,"Ruta 194/ km 1,7",,-38.77008712,-72.62819588,,,0,,,0
+1597513,,"Ruta 194/ km 2,3",,-38.77126238,-72.63457954,,,0,,,0
+1597514,,"Ruta 194/ km 2,3",,-38.77113272,-72.63456076,,,0,,,0
+1597528,,"S-500/ km 0,6",,-38.77468348,-72.64017999,,,0,,,0
+1597538,,"S-500/ km 0,6",,-38.77458938,-72.6402095,,,0,,,0
+1597550,,"S-578/ km 0,5",,-38.77949283,-72.65567243,,,0,,,0
+1597552,,"S-578/ km 0,5",,-38.77939664,-72.65570462,,,0,,,0
+1597553,,Gabriela Mistral / Escuela Municipal Campos deportivos,,-38.72845125,-72.61757433,,,0,,,0
+1597554,,Gabriela Mistral / Av. Andes,,-38.72871071,-72.62043357,,,0,,,0
+1597555,,"S-578/ km 1,5",,-38.78737736,-72.66144454,,,0,,,0
+1597556,,"S-578/ km 1,5",,-38.78750071,-72.66168058,,,0,,,0
+1597559,,Luis Durand / Javiera Carrera,,-38.72643829,-72.62594014,,,0,,,0
+1597566,,Luis Durand / Mar del Plata,,-38.72609721,-72.62796789,,,0,,,0
+1597569,,"S-578/ km 2,8",,-38.79828589,-72.66330868,,,0,,,0
+1597570,,"S-578/ km 2,8",,-38.79822945,-72.66314238,,,0,,,0
+1597571,,Luis Durand / El Tatio,,-38.72399002,-72.63347447,,,0,,,0
+1597572,,Luis Durand / Canadá Sur,,-38.72262983,-72.63840973,,,0,,,0
+1597573,,"Luis Durand, 3296-3480",,-38.72101013,-72.64484167,,,0,,,0
+1597574,,S-578/ km 3,,-38.80085285,-72.6644218,,,0,,,0
+1597575,,Luis Durand / Luis Pasteur,,-38.71841518,-72.64958382,,,0,,,0
+1597577,,Los Creadores / Colegio adventista,,-38.71599175,-72.65226066,,,0,,,0
+1597578,,Los Creadores / Los Fundadores,,-38.71444724,-72.6528722,,,0,,,0
+1597579,,Los Escritores / Jorge Tellier,,-38.71021954,-72.65965819,,,0,,,0
+1597580,,Los Escritores/ Los Organilleros,,-38.70993909,-72.66316384,,,0,,,0
+1597581,,Los Músicos / Los sopranos,,-38.7081977,-72.6566273,,,0,,,0
+1597582,,"S-578/ km 3,3",,-38.8027153,-72.66545713,,,0,,,0
+1597586,,"S-578/ km 4,5",,-38.81143955,-72.67345011,,,0,,,0
+1597587,,"S-578/ km 4,5",,-38.81143746,-72.67358691,,,0,,,0
+1597588,,"S-578/ km 5,2",,-38.8155463,-72.67851412,,,0,,,0
+1597589,,"S-578/ km 5,7",,-38.81671872,-72.68386781,,,0,,,0
+1597591,,"S-578/ km 6,3",,-38.82015645,-72.68912494,,,0,,,0
+1597592,,Los Escultores / Bissat,,-38.71027815,-72.65344083,,,0,,,0
+1597593,,Los Escultores / Los Tenores,,-38.70968793,-72.65589237,,,0,,,0
+1597595,,Los Ensayistas / Jorge Guillén,,-38.70851584,-72.66511917,,,0,,,0
+1597596,,Los Escritores/ Jorge Teilier,,-38.71022373,-72.6598996,,,0,,,0
+1597598,,"Luis Durand, 3401-3999",,-38.72150399,-72.64428913,,,0,,,0
+1597601,,Luis Durand / El Tatio,,-38.7242202,-72.63321161,,,0,,,0
+1597602,,"S-578/ km 7,3",,-38.82814305,-72.69437134,,,0,,,0
+1597603,,Luis Durand / Inacap,,-38.72529159,-72.63152182,,,0,,,0
+1597606,,Luis Durand / Callejón Sin Nombre,,-38.72606163,-72.62841046,,,0,,,0
+1597619,,"S-578/ km 7,6",,-38.83099937,-72.69436598,,,0,,,0
+1597620,,"S-578/ km 8,2",,-38.83588431,-72.69306242,,,0,,,0
+1597621,,"S-578/ km 9,2",,-38.84451675,-72.69351304,,,0,,,0
+1597622,,S-578/ km 11,,-38.85861638,-72.69834101,,,0,,,0
+1597623,,"Terminal llegada Linea 8D / S-464 Km 0,1",,-38.87337517,-72.6198864,,,0,,,0
+1597624,,"S-464 km 0,28 / Caletera 5 sur",,-38.87397448,-72.62153327,,,0,,,0
+1597625,,"S-464 / Km 0,72",,-38.87519605,-72.6266107,,,0,,,0
+1598089,,"S-20/ km 13,6",,-38.65325949,-72.76549816,,,0,,,0
+1598090,,"S-20/ km 12,3",,-38.65456654,-72.75059581,,,0,,,0
+1598091,,S-20/ km 11,,-38.65467337,-72.73448646,,,0,,,0
+1598092,,"S-20/ km 10,5",,-38.65483884,-72.72973895,,,0,,,0
+1598093,,S-20/ S-134,,-38.65715542,-72.72334993,,,0,,,0
+1598094,,"S-20/ km 8,8",,-38.66049403,-72.7127257,,,0,,,0
+1598095,,"S-20/ km 8,8",,-38.66046471,-72.71247357,,,0,,,0
+1598099,,S-20/ S-242,,-38.67080418,-72.70352304,,,0,,,0
+1598100,,S-20/ km 7,,-38.67285431,-72.70054847,,,0,,,0
+1598101,,"S-20/ km 6,7",,-38.67442066,-72.69806207,,,0,,,0
+1598102,,"S-20/ km 6,3",,-38.67628223,-72.69436866,,,0,,,0
+1598103,,"S-20/ km 6,3",,-38.67645393,-72.6944384,,,0,,,0
+1598104,,S-20/ km 6,,-38.67805998,-72.69096225,,,0,,,0
+1598106,,"S-20/ km 5,4",,-38.68201529,-72.68648028,,,0,,,0
+1598107,,"S-20/ km 4,6",,-38.68664663,-72.67937511,,,0,,,0
+1598157,,Ruta 5/ km 677,,-38.77125192,-72.60775208,,,0,,,0
+1598169,,"Ruta 5/ km 677,6",,-38.77637725,-72.60766089,,,0,,,0
+1598184,,Los Escultores / Los Trovadores,,-38.70880468,-72.66071498,,,0,,,0
+1598185,,Los Escultores / Los Tenores,,-38.70975909,-72.6559192,,,0,,,0
+1598186,,Los Escultores / Los Músicos,,-38.71099813,-72.65089273,,,0,,,0
+1598187,,Los Poetas / Los Cientificos,,-38.71271852,-72.65137017,,,0,,,0
+1598188,,Los Científicos / Los Químicos,,-38.71371055,-72.64759362,,,0,,,0
+1598245,,"S-464 Km 6,82",,-38.8619226,-72.69050092,,,0,,,0
+1598246,,"S-464 km 6,82",,-38.86182443,-72.69049287,,,0,,,0
+1598247,,"S-464 Km 6,25",,-38.86425127,-72.68344402,,,0,,,0
+1598248,,"S-464 Km 6,25",,-38.8643536,-72.68350571,,,0,,,0
+1598249,,"S-464 Km 5,55",,-38.86585101,-72.67683238,,,0,,,0
+1598250,,"S-464 Km 5,55",,-38.86625407,-72.67624229,,,0,,,0
+1598251,,"S-464 Km 4,67",,-38.87017181,-72.66797572,,,0,,,0
+1598252,,"S-464 Km 4,67",,-38.87026996,-72.66801327,,,0,,,0
+1598253,,"S-464 Km 2,94",,-38.87714844,-72.65006125,,,0,,,0
+1598254,,"S-464 Km 2,94",,-38.87720273,-72.64954627,,,0,,,0
+1598255,,"S-464 Km 3,81",,-38.87404965,-72.65808106,,,0,,,0
+1598256,,"S-464 Km 3,81",,-38.8739536,-72.65839755,,,0,,,0
+1598257,,"S-464 Km 2,47",,-38.87636749,-72.64491677,,,0,,,0
+1598258,,"S-464 Km 2,47",,-38.876593,-72.6453352,,,0,,,0
+1598259,,"S-464 Km 0,72",,-38.87543201,-72.62657046,,,0,,,0
+1598260,,"S-464 Km 1,64",,-38.876664,-72.63616204,,,0,,,0
+1598261,,"S-464 Km 0,97",,-38.87688742,-72.62811273,,,0,,,0
+1598262,,"S-464 Km 0,97",,-38.87696886,-72.6281476,,,0,,,0
+1598263,,"S-464 Km 1,64",,-38.87673499,-72.63616472,,,0,,,0
+1598264,,s -20 / Cementerio Parque,,-38.69221557,-72.66640127,,,0,,,0
+1598265,,"S-20/ km 4,6",,-38.68646448,-72.67941535,,,0,,,0
+1598266,,"S-20/ km 5,4",,-38.68188128,-72.68646687,,,0,,,0
+1598267,,S-20/ km 6,,-38.67798879,-72.69083619,,,0,,,0
+1598268,,"S-20/ km 6,7",,-38.67421544,-72.69814253,,,0,,,0
+1598269,,S-20/ km 7,,-38.67263652,-72.70063161,,,0,,,0
+1598270,,Terminal línea 9,,-38.65245724,-72.77021348,,,0,,,0
+1598271,,Terminal línea 9,,-38.65252426,-72.77036101,,,0,,,0
+1598272,,S-20/ S-242,,-38.67067016,-72.70347476,,,0,,,0
+1598273,,S-20/ S-238,,-38.66836029,-72.70670414,,,0,,,0
+1598289,,"S-20/ km 13,7",,-38.65313381,-72.76691705,,,0,,,0
+1598292,,"S-20/ km 13,2",,-38.65321342,-72.76010692,,,0,,,0
+1598293,,S-20/ S-282,,-38.6541937,-72.75159091,,,0,,,0
+1598294,,"S-20/ km 11,5",,-38.65511113,-72.73982406,,,0,,,0
+1598295,,"S-20/ km 11,5",,-38.65499384,-72.73985893,,,0,,,0
+1598297,,"S-20/ km 10,5",,-38.65470479,-72.72966921,,,0,,,0
+1598298,,S-20/ S-134,,-38.65733137,-72.7222234,,,0,,,0
+1598299,,"S-20/ km 8,4",,-38.66335706,-72.71001935,,,0,,,0
+1598300,,S-20/ km 8,,-38.66645454,-72.70889282,,,0,,,0
+1598301,,S-20/ km 11,,-38.65465032,-72.73484588,,,0,,,0
+1804641,,Gulliermo Marconi/ Milano,,-38.75970344,-72.6489374,,,0,,,0
+1804642,,Milano / Tomás Alba Edison,,-38.75925794,-72.64346302,,,0,,,0
+1804644,,Pedro Soto/ Carlos Darwin,,-38.75863466,-72.64147818,,,0,,,0
+1804828,,Milano/ Venus,,-38.75987076,-72.63866454,,,0,,,0
+1804829,,Milano/ Edinton,,-38.76026187,-72.63713837,,,0,,,0
+1804830,,Milano/ Bramante,,-38.76053586,-72.63607353,,,0,,,0
+1804831,,Milano/ Venecia,,-38.75910526,-72.62203485,,,0,,,0
+1804832,,Milano/ Mantua,,-38.75943154,-72.62488872,,,0,,,0
+1804833,,Milano/ Imperia,,-38.75926421,-72.62363344,,,0,,,0
+1804834,,Venecia/ Florencia,,-38.75737134,-72.62219042,,,0,,,0
+1804835,,Florencia/ Bergamo,,-38.75679615,-72.61982203,,,0,,,0
+1804836,,Florencia/ Génova,,-38.75644894,-72.61826903,,,0,,,0
+1804857,,Los Sauces/ Espoleto,,-38.75157738,-72.61219114,,,0,,,0
+1804895,,Los Sauces/ Los Ulmos,,-38.75005874,-72.61120677,,,0,,,0
+1805148,,Calpucura/ Antifil,,-38.73701511,-72.57031114,,,0,,,0
+1805151,,Valparaíso/ Colima,,-38.7348643,-72.56510496,,,0,,,0
+1805152,,Valparaíso/ Pircunche,,-38.73285989,-72.56584793,,,0,,,0
+1805153,,Pircunche/ Belgrado,,-38.7323117,-72.5636968,,,0,,,0
+1805157,,Pircunche/ Quitratúe,,-38.73185766,-72.56182462,,,0,,,0
+1805160,,Cornelio Saavedra/ Pircunche,,-38.73136387,-72.56053984,,,0,,,0
+1805161,,Cornelio Saavedra/ Chepu,,-38.72622904,-72.56248176,,,0,,,0
+1805168,,Ancud/ Achao,,-38.72529786,-72.56111652,,,0,,,0
+1805195,,S-578/ km 11,,-38.85864979,-72.6982069,,,0,,,0
+1805196,,"S-578/ km 9,2",,-38.84452719,-72.69342721,,,0,,,0
+1805197,,"S-578/ km 8,2",,-38.83586759,-72.69285053,,,0,,,0
+1805198,,"S-578/ km 7,3",,-38.82811589,-72.69408703,,,0,,,0
+1805199,,"S-578/ km 5,7",,-38.81688173,-72.68377662,,,0,,,0
+1805200,,"S-578/ km 5,2",,-38.81559019,-72.67838538,,,0,,,0
+1805202,,"S-578/ km 6,3",,-38.82030482,-72.68900156,,,0,,,0
+1805204,,"S-578/ km 3,3",,-38.80274875,-72.66533375,,,0,,,0
+1805210,,S-578/ km 3,,-38.80080477,-72.66426086,,,0,,,0
+1805226,,Cam al Aeropuerto / Coagra,,-38.76761107,-72.61361003,,,0,,,0
+1805327,,1 Norte/ 3 Oriente,,-38.72352546,-72.5626266,,,0,,,0
+1805329,,1 Norte/ 3 Oriente,,-38.72350035,-72.56251931,,,0,,,0
+1805331,,Castro/ Chepu,,-38.72420764,-72.56066859,,,0,,,0
+1805335,,1 Norte/ Ziem,,-38.72257542,-72.56310672,,,0,,,0
+1805338,,1 Norte/ Ecuador,,-38.72034466,-72.56389797,,,0,,,0
+1842174,,Los Músicos / Einstein,,-38.71295711,-72.64848948,,,0,,,0
+1852402,,Uruguay / Las Encinas,,-38.74992905,-72.61928558,,,0,,,0
+1852403,,Olimpia / Pasaje 4,,-38.74582479,-72.62562096,,,0,,,0
+1852404,,"Olimpia, / YMCA Temuco",,-38.74154038,-72.62414039,,,0,,,0
+1852499,,Arturo Prat / C.E La Granja,,-38.68117358,-72.50948936,,,0,,,0
+1852506,,Arturo Prat / Las Rosas,,-38.68285489,-72.50861763,,,0,,,0
+1852510,,Codinhue / curaco,,-38.68406718,-72.50273824,,,0,,,0
+1852516,,Cruce Long / Ruta 5,,-38.67353906,-72.50613392,,,0,,,0
+1852531,,Rudencio Ortega / A Ruta 5,,-38.67169419,-72.50666499,,,0,,,0
+1852538,,Rudencio Ortega / Puente Río Cautín,,-38.67289828,-72.50938475,,,0,,,0
+1852549,,Ruta 191 / S- 362,,-38.6814688,-72.52328932,,,0,,,0
+1852556,,Rudencio Ortega / Los Cántaros,,-38.6884032,-72.5325644,,,0,,,0
+1852558,,"Rudecindo Ortega, 2401-3851",,-38.69047585,-72.53527343,,,0,,,0
+1852560,,Rudecindo Ortega / retorno a Temuco,,-38.69244795,-72.53815949,,,0,,,0
+1852561,,Rudecindo Ortega / Country Club Temuco,,-38.69906101,-72.5457716,,,0,,,0
+1852563,,Rudecindo Ortega / Cam Monteverde,,-38.70241022,-72.54942477,,,0,,,0
+1852568,,Rudecindo Ortega / Huérfanos,,-38.7116302,-72.55959034,,,0,,,0
+1852570,,Rudecindo Ortega / Hotel Holiday Inn,,-38.71371892,-72.56198823,,,0,,,0
+1852574,,El Portal / Altura Rudencio Ortega,,-38.71036187,-72.56409645,,,0,,,0
+1852576,,Vicente Pérez Rosales / Rodoviario,,-38.71659029,-72.5688976,,,0,,,0
+1852577,,Reyes Católicos / Terminal,,-38.71327314,-72.56577283,,,0,,,0
+1852579,,Doce de Febrero / Caupolicán,,-38.72650525,-72.57659018,,,0,,,0
+1852587,,Inés de Suárez / Green House School,,-38.74136883,-72.63551563,,,0,,,0
+1852591,,Imperial / Santa Mónica,,-38.74476208,-72.61476338,,,0,,,0
+1852593,,Imperial / Claudio Pacheco,,-38.74413867,-72.61186659,,,0,,,0
+1852594,,Las Águilas / Plaza Las Águilas,,-38.74474535,-72.60885715,,,0,,,0
+1852602,,Las Encinas / P. Briones,,-38.74406336,-72.63480484,,,0,,,0
+1852604,,Inés de Suárez / Fco Miranda,,-38.74146088,-72.63520717,,,0,,,0
+1852610,,Porvenir / Navarro,,-38.73547315,-72.6193285,,,0,,,0
+1852611,,Doce de Febrero / Almarino Ojeda,,-38.72629181,-72.576617,,,0,,,0
+1852612,,Nahuelbuta / Valparaíso,,-38.72000145,-72.57072151,,,0,,,0
+1852613,,Vicente Pérez Rosales / Concepción,,-38.71846958,-72.56808757,,,0,,,0
+1852614,,Luís Picasso / Reyes Católicos,,-38.7134301,-72.56572991,,,0,,,0
+1852616,,Rudecindo Ortega / C. Electrica,,-38.70853677,-72.5557977,,,0,,,0
+1852617,,Rudecindo Ortega / Calderon de la Barca,,-38.70465619,-72.55145252,,,0,,,0
+1852618,,Rudecindo Ortega / UC Campus Norte,,-38.70237882,-72.5489527,,,0,,,0
+1852619,,Rudecindo Ortega / Country Club Temuco,,-38.69904217,-72.54536927,,,0,,,0
+1852620,,Rudecindo Ortega / retorno Temuco,,-38.69300482,-72.53796637,,,0,,,0
+1852622,,Rudencio Ortega / Los Cántaros,,-38.68862931,-72.53231227,,,0,,,0
+1852625,,Rudencio Ortega / Puente Río Cautín,,-38.6731056,-72.50918627,,,0,,,0
+1852628,,S-31 / Importadora Harts,,-38.67541112,-72.50507713,,,0,,,0
+1852641,,Luis Durand / Luis Pasteur,,-38.71885047,-72.6489669,,,0,,,0
+1852652,,Rudecindo Ortega / Ecuador,,-38.72223642,-72.57080734,,,0,,,0
+1852654,,Cacique Melivilu / Coliman,,-38.71644379,-72.55865157,,,0,,,0
+1852657,,Huérfanos / Cacique Cheuquellán,,-38.71179763,-72.55770206,,,0,,,0
+1853104,,Ruta 5 / Copeval,,-38.7712331,-72.60807931,,,0,,,0
+1853106,,"Ruta 5/ km 677,6",,-38.77615559,-72.60781109,,,0,,,0
+1853107,,Ruta 5 / Copec,,-38.78132029,-72.61146963,,,0,,,0
+1853157,,"Ruta 5/ km 682,9",,-38.81961311,-72.62359321,,,0,,,0
+1853158,,Ruta 5  sur / Acceso ruta 5 norte,,-38.80886043,-72.62650609,,,0,,,0
+1853159,,Ruta 5 / salida Metrenco,,-38.83084475,-72.62412429,,,0,,,0
+1853171,,Ruta 5  sur / Acceso ruta 5 norte,,-38.81042379,-72.62572825,,,0,,,0
+1853177,,Carretera Longitudinal Sur / Copec,,-38.7811112,-72.61075616,,,0,,,0
+1853183,,Ruta 5 / Puente Río Cautín,,-38.76088096,-72.60907173,,,0,,,0
+1853189,,Colima / Costanera,,-38.73386629,-72.56069005,,,0,,,0
+1853191,,Cost / Melinka,,-38.73070687,-72.55899489,,,0,,,0
+1853192,,Cost / Palena,,-38.72799091,-72.55798101,,,0,,,0
+1853203,,"Fernando de Aragón, 507 / Isabel la Católica",,-38.72045348,-72.61487603,,,0,,,0
+1853266,,Huentenao Millanao / Juan Currin,,-38.72260053,-72.62034774,,,0,,,0
+1853268,,Gabriela Mistral / E. Nualaart Serra,,-38.72969834,-72.62526155,,,0,,,0
+1853271,,Gabriela Mistral / Asturias,,-38.73011681,-72.62794375,,,0,,,0
+1853276,,Inés de Suarez / Gregorio Maldonado,,-38.7316568,-72.6318115,,,0,,,0
+1853280,,Inés de Suárez / Pablo Guajardo,,-38.73337251,-72.63252497,,,0,,,0
+1853286,,Las Encinas / Las Fucsias,,-38.75079087,-72.61713445,,,0,,,0
+1853288,,Javiera Carrera / Pisagua,,-38.72774818,-72.62642026,,,0,,,0
+1853289,,Tromén / Victor Domingo Silva,,-38.72553013,-72.61833608,,,0,,,0
+1853290,,Chepu/ Castro,,-38.72436249,-72.56088853,,,0,,,0
+1853292,,Camina / Codpa,,-38.71431329,-72.62534738,,,0,,,0
+1853294,,Cornelio Saavedra/ Palguín,,-38.72981551,-72.56125331,,,0,,,0
+1853295,,Cornelio Saavedra/ Tegualda,,-38.72888857,-72.56160736,,,0,,,0
+1853297,,General Mackenna / Manuel Montt,,-38.73885412,-72.58652508,,,0,,,0
+1853298,,General Mackenna / O'Higgins,,-38.74423909,-72.58784473,,,0,,,0
+1853299,,Valparaíso/ Catrihuala,,-38.73369054,-72.56563604,,,0,,,0
+1853300,,Balmaceda / Gral Mackenna,,-38.73222801,-72.59588331,,,0,,,0
+1853302,,Balmaceda / Gral Pedro Lagos,,-38.73287035,-72.59192437,,,0,,,0
+1853310,,Valparaíso,,-38.72902039,-72.56741703,,,0,,,0
+1853321,,Cost / Langdon Ocho,,-38.72547573,-72.55705833,,,0,,,0
+1853346,,Río orinoco  / Cost,,-38.72145795,-72.55560994,,,0,,,0
+1853361,,Las Bandurrias / Av Pulmahue,,-38.77443464,-72.59628296,,,0,,,0
+1853365,,Vilumilla / coñoepan,,-38.77012895,-72.59894371,,,0,,,0
+1853369,,Sausalito / Huentru,,-38.76899549,-72.60302067,,,0,,,0
+1853370,,Radal / Corvalán,,-38.76786202,-72.60607302,,,0,,,0
+1853371,,Manuel Rodríguez/ General Cruz,,-38.7371239,-72.5843069,,,0,,,0
+1853372,,Villa Alegre / Manquehue,,-38.760082,-72.59924948,,,0,,,0
+1853377,,San Martín / Ramón Freiré,,-38.7410613,-72.60046184,,,0,,,0
+1853378,,Ramón Freire/ León Gallo,,-38.74303828,-72.60121286,,,0,,,0
+1853379,,Italia / Las Vaquerías,,-38.75307089,-72.62719274,,,0,,,0
+1853380,,Las Tranqueras / Altamira,,-38.7507072,-72.63499796,,,0,,,0
+1853651,,Javiera Carrera / El Monte,,-38.75200828,-72.63801277,,,0,,,0
+1853652,,Altamira / Montañenses,,-38.75111301,-72.63682723,,,0,,,0
+1853653,,Las Tranqueras / Los Pioneros,,-38.75104189,-72.63386607,,,0,,,0
+1853654,,Las Quilas/ Los Jazmines,,-38.74547544,-72.60439932,,,0,,,0
+1853655,,Italia / Las Vaquerías,,-38.75306671,-72.62734294,,,0,,,0
+1853656,,Las Quilas/ Los Temos,,-38.74722219,-72.60482043,,,0,,,0
+1853658,,Las Quilas/ Los Sauces,,-38.74857354,-72.6051423,,,0,,,0
+1853661,,Villa Alegre / Radal,,-38.76606767,-72.60824025,,,0,,,0
+1853662,,Armando Jobet/ Los Copihues,,-38.75003573,-72.60650486,,,0,,,0
+1853663,,Sausalito / Quidora,,-38.76814225,-72.60387361,,,0,,,0
+1853665,,Armando Jobet/ Los Nogales,,-38.7501215,-72.60859162,,,0,,,0
+1853667,,Camino El Sauce/ Las Encinas,,-38.77062665,-72.58370876,,,0,,,0
+1853671,,Los Hualles/ El Almendral,,-38.76971488,-72.57705152,,,0,,,0
+1853684,,Los Liliums/Los Hualles,,-38.77081695,-72.57351369,,,0,,,0
+1853717,,Los Sauces/ Los Ulmos,,-38.74998135,-72.6112631,,,0,,,0
+1853724,,Los Sauces/ Espoleto,,-38.75158157,-72.61226356,,,0,,,0
+1853727,,Milano 3500,,-38.75968461,-72.65049845,,,0,,,0
+1853728,,Los Sauces/ Manuel Recabarren,,-38.75344321,-72.61218846,,,0,,,0
+1853730,,Capri/ Savona,,-38.75482373,-72.61398286,,,0,,,0
+1853733,,Hochstetter / Pucón,,-38.73003312,-72.61104047,,,0,,,0
+1853734,,Recreo / Cristobal Colón,,-38.72302324,-72.61451662,,,0,,,0
+1854124,,Lenga / Reloncaví,,-38.72035303,-72.61854529,,,0,,,0
+1854125,,Illimani / Cochamó,,-38.71828961,-72.61829317,,,0,,,0
+1854126,,Independencia / Huascarán,,-38.71631822,-72.61831999,,,0,,,0
+1854129,,Los Escultores / Los Músicos,,-38.7109165,-72.65084445,,,0,,,0
+1854130,,Los Creadores / Los Fundadores,,-38.71421702,-72.653355,,,0,,,0
+1854133,,Javiera Carrera / Pisagua,,-38.72763519,-72.62660265,,,0,,,0
+1854134,,1 Norte / 1 Oriente,,-38.76610532,-72.75283277,,,0,,,0
+1854135,,1 Orinete / 5 Oriente,,-38.7650931,-72.74823546,,,0,,,0
+1854156,,Diego Portales / Malvoa,,-38.73890852,-72.57977664,,,0,,,0
+1854157,,Diego Portales / Serrano,,-38.73977047,-72.57425398,,,0,,,0
+1854158,,Manuel Montt / Serrano,,-38.74088765,-72.5732857,,,0,,,0
+1854159,,Manuel Montt / Boldos,,-38.74047342,-72.57588208,,,0,,,0
+1854160,,Manuel Antonio Matta / Claro Solar,,-38.74067426,-72.58170247,,,0,,,0
+1854161,,Florencia/ Tivoli,,-38.75564366,-72.61510134,,,0,,,0
+1854162,,Florencia/ Rávena,,-38.75596368,-72.61646926,,,0,,,0
+1854163,,Florencia/ Génova,,-38.75633809,-72.61811614,,,0,,,0
+1854164,,Florencia/ Bergamo,,-38.75669784,-72.61966377,,,0,,,0
+1854165,,Florencia/ Venecia,,-38.75727095,-72.62209654,,,0,,,0
+1854166,,Bernardo O'Higgins / Antifil,,-38.74552774,-72.57870376,,,0,,,0
+1854167,,Los Boldos / Las Cascadas,,-38.74298389,-72.57662237,,,0,,,0
+1854168,,Serrano / Río Pedregoso,,-38.74172448,-72.57439077,,,0,,,0
+1854170,,Manuel Montt / Voltaire,,-38.7411136,-72.57240593,,,0,,,0
+1854336,,S-30 / Av Santa María,,-38.76664907,-72.77561008,,,0,,,0
+1854337,,"S-30/ km 1,6",,-38.76656959,-72.77861416,,,0,,,0
+1854338,,"S-30/ km 2,5",,-38.765892,-72.78814137,,,0,,,0
+1854665,,La Semilla / El Sembrador,,-38.76887838,-72.76467741,,,0,,,0
+1854667,,La Semilla / El Arado,,-38.76786202,-72.76303589,,,0,,,0
+1854670,,La Cosecha / El Molino,,-38.7677951,-72.76051998,,,0,,,0
+1854673,,Mon Repoz / Psje Chiloé,,-38.76966678,-72.76065677,,,0,,,0
+1854674,,Av Los Conquistadores / La Esperanza,,-38.7706392,-72.7642858,,,0,,,0
+1854676,,Av. Los Libertadores / San Lucas,,-38.77209049,-72.76510119,,,0,,,0
+1854681,,San Esteban / Horizonte,,-38.77260491,-72.7617377,,,0,,,0
+1854682,,Jerusalém / San Pablo,,-38.77158024,-72.76105642,,,0,,,0
+1854685,,Los Pioneros / San Joaquín,,-38.76955804,-72.75656372,,,0,,,0
+1854686,,Los Pioneros / Ignacio de Loyola,,-38.76984036,-72.7586478,,,0,,,0
+1854687,,Las Agatas / 3 Poniente,,-38.77058065,-72.75543988,,,0,,,0
+1854688,,Agua Marina / Rosa Francia,,-38.77181863,-72.75384128,,,0,,,0
+1854689,,Rosa Francia / Plaza Rosa de Francia,,-38.77169316,-72.75155067,,,0,,,0
+1854690,,S-40 / Aguamarina,,-38.77254636,-72.75314391,,,0,,,0
+1854691,,3 Poniente / Las Agatas,,-38.77050955,-72.75599778,,,0,,,0
+1854692,,3 Poniente / S-40,,-38.76845176,-72.75662541,,,0,,,0
+1854693,,S-40/ Dos Oriente,,-38.76661142,-72.75107324,,,0,,,0
+1854694,,S-40/ Puente 5 Manzanos,,-38.76589618,-72.74829447,,,0,,,0
+1854696,,Cementerio Labranza,,-38.76101063,-72.72501022,,,0,,,0
+1854698,,Montevideo / Universidad de la Frontera,,-38.74942283,-72.61681259,,,0,,,0
+1854700,,Antifil / Diego Portales,,-38.73917631,-72.57690132,,,0,,,0
+1854701,,Antifil / Araucana,,-38.73828924,-72.57502913,,,0,,,0
+1854705,,Antifil / Voltaire,,-38.73777457,-72.57319182,,,0,,,0
+1854707,,Antifil / Calpucura,,-38.73719713,-72.57029235,,,0,,,0
+1854712,,Av Costanera / melipeuco,,-38.73284943,-72.55988538,,,0,,,0
+1896547,,Río Don / Río Magdalena,,-38.71997634,-72.55375922,,,0,,,0
+1896548,,Río Claro / Río Don,,-38.71722231,-72.55275071,,,0,,,0
+1896549,,Río Pilcomayo / Río Cisnes,,-38.7151588,-72.55035818,,,0,,,0
+1896550,,Isla de Chiloé / Cam Cisnes,,-38.71362683,-72.54890442,,,0,,,0
+1896551,,Isla Guafo / Río Pilcomayo,,-38.7115716,-72.54868984,,,0,,,0
+1896553,,Isla Guafo / Bahia Blanca,,-38.71015676,-72.54500449,,,0,,,0
+1896554,,Mendoza / Isla Sta María,,-38.7076242,-72.54595399,,,0,,,0
+1896555,,Isla Sta María / Bogotá,,-38.70816002,-72.54793346,,,0,,,0
+1896556,,Isla San Ambrosio / Chiloé,,-38.71043931,-72.54828751,,,0,,,0
+1896563,,León Gallo / San Federico,,-38.74202992,-72.60876596,,,0,,,0
+1896564,,León Gallo / Sta Teresa,,-38.7412726,-72.61410356,,,0,,,0
+1896576,,s - 40 norte / Terminal línea 4,,-38.75853426,-72.66826808,,,0,,,0
+1897226,,Río Colorado / Río Quepe,,-38.72081132,-72.55543023,,,0,,,0
+1897242,,Uno Norte / Ecuador,,-38.72126543,-72.56368876,,,0,,,0
+1897243,,Pircunche / Valparaiso,,-38.73269669,-72.56582379,,,0,,,0
+1897252,,Milano / Ferrara,,-38.75907388,-72.6226598,,,0,,,0
+1897255,,Milano / Mantua,,-38.75931232,-72.62474656,,,0,,,0
+1897256,,Milano / Modena,,-38.75979755,-72.62824416,,,0,,,0
+1897267,,Milano / Miguel Angel,,-38.76016984,-72.6307869,,,0,,,0
+1897268,,Milano / Galileo,,-38.76056723,-72.63332963,,,0,,,0
+1897269,,Milano / Alejandro Volta,,-38.76009037,-72.63740659,,,0,,,0
+1897270,,Milano / Carlos Darwin,,-38.75956958,-72.64145941,,,0,,,0
+1897271,,Pedro Soto / Tomás Alba Edison,,-38.75824144,-72.64267445,,,0,,,0
+1897272,,Milano / Guillermo Marconi,,-38.75958422,-72.6488167,,,0,,,0
+1897274,,Wunurai / Guillermo Marconi,,-38.76154396,-72.64988691,,,0,,,0
+1897275,,Miguel Faraday / Milano,,-38.75886473,-72.65406847,,,0,,,0
+1897280,,s 215 / Planta Sorepa,,-38.69240608,-72.52209306,,,0,,,0
+1897942,,Los Músicos / Terminal Linea 7,,-38.71380682,-72.64540762,,,0,,,0
+1897945,,Los Científicos/ Los Químicos,,-38.71361009,-72.64757484,,,0,,,0
+1897948,,Los Músicos/ Los Poetas,,-38.71209902,-72.65100003,,,0,,,0
+1897949,,Los Científicos/ Los Poetas,,-38.71265364,-72.65122801,,,0,,,0
+1897956,,Rudencio Ortega / UC Campus Norte,,-38.70387335,-72.55095899,,,0,,,0
+1897976,,S - 31 - Oriente / Los Coigues,,-38.67863162,-72.50795513,,,0,,,0
+1897977,,S - 31 / Arturo Prat - Oriente,,-38.68030044,-72.50976831,,,0,,,0
+1897979,,Arturo Prat / Los Cipreses,,-38.68416768,-72.50535339,,,0,,,0
+1897980,,Laguna Quepe / Volcán Llaima,,-38.6830894,-72.5036475,,,0,,,0
+1898002,,Libertad / Las Lilas,,-38.68121126,-72.50553578,,,0,,,0
+1912660,,Francisco Pleiteado / Ejercito,,-38.75461666,-72.58913219,,,0,,,0
+1929866,,"S-40/ km 2,8",,-38.76228433,-72.69039094,,,0,,,0
+1929875,,"S-51 Km 27,1",,-38.85925549,-72.40907013,,,0,,,0
+1947697,,Terminal 6 / Río Marañón,,-38.71610476,-72.55470872,,,0,,,0
+2075667,,Aníbal Pinto/ Cautín,,-38.72919825,-72.57799029,,,0,,,0
+3196177,,Barros Arana - Miraflores S-N,,-38.73566354,-72.57828265,,,0,,,0
+3857429,,Terminal,,-38.7593667,-72.65249401,,,0,,,0
+4029397,,Putre - Luciano Fariña,,-38.71250923,-72.62903541,,,0,,,0
+4607095,,Estación Victoria,,-38.2371436,-72.33314216,,,0,,,0
+4607097,,Temuco,,-38.73675777,-72.57914901,,,0,,,0
+4607108,,Estacion Pillanlelbun,,-38.6356246,-72.45382011,,,0,,,0
+4607129,,Estación Lautaro Centro,,-38.53363938,-72.43680954,,,0,,,0
+4607140,,Estación Lautaro,,-38.52528831,-72.43213445,,,0,,,0
+4607145,,Estación Quillén,,-38.46548059,-72.3867327,,,0,,,0
+4607150,,Estación Perquenco,,-38.41914118,-72.37421751,,,0,,,0
+4607151,,Estación Pua,,-38.33595908,-72.37468421,,,0,,,0

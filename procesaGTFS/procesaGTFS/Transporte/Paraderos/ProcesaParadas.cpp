@@ -45,7 +45,9 @@ void ProcesaParadas::CorrigeParadasMismaPosicion()
 
 				if (dist < 5)
 				{
-					cout << (*ipar1).first << "|" << (*ipar2).first << "|" << dist << endl;
+					//cout << (*ipar1).first << "|" << (*ipar2).first << "|" << dist << endl;
+					//cout << (*ipar1).second.x << "--"<< (*ipar1).second.y << endl;
+					//cout << (*ipar2).second.x << "--" << (*ipar1).second.y << endl;
 				}
 
 			}

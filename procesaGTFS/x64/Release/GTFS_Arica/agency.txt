@@ -1,0 +1,4 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+3,Transportes Línea Dos Sociedad Anónima,http://www.sitpa.cl/linea2,America/Santiago,es,,
+2,Asoc. G. Dueños Tax/Bus Línea 7  variante 7A 7 B Arica,http://www.sitpa.cl/linea7y8,America/Santiago,es,,
+1,Sociedad Anónima Cerrada Etrapas S. A.,http://www.sitpa.cl/etrapas,America/Santiago,es,,

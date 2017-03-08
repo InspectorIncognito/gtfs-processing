@@ -9,7 +9,7 @@
 * not be disclosed to third parties or copied or duplicated in any form,
 * in whole or in part, without the prior written consent of Pragxis SpA.
 * Copyright:  Pragxis (c) 2013
-* Last modified : Mauricio Zuñiga 15-04-2013
+* Last modified : Jorge Roa 16-02-2017
 */
 #include "GridProcess.h"
 
@@ -47,6 +47,18 @@ void GridProcess::ConstruyeGrilla()
 		fdd_->grid.minLon = std::fmin(fdd_->grid.minLon, (*it).second.lon);
 		fdd_->grid.maxLon = std::fmax(fdd_->grid.maxLon, (*it).second.lon);
 	}
+	for (map<string, Ruta>::iterator iruta = fdd_->rutas.mapeo->begin(); iruta != fdd_->rutas.mapeo->end(); iruta++) {
+		for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
+		{
+			double lat0, lon0;
+			ConvertCoordinate::UTMtoLL(23, (double)(*inodo).second.y, (double)(*inodo).second.x, UTMZONE, lat0, lon0);
+			
+			fdd_->grid.minLat = std::fmin(fdd_->grid.minLat, lat0);
+			fdd_->grid.maxLat = std::fmax(fdd_->grid.maxLat, lat0);
+			fdd_->grid.minLon = std::fmin(fdd_->grid.minLon, lon0);
+			fdd_->grid.maxLon = std::fmax(fdd_->grid.maxLon, lon0);
+		}
+	}
 
 	fdd_->grid.nLat = 100;
 	fdd_->grid.nLon = 100;
@@ -61,6 +73,16 @@ void GridProcess::ConstruyeGrilla()
 	cout << "Max : " << fdd_->grid.maxLat << " | " << fdd_->grid.maxLon << endl;
 	cout << "ddLat : " << fdd_->grid.ddLat << endl;
 	cout << "ddLon : " << fdd_->grid.ddLon << endl;
+
+	ofstream fout;
+	fout.open("Android_grid_configuration.csv");
+	fout << fdd_->grid.minLat << ";";
+	fout << fdd_->grid.minLon << ";";
+	fout << fdd_->grid.maxLat << ";";
+	fout << fdd_->grid.maxLon << ";";
+	fout << fdd_->grid.ddLat << ";";
+	fout << fdd_->grid.ddLon << endl;
+	fout.close();
 
 	///Llenado de estructura
 	for (double dLat = 0; dLat <= fdd_->grid.delta_Latitud; dLat += fdd_->grid.ddLat)
@@ -91,7 +113,10 @@ void GridProcess::IngresaParaderosAGrilla()
 		///Calculo la celda
 		int iLat = ((*it).second.lat - fdd_->grid.minLat) / fdd_->grid.ddLat;
 		int iLon = ((*it).second.lon - fdd_->grid.minLon) / fdd_->grid.ddLon;
-
+		if (iLat >= fdd_->grid.nLat)
+			iLat = fdd_->grid.nLat - 1;
+		if (iLon >= fdd_->grid.nLon)
+			iLon = fdd_->grid.nLon - 1;
 		fdd_->grid.cells.at(iLat).at(iLon).stops.push_back((*it).second.codigo);
 	}
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
@@ -204,6 +229,10 @@ void GridProcess::IngresaRutasAGrilla()
 				int maxILat = fmaxf(iLat0, iLat1);
 				int maxILon = fmaxf(iLon0, iLon1);
 
+				if (maxILat >= fdd_->grid.nLat)
+					maxILat = fdd_->grid.nLat - 1;
+				if (maxILon >= fdd_->grid.nLon)
+					maxILon = fdd_->grid.nLon - 1;
 				for (int ilat = minILat; ilat <= maxILat; ilat++)
 				{
 					for (int ilon = minILon; ilon <= maxILon; ilon++)

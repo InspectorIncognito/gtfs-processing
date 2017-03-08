@@ -253,7 +253,7 @@ void CreaKML::InsertaExtrude(double x, double y,double ancho,double alto)
 	double lat1,lon1;
 	double lat2,lon2;
 	double lat3,lon3;
-	char *UTMZone="19H";
+	const char *UTMZone = "18H";//ConvertCoordinate::getUTMZONE();
 	ConvertCoordinate::UTMtoLL(23, y-(ancho/2), x-(ancho/2), UTMZone, lat0, lon0);
 	ConvertCoordinate::UTMtoLL(23, y-(ancho/2), x+(ancho/2), UTMZone, lat1, lon1);
 	ConvertCoordinate::UTMtoLL(23, y+(ancho/2), x+(ancho/2), UTMZone, lat2, lon2);

@@ -9,7 +9,7 @@
 * not be disclosed to third parties or copied or duplicated in any form,
 * in whole or in part, without the prior written consent of Pragxis SpA.
 * Copyright:  Pragxis (c) 2016
-* Last modified : Mauricio Zuñiga 18-06-2016
+* Last modified : Jorge Roa 16-02-2017
 */
 #pragma once
 
@@ -72,7 +72,10 @@ public:
 	///Mapeo colores hexadecimales a decimales
 	int nColores;
 	map<string, string> mapeoColores;
-	
+
+	///Nombre de archivo que contiene el nombre de Ida del microbús y el nombre de Regreso
+	string nombreArchivoIR;
+
 	///Caracter separador para path
 	string slash;
 

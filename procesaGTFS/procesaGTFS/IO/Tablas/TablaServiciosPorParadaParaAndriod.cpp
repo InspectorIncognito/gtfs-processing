@@ -9,7 +9,7 @@
 * not be disclosed to third parties or copied or duplicated in any form,
 * in whole or in part, without the prior written consent of Pragxis SpA.
 * Copyright:  Pragxis (c) 2016
-* Last modified : Mauricio Zuñiga 18-06-2016
+* Last modified : Jorge Roa 16-02-2017
 */
 #include "TablaServiciosPorParadaParaAndriod.h"
 
@@ -86,14 +86,7 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 
 			fileout << (*ired).second.codigo<< ";";
 
-			vector<string> nombre_ = StringFunctions::Explode((*ired).second.nombre, '-');
-
-			string nombre = string("");
-			///concatenacion de campos extras
-			for (int i = 1; i < nombre_.size(); i++)
-				nombre.append(nombre_.at(i));
-
-			fileout << EliminaCadenasBlancos(nombre) << ";";
+			fileout << (*ired).second.nombre << ";";
 			fileout << lat << ";";
 			fileout << lon << ";";
 		}

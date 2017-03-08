@@ -1,0 +1,12 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+4754,Sociedad de Transportes Linea N°5 S.A.,http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+4755,Sociedad de Transporte A. Alemania - P. Nuevo S.A - Línea Nº1,http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+4756,Transportes Línea Número Dos Limitada,http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+4757,Transp. P.De Valdivia-P.Las Casas Ltda. Nº3,http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+4758,Transportes Sta. Rosa Limitada.,http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+4759,Taxibuses Numero Seis S.A.,http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+4760,"Empresa Tobalaba, Mall, Cajón S. A. Línea Nº7",http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+4761,Empresa  de Transportes Línea Nº 8 P.L. Casas S.A.,http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+4762,E. de Transportes de Pasajeros Línea Nueve S.A,http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+4763,Empresa de Transportes Altamira S.A,http://www.temucotemueve.cl/,America/Santiago,es,+56 32 212 0408,
+5233,Fesub,http://www.victoriatemuco.cl/,America/Santiago,es,+56 32 212 0408,

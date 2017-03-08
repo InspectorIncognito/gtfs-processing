@@ -1,0 +1,1310 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+1,1,1,Hospital,0,,1_1
+1,2,2,Hospital,0,,1_1
+1,3,3,Hospital,0,,1_1
+1,4,4,Población Parque Norte,1,,1_2
+1,5,5,Población Parque Norte,1,,1_2
+1,6,6,Población Parque Norte,1,,1_2
+2,7,7,Casas De Bellavista,0,,1_3
+2,8,8,Casas De Bellavista,0,,1_3
+2,9,9,Casas De Bellavista,0,,1_3
+2,10,10,Población Parque Norte,1,,1_4
+2,11,11,Población Parque Norte,1,,1_4
+2,12,12,Población Parque Norte,1,,1_4
+3,13,13,Puerto Montt Transborda A Ferry,1,,10_1
+3,14,14,Puerto Montt Transborda A Ferry,1,,10_1
+3,15,15,Puerto Montt Transborda A Ferry,1,,10_1
+3,16,16,Puerto Montt Transborda A Ferry,1,,10_1
+3,17,17,Puerto Montt Transborda A Ferry,1,,10_1
+3,18,18,Puerto Montt Transborda A Ferry,1,,10_1
+3,19,19,Puerto Montt Transborda A Ferry,1,,10_1
+3,20,20,Puerto Montt Transborda A Ferry,1,,10_1
+3,21,21,Puerto Montt Transborda A Ferry,1,,10_1
+3,22,22,Puerto Montt Transborda A Ferry,1,,10_1
+3,23,23,Puerto Montt Transborda A Ferry,1,,10_1
+3,24,24,Puerto Montt Transborda A Ferry,1,,10_1
+3,25,25,Puerto Montt Transborda A Ferry,1,,10_1
+3,26,26,Puerto Montt Transborda A Ferry,1,,10_1
+3,27,27,Puerto Montt Transborda A Ferry,1,,10_1
+3,28,28,Puerto Montt Transborda A Ferry,1,,10_1
+3,29,29,Quellón Transborda A Ferry,0,,10_2
+3,30,30,Quellón Transborda A Ferry,0,,10_2
+3,31,31,Quellón Transborda A Ferry,0,,10_2
+3,32,32,Quellón Transborda A Ferry,0,,10_2
+3,33,33,Quellón Transborda A Ferry,0,,10_2
+3,34,34,Quellón Transborda A Ferry,0,,10_2
+3,35,35,Quellón Transborda A Ferry,0,,10_2
+3,36,36,Quellón Transborda A Ferry,0,,10_2
+3,37,37,Quellón Transborda A Ferry,0,,10_2
+4,38,38,Castro Transborda A Ferry,0,,10_3
+4,39,39,Castro Transborda A Ferry,0,,10_3
+4,40,40,Castro Transborda A Ferry,0,,10_3
+4,41,41,Castro Transborda A Ferry,0,,10_3
+4,42,42,Castro Transborda A Ferry,0,,10_3
+4,43,43,Castro Transborda A Ferry,0,,10_3
+4,44,44,Castro Transborda A Ferry,0,,10_3
+4,45,45,Castro Transborda A Ferry,0,,10_3
+4,46,46,Castro Transborda A Ferry,0,,10_3
+4,47,47,Castro Transborda A Ferry,0,,10_3
+4,48,48,Castro Transborda A Ferry,0,,10_3
+4,49,49,Castro Transborda A Ferry,0,,10_3
+4,50,50,Castro Transborda A Ferry,0,,10_3
+4,51,51,Castro Transborda A Ferry,0,,10_3
+4,52,52,Castro Transborda A Ferry,0,,10_3
+4,53,53,Castro Transborda A Ferry,0,,10_3
+4,54,54,Castro Transborda A Ferry,0,,10_3
+4,55,55,Castro Transborda A Ferry,0,,10_3
+4,56,56,Castro Transborda A Ferry,0,,10_3
+4,57,57,Castro Transborda A Ferry,0,,10_3
+4,58,58,Castro Transborda A Ferry,0,,10_3
+4,59,59,Castro Transborda A Ferry,0,,10_3
+4,60,60,Castro Transborda A Ferry,0,,10_3
+4,61,61,Castro Transborda A Ferry,0,,10_3
+4,62,62,Castro Transborda A Ferry,0,,10_3
+4,63,63,Castro Transborda A Ferry,0,,10_3
+4,64,64,Puerto Montt Transborda A Ferry,1,,10_4
+4,65,65,Puerto Montt Transborda A Ferry,1,,10_4
+4,66,66,Puerto Montt Transborda A Ferry,1,,10_4
+4,67,67,Puerto Montt Transborda A Ferry,1,,10_4
+4,68,68,Puerto Montt Transborda A Ferry,1,,10_4
+4,69,69,Puerto Montt Transborda A Ferry,1,,10_4
+4,70,70,Puerto Montt Transborda A Ferry,1,,10_4
+4,71,71,Puerto Montt Transborda A Ferry,1,,10_4
+4,72,72,Puerto Montt Transborda A Ferry,1,,10_4
+4,73,73,Puerto Montt Transborda A Ferry,1,,10_4
+4,74,74,Puerto Montt Transborda A Ferry,1,,10_4
+4,75,75,Puerto Montt Transborda A Ferry,1,,10_4
+4,76,76,Puerto Montt Transborda A Ferry,1,,10_4
+4,77,77,Puerto Montt Transborda A Ferry,1,,10_4
+4,78,78,Puerto Montt Transborda A Ferry,1,,10_4
+4,79,79,Puerto Montt Transborda A Ferry,1,,10_4
+4,80,80,Puerto Montt Transborda A Ferry,1,,10_4
+4,81,81,Puerto Montt Transborda A Ferry,1,,10_4
+4,82,82,Puerto Montt Transborda A Ferry,1,,10_4
+4,83,83,Puerto Montt Transborda A Ferry,1,,10_4
+4,84,84,Puerto Montt Transborda A Ferry,1,,10_4
+4,85,85,Puerto Montt Transborda A Ferry,1,,10_4
+4,86,86,Puerto Montt Transborda A Ferry,1,,10_4
+4,87,87,Puerto Montt Transborda A Ferry,1,,10_4
+4,88,88,Puerto Montt Transborda A Ferry,1,,10_4
+4,89,89,Puerto Montt Transborda A Ferry,1,,10_4
+4,90,90,Puerto Montt Transborda A Ferry,1,,10_4
+4,91,91,Puerto Montt Transborda A Ferry,1,,10_4
+4,92,92,Puerto Montt Transborda A Ferry,1,,10_4
+4,93,93,Puerto Montt Transborda A Ferry,1,,10_4
+5,94,94,Dalcahue Transborda A Ferry,0,,10_5
+5,95,95,Puerto Montt Transborda A Ferry,1,,10_6
+5,96,96,Puerto Montt Transborda A Ferry,1,,10_6
+6,97,97,Osorno,0,,10_7
+6,98,98,Osorno,0,,10_7
+6,99,99,Osorno,0,,10_7
+6,100,100,Osorno,0,,10_7
+6,101,101,Osorno,0,,10_7
+6,102,102,Osorno,0,,10_7
+6,103,103,Osorno,0,,10_7
+6,104,104,Osorno,0,,10_7
+6,105,105,Osorno,0,,10_7
+6,106,106,Osorno,0,,10_7
+6,107,107,Osorno,0,,10_7
+6,108,108,Osorno,0,,10_7
+6,109,109,Osorno,0,,10_7
+6,110,110,Osorno,0,,10_7
+6,111,111,Osorno,0,,10_7
+6,112,112,Osorno,0,,10_7
+6,113,113,Osorno,0,,10_7
+6,114,114,Osorno,0,,10_7
+6,115,115,Osorno,0,,10_7
+6,116,116,Osorno,0,,10_7
+6,117,117,Osorno,0,,10_7
+6,118,118,Puerto Montt,1,,10_8
+7,119,119,Caleta La Arena,0,,29_1
+7,120,120,Caleta La Arena,0,,29_1
+7,121,121,Caleta La Arena,0,,29_1
+7,122,122,Caleta La Arena,0,,29_1
+7,123,123,Caleta La Arena,0,,29_1
+7,124,124,Caleta La Arena,0,,29_1
+7,125,125,Caleta La Arena,0,,29_1
+7,126,126,Caleta La Arena,0,,29_1
+7,127,127,Caleta La Arena,0,,29_1
+7,128,128,Caleta La Arena,0,,29_1
+7,129,129,Puerto Montt,1,,29_2
+7,130,130,Puerto Montt,1,,29_2
+7,131,131,Puerto Montt,1,,29_2
+7,132,132,Puerto Montt,1,,29_2
+7,133,133,Puerto Montt,1,,29_2
+7,134,134,Puerto Montt,1,,29_2
+7,135,135,Puerto Montt,1,,29_2
+8,136,136,Castro,1,,14_1
+8,137,137,Parque Nacional Chiloé,0,,14_2
+9,138,138,Caleta La Arena,0,,15_1
+9,139,139,Caleta La Arena,0,,15_1
+9,140,140,Caleta La Arena,0,,15_1
+9,141,141,Caleta La Arena,0,,15_1
+9,142,142,Caleta La Arena,0,,15_1
+9,143,143,Caleta La Arena,0,,15_1
+9,144,144,Puerto Montt,1,,15_2
+9,145,145,Puerto Montt,1,,15_2
+9,146,146,Puerto Montt,1,,15_2
+9,147,147,Puerto Montt,1,,15_2
+9,148,148,Puerto Montt,1,,15_2
+10,150,150,Castro,1,,17_2
+10,151,151,Castro,1,,17_2
+10,153,153,Parque Nacional Chiloé,0,,17_4
+10,154,154,Parque Nacional Chiloé,0,,17_4
+11,155,155,Osorno,0,,22_1
+11,156,156,Osorno,0,,22_1
+11,157,157,Osorno,0,,22_1
+11,158,158,Osorno,0,,22_1
+11,159,159,Osorno,0,,22_1
+11,160,160,Osorno,0,,22_1
+11,161,161,Puerto Montt,1,,22_2
+11,162,162,Puerto Montt,1,,22_2
+11,163,163,Puerto Montt,1,,22_2
+11,164,164,Puerto Montt,1,,22_2
+11,165,165,Puerto Montt,1,,22_2
+11,166,166,Puerto Montt,1,,22_2
+12,167,167,Chinquihue,1,,75_1
+12,168,168,Chinquihue,1,,75_1
+12,169,169,Chinquihue,1,,75_1
+12,170,170,Pelluco,0,,75_2
+12,171,171,Pelluco,0,,75_2
+12,172,172,Pelluco,0,,75_2
+13,173,173,Futaleufú,0,,24_1
+13,174,174,Futaleufú,0,,24_1
+13,175,175,Palena,1,,24_2
+13,176,176,Palena,1,,24_2
+14,177,177,Chaitén,1,,24_3
+14,178,178,Palena,0,,24_4
+15,179,179,Chaitén,1,,24_5
+15,180,180,Futaleufú,0,,24_6
+16,191,191,Aguas Calientes,0,,28_2
+16,192,192,Aguas Calientes,0,,28_2
+16,193,193,Aguas Calientes,0,,28_2
+16,194,194,Aguas Calientes,0,,28_2
+16,195,195,Aguas Calientes,0,,28_2
+16,196,196,Osorno,1,,28_3
+16,197,197,Osorno,1,,28_3
+16,198,198,Osorno,1,,28_3
+16,199,199,Osorno,1,,28_3
+16,200,200,Osorno,1,,28_3
+16,201,201,Osorno,1,,28_3
+16,202,202,Osorno,1,,28_3
+16,203,203,Osorno,1,,28_3
+16,204,204,Osorno,1,,28_3
+17,205,205,Entre Lagos,0,,28_5
+17,206,206,Entre Lagos,0,,28_5
+17,207,207,Entre Lagos,0,,28_5
+17,208,208,Entre Lagos,0,,28_5
+17,209,209,Entre Lagos,0,,28_5
+17,210,210,Entre Lagos,0,,28_5
+17,211,211,Entre Lagos,0,,28_5
+17,212,212,Entre Lagos,0,,28_5
+17,213,213,Entre Lagos,0,,28_5
+17,214,214,Entre Lagos,0,,28_5
+17,215,215,Entre Lagos,0,,28_5
+17,216,216,Entre Lagos,0,,28_5
+17,217,217,Entre Lagos,0,,28_5
+17,218,218,Entre Lagos,0,,28_5
+17,219,219,Entre Lagos,0,,28_5
+17,220,220,Entre Lagos,0,,28_5
+17,221,221,Entre Lagos,0,,28_5
+17,222,222,Entre Lagos,0,,28_5
+17,223,223,Osorno,1,,28_7
+17,224,224,Osorno,1,,28_7
+17,225,225,Osorno,1,,28_7
+17,226,226,Osorno,1,,28_7
+17,227,227,Osorno,1,,28_7
+17,228,228,Osorno,1,,28_7
+17,229,229,Osorno,1,,28_7
+17,230,230,Osorno,1,,28_7
+17,231,231,Osorno,1,,28_7
+17,232,232,Osorno,1,,28_7
+17,233,233,Osorno,1,,28_7
+17,234,234,Osorno,1,,28_7
+17,235,235,Osorno,1,,28_7
+17,236,236,Osorno,1,,28_7
+17,237,237,Osorno,1,,28_7
+18,238,238,Anticura,0,,28_8
+18,239,239,Anticura,0,,28_8
+18,240,240,Osorno,1,,28_9
+19,241,241,Achao,0,,34_1
+19,242,242,Achao,0,,34_1
+19,243,243,Achao,0,,34_1
+19,244,244,Isla Apiao Ostricultura,1,,34_2
+19,245,245,Isla Apiao Ostricultura,1,,34_2
+19,696,696,Isla Apiao Ostricultura,1,,34_2
+20,246,246,Francke,0,,35_1
+20,247,247,San Maximiliano Kolbe,1,,35_2
+21,248,248,Llanquihue,0,,37_1
+21,249,249,Puerto Montt,1,,37_2
+22,250,250,Achao,0,,38_1
+22,251,251,Isla Lin Lin Curaco,1,,38_2
+22,686,686,Achao,0,,38_1
+22,687,687,Isla Lin Lin Curaco,1,,38_2
+22,688,688,Isla Lin Lin Curaco,1,,38_2
+23,252,252,Achao,0,,39_1
+23,253,253,Isla Chaulinec Capilla Antigua,1,,39_2
+23,689,689,Achao,0,,39_1
+23,690,690,Isla Chaulinec Capilla Antigua,1,,39_2
+24,254,254,Pudeto Bajo,0,,11_1
+24,255,255,Pudeto Bajo,0,,11_1
+24,256,256,Pudeto Bajo,0,,11_1
+24,257,257,Villa Esperanza,1,,11_2
+24,258,258,Villa Esperanza,1,,11_2
+24,259,259,Villa Esperanza,1,,11_2
+25,260,260,Achao,0,,40_1
+25,261,261,Isla Apiao Capilla,1,,40_2
+25,682,682,Achao,0,,40_1
+25,683,683,Isla Apiao Capilla,1,,40_2
+26,262,262,Achao,0,,40_3
+26,263,263,Achao,0,,40_3
+26,264,264,Achao,0,,40_3
+26,265,265,Isla Caguach La Capilla,1,,40_4
+26,266,266,Isla Caguach La Capilla,1,,40_4
+26,684,684,Isla Caguach La Capilla,1,,40_4
+27,267,267,Punta De Lapas,0,,41_1
+27,268,268,Punta De Lapas,0,,41_1
+27,269,269,Punta De Lapas,0,,41_1
+27,270,270,Ruta San Antonio,1,,41_2
+27,271,271,Ruta San Antonio,1,,41_2
+27,272,272,Ruta San Antonio,1,,41_2
+28,273,273,Achao,0,,43_1
+28,274,274,Achao,0,,43_1
+28,275,275,Achao,0,,43_1
+28,276,276,Isla Meulin El Transito,1,,43_2
+28,277,277,Isla Meulin El Transito,1,,43_2
+28,278,278,Isla Meulin El Transito,1,,43_2
+29,279,279,Achao,0,,44_1
+29,280,280,Achao,0,,44_1
+29,281,281,Achao,0,,44_1
+29,282,282,Isla Teuquelin,1,,44_2
+29,283,283,Isla Teuquelin,1,,44_2
+29,284,284,Isla Teuquelin,1,,44_2
+30,285,285,Achao,0,,45_1
+30,286,286,Achao,0,,45_1
+30,287,287,Achao,0,,45_1
+30,288,288,Isla Alao Capilla,1,,45_2
+30,289,289,Isla Alao Capilla,1,,45_2
+30,691,691,Isla Alao Capilla,1,,45_2
+31,290,290,Galvarino Riveros,1,,4_1
+31,291,291,Galvarino Riveros,1,,4_1
+31,292,292,Galvarino Riveros,1,,4_1
+31,293,293,Los Aromos,0,,4_2
+31,294,294,Los Aromos,0,,4_2
+31,295,295,Los Aromos,0,,4_2
+32,296,296,Achao,0,,46_1
+32,297,297,Achao,0,,46_1
+32,298,298,Achao,0,,46_1
+32,299,299,Isla Quenac,1,,46_2
+32,300,300,Isla Quenac,1,,46_2
+32,301,301,Isla Quenac,1,,46_2
+33,302,302,Hornopirén Transborda A Ferry,0,,47_1
+33,303,303,Hornopirén Transborda A Ferry,0,,47_1
+33,304,304,Hornopirén Transborda A Ferry,0,,47_1
+33,305,305,Hornopirén Transborda A Ferry,0,,47_1
+33,306,306,Puerto Montt Transborda A Ferry,1,,47_2
+33,307,307,Puerto Montt Transborda A Ferry,1,,47_2
+33,308,308,Puerto Montt Transborda A Ferry,1,,47_2
+34,309,309,Chaitén Transborda A Ferry,0,,47_3
+34,310,310,Puerto Montt Transborda A Ferry,1,,47_4
+35,311,311,Achao,0,,48_1
+35,312,312,Achao,0,,48_1
+35,313,313,Achao,0,,48_1
+35,314,314,Isla Lin Lin Los Pinos,1,,48_2
+35,315,315,Isla Lin Lin Los Pinos,1,,48_2
+35,685,685,Isla Lin Lin Los Pinos,1,,48_2
+36,316,316,Osorno,0,,60_1
+36,317,317,Puerto Montt,1,,60_2
+37,318,318,Osorno,0,,79_1
+37,319,319,Osorno,0,,79_1
+37,320,320,Osorno,0,,79_1
+37,321,321,Osorno,0,,79_1
+37,322,322,Osorno,0,,79_1
+37,323,323,Osorno,0,,79_1
+37,324,324,Osorno,0,,79_1
+37,325,325,Osorno,0,,79_1
+37,326,326,Osorno,0,,79_1
+37,327,327,Osorno,0,,79_1
+37,328,328,Osorno,0,,79_1
+37,329,329,Osorno,0,,79_1
+37,330,330,Osorno,0,,79_1
+37,331,331,Osorno,0,,79_1
+37,332,332,Osorno,0,,79_1
+37,333,333,Osorno,0,,79_1
+37,334,334,Osorno,0,,79_1
+37,335,335,Osorno,0,,79_1
+37,336,336,Osorno,0,,79_1
+37,337,337,Puerto Montt,1,,79_2
+37,338,338,Puerto Montt,1,,79_2
+37,339,339,Puerto Montt,1,,79_2
+37,340,340,Puerto Montt,1,,79_2
+37,341,341,Puerto Montt,1,,79_2
+37,342,342,Puerto Montt,1,,79_2
+37,343,343,Puerto Montt,1,,79_2
+37,344,344,Puerto Montt,1,,79_2
+37,345,345,Puerto Montt,1,,79_2
+37,346,346,Puerto Montt,1,,79_2
+37,347,347,Puerto Montt,1,,79_2
+37,348,348,Puerto Montt,1,,79_2
+37,349,349,Puerto Montt,1,,79_2
+37,350,350,Puerto Montt,1,,79_2
+38,351,351,Caleta La Arena,0,,12_1
+38,352,352,Caleta La Arena,0,,12_1
+38,353,353,Caleta La Arena,0,,12_1
+38,354,354,Caleta La Arena,0,,12_1
+38,355,355,Caleta La Arena,0,,12_1
+38,356,356,Caleta La Arena,0,,12_1
+38,357,357,Caleta La Arena,0,,12_1
+38,358,358,Caleta La Arena,0,,12_1
+38,359,359,Caleta La Arena,0,,12_1
+38,360,360,Caleta La Arena,0,,12_1
+38,361,361,Puerto Montt,1,,12_2
+38,362,362,Puerto Montt,1,,12_2
+38,363,363,Puerto Montt,1,,12_2
+38,364,364,Puerto Montt,1,,12_2
+38,365,365,Puerto Montt,1,,12_2
+38,366,366,Puerto Montt,1,,12_2
+38,367,367,Puerto Montt,1,,12_2
+38,368,368,Puerto Montt,1,,12_2
+38,369,369,Puerto Montt,1,,12_2
+38,370,370,Puerto Montt,1,,12_2
+39,371,371,Achao,0,,50_1
+39,372,372,Isla Meulin San Francisco,1,,50_2
+39,692,692,Achao,0,,50_1
+39,693,693,Achao,0,,50_1
+39,694,694,Isla Meulin San Francisco,1,,50_2
+39,695,695,Isla Meulin San Francisco,1,,50_2
+40,375,375,Chaitén,0,,51_1
+40,376,376,Chaitén,0,,51_1
+40,379,379,Puerto Montt,1,,51_3
+40,977,977,Puerto Montt,1,,51_3
+40,978,978,Puerto Montt,1,,51_3
+41,381,381,Chaitén,1,,51_5
+41,383,383,Quellón,0,,51_6
+42,386,386,Chacao,0,,52_1
+42,387,387,Chacao,0,,52_1
+42,388,388,Chacao,0,,52_1
+42,389,389,Chacao,0,,52_1
+42,390,390,Pargua,1,,52_2
+42,391,391,Pargua,1,,52_2
+42,392,392,Pargua,1,,52_2
+42,393,393,Pargua,1,,52_2
+43,394,394,Caleta La Arena,1,,53_1
+43,395,395,Caleta La Arena,1,,53_1
+43,396,396,Caleta La Arena,1,,53_1
+43,397,397,Caleta La Arena,1,,53_1
+43,398,398,Caleta La Arena,1,,53_1
+43,399,399,Caleta La Arena,1,,53_1
+43,400,400,Caleta La Arena,1,,53_1
+43,401,401,Caleta La Arena,1,,53_1
+43,402,402,Caleta La Arena,1,,53_1
+43,403,403,Caleta La Arena,1,,53_1
+43,404,404,Caleta Puelche,0,,53_2
+43,405,405,Caleta Puelche,0,,53_2
+43,406,406,Caleta Puelche,0,,53_2
+43,407,407,Caleta Puelche,0,,53_2
+43,408,408,Caleta Puelche,0,,53_2
+43,409,409,Caleta Puelche,0,,53_2
+43,410,410,Caleta Puelche,0,,53_2
+43,411,411,Caleta Puelche,0,,53_2
+43,412,412,Caleta Puelche,0,,53_2
+43,413,413,Caleta Puelche,0,,53_2
+44,414,414,Caleta La Arena,1,,54_1
+44,415,415,Caleta La Arena,1,,54_1
+44,416,416,Caleta La Arena,1,,54_1
+44,417,417,Caleta La Arena,1,,54_1
+44,418,418,Caleta La Arena,1,,54_1
+44,419,419,Caleta La Arena,1,,54_1
+44,420,420,Caleta La Arena,1,,54_1
+44,421,421,Caleta La Arena,1,,54_1
+44,422,422,Caleta La Arena,1,,54_1
+44,423,423,Caleta La Arena,1,,54_1
+44,424,424,Caleta La Arena,1,,54_1
+44,425,425,Caleta La Arena,1,,54_1
+44,426,426,Caleta Puelche,0,,54_2
+44,427,427,Caleta Puelche,0,,54_2
+44,428,428,Caleta Puelche,0,,54_2
+44,429,429,Caleta Puelche,0,,54_2
+44,430,430,Caleta Puelche,0,,54_2
+44,431,431,Caleta Puelche,0,,54_2
+44,432,432,Caleta Puelche,0,,54_2
+44,433,433,Caleta Puelche,0,,54_2
+44,434,434,Caleta Puelche,0,,54_2
+44,435,435,Caleta Puelche,0,,54_2
+44,436,436,Caleta Puelche,0,,54_2
+45,437,437,Caleta Gonzalo,0,,54_3
+45,438,438,Fiordo Largo,1,,54_4
+46,439,439,Hornopirén,1,,54_5
+46,440,440,Leptepu,0,,54_6
+47,441,441,Puerto Montt,1,,56_1
+47,442,442,Puerto Varas,0,,56_2
+48,443,443,Castro Transborda A Ferry,0,,57_1
+48,444,444,Castro Transborda A Ferry,0,,57_1
+48,445,445,Castro Transborda A Ferry,0,,57_1
+48,446,446,Castro Transborda A Ferry,0,,57_1
+48,447,447,Castro Transborda A Ferry,0,,57_1
+48,448,448,Castro Transborda A Ferry,0,,57_1
+48,449,449,Castro Transborda A Ferry,0,,57_1
+48,450,450,Castro Transborda A Ferry,0,,57_1
+48,451,451,Castro Transborda A Ferry,0,,57_1
+48,452,452,Castro Transborda A Ferry,0,,57_1
+48,453,453,Castro Transborda A Ferry,0,,57_1
+48,454,454,Castro Transborda A Ferry,0,,57_1
+48,455,455,Castro Transborda A Ferry,0,,57_1
+48,456,456,Puerto Montt Transborda A Ferry,1,,57_2
+48,457,457,Puerto Montt Transborda A Ferry,1,,57_2
+48,458,458,Puerto Montt Transborda A Ferry,1,,57_2
+48,459,459,Puerto Montt Transborda A Ferry,1,,57_2
+48,460,460,Puerto Montt Transborda A Ferry,1,,57_2
+48,461,461,Puerto Montt Transborda A Ferry,1,,57_2
+48,462,462,Puerto Montt Transborda A Ferry,1,,57_2
+48,463,463,Puerto Montt Transborda A Ferry,1,,57_2
+48,464,464,Puerto Montt Transborda A Ferry,1,,57_2
+48,465,465,Puerto Montt Transborda A Ferry,1,,57_2
+48,466,466,Puerto Montt Transborda A Ferry,1,,57_2
+48,467,467,Puerto Montt Transborda A Ferry,1,,57_2
+48,468,468,Puerto Montt Transborda A Ferry,1,,57_2
+48,469,469,Puerto Montt Transborda A Ferry,1,,57_2
+48,470,470,Puerto Montt Transborda A Ferry,1,,57_2
+49,471,471,Achao Transborda A Ferry,0,,57_3
+49,472,472,Puerto Montt Transborda A Ferry,1,,57_4
+50,473,473,Achao,0,,58_1
+50,474,474,Achao,0,,58_1
+50,475,475,Achao,0,,58_1
+50,476,476,Isla Chaulinec La Villa,1,,58_2
+50,477,477,Isla Chaulinec La Villa,1,,58_2
+51,478,478,Achao,0,,59_1
+51,479,479,Achao,0,,59_1
+51,480,480,Achao,0,,59_1
+51,481,481,Isla Llingua,1,,59_2
+51,482,482,Isla Llingua,1,,59_2
+52,483,483,Rahue Alto,1,,61_1
+52,484,484,Rahue Alto,1,,61_1
+52,485,485,Universidad De Los Lagos,0,,61_2
+52,486,486,Universidad De Los Lagos,0,,61_2
+53,487,487,Casas De Bellavista,0,,61_3
+53,488,488,Casas De Bellavista,0,,61_3
+53,489,489,Rahue Alto,1,,61_4
+53,490,490,Rahue Alto,1,,61_4
+54,491,491,Rahue Alto,1,,61_5
+54,492,492,Rahue Alto,1,,61_5
+54,493,493,Universidad De Los Lagos,0,,61_6
+54,494,494,Universidad De Los Lagos,0,,61_6
+55,495,495,Hospital,0,,61_7
+55,496,496,Hospital,0,,61_7
+55,497,497,Rahue Alto,1,,61_8
+55,498,498,Rahue Alto,1,,61_8
+56,499,499,Rahue Alto,1,,62_1
+56,500,500,Rahue Alto,1,,62_1
+56,501,501,Rahue Alto,1,,62_1
+56,502,502,Universidad De Los Lagos,0,,62_2
+56,503,503,Universidad De Los Lagos,0,,62_2
+56,504,504,Universidad De Los Lagos,0,,62_2
+57,505,505,Rahue Alto,1,,62_3
+57,506,506,Rahue Alto,1,,62_3
+57,507,507,Rahue Alto,1,,62_3
+57,508,508,Universidad De Los Lagos,0,,62_4
+57,509,509,Universidad De Los Lagos,0,,62_4
+57,510,510,Universidad De Los Lagos,0,,62_4
+58,511,511,Los Aromos De Las Quemas,0,,62_5
+58,512,512,Los Aromos De Las Quemas,0,,62_5
+58,513,513,Los Aromos De Las Quemas,0,,62_5
+58,514,514,Rahue Alto,1,,62_6
+58,515,515,Rahue Alto,1,,62_6
+58,516,516,Rahue Alto,1,,62_6
+59,517,517,Casas De Bellavista,0,,63_1
+59,518,518,Casas De Bellavista,0,,63_1
+59,519,519,Casas De Bellavista,0,,63_1
+59,520,520,Ovejería,1,,63_2
+59,521,521,Ovejería,1,,63_2
+59,522,522,Ovejería,1,,63_2
+60,523,523,Ovejería,1,,63_3
+60,524,524,Ovejería,1,,63_3
+60,525,525,Ovejería,1,,63_3
+60,526,526,Universidad De Los Lagos,0,,63_4
+60,527,527,Universidad De Los Lagos,0,,63_4
+60,528,528,Universidad De Los Lagos,0,,63_4
+62,533,533,Castro,1,,64_3
+62,534,534,Castro,1,,64_3
+62,535,535,Gamboa Alto,0,,64_4
+62,536,536,Gamboa Alto,0,,64_4
+63,537,537,Loteo Las 7 Colinas,1,,65_1
+63,538,538,Loteo Las 7 Colinas,1,,65_1
+63,539,539,Loteo Las 7 Colinas,1,,65_1
+63,540,540,Población Parque Norte,0,,65_2
+63,541,541,Población Parque Norte,0,,65_2
+63,542,542,Población Parque Norte,0,,65_2
+64,543,543,Disco Azul,1,,66_1
+64,544,544,Disco Azul,1,,66_1
+64,545,545,Disco Azul,1,,66_1
+64,546,546,Universidad De Los Lagos,0,,66_2
+64,547,547,Universidad De Los Lagos,0,,66_2
+64,548,548,Universidad De Los Lagos,0,,66_2
+65,549,549,Disco Blanco,1,,66_3
+65,550,550,Disco Blanco,1,,66_3
+65,551,551,Disco Blanco,1,,66_3
+65,552,552,Hospital,0,,66_4
+65,553,553,Hospital,0,,66_4
+65,554,554,Hospital,0,,66_4
+66,555,555,Disco Rojo,1,,66_5
+66,556,556,Disco Rojo,1,,66_5
+66,557,557,Disco Rojo,1,,66_5
+66,558,558,Hospital,0,,66_6
+66,559,559,Hospital,0,,66_6
+66,560,560,Hospital,0,,66_6
+67,561,561,Alerce Histórico,1,,67_1
+67,562,562,Alerce Histórico,1,,67_1
+67,563,563,Angelmó,0,,67_2
+67,564,564,Angelmó,0,,67_2
+68,565,565,Centro,0,,67_3
+68,566,566,Alerce,1,,67_4
+68,681,681,Centro,0,,67_3
+69,567,567,Puerto Montt,1,,68_1
+69,568,568,Puerto Varas,0,,68_2
+70,569,569,Frutillar,0,,69_1
+70,570,570,Frutillar,0,,69_1
+70,571,571,Frutillar,0,,69_1
+70,572,572,Puerto Montt,1,,69_2
+70,573,573,Puerto Montt,1,,69_2
+70,574,574,Puerto Montt,1,,69_2
+71,575,575,Lago Todos Los Santos,0,,69_3
+71,576,576,Puerto Varas,1,,69_4
+72,577,577,Puerto Varas,1,,69_5
+72,578,578,Puerto Varas,1,,69_5
+72,579,579,Ensenada,0,,69_6
+74,581,581,Alerce Sur,1,,70_1
+74,582,582,Chinquihue,0,,70_2
+75,583,583,Antihual,0,,70_3
+75,584,584,Antihual,0,,70_3
+75,585,585,Chinquihue,1,,70_4
+75,586,586,Chinquihue,1,,70_4
+76,587,587,Alerce Norte,1,,70_5
+76,588,588,Centro Puerto Montt,0,,70_6
+77,589,589,Alerce Norte,1,,70_7
+77,590,590,Chinquihue,0,,70_8
+78,591,591,Alerce Histórico,1,,70_9
+78,592,592,Centro Puerto Montt,0,,70_10
+79,593,593,Chinquihue,1,,70_11
+79,594,594,Chinquihue,1,,70_11
+79,595,595,Población Libertad,0,,70_12
+79,596,596,Población Libertad,0,,70_12
+80,597,597,Centro Puerto Montt,0,,70_13
+80,598,598,Centro Puerto Montt,0,,70_13
+80,599,599,"Centro Puerto Montt, Vía Lider",0,,70_14
+80,600,600,"Centro Puerto Montt, Vía Lider",0,,70_14
+80,601,601,"Centro Puerto Montt, Vía Lider",0,,70_14
+80,602,602,Senderos De Alerce,1,,70_15
+80,603,603,Senderos De Alerce,1,,70_15
+80,604,604,"Senderos De Alerce, Vía Lider",1,,70_16
+80,605,605,"Senderos De Alerce, Vía Lider",1,,70_16
+81,606,606,Centro Puerto Montt,0,,70_17
+81,607,607,Centro Puerto Montt,0,,70_17
+81,608,608,Centro Puerto Montt,0,,70_17
+81,609,609,Valle Volcanes,1,,70_18
+81,610,610,Valle Volcanes,1,,70_18
+81,611,611,Valle Volcanes,1,,70_18
+81,612,612,Valle Volcanes,1,,70_18
+82,613,613,Casas Bellavista,0,,71_1
+82,614,614,Casas Bellavista,0,,71_1
+82,615,615,Casas Bellavista,0,,71_1
+82,616,616,Rahue Alto,1,,71_2
+82,617,617,Rahue Alto,1,,71_2
+82,618,618,Rahue Alto,1,,71_2
+83,619,619,Los Dominicos,0,,71_3
+83,620,620,Los Dominicos,0,,71_3
+83,621,621,Los Dominicos,0,,71_3
+83,622,622,Rahue Alto,1,,71_4
+83,623,623,Rahue Alto,1,,71_4
+83,624,624,Rahue Alto,1,,71_4
+84,625,625,Antuhue,0,,72_1
+84,626,626,Antuhue,0,,72_1
+84,627,627,Lagunitas,1,,72_2
+84,628,628,Lagunitas,1,,72_2
+85,629,629,Cayenel,0,,72_3
+85,630,630,Cayenel,0,,72_3
+85,631,631,Lagunitas,1,,72_4
+85,632,632,Lagunitas,1,,72_4
+86,633,633,Chacao,0,,73_1
+86,634,634,Chacao,0,,73_1
+86,635,635,Chacao,0,,73_1
+86,636,636,Chacao,0,,73_1
+86,637,637,Pargua,1,,73_2
+86,638,638,Pargua,1,,73_2
+86,639,639,Pargua,1,,73_2
+86,640,640,Pargua,1,,73_2
+87,641,641,Mirasol,1,,74_1
+87,642,642,Mirasol,1,,74_1
+87,643,643,Pichipelluco,0,,74_2
+87,644,644,Pichipelluco,0,,74_2
+88,645,645,Mirasol,1,,74_3
+88,646,646,Mirasol,1,,74_3
+88,647,647,Pichipelluco,0,,74_4
+88,648,648,Pichipelluco,0,,74_4
+89,649,649,Mirasol,1,,74_5
+89,650,650,Mirasol,1,,74_5
+89,651,651,Pichipelluco,0,,74_6
+89,652,652,Pichipelluco,0,,74_6
+90,653,653,Mirasol,1,,74_7
+90,654,654,Mirasol,1,,74_7
+90,655,655,Pichipelluco,0,,74_8
+90,656,656,Pichipelluco,0,,74_8
+91,657,657,Centro Antuhue,0,,74_9
+91,658,658,Mirasol,1,,74_10
+92,659,659,Hospital,0,,25_1
+92,660,660,Hospital,0,,25_1
+92,661,661,Hospital,0,,25_1
+92,662,662,Rahue Alto,1,,25_2
+92,663,663,Rahue Alto,1,,25_2
+92,664,664,Rahue Alto,1,,25_2
+94,671,671,Dalcahue,1,,77_1
+94,672,672,Dalcahue,1,,77_1
+94,673,673,Isla Quinchao,0,,77_2
+94,674,674,Isla Quinchao,0,,77_2
+95,675,675,Punta De Lapas,0,,80_1
+95,676,676,Punta De Lapas,0,,80_1
+95,677,677,Ruta San Antonio,1,,80_2
+95,678,678,Ruta San Antonio,1,,80_2
+97,701,701,Calbuco,0,,20_21152816300968
+97,702,702,Calbuco,0,,20_21152816300968
+97,703,703,Calbuco,0,,20_21152816300968
+97,704,704,Calbuco,0,,20_21152816300968
+97,705,705,Calbuco,0,,20_21152816300968
+97,706,706,Calbuco,0,,20_21152816300968
+97,707,707,Calbuco,0,,20_21152816300968
+97,708,708,Calbuco,0,,20_21152816300968
+97,709,709,Calbuco,0,,20_21152816300968
+97,710,710,Calbuco,0,,20_21152816300968
+97,711,711,Calbuco,0,,20_21152816300968
+97,712,712,Calbuco,0,,20_21152816300968
+97,713,713,Calbuco,0,,20_21152816300968
+97,714,714,Calbuco,0,,20_21152816300968
+97,715,715,Calbuco,0,,20_21152816300968
+97,716,716,Calbuco,0,,20_21152816300968
+97,717,717,Calbuco,0,,20_21152816300968
+97,718,718,Calbuco,0,,20_21152816300968
+97,719,719,Calbuco,0,,20_21152816300968
+97,720,720,Calbuco,0,,20_21152816300968
+97,721,721,Calbuco,0,,20_21152816300968
+97,722,722,Calbuco,0,,20_21152816300968
+97,723,723,Calbuco,0,,20_21152816300968
+97,724,724,Calbuco,0,,20_21152816300968
+97,725,725,Calbuco,0,,20_21152816300968
+97,726,726,Calbuco,0,,20_21152816300968
+97,727,727,Calbuco,0,,20_21152816300968
+97,728,728,Calbuco,0,,20_21152816300968
+97,729,729,Calbuco,0,,20_21152816300968
+97,730,730,Calbuco,0,,20_21152816300968
+97,731,731,Calbuco,0,,20_21152816300968
+97,732,732,Calbuco,0,,20_21152816300968
+97,733,733,Calbuco,0,,20_21152816300968
+97,734,734,Calbuco,0,,20_21152816300968
+97,735,735,Calbuco,0,,20_21152816300968
+97,736,736,Calbuco,0,,20_21152816300968
+97,737,737,Calbuco,0,,20_21152816300968
+97,738,738,Calbuco,0,,20_21152816300968
+97,739,739,Calbuco,0,,20_21152816300968
+97,740,740,Calbuco,0,,20_21152816300968
+97,741,741,Calbuco,0,,20_21152816300968
+97,742,742,Calbuco,0,,20_21152816300968
+97,743,743,Calbuco,0,,20_21152816300968
+97,744,744,Calbuco,0,,20_21152816300968
+97,745,745,Calbuco,0,,20_21152816300968
+97,746,746,Calbuco,0,,20_21152816300968
+97,747,747,Calbuco,0,,20_21152816300968
+97,748,748,Calbuco,0,,20_21152816300968
+97,749,749,Calbuco,0,,20_21152816300968
+97,750,750,Calbuco,0,,20_21152816300968
+97,751,751,Calbuco,0,,20_21152816300968
+97,752,752,Calbuco,0,,20_21152816300968
+97,753,753,Calbuco,0,,20_21152816300968
+97,754,754,Calbuco,0,,20_21152816300968
+97,755,755,Calbuco,0,,20_21152816300968
+97,756,756,Calbuco,0,,20_21152816300968
+97,757,757,Calbuco,0,,20_21152816300968
+97,758,758,Calbuco,0,,20_21152816300968
+97,759,759,Calbuco,0,,20_21152816300968
+97,760,760,Calbuco,0,,20_21152816300968
+97,761,761,Calbuco,0,,20_21152816300968
+97,762,762,Calbuco,0,,20_21152816300968
+97,763,763,Calbuco,0,,20_21152816300968
+97,764,764,Calbuco,0,,20_21152816300968
+97,765,765,Calbuco,0,,20_21152816300968
+97,766,766,Calbuco,0,,20_21152816300968
+97,767,767,Calbuco,0,,20_21152816300968
+97,768,768,Calbuco,0,,20_21152816300968
+97,769,769,Calbuco,0,,20_21152816300968
+97,770,770,Calbuco,0,,20_21152816300968
+97,771,771,Calbuco,0,,20_21152816300968
+97,772,772,Calbuco,0,,20_21152816300968
+97,773,773,Calbuco,0,,20_21152816300968
+97,774,774,Calbuco,0,,20_21152816300968
+97,775,775,Calbuco,0,,20_21152816300968
+97,776,776,Calbuco,0,,20_21152816300968
+97,777,777,Calbuco,0,,20_21152816300968
+97,778,778,Calbuco,0,,20_21152816300968
+97,779,779,Calbuco,0,,20_21152816300968
+97,780,780,Calbuco,0,,20_21152816300968
+97,781,781,Calbuco,0,,20_21152816300968
+97,782,782,Calbuco,0,,20_21152816300968
+97,783,783,Calbuco,0,,20_21152816300968
+97,784,784,Calbuco,0,,20_21152816300968
+97,785,785,Calbuco,0,,20_21152816300968
+97,786,786,Calbuco,0,,20_21152816300968
+97,787,787,Calbuco,0,,20_21152816300968
+97,788,788,Calbuco,0,,20_21152816300968
+97,789,789,Calbuco,0,,20_21152816300968
+97,790,790,Calbuco,0,,20_21152816300968
+97,898,898,Puerto Montt,1,,20_7045674611197
+97,899,899,Puerto Montt,1,,20_7045674611197
+97,900,900,Puerto Montt,1,,20_7045674611197
+97,901,901,Puerto Montt,1,,20_7045674611197
+97,902,902,Puerto Montt,1,,20_7045674611197
+99,697,697,Calbuco,0,,5_45082679459298
+99,698,698,Calbuco,0,,5_45082679459298
+99,699,699,Calbuco,0,,5_45082679459298
+99,700,700,Calbuco,0,,5_45082679459298
+99,894,894,Puerto Montt,1,,5_40912042483633
+99,895,895,Puerto Montt,1,,5_40912042483633
+99,896,896,Puerto Montt,1,,5_40912042483633
+99,897,897,Puerto Montt,1,,5_40912042483633
+100,791,791,Calbuco,0,,9_4580589745928
+100,792,792,Calbuco,0,,9_4580589745928
+100,793,793,Calbuco,0,,9_4580589745928
+100,794,794,Calbuco,0,,9_4580589745928
+100,795,795,Calbuco,0,,9_4580589745928
+100,796,796,Calbuco,0,,9_4580589745928
+100,797,797,Calbuco,0,,9_4580589745928
+100,903,903,Puerto Montt,1,,9_4372780754977
+100,904,904,Puerto Montt,1,,9_4372780754977
+100,905,905,Puerto Montt,1,,9_4372780754977
+100,906,906,Puerto Montt,1,,9_4372780754977
+100,907,907,Puerto Montt,1,,9_4372780754977
+100,908,908,Puerto Montt,1,,9_4372780754977
+100,909,909,Puerto Montt,1,,9_4372780754977
+101,798,798,Calbuco,0,,13_17452192142756
+101,799,799,Calbuco,0,,13_17452192142756
+101,800,800,Calbuco,0,,13_17452192142756
+101,801,801,Calbuco,0,,13_17452192142756
+101,910,910,Puerto Montt,1,,13_35213837423511
+101,911,911,Puerto Montt,1,,13_35213837423511
+101,912,912,Puerto Montt,1,,13_35213837423511
+101,913,913,Puerto Montt,1,,13_35213837423511
+102,802,802,Calbuco,0,,26_6661190352780
+102,803,803,Calbuco,0,,26_6661190352780
+102,804,804,Calbuco,0,,26_6661190352780
+102,805,805,Calbuco,0,,26_6661190352780
+102,806,806,Calbuco,0,,26_6661190352780
+102,807,807,Calbuco,0,,26_6661190352780
+102,808,808,Calbuco,0,,26_6661190352780
+102,809,809,Calbuco,0,,26_6661190352780
+102,810,810,Calbuco,0,,26_6661190352780
+102,811,811,Calbuco,0,,26_6661190352780
+102,812,812,Calbuco,0,,26_6661190352780
+102,914,914,Puerto Montt,1,,26_30845709848561
+102,915,915,Puerto Montt,1,,26_30845709848561
+102,916,916,Puerto Montt,1,,26_30845709848561
+102,917,917,Puerto Montt,1,,26_30845709848561
+102,918,918,Puerto Montt,1,,26_30845709848561
+102,919,919,Puerto Montt,1,,26_30845709848561
+102,920,920,Puerto Montt,1,,26_30845709848561
+102,921,921,Puerto Montt,1,,26_30845709848561
+102,922,922,Puerto Montt,1,,26_30845709848561
+102,923,923,Puerto Montt,1,,26_30845709848561
+102,924,924,Puerto Montt,1,,26_30845709848561
+102,925,925,Puerto Montt,1,,26_30845709848561
+102,926,926,Puerto Montt,1,,26_30845709848561
+103,813,813,Calbuco,0,,8_21747576447081
+103,814,814,Calbuco,0,,8_21747576447081
+103,815,815,Calbuco,0,,8_21747576447081
+103,816,816,Calbuco,0,,8_21747576447081
+103,817,817,Calbuco,0,,8_21747576447081
+103,818,818,Calbuco,0,,8_21747576447081
+103,819,819,Calbuco,0,,8_21747576447081
+103,820,820,Calbuco,0,,8_21747576447081
+103,927,927,Puerto Montt,1,,8_45277548437788
+103,928,928,Puerto Montt,1,,8_45277548437788
+103,929,929,Puerto Montt,1,,8_45277548437788
+103,930,930,Puerto Montt,1,,8_45277548437788
+103,931,931,Puerto Montt,1,,8_45277548437788
+103,932,932,Puerto Montt,1,,8_45277548437788
+103,933,933,Puerto Montt,1,,8_45277548437788
+104,821,821,Calbuco,0,,49_9052327924480
+104,822,822,Calbuco,0,,49_9052327924480
+104,823,823,Calbuco,0,,49_9052327924480
+104,824,824,Calbuco,0,,49_9052327924480
+104,825,825,Calbuco,0,,49_9052327924480
+104,826,826,Calbuco,0,,49_9052327924480
+104,827,827,Calbuco,0,,49_9052327924480
+104,828,828,Calbuco,0,,49_9052327924480
+104,829,829,Calbuco,0,,49_9052327924480
+104,830,830,Calbuco,0,,49_9052327924480
+104,831,831,Calbuco,0,,49_9052327924480
+104,934,934,Puerto Montt,1,,49_44800125187978
+104,935,935,Puerto Montt,1,,49_44800125187978
+104,936,936,Puerto Montt,1,,49_44800125187978
+105,832,832,Calbuco,0,,55_48412582204584
+105,833,833,Calbuco,0,,55_48412582204584
+105,834,834,Calbuco,0,,55_48412582204584
+105,835,835,Calbuco,0,,55_48412582204584
+105,836,836,Calbuco,0,,55_48412582204584
+105,837,837,Calbuco,0,,55_48412582204584
+105,838,838,Calbuco,0,,55_48412582204584
+105,839,839,Calbuco,0,,55_48412582204584
+105,840,840,Calbuco,0,,55_48412582204584
+105,841,841,Calbuco,0,,55_48412582204584
+105,842,842,Calbuco,0,,55_48412582204584
+105,843,843,Calbuco,0,,55_48412582204584
+105,937,937,Puerto Montt,1,,55_28794845110576
+105,938,938,Puerto Montt,1,,55_28794845110576
+105,939,939,Puerto Montt,1,,55_28794845110576
+105,940,940,Puerto Montt,1,,55_28794845110576
+105,941,941,Puerto Montt,1,,55_28794845110576
+105,942,942,Puerto Montt,1,,55_28794845110576
+106,844,844,Calbuco,0,,18_22095219560998
+106,845,845,Calbuco,0,,18_22095219560998
+106,846,846,Calbuco,0,,18_22095219560998
+106,847,847,Calbuco,0,,18_22095219560998
+106,848,848,Calbuco,0,,18_22095219560998
+106,849,849,Calbuco,0,,18_22095219560998
+106,850,850,Calbuco,0,,18_22095219560998
+106,851,851,Calbuco,0,,18_22095219560998
+106,852,852,Calbuco,0,,18_22095219560998
+106,853,853,Calbuco,0,,18_22095219560998
+106,943,943,Puerto Montt,1,,18_7495991359059
+106,944,944,Puerto Montt,1,,18_7495991359059
+106,945,945,Puerto Montt,1,,18_7495991359059
+106,946,946,Puerto Montt,1,,18_7495991359059
+107,854,854,Calbuco,0,,19_58996766132019
+107,855,855,Calbuco,0,,19_58996766132019
+107,856,856,Calbuco,0,,19_58996766132019
+107,857,857,Calbuco,0,,19_58996766132019
+107,858,858,Calbuco,0,,19_58996766132019
+107,859,859,Calbuco,0,,19_58996766132019
+107,860,860,Calbuco,0,,19_58996766132019
+107,861,861,Calbuco,0,,19_58996766132019
+107,862,862,Calbuco,0,,19_58996766132019
+107,863,863,Calbuco,0,,19_58996766132019
+107,947,947,Puerto Montt,1,,19_40960278763419
+107,948,948,Puerto Montt,1,,19_40960278763419
+107,949,949,Puerto Montt,1,,19_40960278763419
+107,950,950,Puerto Montt,1,,19_40960278763419
+107,951,951,Puerto Montt,1,,19_40960278763419
+107,952,952,Puerto Montt,1,,19_40960278763419
+108,864,864,Calbuco,0,,7_59594997732061
+108,865,865,Calbuco,0,,7_59594997732061
+108,866,866,Calbuco,0,,7_59594997732061
+108,867,867,Calbuco,0,,7_59594997732061
+108,868,868,Calbuco,0,,7_59594997732061
+108,869,869,Calbuco,0,,7_59594997732061
+108,870,870,Calbuco,0,,7_59594997732061
+108,871,871,Calbuco,0,,7_59594997732061
+108,872,872,Calbuco,0,,7_59594997732061
+108,953,953,Puerto Montt,1,,7_34338645728778
+108,954,954,Puerto Montt,1,,7_34338645728778
+108,955,955,Puerto Montt,1,,7_34338645728778
+108,956,956,Puerto Montt,1,,7_34338645728778
+108,957,957,Puerto Montt,1,,7_34338645728778
+108,958,958,Puerto Montt,1,,7_34338645728778
+108,959,959,Puerto Montt,1,,7_34338645728778
+108,960,960,Puerto Montt,1,,7_34338645728778
+108,961,961,Puerto Montt,1,,7_34338645728778
+109,873,873,Calbuco,0,,78_5470960959461
+109,874,874,Calbuco,0,,78_5470960959461
+109,875,875,Calbuco,0,,78_5470960959461
+109,876,876,Calbuco,0,,78_5470960959461
+109,877,877,Calbuco,0,,78_5470960959461
+109,878,878,Calbuco,0,,78_5470960959461
+109,879,879,Calbuco,0,,78_5470960959461
+109,880,880,Calbuco,0,,78_5470960959461
+109,881,881,Calbuco,0,,78_5470960959461
+109,882,882,Calbuco,0,,78_5470960959461
+109,883,883,Calbuco,0,,78_5470960959461
+109,884,884,Calbuco,0,,78_5470960959461
+109,962,962,Puerto Montt,1,,78_53727160910096
+109,963,963,Puerto Montt,1,,78_53727160910096
+109,964,964,Puerto Montt,1,,78_53727160910096
+109,965,965,Puerto Montt,1,,78_53727160910096
+109,966,966,Puerto Montt,1,,78_53727160910096
+109,967,967,Puerto Montt,1,,78_53727160910096
+110,885,885,Calbuco,0,,69_20153068358943
+110,886,886,Calbuco,0,,69_20153068358943
+110,887,887,Calbuco,0,,69_20153068358943
+110,888,888,Calbuco,0,,69_20153068358943
+110,889,889,Calbuco,0,,69_20153068358943
+110,890,890,Calbuco,0,,69_20153068358943
+110,891,891,Calbuco,0,,69_20153068358943
+110,892,892,Calbuco,0,,69_20153068358943
+110,893,893,Calbuco,0,,69_20153068358943
+110,968,968,Puerto Montt,1,,69_57899544393489
+110,969,969,Puerto Montt,1,,69_57899544393489
+110,970,970,Puerto Montt,1,,69_57899544393489
+110,971,971,Puerto Montt,1,,69_57899544393489
+110,972,972,Puerto Montt,1,,69_57899544393489
+113,980,980,Quellón,0,,2_16396349966616
+113,981,981,Quellón,0,,2_16396349966616
+113,982,982,Quellón,0,,2_16396349966616
+113,983,983,Isla Laitec,1,,2_59494341547157
+113,984,984,Isla Laitec,1,,2_59494341547157
+113,985,985,Isla Laitec,1,,2_59494341547157
+114,986,986,Pelu Isla Cailín,0,,2_16181906314703
+114,987,987,Pelu Isla Cailín,0,,2_16181906314703
+114,988,988,Pelu Isla Cailín,0,,2_16181906314703
+114,989,989,Yelcho Isla Cailín,1,,2_51763655198049
+114,990,990,Yelcho Isla Cailín,1,,2_51763655198049
+114,991,991,Yelcho Isla Cailín,1,,2_51763655198049
+115,992,992,Tranqui Isla Tranqui,0,,23_23251405998749
+115,993,993,Tranqui Isla Tranqui,0,,23_23251405998749
+115,994,994,Tranqui Isla Tranqui,0,,23_23251405998749
+115,995,995,Tranqui Isla Tranqui,0,,23_23251405998749
+115,996,996,Tranqui Isla Tranqui,0,,23_23251405998749
+115,997,997,Tranqui Isla Tranqui,0,,23_23251405998749
+115,998,998,Queilen,1,,23_39878590615578
+115,999,999,Queilen,1,,23_39878590615578
+115,1000,1000,Queilen,1,,23_39878590615578
+115,1001,1001,Queilen,1,,23_39878590615578
+115,1002,1002,Queilen,1,,23_39878590615578
+115,1003,1003,Queilen,1,,23_39878590615578
+116,1004,1004,Isla Acui,0,,23_590249694686
+116,1005,1005,Isla Acui,0,,23_590249694686
+116,1006,1006,Isla Acui,0,,23_590249694686
+116,1008,1008,Queilen,1,,23_11200920175526
+116,1009,1009,Queilen,1,,23_11200920175526
+116,1010,1010,Queilen,1,,23_11200920175526
+117,1011,1011,San José,0,,23_55178752729574
+117,1012,1012,San José,0,,23_55178752729574
+117,1013,1013,San José,0,,23_55178752729574
+117,1015,1015,San José,0,,23_55178752729574
+117,1016,1016,San José,0,,23_55178752729574
+117,1017,1017,San José,0,,23_55178752729574
+117,1018,1018,Tranqui Isla Tranqui,1,,23_25362055296419
+117,1019,1019,Tranqui Isla Tranqui,1,,23_25362055296419
+117,1020,1020,Tranqui Isla Tranqui,1,,23_25362055296419
+117,1021,1021,Tranqui Isla Tranqui,1,,23_25362055296419
+117,1022,1022,Tranqui Isla Tranqui,1,,23_25362055296419
+117,1023,1023,Tranqui Isla Tranqui,1,,23_25362055296419
+118,1024,1024,Quellón,0,,2_37441085171755
+118,1025,1025,Quellón,0,,2_37441085171755
+118,1026,1026,Quellón,0,,2_37441085171755
+118,1027,1027,Pelu Isla Cailín,1,,2_34065845738103
+118,1028,1028,Pelu Isla Cailín,1,,2_34065845738103
+118,1029,1029,Pelu Isla Cailín,1,,2_34065845738103
+119,1030,1030,Huicha,0,,54_54328478376980
+119,1031,1031,Huicha,0,,54_54328478376980
+119,1032,1032,Huicha,0,,54_54328478376980
+119,1033,1033,Chulchuy,1,,54_46644507223868
+119,1034,1034,Chulchuy,1,,54_46644507223868
+119,1035,1035,Chulchuy,1,,54_46644507223868
+120,1197,1197,Fresia,0,,69_47684847947524
+120,1198,1198,Fresia,0,,69_47684847947524
+120,1199,1199,Fresia,0,,69_47684847947524
+120,1200,1200,Fresia,0,,69_47684847947524
+120,1201,1201,Fresia,0,,69_47684847947524
+120,1202,1202,Fresia,0,,69_47684847947524
+120,1203,1203,Fresia,0,,69_47684847947524
+120,1204,1204,Fresia,0,,69_47684847947524
+120,1206,1206,Fresia,0,,69_47684847947524
+120,1207,1207,Fresia,0,,69_47684847947524
+120,1208,1208,Fresia,0,,69_47684847947524
+120,1209,1209,Fresia,0,,69_47684847947524
+120,1210,1210,Fresia,0,,69_47684847947524
+120,1211,1211,Fresia,0,,69_47684847947524
+120,1212,1212,Fresia,0,,69_47684847947524
+120,1213,1213,Fresia,0,,69_47684847947524
+120,1214,1214,Fresia,0,,69_47684847947524
+120,1215,1215,Fresia,0,,69_47684847947524
+120,1216,1216,Fresia,0,,69_47684847947524
+120,1217,1217,Fresia,0,,69_47684847947524
+120,1218,1218,Fresia,0,,69_47684847947524
+120,1219,1219,Fresia,0,,69_47684847947524
+120,1220,1220,Puerto Montt,1,,69_3071348851828
+120,1221,1221,Puerto Montt,1,,69_3071348851828
+120,1222,1222,Puerto Montt,1,,69_3071348851828
+120,1223,1223,Puerto Montt,1,,69_3071348851828
+121,1036,1036,Maullín,0,,21_28946979137452
+121,1037,1037,Maullín,0,,21_28946979137452
+121,1038,1038,Maullín,0,,21_28946979137452
+121,1039,1039,Maullín,0,,21_28946979137452
+121,1040,1040,Maullín,0,,21_28946979137452
+121,1041,1041,Maullín,0,,21_28946979137452
+121,1042,1042,Puerto Montt,1,,21_46645656240554
+121,1043,1043,Puerto Montt,1,,21_46645656240554
+121,1044,1044,Puerto Montt,1,,21_46645656240554
+121,1045,1045,Puerto Montt,1,,21_46645656240554
+121,1046,1046,Puerto Montt,1,,21_46645656240554
+121,1047,1047,Puerto Montt,1,,21_46645656240554
+122,1048,1048,Maullín,0,,27_16808563398065
+122,1049,1049,Maullín,0,,27_16808563398065
+122,1050,1050,Maullín,0,,27_16808563398065
+122,1051,1051,Maullín,0,,27_16808563398065
+122,1052,1052,Maullín,0,,27_16808563398065
+122,1053,1053,Puerto Montt,1,,27_41515363261655
+122,1054,1054,Puerto Montt,1,,27_41515363261655
+122,1055,1055,Puerto Montt,1,,27_41515363261655
+122,1056,1056,Puerto Montt,1,,27_41515363261655
+122,1057,1057,Puerto Montt,1,,27_41515363261655
+122,1058,1058,Maullín,0,,27_16808563398065
+122,1059,1059,Maullín,0,,27_16808563398065
+122,1060,1060,Maullín,0,,27_16808563398065
+122,1061,1061,Maullín,0,,27_16808563398065
+122,1062,1062,Puerto Montt,1,,27_41515363261655
+122,1063,1063,Puerto Montt,1,,27_41515363261655
+122,1064,1064,Puerto Montt,1,,27_41515363261655
+122,1065,1065,Puerto Montt,1,,27_41515363261655
+122,1066,1066,Maullín,0,,27_16808563398065
+122,1067,1067,Maullín,0,,27_16808563398065
+122,1068,1068,Maullín,0,,27_16808563398065
+122,1069,1069,Maullín,0,,27_16808563398065
+122,1070,1070,Puerto Montt,1,,27_41515363261655
+122,1071,1071,Puerto Montt,1,,27_41515363261655
+122,1072,1072,Puerto Montt,1,,27_41515363261655
+122,1073,1073,Puerto Montt,1,,27_41515363261655
+122,1074,1074,Maullín,0,,27_16808563398065
+122,1075,1075,Puerto Montt,1,,27_41515363261655
+123,1076,1076,Maullín,0,,76_1830272928701
+123,1077,1077,Maullín,0,,76_1830272928701
+123,1078,1078,Maullín,0,,76_1830272928701
+123,1079,1079,Maullín,0,,76_1830272928701
+123,1080,1080,Puerto Montt,1,,76_7191651962318
+123,1081,1081,Puerto Montt,1,,76_7191651962318
+123,1082,1082,Puerto Montt,1,,76_7191651962318
+123,1084,1084,Maullín,0,,76_1830272928701
+123,1085,1085,Maullín,0,,76_1830272928701
+123,1086,1086,Maullín,0,,76_1830272928701
+123,1087,1087,Maullín,0,,76_1830272928701
+123,1088,1088,Puerto Montt,1,,76_7191651962318
+123,1089,1089,Puerto Montt,1,,76_7191651962318
+123,1090,1090,Puerto Montt,1,,76_7191651962318
+123,1091,1091,Puerto Montt,1,,76_7191651962318
+123,1092,1092,Maullín,0,,76_1830272928701
+123,1093,1093,Maullín,0,,76_1830272928701
+123,1094,1094,Maullín,0,,76_1830272928701
+123,1095,1095,Maullín,0,,76_1830272928701
+123,1096,1096,Maullín,0,,76_1830272928701
+123,1097,1097,Maullín,0,,76_1830272928701
+123,1098,1098,Maullín,0,,76_1830272928701
+123,1099,1099,Maullín,0,,76_1830272928701
+123,1100,1100,Puerto Montt,1,,76_7191651962318
+123,1101,1101,Puerto Montt,1,,76_7191651962318
+123,1102,1102,Puerto Montt,1,,76_7191651962318
+123,1103,1103,Puerto Montt,1,,76_7191651962318
+123,1104,1104,Puerto Montt,1,,76_7191651962318
+123,1105,1105,Puerto Montt,1,,76_7191651962318
+123,1106,1106,Puerto Montt,1,,76_7191651962318
+123,1107,1107,Puerto Montt,1,,76_7191651962318
+123,1108,1108,Maullín,0,,76_1830272928701
+123,1109,1109,Maullín,0,,76_1830272928701
+123,1110,1110,Puerto Montt,1,,76_7191651962318
+123,1111,1111,Puerto Montt,1,,76_7191651962318
+123,1112,1112,Maullín,0,,76_1830272928701
+123,1113,1113,Puerto Montt,1,,76_7191651962318
+124,1114,1114,Fresia,0,,6_49739050655425
+124,1115,1115,Fresia,0,,6_49739050655425
+124,1116,1116,Fresia,0,,6_49739050655425
+124,1117,1117,Puerto Montt,1,,6_342645805871
+124,1118,1118,Puerto Montt,1,,6_342645805871
+124,1119,1119,Puerto Montt,1,,6_342645805871
+125,1120,1120,Fresia,0,,3_12187813319191
+125,1121,1121,Fresia,0,,3_12187813319191
+125,1122,1122,Fresia,0,,3_12187813319191
+125,1123,1123,Fresia,0,,3_12187813319191
+125,1124,1124,Fresia,0,,3_12187813319191
+125,1125,1125,Fresia,0,,3_12187813319191
+125,1126,1126,Puerto Montt,1,,3_4855185798789
+125,1127,1127,Puerto Montt,1,,3_4855185798789
+125,1128,1128,Puerto Montt,1,,3_4855185798789
+125,1129,1129,Puerto Montt,1,,3_4855185798789
+125,1130,1130,Puerto Montt,1,,3_4855185798789
+125,1131,1131,Puerto Montt,1,,3_4855185798789
+126,1132,1132,Fresia,0,,30_1463374468442
+126,1133,1133,Fresia,0,,30_1463374468442
+126,1134,1134,Fresia,0,,30_1463374468442
+126,1135,1135,Fresia,0,,30_1463374468442
+126,1136,1136,Fresia,0,,30_1463374468442
+126,1137,1137,Fresia,0,,30_1463374468442
+126,1138,1138,Fresia,0,,30_1463374468442
+126,1139,1139,Fresia,0,,30_1463374468442
+126,1140,1140,Fresia,0,,30_1463374468442
+126,1141,1141,Fresia,0,,30_1463374468442
+126,1142,1142,Fresia,0,,30_1463374468442
+126,1143,1143,Fresia,0,,30_1463374468442
+126,1144,1144,Fresia,0,,30_1463374468442
+126,1145,1145,Fresia,0,,30_1463374468442
+126,1146,1146,Fresia,0,,30_1463374468442
+126,1147,1147,Fresia,0,,30_1463374468442
+126,1148,1148,Fresia,0,,30_1463374468442
+126,1149,1149,Fresia,0,,30_1463374468442
+126,1150,1150,Fresia,0,,30_1463374468442
+126,1151,1151,Fresia,0,,30_1463374468442
+126,1152,1152,Fresia,0,,30_1463374468442
+126,1153,1153,Fresia,0,,30_1463374468442
+126,1154,1154,Fresia,0,,30_1463374468442
+126,1155,1155,Fresia,0,,30_1463374468442
+126,1156,1156,Puerto Montt,1,,30_57687426569866
+126,1157,1157,Puerto Montt,1,,30_57687426569866
+126,1158,1158,Puerto Montt,1,,30_57687426569866
+126,1159,1159,Puerto Montt,1,,30_57687426569866
+126,1160,1160,Puerto Montt,1,,30_57687426569866
+126,1161,1161,Puerto Montt,1,,30_57687426569866
+126,1162,1162,Puerto Montt,1,,30_57687426569866
+126,1163,1163,Puerto Montt,1,,30_57687426569866
+126,1164,1164,Puerto Montt,1,,30_57687426569866
+126,1165,1165,Puerto Montt,1,,30_57687426569866
+126,1166,1166,Puerto Montt,1,,30_57687426569866
+126,1167,1167,Puerto Montt,1,,30_57687426569866
+126,1168,1168,Puerto Montt,1,,30_57687426569866
+126,1169,1169,Puerto Montt,1,,30_57687426569866
+126,1170,1170,Puerto Montt,1,,30_57687426569866
+126,1171,1171,Puerto Montt,1,,30_57687426569866
+126,1172,1172,Puerto Montt,1,,30_57687426569866
+126,1173,1173,Puerto Montt,1,,30_57687426569866
+126,1174,1174,Puerto Montt,1,,30_57687426569866
+126,1175,1175,Puerto Montt,1,,30_57687426569866
+126,1176,1176,Puerto Montt,1,,30_57687426569866
+126,1177,1177,Puerto Montt,1,,30_57687426569866
+126,1178,1178,Puerto Montt,1,,30_57687426569866
+127,1179,1179,Fresia,0,,36_45290937532553
+127,1180,1180,Fresia,0,,36_45290937532553
+127,1181,1181,Fresia,0,,36_45290937532553
+127,1182,1182,Fresia,0,,36_45290937532553
+127,1183,1183,Fresia,0,,36_45290937532553
+127,1184,1184,Fresia,0,,36_45290937532553
+127,1185,1185,Fresia,0,,36_45290937532553
+127,1186,1186,Fresia,0,,36_45290937532553
+127,1187,1187,Fresia,0,,36_45290937532553
+127,1188,1188,Puerto Montt,1,,36_9271233907839
+127,1189,1189,Puerto Montt,1,,36_9271233907839
+127,1190,1190,Puerto Montt,1,,36_9271233907839
+127,1191,1191,Puerto Montt,1,,36_9271233907839
+127,1192,1192,Puerto Montt,1,,36_9271233907839
+127,1193,1193,Puerto Montt,1,,36_9271233907839
+127,1194,1194,Puerto Montt,1,,36_9271233907839
+127,1195,1195,Puerto Montt,1,,36_9271233907839
+127,1196,1196,Puerto Montt,1,,36_9271233907839
+128,1224,1224,La Pasada,1,,54_5008050848854
+128,1225,1225,La Pasada,1,,54_5008050848854
+128,1226,1226,La Pasada,1,,54_5008050848854
+128,1227,1227,La Pasada,1,,54_5008050848854
+128,1228,1228,La Pasada,1,,54_5008050848854
+128,1229,1229,La Pasada,1,,54_5008050848854
+128,1230,1230,Maullín,0,,54_49962774336083
+128,1231,1231,Maullín,0,,54_49962774336083
+128,1232,1232,Maullín,0,,54_49962774336083
+128,1233,1233,Maullín,0,,54_49962774336083
+128,1234,1234,Maullín,0,,54_49962774336083
+128,1235,1235,Maullín,0,,54_49962774336083
+129,1236,1236,Quenuir,1,,40_13305290701371
+129,1237,1237,Quenuir,1,,40_13305290701371
+129,1238,1238,Quenuir,1,,40_13305290701371
+129,1239,1239,Maullín,0,,40_40865651824361
+129,1240,1240,Maullín,0,,40_40865651824361
+129,1241,1241,Maullín,0,,40_40865651824361
+130,1242,1242,Calbuco,0,,54_5328656656809
+130,1243,1243,Calbuco,0,,54_5328656656809
+130,1244,1244,Calbuco,0,,54_5328656656809
+130,1245,1245,Calbuco,0,,54_5328656656809
+130,1246,1246,Calbuco,0,,54_5328656656809
+130,1247,1247,Calbuco,0,,54_5328656656809
+130,1248,1248,Isla Puluqui,1,,54_48401193407181
+130,1249,1249,Isla Puluqui,1,,54_48401193407181
+130,1250,1250,Isla Puluqui,1,,54_48401193407181
+130,1251,1251,Isla Puluqui,1,,54_48401193407181
+130,1252,1252,Isla Puluqui,1,,54_48401193407181
+130,1253,1253,Isla Puluqui,1,,54_48401193407181
+131,1254,1254,Osorno,0,,69_39386305589975
+131,1255,1255,Osorno,0,,69_39386305589975
+131,1256,1256,Osorno,0,,69_39386305589975
+131,1257,1257,Osorno,0,,69_39386305589975
+131,1258,1258,Osorno,0,,69_39386305589975
+131,1259,1259,Osorno,0,,69_39386305589975
+131,1260,1260,Osorno,0,,69_39386305589975
+131,1261,1261,Osorno,0,,69_39386305589975
+131,1262,1262,Osorno,0,,69_39386305589975
+131,1263,1263,Osorno,0,,69_39386305589975
+131,1264,1264,Osorno,0,,69_39386305589975
+131,1265,1265,Osorno,0,,69_39386305589975
+131,1266,1266,Osorno,0,,69_39386305589975
+131,1267,1267,Osorno,0,,69_39386305589975
+131,1268,1268,Osorno,0,,69_39386305589975
+131,1269,1269,Osorno,0,,69_39386305589975
+131,1270,1270,Osorno,0,,69_39386305589975
+131,1271,1271,Osorno,0,,69_39386305589975
+131,1272,1272,Osorno,0,,69_39386305589975
+131,1273,1273,Osorno,0,,69_39386305589975
+131,1274,1274,Osorno,0,,69_39386305589975
+131,1275,1275,Puerto Montt,1,,69_15966960966654
+131,1276,1276,Puerto Montt,1,,69_15966960966654
+131,1277,1277,Puerto Montt,1,,69_15966960966654
+131,1278,1278,Puerto Montt,1,,69_15966960966654
+131,1279,1279,Puerto Montt,1,,69_15966960966654
+131,1280,1280,Puerto Montt,1,,69_15966960966654
+131,1281,1281,Puerto Montt,1,,69_15966960966654
+131,1282,1282,Puerto Montt,1,,69_15966960966654
+131,1283,1283,Puerto Montt,1,,69_15966960966654
+131,1284,1284,Puerto Montt,1,,69_15966960966654
+131,1285,1285,Puerto Montt,1,,69_15966960966654
+131,1286,1286,Puerto Montt,1,,69_15966960966654
+131,1287,1287,Puerto Montt,1,,69_15966960966654
+131,1288,1288,Puerto Montt,1,,69_15966960966654
+131,1289,1289,Puerto Montt,1,,69_15966960966654
+131,1290,1290,Puerto Montt,1,,69_15966960966654
+131,1291,1291,Puerto Montt,1,,69_15966960966654
+131,1292,1292,Puerto Montt,1,,69_15966960966654
+131,1293,1293,Puerto Montt,1,,69_15966960966654
+131,1294,1294,Puerto Montt,1,,69_15966960966654
+131,1295,1295,Puerto Montt,1,,69_15966960966654
+133,1296,1296,Castro,0,,33_24474430604447
+133,1297,1297,Castro,0,,33_24474430604447
+133,1298,1298,Castro,0,,33_24474430604447
+133,1299,1299,Castro,0,,33_24474430604447
+133,1300,1300,Castro,0,,33_24474430604447
+133,1301,1301,Castro,0,,33_24474430604447
+133,1302,1302,Castro,0,,33_24474430604447
+133,1303,1303,Castro,0,,33_24474430604447
+133,1304,1304,Castro,0,,33_24474430604447
+133,1305,1305,Castro,0,,33_24474430604447
+133,1328,1328,Quemchi,1,,33_5842383161624
+133,1329,1329,Quemchi,1,,33_5842383161624
+133,1330,1330,Quemchi,1,,33_5842383161624
+133,1331,1331,Quemchi,1,,33_5842383161624
+133,1332,1332,Quemchi,1,,33_5842383161624
+133,1333,1333,Quemchi,1,,33_5842383161624
+134,1306,1306,Castro,0,,42_40231404876917
+134,1307,1307,Castro,0,,42_40231404876917
+134,1308,1308,Castro,0,,42_40231404876917
+134,1309,1309,Castro,0,,42_40231404876917
+134,1310,1310,Castro,0,,42_40231404876917
+134,1311,1311,Castro,0,,42_40231404876917
+134,1312,1312,Castro,0,,42_40231404876917
+134,1313,1313,Castro,0,,42_40231404876917
+134,1314,1314,Castro,0,,42_40231404876917
+134,1334,1334,Quemchi,1,,42_21461248476999
+134,1335,1335,Quemchi,1,,42_21461248476999
+134,1336,1336,Quemchi,1,,42_21461248476999
+134,1337,1337,Quemchi,1,,42_21461248476999
+134,1338,1338,Quemchi,1,,42_21461248476999
+135,1315,1315,Castro,0,,32_53988933139244
+135,1316,1316,Castro,0,,32_53988933139244
+135,1317,1317,Castro,0,,32_53988933139244
+135,1318,1318,Castro,0,,32_53988933139244
+135,1319,1319,Castro,0,,32_53988933139244
+135,1339,1339,Quemchi,1,,32_47763467232116
+135,1340,1340,Quemchi,1,,32_47763467232116
+136,1320,1320,Castro,0,,16_18821573546019
+136,1321,1321,Castro,0,,16_18821573546019
+136,1322,1322,Castro,0,,16_18821573546019
+136,1323,1323,Castro,0,,16_18821573546019
+136,1324,1324,Castro,0,,16_18821573546019
+136,1341,1341,Quemchi,1,,16_31040082919344
+136,1342,1342,Quemchi,1,,16_31040082919344
+136,1343,1343,Quemchi,1,,16_31040082919344
+137,1325,1325,Castro,0,,31_56240118117004
+137,1326,1326,Castro,0,,31_56240118117004
+137,1327,1327,Castro,0,,31_56240118117004
+137,1344,1344,Quemchi,1,,31_3070703253860
+137,1345,1345,Quemchi,1,,31_3070703253860
+145,1353,1353,Centro - V Centenario - Rahue - Centro - Ula,0,,81_19848942371493
+145,1354,1354,Centro - V Centenario - Rahue - Centro - Ula,0,,81_19848942371493
+145,1355,1355,Centro - V Centenario - Rahue - Centro - Ula,0,,81_19848942371493
+145,1356,1356,Ula - Centro - Rahue - Vcentenario - Centro,1,,81_305801863284
+145,1357,1357,Ula - Centro - Rahue - Vcentenario - Centro,1,,81_305801863284
+145,1358,1358,Ula - Centro - Rahue - Vcentenario - Centro,1,,81_305801863284

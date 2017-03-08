@@ -1,0 +1,23 @@
+Parametros Asignacion Paradero a validacion
+------------------------
+
+C:\Users\Jorge\Documents\Memoria\GTFSProcessing\procesaGTFS\x64\Release\GTFS_Temuco					* Nombre Archivo de salida de validaciones procesadas
+						* Nombre de archivo con horario de servicios (opcional)
+						* Nombre de archivo con puntos de carga bip
+C:\Users\Jorge\Documents\Memoria\GTFSProcessing\procesaGTFS\x64\Release\GTFS_Temuco_kmls\				* carpeta para kmls
+C:\Users\Jorge\Documents\Memoria\GTFSProcessing\procesaGTFS\x64\Release\GTFS_Temuco_reportes\			* carpeta para reportes
+20.0								* Distancia para el tramado de la ruta
+v0.6								* version
+11									* colores		
+b90606 1
+ffcf00 2
+096a04 3
+0021ff 4
+7a2ec7 5
+0029ff 6
+2400ff 7
+1400ff 8
+000000 9
+ffffff 10
+6b6c74 11
+			* Archivo que contiene la Ida y Regreso de las micros (opcional)

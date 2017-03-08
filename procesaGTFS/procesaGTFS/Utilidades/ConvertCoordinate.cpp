@@ -5,6 +5,7 @@ const double PI = 3.14159265;
 const double FOURTHPI = PI / 4;
 const double deg2rad = PI / 180;
 const double rad2deg = 180.0 / PI;
+//const char* UTMZONE;
 
 class Ellipsoid
 {
@@ -72,6 +73,14 @@ namespace ConvertCoordinate {
 //{
 //	return unsigned short int(y - 6258237);
 //}
+
+void setUTMZONE(const char* UTMZone) {
+	//UTMZONE = UTMZone;
+}
+
+const char* getUTMZONE() {
+	return UTMZONE;
+}
 
 void UTMtoLL(int ReferenceEllipsoid, const double UTMNorthing, const double UTMEasting, const char* UTMZone,
 			  double& Lat,  double& Long )

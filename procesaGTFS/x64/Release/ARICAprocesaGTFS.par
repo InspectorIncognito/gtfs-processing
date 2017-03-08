@@ -1,0 +1,27 @@
+Parametros Asignacion Paradero a validacion
+------------------------
+
+C:\Users\Jorge\Documents\Memoria\GTFSProcessing\procesaGTFS\x64\Release\GTFS_Arica					* Nombre Archivo de salida de validaciones procesadas
+						* Nombre de archivo con horario de servicios (opcional)
+						* Nombre de archivo con puntos de carga bip
+C:\Users\Jorge\Documents\Memoria\GTFSProcessing\procesaGTFS\x64\Release\GTFS_Arica_kmls\				* carpeta para kmls
+C:\Users\Jorge\Documents\Memoria\GTFSProcessing\procesaGTFS\x64\Release\GTFS_Arica_reportes\			* carpeta para reportes
+20.0								* Distancia para el tramado de la ruta
+v0.6								* version
+15									* colores		
+6e4b20 1
+d94920 2
+ed5c0c 3
+F7A800 4
+a62139 5
+e30916 6
+a33324 7
+eb467c 8
+e80250 9
+b52f89 10
+246396 11
+41a332 12
+0A262C 13
+60B3E4 14
+047d39 15
+			* Archivo que contiene la Ida y Regreso de las micros (opcional)

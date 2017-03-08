@@ -1,18 +1,14 @@
 Parametros Asignacion Paradero a validacion
 ------------------------
 
-GTFS_Transantiago_26_9_2016					* Nombre Archivo de salida de validaciones procesadas
-horarios.csv						* Nombre de archivo con horario de servicios (opcional)
-cargaBip.csv						* Nombre de archivo con puntos de carga bip
-GTFS_Transantiago_kmls\				* carpeta para kmls
-GTFS_Transantiago_reportes\			* carpeta para reportes
+GTFS_Concepcion_9_10_2016					* Nombre Archivo de salida de validaciones procesadas
+						* Nombre de archivo con horario de servicios (opcional)
+						* Nombre de archivo con puntos de carga bip
+GTFS_Concepcion_kmls\				* carpeta para kmls
+GTFS_Concepcion_reportes\			* carpeta para reportes
 20.0								* Distancia para el tramado de la ruta
 v0.6								* version
-7									* colores
-ED1C24 1					
-F58220 2				
-FFD400 3					
-0067AC 5					
-00D5FF 4				
-00B33C 6					
-00D9A3 7					
+1									* colores										
+0056FF 1
+18H							* UTM Zone (obligatorio)
+service_IR_Concepcion.csv			* Archivo que contiene la Ida y Regreso de las micros (opcional)

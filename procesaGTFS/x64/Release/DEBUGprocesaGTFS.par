@@ -1,0 +1,13 @@
+Parametros Asignacion Paradero a validacion
+------------------------
+
+C:\Users\Jorge\Documents\Memoria\GTFSProcessing\procesaGTFS\x64\Release\GTFS_Concepcion_01_02_2016					* Nombre Archivo de salida de validaciones procesadas
+						* Nombre de archivo con horario de servicios (opcional)
+						* Nombre de archivo con puntos de carga bip
+C:\Users\Jorge\Documents\Memoria\GTFSProcessing\procesaGTFS\x64\Release\GTFS_Concepcion_kmls\				* carpeta para kmls
+C:\Users\Jorge\Documents\Memoria\GTFSProcessing\procesaGTFS\x64\Release\GTFS_Concepcion_reportes\			* carpeta para reportes
+20.0								* Distancia para el tramado de la ruta
+v0.6								* version
+1									* colores		
+0056FF 1
+service_IR_Concepcion.csv			* Archivo que contiene la Ida y Regreso de las micros (opcional)

@@ -9,7 +9,7 @@
 * not be disclosed to third parties or copied or duplicated in any form,
 * in whole or in part, without the prior written consent of Pragxis SpA.
 * Copyright:  Pragxis (c) 2016
-* Last modified : Mauricio Zuñiga 18-06-2016
+* Last modified : Jorge Roa 16-02-2017
 */
 #pragma once
 
@@ -49,6 +49,7 @@ class FuenteDatos{
 	*	@param file nombre del archivo de parametros externos 
 	*/
 	FuenteDatos(const char *file);
+	
 	/**
 	 * Constructor por defecto
 	 */
@@ -57,7 +58,6 @@ class FuenteDatos{
 	 * Destructor por defecto
 	 */
 	~FuenteDatos(void);
-    
 	///Parametros externos, nombres de archivo, indices de columnas parametros para el proceso...
 	Parametros* parametros;
 
@@ -82,8 +82,26 @@ class FuenteDatos{
 	///Estructura de servicios
 	map<string, Servicio> servicios;
 
+	///Estructura de rutas
+	map<string, string> routes;
+
+	///Estructura para mapear los servicios de Concepcion
+	map<string, string> map_servicios;
+
 	///Estructura con la red de puntos de carga bip
 	map<int, PuntoBip> puntosDeCargaBip;
+
+	///Estructura mapear trip_id con route_id
+	map<string, string> routeBytrip;
+
+	///Estructura para mapear la ida y regreso servicios concepción
+	map<string, string> serviciosIR;
+
+	///Estructura para saber la dirección de los servicios según su shape_id
+	map<string, int> directionByShape;
+
+	///Estructura para mapear el servicio-sentido según el trip_id
+	map<string, string> serviceByTrip;
 
 	///Grilla para ordenar informacion geograficamente
 	Grid grid;
@@ -91,11 +109,34 @@ class FuenteDatos{
 	///Instancia de clase para manejo de tiempo
 	TimeStampHandler tsh;
 
+	///Variable para identificar si hay paraderos duplicados o no (en stops.txt)
+	bool par_duplicados;
+
+	///Estructura para relacionar archivos shapes.txt con stops_times.txt, guardando datos de trips.txt
+	map<string, string> trips;
+
+	/**
+	/* Método que preprocesa los archivos del GTFS para verificar que no hayan paraderos 
+	/* con igual posición (lat,lon) y distintos Id
+	*/
+	void PreprocesaGTFS();
+
 	/**
 	* Metodo de lectura de datos para estandarizar la codificacion de servicio-sentido
 	* @return referencia a objeto con los distintos diccionarios de servicio-sentido
 	*/
 	void leeDiccionarioServicios();
+
+	void leeDiccionarioServiciosConce();
+	/***
+	* Método que lee el sentido de los servicios (ida y regreso) para Concepción
+	**/
+	void leeSentidoServicios();
+	/***
+	* Método de Lectura para relacionar los archivos shapes.txt con stops_times.txt (Para GTFS Concepcion)
+	* Crea map
+	**/
+	void leeTrips();
 
 	/**
 	* Metodo de lectura de la rutas

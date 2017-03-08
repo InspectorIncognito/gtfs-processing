@@ -1,0 +1,461 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+PF-82,328,18 de Septiembre / Estadio Carlos Dittborn,Paradero Formal 82,-18.48684352,-70.29765714,,,0,,,0
+PF-81,360,Santa Maria / Liceo A-1,Paradero Formal 81,-18.47433806,-70.30798425,,,0,,,0
+PF-83,329,18 de Septiembre / Tucapel,Paradero Formal 83,-18.48692296,-70.29643959,,,0,,,0
+PF-2,330,Capitán Ávalos / Pehuén,Paradero Formal 2,-18.48860139,-70.28558264,,,0,,,0
+PF-3,331,Capitán Ávalos / Diego Portales,Paradero Formal 3,-18.48831178,-70.28576725,,,0,,,0
+PF-4,266,Capitán Ávalos / Las Torres,Paradero Formal 4,-18.4842332,-70.284246,,,0,,,0
+PF-5,230,Capitan Avalos / Alonso de Camargo,Paradero Formal 5,-18.48424087,-70.28450891,,,0,,,0
+PF-6,233,Linderos / Dr. Amador Neghme,Paradero Formal 6,-18.43861804,-70.28675331,,,0,,,0
+PF-80,318,Santa Maria / Cabo Elías Sánchez,Paradero Formal 80,-18.47436674,-70.30780811,,,0,,,0
+PF-9,232,Cancha Rayada / Dr. Amador Neghme,Paradero Formal 9,-18.43860489,-70.29019567,,,0,,,0
+PF-72,295,Dr. Juan Noe / Arturo Gallo,Paradero Formal 72,-18.4790689,-70.31115963,,,0,,,0
+PF-8,231,Cancha Rayada / Dr. Amador Neghme,Paradero Formal 8,-18.43799306,-70.29054227,,,0,,,0
+PF-71,300,José Victorino Lastarrias / Cementerio Municipal,Paradero Formal 71,-18.47881387,-70.30924979,,,0,,,0
+PF-7,234,Linderos / Dr. Amador Neghme,Paradero Formal 7,-18.43912521,-70.28633113,,,0,,,0
+PF-77,321,Comandante San Martin / Plaza Vicuña Mackenna,Paradero Formal 77,-18.47756608,-70.32257845,,,0,,,0
+PF-76,320,Pedro Montt / Plaza Vicuña Mackena,Paradero Formal 76,-18.47763298,-70.32209417,,,0,,,0
+PF-75,327,18 de Septiembre / General Manuel Baquedano,Paradero Formal 75,-18.47836019,-70.31786128,,,0,,,0
+PF-74,353,Dr. Juan Noe / Manuel Blanco Encalada,Paradero Formal 74,-18.47762667,-70.3127893,,,0,,,0
+PF-79,316,Santa Maria / Juán Antonio Ríos,Paradero Formal 79,-18.47370984,-70.30719438,,,0,,,0
+PF-78,317,Santa Maria / Juan Antonio Ríos,Paradero Formal 78,-18.47328287,-70.30704133,,,0,,,0
+PR-93,408,Joaquin Aracena / Las Acacias,Punto Referencia 93,-18.47927459,-70.28820885,,,0,,,0
+PR-92,407,Libertad / Los Laureles,Punto Referencia 92,-18.47848651,-70.29137949,,,0,,,0
+PR-95,410,Ramón Barros Luco / Las Torres,Punto Referencia 95,-18.48395117,-70.28215729,,,0,,,0
+PR-94,409,Joaquin Aracena / Capitán Ávalos,Punto Referencia 94,-18.48268612,-70.28493434,,,0,,,0
+PR-91,406,Las Tranqueras / Hernan Agurto,Punto Referencia 91,-18.48197064,-70.29213935,,,0,,,0
+PR-90,405,Linderos / Villarrica,Punto Referencia 90,-18.43275052,-70.28890799,,,0,,,0
+PR-97,412,Canteras / Retiros,Punto Referencia 97,-18.45938095,-70.28228739,,,0,,,0
+PR-96,411,Ramón Barros Luco / El Quilllay,Punto Referencia 96,-18.48525183,-70.28254573,,,0,,,0
+PR-99,415,Gonzalo Cerda / Alejandro Azola,Punto Referencia 99,-18.47234041,-70.29820712,,,0,,,0
+PR-98,414,Barros Arana / Pasaje Nueve,Punto Referencia 98,-18.47190892,-70.30083483,,,0,,,0
+PFA-99,359,Dr. Juan Noe / Patricio Lynch,Paradero Formal Antiguo 99,-18.47686596,-70.31366486,,,0,,,0
+PR-80,394,Ginebra / Monza,Punto Referencia 80,-18.44783537,-70.29595394,,,0,,,0
+PR-84,398,Cancha Rayada / Humberstone,Punto Referencia 84,-18.43295175,-70.29223664,,,0,,,0
+PR-83,397,La proveedora / Llancolén,Punto Referencia 83,-18.44383196,-70.2924225,,,0,,,0
+PR-82,396,Emilio Gutiérrez / Malahue,Punto Referencia 82,-18.44187621,-70.29351304,,,0,,,0
+PR-81,395,Mentón / Panamericana Norte,Punto Referencia 81,-18.44211544,-70.29552755,,,0,,,0
+PR-88,404,Las Acacias / CFT UTA,Punto Referencia 88,-18.48396154,-70.29182228,,,0,,,0
+PR-87,401,Romulo Peña / Conrado Ríos,Punto Referencia 87,-18.4838086,-70.29843963,,,0,,,0
+PR-86,400,Diaguitas / Linderos,Punto Referencia 86,-18.42778626,-70.29083718,,,0,,,0
+PR-85,399,Robinson Rojas / Diaguitas,Punto Referencia 85,-18.42895837,-70.29243344,,,0,,,0
+PR-89,403,Linderos / Los Andes,Punto Referencia 89,-18.43002414,-70.28989692,,,0,,,0
+PFA-88,286,Senador Luis Valente Rossi  / Arturo Gallo,Paradero Formal Antiguo 88,-18.48270067,-70.31429659,,,0,,,0
+PFA-91,287,18 de Septiembre / Hospital Regional de Arica,Paradero Formal Antiguo 91,-18.48253915,-70.31287067,,,0,,,0
+PR-71,385,Las Brisas / Los Avellanos,Punto Referencia 71,-18.48742944,-70.28361259,,,0,,,0
+PR-70,384,El Quillay / Las Brisas,Punto Referencia 70,-18.48889665,-70.28185234,,,0,,,0
+PR-73,387,Santiago Flores / Parada 3,Punto Referencia 73,-18.50964362,-70.26796438,,,0,,,0
+PR-72,386,Santiago Flores  / Parada 1,Punto Referencia 72,-18.50927556,-70.27218461,,,0,,,0
+PR-75,389,Robinson Rojas / Mejillones,Punto Referencia 75,-18.43157813,-70.29154644,,,0,,,0
+PR-74,388,Linderos / Psje 3,Punto Referencia 74,-18.43022971,-70.28907006,,,0,,,0
+PR-77,391,Ginebra / Brest,Punto Referencia 77,-18.45047299,-70.29674656,,,0,,,0
+PR-200,543,Calle 1 / San Ignacio de Loyola,Punto Referencia 200,-18.49938796,-70.30743644,,,0,,,0
+PR-76,390,Emilio Gutiérrez / Sold. Eleodoro Gutierrez,Punto Referencia 76,-18.44181278,-70.29301696,,,0,,,0
+PR-79,393,Ginebra / Brest,Punto Referencia 79,-18.45151718,-70.29658807,,,0,,,0
+PR-78,392,General Velasquez / Esmeralda,Punto Referencia 78,-18.47459671,-70.31480832,,,0,,,0
+T-Lisera,547,Comandante San Martín / Terminal la Lisera,Terminal,-18.49602978,-70.32432007,,,0,,,0
+PR-69,383,Joaquín Toesca / Consulado,Punto Referencia 69,-18.48639772,-70.28068795,,,0,,,0
+PR-67,381,Esteban Ríos / Las Acacias,Punto Referencia 67,-18.47537763,-70.28463211,,,0,,,0
+PR-117,513,Abrahan Mediba / Romulo Peña,Punto Referencia 117,-18.48522851,-70.29563184,,,0,,,0
+PR-68,382,Gral Réne Shneider / Los Avellanos,Punto Referencia 68,-18.48070241,-70.28007842,,,0,,,0
+PR-65,379,Diego Portales / Charles Richet,Punto Referencia 65,-18.47465174,-70.30231117,,,0,,,0
+PR-66,380,Diego Portales / Poconchile,Punto Referencia 66,-18.47983656,-70.29751148,,,0,,,0
+PR-63,376,Comandante San Martín / Canchas Laucho Soccer,Punto Referencia 63,-18.4858887,-70.32587737,,,0,,,0
+PR-113,444,Capitán Avelino Villagran / Alto Palena,Punto Referencia 113,-18.49688925,-70.29404355,,,0,,,0
+PR-64,377,Comandante San Martín / Ex-Isla Alacrán,Punto Referencia 64,-18.48197266,-70.32662671,,,0,,,0
+PR-112,443,Capitán Avelino Villagran / Cerro Sombrero,Punto Referencia 112,-18.49642267,-70.29364449,,,0,,,0
+PR-61,374,Diego Portales / Alejandro Azolas,Punto Referencia 61,-18.4752739,-70.30104962,,,0,,,0
+PR-111,440,Iquique / Humberto Luque,Punto Referencia 111,-18.49558282,-70.30187175,,,0,,,0
+PR-62,426,Alcalde Oscar Bermar / Bernardino Guerra,Punto Referencia 62,-18.49914292,-70.29664558,,,0,,,0
+PR-110,439,Miguel Squella con  Pasaje 6,Punto Referencia 110,-18.49684259,-70.30350627,,,0,,,0
+PR-60,373,Tucapel / Quebrada de Acha,Punto Referencia 60,-18.4755038,-70.29108912,,,0,,,0
+PR-129,462,Las Acacias / Las Zanahorias,Punto Referencia 129,-18.47471583,-70.28377154,,,0,,,0
+PR-56,369,Arturo Gallo / Bernardo O'Higgins,Punto Referencia 56,-18.48021501,-70.31240926,,,0,,,0
+PR-128,461,Loa / Los Castaños,Punto Referencia 128,-18.47751127,-70.2854005,,,0,,,0
+PR-57,370,Las Brisas / Los Avellanos,Punto Referencia 57,-18.48732312,-70.28382976,,,0,,,0
+PR-58,371,Joaquín Toesca / Consulado,Punto Referencia 58,-18.48652471,-70.28063725,,,0,,,0
+PR-59,372,Esteban Ríos / Raul Araya,Punto Referencia 59,-18.47395175,-70.2861968,,,0,,,0
+PR-125,458,Argentina / Pasaje Doce,Punto Referencia 125,-18.47157712,-70.30255071,,,0,,,0
+PR-52,365,Capitán Ávalos / Raulí,Punto Referencia 52,-18.48132631,-70.2839294,,,0,,,0
+PR-124,457,Gonzalo Cerda / Argentina,Punto Referencia 124,-18.47015643,-70.30077952,,,0,,,0
+PR-53,366,Joaquín Aracena / Las Acacias,Punto Referencia 53,-18.47950186,-70.28770758,,,0,,,0
+PR-127,460,Barros Luco / Los Olmos,Punto Referencia 127,-18.47964366,-70.28113405,,,0,,,0
+PR-54,367,Tucapel / Pachama,Punto Referencia 54,-18.47934087,-70.29445733,,,0,,,0
+PR-55,368,José Victorino Lastarría / Lautaro,Punto Referencia 55,-18.48024353,-70.3076779,,,0,,,0
+PR-120,453,Canteras / Penco,Punto Referencia 120,-18.46105565,-70.28182725,,,0,,,0
+PR-123,456,Gonzalo Cerda / Barros Arana,Punto Referencia 123,-18.47154083,-70.29900287,,,0,,,0
+PR-50,3,Cancha Rayada / TalTal,Punto Referencia 50,-18.4310502,-70.29293989,,,0,,,0
+PR-49,2,Cancha Rayada / Caldera,Punto Referencia 49,-18.43140673,-70.29297504,,,0,,,0
+PR-43,213,El Roble / La Concepción,Punto Referencia 43,-18.44051941,-70.29363735,,,0,,,0
+PR-42,192,El Roble / Treguaco,Punto Referencia 42,-18.44200177,-70.29407881,,,0,,,0
+PR-47,216,Francisco Urzua / Mejillones,Punto Referencia 47,-18.43211544,-70.29021625,,,0,,,0
+PR-45,194,Cancha Rayada / Villarrica,Punto Referencia 45,-18.43461741,-70.29160699,,,0,,,0
+PR-46,198,Cancha Rayada / Temuco,Punto Referencia 46,-18.43407093,-70.29197577,,,0,,,0
+T-L2,544,Tambo Quemado / Terminal Empresa Transportes Línea Dos Sociedad Anónima,Terminal,-18.50340933,-70.28133824,,,0,,,0
+PR-39,199,Los Artesanos / Robinson Rojas,Punto Referencia 39,-18.45062262,-70.29045759,,,0,,,0
+PR-30,33,Joaquin Toesca / Las Torres,Punto Referencia 30,-18.48357752,-70.2796804,,,0,,,0
+PR-102,418,Gonzalo Cerda / Alejandor Azola,Punto Referencia 102,-18.47249987,-70.29767429,,,0,,,0
+PR-105,433,Iquique / Humberto Luque,Punto Referencia 105,-18.49544917,-70.30172681,,,0,,,0
+PR-32,219,Manuel Bulnes / Flor del Inca,Punto Referencia 32,-18.4724606,-70.28457288,,,0,,,0
+PR-33,534,18 de Septiembre / Francisco Antonio Encina,Punto Referencia 33,-18.48859537,-70.29232962,,,0,,,0
+PR-104,446,Chapiquiña / Sakamar,Punto Referencia 104,-18.47423616,-70.29415784,,,0,,,0
+PR-107,435,Senador Luis Valente Rossi  / San Antonio,Punto Referencia 107,-18.48724228,-70.30614384,,,0,,,0
+PR-34,27,Renato Roca / Chapiquiña,Punto Referencia 34,-18.46703043,-70.28765087,,,0,,,0
+PR-106,434,Senador Luis Valente Rossi / José Manuel Borgoño,Punto Referencia 106,-18.489342,-70.30376039,,,0,,,0
+PR-35,207,Antártica / Linderos,Punto Referencia 35,-18.45261291,-70.28426424,,,0,,,0
+PR-109,438,Senador Luis Valente Rossi / San Antonio,Punto Referencia 109,-18.48711152,-70.30648285,,,0,,,0
+PR-36,35,Antártica / Linderos,Punto Referencia 36,-18.45249906,-70.28434753,,,0,,,0
+PR-108,436,Senador Luis Valente Rossi / Huasco (detrás del Hospital Juan Noé),Punto Referencia 108,-18.48343162,-70.31285138,,,0,,,0
+PR-101,417,Alfonso Nespolo / Alcalde Oscar Belmar,Punto Referencia 101,-18.49987049,-70.2974176,,,0,,,0
+PR-100,416,El Tepual / Futaleufu,Punto Referencia 100,-18.49842991,-70.29505553,,,0,,,0
+PFA-40,246,Santa Maria / Colo Colo,Paradero Formal Antiguo 40,-18.46658043,-70.30103718,,,0,,,0
+PFA-39,352,Panamericana Norte /  ASOCAPEC,Paradero Formal Antiguo 39,-18.49903605,-70.28528206,,,0,,,0
+PFA-37,69,Alcalde Edmundo Flores / Luis Crignola,Paradero Formal Antiguo 37,-18.49160028,-70.29613068,,,0,,,0
+PFA-35,363,Santa María / Renato Rocca,Paradero Formal Antiguo 35,-18.46100313,-70.29612291,,,0,,,0
+PFA-36,105,Alcalde Edmundo Flores /  Arturo Cruz,Paradero Formal Antiguo 36,-18.49135346,-70.29582565,,,0,,,0
+PFA-31,263,Alejandro Azolas / Tte Martín Bravo,Paradero Formal Antiguo 31,-18.46494732,-70.29177832,,,0,,,0
+PFA-28,43,21 de Mayo / San Martin,Paradero Formal Antiguo 28,-18.48202404,-70.31501839,,,0,,,0
+PFA-29,268,Alejandro Azolas / Canteras,Paradero Formal Antiguo 29,-18.45706334,-70.28297555,,,0,,,0
+PFA-1,19,Linderos / Juan de Dios Flores,Paradero Formal Antiguo 1,-18.44649665,-70.28524762,,,0,,,0
+PFA-9,242,Panamericana Norte / Francisco Bilbao,Paradero Formal Antiguo 9,-18.46261559,-70.29783609,,,0,,,0
+PFA-7,270,Capitán Ávalos / Los Álamos,Paradero Formal Antiguo 7,-18.47758571,-70.28331154,,,0,,,0
+PFA-6,243,Santa Maria / Javiera Carrera,Paradero Formal Antiguo 6,-18.46425373,-70.29936017,,,0,,,0
+PFA-4,229,Las Brisas / Capitan Avalos,Paradero Formal Antiguo 4,-18.48626718,-70.28456115,,,0,,,0
+PFA-2,540,Bernardo O'Higgins / Cristóbal Colón,Paradero Formal Antiguo 2,-18.47680998,-70.31667016,,,0,,,0
+PFA-84,342,Rafael Sotomayor / San Ignacio de Loyola,Paradero Formal Antiguo 84,-18.50025737,-70.30942237,,,0,,,0
+PFA-83,293,Rafael Sotomayor / San Ignacio de Loyola,Paradero Formal Antiguo 83,-18.5001044,-70.30921938,,,0,,,0
+T-Etrapas,546,Terminal Sociedad Anónima Cerrada Etrapas S. A.,Terminal,-18.40549218,-70.2972458,,,0,,,0
+PFA-71,280,Santiago Flores / Parada 1,Paradero Formal Antiguo 71,-18.50904752,-70.27231015,,,0,,,0
+PFA-72,281,Carretera Panamericana Sur / Santiago Flores,Paradero Formal Antiguo 72,-18.50937227,-70.27811991,,,0,,,0
+PFA-70,279,Santiago Flores  / Parada 2,Paradero Formal Antiguo 70,-18.50929841,-70.26935384,,,0,,,0
+PFA-69,278,Santiago Flores / Parada 3,Paradero Formal Antiguo 69,-18.50945359,-70.26788222,,,0,,,0
+PFA-65,305,El Tranque / Tambo Quemado,Paradero Formal Antiguo 65,-18.49579194,-70.28670581,,,0,,,0
+PFA-66,77,Panamericana Norte / Puerta principal ASOAGRO,Paradero Formal Antiguo 66,-18.49672376,-70.2865255,,,0,,,0
+PFA-62,375,21 de Mayo / General Lagos,Paradero Formal Antiguo 127,-18.48070002,-70.31640703,,,0,,,0
+PFA-53,310,Diego Portales / Pedro de la Ona,Paradero Formal Antiguo 53,-18.47621844,-70.30043688,,,0,,,0
+PFA-59,275,Loa / Codpa,Paradero Formal Antiguo 59,-18.47313405,-70.29139608,,,0,,,0
+PFA-43,530,Coihueco / Nora Iglesias,Paradero Formal Antiguo 43,-18.49363233,-70.30592661,,,0,,,0
+PFA-45,251,Brasil / Panamericana Norte,Paradero Formal Antiguo 45,-18.46795354,-70.30299304,,,0,,,0
+T-7y8,545,Terminal Asoc. G. Dueños Tax/Bus Línea 7  variante 7A 7 B Arica,Terminal,-18.50977001,-70.26660569,,,0,,,0
+PI-110,83,Chapiquiña / Bremen,Paradero Informal 110,-18.4743648,-70.29447173,,,0,,,0
+PI-111,120,Loa / Chapiquiña,Paradero Informal 111,-18.47195728,-70.29207742,,,0,,,0
+PI-112,17,Chapiquiña / Francisco Bilbao,Paradero Informal 112,-18.46925688,-70.28981662,,,0,,,0
+PI-113,15,Francisco  Bilbao / Chapiquiña,Paradero Informal 113,-18.46927082,-70.28951919,,,0,,,0
+PI-104,142,Tucapel / Francisco Bilbao,Paradero Informal 104,-18.47103215,-70.28717118,,,0,,,0
+PI-103,152,Tucapel / Manuel Bulnes,Paradero Informal 103,-18.47087159,-70.28671355,,,0,,,0
+PI-106,121,Loa / Codpa,Paradero Informal 106,-18.47326422,-70.29098536,,,0,,,0
+PI-108,177,Diego Portales / Guallatire,Paradero Informal 108,-18.47749107,-70.29943765,,,0,,,0
+PI-107,89,Diego Portales / Chapiquiña,Paradero Informal 107,-18.47887737,-70.29796694,,,0,,,0
+PI-109,42,Chapiquiña / Belen,Paradero Informal 109,-18.47731298,-70.29649067,,,0,,,0
+PI-101,71,Tucapel / Esteban Rios,Paradero Informal 101,-18.47250341,-70.28799255,,,0,,,0
+PI-102,146,Renato Roca / Mariano Latorre,Paradero Informal 102,-18.46873247,-70.28598528,,,0,,,0
+PI-100,141,Tucapel / Tarapacá,Paradero Informal 100,-18.47263066,-70.28860696,,,0,,,0
+PI-132,178,Capitán Ávalos / Morrillos,Paradero Informal 132,-18.46557526,-70.28135281,,,0,,,0
+PI-133,76,Capitán Ávalos / Morrillos,Paradero Informal 133,-18.46533759,-70.28163814,,,0,,,0
+PI-134,126,Canteras / Curacaví,Paradero Informal 134,-18.4621496,-70.28125633,,,0,,,0
+PI-135,127,Canteras / Perquenco,Paradero Informal 135,-18.46159166,-70.28130113,,,0,,,0
+PI-130,124,Alejandro Azolas / La Paz,Paradero Informal 130,-18.46186736,-70.28909342,,,0,,,0
+PI-131,74,Capitán Ávalos / Cementerio Parque de La Paz),Paradero Informal 131,-18.46869351,-70.28187395,,,0,,,0
+PI-129,179,Alejandro Azolas / La Paz,Paradero Informal 129,-18.46202727,-70.28889636,,,0,,,0
+PI-126,168,España / Edmundo Pérez Zujovic,Paradero Informal 126,-18.453626,-70.29968204,,,0,,,0
+PI-125,112,España / José Joaquín Prieto,Paradero Informal 125,-18.45566122,-70.29932848,,,0,,,0
+PI-128,104,Los Artesanos / Pedro Blanquier,Paradero Informal 128,-18.45395396,-70.29004362,,,0,,,0
+PI-127,163,Gral Velasquez / Independencia (Regimiento Rancagua),Paradero Informal 127,-18.47296814,-70.31278558,,,0,,,0
+PI-123,211,España / Frente Piscina Olímpica,Paradero Informal 123,-18.46157353,-70.30170543,,,0,,,0
+PI-124,111,España / Piscina Olimpica,Paradero Informal 124,-18.46129439,-70.30186389,,,0,,,0
+PI-121,166,Luis Beretta Porcel / Brasil,Paradero Informal 121,-18.46603516,-70.30464022,,,0,,,0
+PI-120,110,Raul del Canto / Ronald Ross,Paradero Informal 120,-18.47139984,-70.304193,,,0,,,0
+PI-119,117,Alejandro Azolas / Loa,Paradero Informal 119,-18.46918902,-70.29535018,,,0,,,0
+PI-118,119,Loa / Alejandro Azolas,Paradero Informal 118,-18.46954854,-70.29523346,,,0,,,0
+PI-117,90,Alejandro Azolas / Francisco Bilbao,Paradero Informal 117,-18.466468,-70.29306794,,,0,,,0
+PI-116,123,Alejandro Azolas / Renato Rocca,Paradero Informal 116,-18.46483827,-70.29133143,,,0,,,0
+PI-115,356,Renato Roca / Complejo Esteban Alvarado,Paradero Informal 115,-18.46511436,-70.290105,,,0,,,0
+PI-114,176,Renato Roca / Chapiquiña,Paradero Informal 114,-18.46700682,-70.28816906,,,0,,,0
+PI-151,103,Cancha Rayada / Los Artesanos,Paradero Informal 151,-18.44917179,-70.29158171,,,0,,,0
+PI-150,143,Cancha Rayada / Soldado de Saldivar,Paradero Informal 150,-18.44929749,-70.29149039,,,0,,,0
+PI-153,99,Cancha Rayada / Lagunillas,Paradero Informal 153,-18.44785213,-70.28987803,,,0,,,0
+PI-152,102,Cancha Rayada / Lagunillas,Paradero Informal 152,-18.44812315,-70.28993914,,,0,,,0
+PI-155,98,Cancha Rayada / Buena Esperanza,Paradero Informal 155,-18.44588411,-70.28889438,,,0,,,0
+PI-154,13,Cancha Rayada / Buena Esperanza,Paradero Informal 154,-18.44616177,-70.28868717,,,0,,,0
+PI-157,10,Cancha rayada / Lircay,Paradero Informal 157,-18.44355917,-70.28919915,,,0,,,0
+PI-156,159,Cancha rayada / Colegio Ejército de Salvación,Paradero Informal 156,-18.44363728,-70.28934789,,,0,,,0
+PI-88,82,Capitán Avalos / Las Dunas,Paradero Informal 88,-18.47583666,-70.28269576,,,0,,,0
+PI-89,84,Capitán Ávalos / Ocarina,Paradero Informal 89,-18.47274851,-70.28247777,,,0,,,0
+PI-84,88,Loa / Cap. Avalos,Paradero Informal 84,-18.47872353,-70.28291806,,,0,,,0
+PFA-110,348,General Velasquez 7 José Victorino Lastarria,Paradero Formal Antiguo 110,-18.4741016,-70.31451461,,,0,,,0
+PI-85,59,Capitán Ávalos / Los Algarrobos,Paradero Informal 85,-18.47836116,-70.28320173,,,0,,,0
+PI-86,101,Capitan Avalos /  Colegio América,Paradero Informal 87,-18.47721187,-70.28297852,,,0,,,0
+PI-87,100,Capitan Avalos / Filodentros,Paradero Informal 87,-18.47533931,-70.28291653,,,0,,,0
+PI-81,60,René Schneider / Capitán Ávalos,Paradero Informal 81,-18.47999458,-70.28330681,,,0,,,0
+PFA-115,349,Santa Maria / Diego Portales,Paradero Formal Antiguo 115,-18.47190815,-70.30567418,,,0,,,0
+PI-80,64,Gral René Schneider / Cap. Avalos,Paradero Informal 80,-18.48018457,-70.28314181,,,0,,,0
+PI-83,48,Joaquin Aracena  / Pacay (Mercado Cabo Aroca),Paradero Informal 83,-18.481364,-70.285989,,,0,,,0
+PI-82,186,Capitan Avalos / Rodrigo Araya,Paradero Informal 82,-18.479809,-70.283724,,,0,,,0
+PI-3,118,Tambo Quemado / Río Limarí,Paradero Informal 3,-18.50129385,-70.28259495,,,0,,,0
+PI-2,51,Panamericana Norte /  Campamento Coraceros,Paradero Informal 2,-18.50666208,-70.28110605,,,0,,,0
+PFA-118,72,Lib. Bernardo O'Higgins / Gral Manuel Baquedano,Paradero Formal Antiguo 118,-18.47740581,-70.3162125,,,0,,,0
+PI-1,187,Carretera Panamericana 5 Sur / Regimiento Coraceros,Paradero Informal 1,-18.50919303,-70.27885227,,,0,,,0
+PFA-116,319,Diego Portales / Pedro Aguirre Cerda,Paradero Formal Antiguo 116,-18.47731819,-70.2992197,,,0,,,0
+PI-147,65,Linderos / Providencia,Paradero Informal 147,-18.45172038,-70.28455926,,,0,,,0
+PI-148,155,Linderos / Isla Molino,Paradero Informal 148,-18.44944373,-70.28499538,,,0,,,0
+PR169,502,El Roble / Andalien,Punto Referencia 169,-18.4465657,-70.29430618,,,0,,,0
+PI-149,95,Linderos / Isla Alacran,Paradero Informal 149,-18.44898236,-70.28471144,,,0,,,0
+PI-142,135,Canteras / Alejandro Azolas,Paradero Informal 142,-18.45661173,-70.28244106,,,0,,,0
+PI-140,182,Alejandro Azolas / frente Colegio Da Vinci,Paradero Informal 140,-18.45688662,-70.28327169,,,0,,,0
+PI-146,36,Linderos / Barros Arana,Paradero Informal 146,-18.45421078,-70.28439549,,,0,,,0
+PI-145,125,Nacimiento / Samo Alto,Paradero Informal 145,-18.45412844,-70.28203797,,,0,,,0
+PI-144,180,Nacimiento / Alicahue,Paradero Informal 144,-18.45465373,-70.28188934,,,0,,,0
+PI-143,32,Nacimiento / La Diputada,Paradero Informal 143,-18.45574032,-70.2819118,,,0,,,0
+PI-4,78,Tambo quemado / Rio Maullín,Paradero Informal 4,-18.500402,-70.28309177,,,0,,,0
+PI-5,171,Panamericana Norte / Entrada Terminal ASOCAPEC,Paradero Informal 5,-18.49856515,-70.28551977,,,0,,,0
+PI-99,175,Tucapel / Esteban Rios,Paradero Informal 99,-18.47274407,-70.28834646,,,0,,,0
+PI-6,129,Alcalde Manuel Castillo Ibaceta / Rotonda Saucache,Paradero Informal 6,-18.49388635,-70.28821293,,,0,,,0
+PI-7,218,Senador Luis Valente Rossi / San Pedro Onofre,Paradero Informal 7,-18.49357195,-70.29369767,,,0,,,0
+PI-8,188,Cap. Avelino Villagrán / Cap. Pedro Quintavalle,Paradero Informal 8,-18.4950325,-70.29387631,,,0,,,0
+PI-97,151,Tucapel / Joaquin Aracena,Paradero Informal 97,-18.47655271,-70.29168173,,,0,,,0
+PI-98,122,Loa / Tucapel,Paradero Informal 98,-18.47418793,-70.29005569,,,0,,,0
+PI-9,212,El Tepual / Pudahuel,Paradero Informal 9,-18.49802727,-70.29459538,,,0,,,0
+PI-95,145,Tucapel / Putre,Paradero Informal 95,-18.47810454,-70.29337105,,,0,,,0
+PI-96,147,Tucapel / Gonzalo Cerda,Paradero Informal 96,-18.47674824,-70.29217859,,,0,,,0
+PI-94,140,Tucapel / Juan Riveros,Paradero Informal 94,-18.47842817,-70.29333758,,,0,,,0
+PI-93,45,Joaquin Aracena / Libertad,Paradero Informal 93,-18.47731458,-70.29021392,,,0,,,0
+PFA-126,432,Alfonso Nespolo Arata / Tobalaba,Paradero Formal Antiguo 126,-18.49917921,-70.2989033,,,0,,,0
+PI-92,58,Esteban Ríos / Raúl Araya,Paradero Informal 92,-18.473928,-70.28644539,,,0,,,0
+PFA-125,431,Alfonso Nespolo Arata / La Florida,Paradero Formal Antiguo 125,-18.49830827,-70.29950462,,,0,,,0
+PI-90,86,Las Acacias / Esteban Rios,Paradero Informal 90,-18.47544043,-70.28427134,,,0,,,0
+PI-138,31,Alejandro Azolas / Los Artesanos,Paradero Informal 138,-18.45781575,-70.28517555,,,0,,,0
+PI-139,131,Canteras / Alejandro Azolas,Paradero Informal 139,-18.45734392,-70.28228014,,,0,,,0
+PI-136,181,Linderos / El Tofo,Paradero Informal 136,-18.46002055,-70.28356252,,,0,,,0
+PI-137,133,Canteras / El Til til,Paradero Informal 137,-18.4598727,-70.28216695,,,0,,,0
+PI-177,158,Linderos / Tomé,Paradero Informal 177,-18.43546108,-70.28757893,,,0,,,0
+PI-176,149,Linderos / Tomé,Paradero Informal 176,-18.43521362,-70.28795499,,,0,,,0
+PI-172,172,Diaguitas / Cesfam Norte,Paradero Informal 172,-18.4276301,-70.29048821,,,0,,,0
+PI-175,157,Linderos / Villarrica,Paradero Informal 175,-18.43356962,-70.28822273,,,0,,,0
+PI-62,37,Santa Maria / José Victorino  Lastarria,Paradero Informal 62,-18.47732183,-70.31070027,,,0,,,0
+PI-63,75,Santa Maria / José Victorino Lastarrias,Paradero Informal 63,-18.47725644,-70.3104081,,,0,,,0
+PI-64,12,Santa Maria / Luis Vicentini,Paradero Informal 64,-18.47621041,-70.30944328,,,0,,,0
+PI-171,215,Robinson Rojas / Mejillones,Paradero Informal 171,-18.43178172,-70.29135213,,,0,,,0
+PI-65,107,Senador Luis Valente Rossi / Carlos Dittborn,Paradero Informal 65,-18.49029132,-70.30166211,,,0,,,0
+PI-66,161,Gral. Velasquez / UTA Campus Velasquez,Paradero Informal 66,-18.47162486,-70.3118619,,,0,,,0
+PI-67,340,Juan Manuel Borgoño / Antofagasta,Paradero Informal 67,-18.48731977,-70.30313774,,,0,,,0
+PI-68,341,Senador Luis Valente Rossi / Lupica,Paradero Informal 68,-18.48987914,-70.30336515,,,0,,,0
+PI-69,85,El Quillay /Maqui,Paradero Informal 69,-18.48903732,-70.28179884,,,0,,,0
+PI-61,80,Benjamín Vicuña Mackenna / José Victorino Lastarria,Paradero Informal 61,-18.47888652,-70.30961163,,,0,,,0
+PI-169,160,Ginebra / Eifel,Paradero Informal 169,-18.44451964,-70.2964964,,,0,,,0
+PI-168,115,Ginebra / Eiffel,Paradero Informal 168,-18.44485567,-70.29630519,,,0,,,0
+PI-167,169,Ginebra / Nueva Caledonia,Paradero Informal 167,-18.44557584,-70.296459,,,0,,,0
+PI-165,114,La Proveedora / Exequiel Fuentes,Paradero Informal 165,-18.44411249,-70.29233515,,,0,,,0
+PI-164,8,Santiago Arata Gandolfo / Rotonda Capitán Ávalos,Paradero Informal 164,-18.42764769,-70.295254,,,0,,,0
+PI-163,96,Diaguitas / Cancha Rayada,Paradero Informal 163,-18.42850331,-70.29438384,,,0,,,0
+PI-162,9,Diaguitas / Cancha Rayada,Paradero Informal 162,-18.42861783,-70.29413955,,,0,,,0
+PI-161,184,Cancha rayada / Tomé,Paradero Informal 161,-18.43654242,-70.29091385,,,0,,,0
+PI-75,87,Joaquin Toesca / Las Torres,Paradero Informal 75,-18.48363448,-70.27983843,,,0,,,0
+PI-160,93,Amador Nehgme / Cancha Rayada,Paradero Informal 160,-18.43827926,-70.28996807,,,0,,,0
+PI-76,154,Capitan Avalos / Jacaranda (frente Mercado Cabo Aroca),Paradero Informal 76,-18.48235914,-70.28382042,,,0,,,0
+PI-73,66,Capitán Ávalos / Las Brisas,Paradero Informal 73,-18.48586621,-70.28482716,,,0,,,0
+PI-74,38,Barros Luco / Las Torres,Paradero Informal 74,-18.48395174,-70.28199261,,,0,,,0
+PI-79,130,Capitan Avalos / Rene Schneider,Paradero Informal 79,-18.48033099,-70.28346842,,,0,,,0
+PI-77,52,Joaquin Toesca / Los Cedros,Paradero Informal 77,-18.48190285,-70.27915007,,,0,,,0
+PI-78,61,Rene Schneider / Barros Luco,Paradero Informal 78,-18.48036727,-70.28130555,,,0,,,0
+PFA-106,334,Comadante San Martin (Balneario La Lisera),Paradero Formal Antiguo 106,-18.4940071,-70.32537757,,,0,,,0
+PFA-105,337,Comandante San Martin 764,Paradero Formal Antiguo 105,-18.48763159,-70.3261549,,,0,,,0
+PFA-108,346,General josé / Dr Juan Noé (Parque Ibañez),Paradero Formal Antiguo 108,-18.47525853,-70.31582454,,,0,,,0
+PFA-107,335,Comadante San Martin (Balneario Playa Brava),Paradero Formal Antiguo 107,-18.49520724,-70.3247509,,,0,,,0
+PI-72,70,Capitán  Avalos / Las Brisas,Paradero Informal 72,-18.48648133,-70.28470916,,,0,,,0
+PI-71,34,Barros Luco / Maqui,Paradero Informal 71,-18.4864366,-70.28403073,,,0,,,0
+PI-70,206,Capitán Ávalos / Los Cisnes,Paradero Informal 70,-18.4874238,-70.28515459,,,0,,,0
+PFA-104,315,Comandante San Martin / Nelson Mandela,Paradero Formal Antiguo 104,-18.48119582,-70.32679657,,,0,,,0
+PFA-109,347,General José / Chacabuco,Paradero Forma Antiguo 109,-18.47570664,-70.31658319,,,0,,,0
+PI-159,62,Dr. Amador Nehgme / Cancha Rayada,Paradero Informal 159,-18.43839311,-70.2901191,,,0,,,0
+PR-1,189,Tambo Quemado / Río Cisnes,Punto Referencia 1,-18.50222133,-70.28236432,,,0,,,0
+PR-146,479,Bernardino Guerra / Colina,Punto Referencia 146,-18.49412756,-70.29972963,,,0,,,0
+PR-147,480,Alejandro Azolas / Francisco Bilbao,Punto Referencia 147,-18.466897,-70.29310443,,,0,,,0
+PR-144,477,Bernardino Guerra / La Florida,Punto Referencia 144,-18.49805727,-70.29855939,,,0,,,0
+PR-11,249,Senador Luis Valente Rossi  / Los Canarios,Punto Referencia 11,-18.48579066,-70.30760765,,,0,,,0
+PR-145,478,Bernardino Guerra / Mataveri,Punto Referencia 145,-18.49643055,-70.29906582,,,0,,,0
+PR-10,29,Rafael Sotomayor / Longotoma,Punto Referencia 10,-18.4863706,-70.31401809,,,0,,,0
+PR-142,475,Chiguayante / San Ignacio de Loyola,Punto Referencia 142,-18.494012,-70.30375087,,,0,,,0
+PR-7,210,Rafael Sotomayor / Bucalemu,Punto Referencia 7,-18.49177865,-70.31140026,,,0,,,0
+PR-143,476,Senador Luis Valente Rossi / Inca de oro,Punto Referencia 143,-18.4932411,-70.29330049,,,0,,,0
+PR-8,336,Comadante San Martin (Balneario La Lisera),Punto Referencia 8,-18.49425644,-70.32511147,,,0,,,0
+PR-140,473,Carlos Marcos / Juan Guillen canepa,Punto Referencia 140,-18.49510887,-70.30563999,,,0,,,0
+PR-15,445,Raúl del Canto / Barros Arana,Punto Referencia 15,-18.4730816,-70.30207309,,,0,,,0
+PR-5,193,San Ignacio de Loyola / Pablo Picasso,Punto Referencia 5,-18.49220347,-70.30168266,,,0,,,0
+PR-141,474,Chiguayante / Coihueco,Punto Referencia 141,-18.49305021,-70.30538872,,,0,,,0
+PR-6,28,San Ignacio de Loyola / Calle 1,Punto Referencia 6,-18.49949614,-70.30776871,,,0,,,0
+PR-14,332,Comandante San Martín / Carlos Condell,Punto Referencia 14,-18.47849503,-70.32326059,,,0,,,0
+PR-3,4,Bernardino Guerra / Mataveri,Punto Referencia 3,-18.49655063,-70.29920698,,,0,,,0
+PR-13,358,18 de Septiembre / Manuel Blanco Encalada,Punto Referencia 13,-18.48065484,-70.31544243,,,0,,,0
+PR-12,1,Ruta 5 Norte / Paradero Etrapas,Punto Referencia 12,-18.40542803,-70.29810155,,,0,,,0
+PR-4,355,Miguel Squella / Evaristo Flores,Punto Referencia 4,-18.49791562,-70.30407329,,,0,,,0
+PI-47,148,Alejandro Azola / Dr Juan Noe,Paradero Informal 47,-18.48235033,-70.30743803,,,0,,,0
+PR-18,205,José Victorino Lastarria / Sargento Aldea,Punto Referencia 18,-18.48465679,-70.30274416,,,0,,,0
+PR-19,190,Anibal Pinto / Alejandro Azolas,Punto Referencia 19,-18.48067173,-70.30538606,,,0,,,0
+PI-46,47,José Victorino Lastarria / Pedro Aguirre Cerda,Paradero Informal 46,-18.48224453,-70.30543483,,,0,,,0
+PI-45,40,Conrado Rios / Juan Antonio Rios,Paradero Informal 45,-18.48308137,-70.2971635,,,0,,,0
+PR-16,26,Senador Luis Valente Rossi  / Los Canarios,Punto Referencia 16,-18.48577022,-70.30787057,,,0,,,0
+PI-44,41,Juan Antonio Rios / Tucapel,Paradero Informal 44,-18.48372822,-70.29681281,,,0,,,0
+PR-17,202,18 de Septiembre / Colombia,Punto Referencia 17,-18.48473967,-70.30475795,,,0,,,0
+PI-43,183,Tucapel / Camilo Henriquez,Paradero Informal 43,-18.48358327,-70.29654304,,,0,,,0
+PI-42,81,Panamericana Norte / Los Hualles,Paradero Informal 42,-18.49078641,-70.2879555,,,0,,,0
+PI-41,67,Alcalde Edmundo Flores / 18 de Septiembre,Paradero Informal 41,-18.48813039,-70.29378347,,,0,,,0
+PI-40,68,Alcalde Edmundo Flores / Tongoy,Paradero Informal 40,-18.48830137,-70.29404284,,,0,,,0
+PI-49,22,Benjamin Vicuña Mackenna / Maipú,Paradero Informal 49,-18.48206589,-70.31255995,,,0,,,0
+PI-48,55,General Pedro Lagos / Maipú,Paradero Informal 48,-18.47915633,-70.31498371,,,0,,,0
+PR-139,472,Tito Canepa / Carlos Villaroel,Punto Referencia 139,-18.49655009,-70.30530105,,,0,,,0
+PR-135,468,Bernardo O'Higgins / Arturo Gallo,Punto Referencia 135,-18.48039223,-70.31230773,,,0,,,0
+PR-136,469,Linderos / La Africana,Punto Referencia 136,-18.45949408,-70.28363987,,,0,,,0
+PR-137,470,Alejandro Azolas / El Cobre,Punto Referencia 137,-18.45817959,-70.28583198,,,0,,,0
+PR-138,471,Francisco Bilbao / Sewel,Punto Referencia 138,-18.46863302,-70.29052781,,,0,,,0
+PR-131,464,Chapiquiña / Belen,Punto Referencia 131,-18.47682217,-70.29620954,,,0,,,0
+PR-20,25,Capitán Ávalos / 19 de Septiembre,Punto Referencia 20,-18.4902543,-70.28778484,,,0,,,0
+PR-132,465,Chapiquiña / Diego Portales,Punto Referencia 132,-18.4786525,-70.29803488,,,0,,,0
+PR-133,466,Germán Riesco / Rojas Salfate,Punto Referencia 133,-18.4830863,-70.29984691,,,0,,,0
+PR-22,39,Pedro Aguirre Cerda / German Riesco,Punto Referencia 22,-18.48044852,-70.30307206,,,0,,,0
+PR-134,467,Anibal Pinto / Valdivia,Punto Referencia 134,-18.47901112,-70.30723232,,,0,,,0
+PR-21,221,Caupolican / Lyncoyan,Punto Referencia 21,-18.48142817,-70.30272402,,,0,,,0
+PR-24,225,Romulo Peña / Sgto. Aldea,Punto Referencia 24,-18.4821377,-70.30018601,,,0,,,0
+PR-23,223,German Riesco / Diego de Almagro,Punto Referencia 23,-18.48372768,-70.29940387,,,0,,,0
+PR-26,224,Romulo Peña / Alejandro Azolas,Punto Referencia 26,-18.47861438,-70.3037479,,,0,,,0
+PR-130,463,Manuel Bulnes / Los Cipreses,Punto Referencia 130,-18.47159617,-70.28542565,,,0,,,0
+PR-25,222,Diego Portales / Atacama,Punto Referencia 25,-18.48424156,-70.29270805,,,0,,,0
+PR-27,6,Alejandro Azolas / Romulo Peña,Punto Referencia 27,-18.47823534,-70.30373454,,,0,,,0
+PR-28,195,Romulo Peña / Santa Maria,Punto Referencia 28,-18.4748061,-70.3078115,,,0,,,0
+PI-55,109,Chacabuco / Parque brasil,Paradero Informal 55,-18.47454113,-70.31647733,,,0,,,0
+PI-57,44,Benjamin Vicuña Mackena / Dr Juan Noe,Paradero Informal 57,-18.47954183,-70.3105022,,,0,,,0
+PI-52,56,Bernardo O'higgins / Gral. Pedro Lagos Marchant,Paradero Informal 52,-18.47871876,-70.31450647,,,0,,,0
+PI-51,162,Vicuña Mackenna / Chacabuco,Paradero Informal 51,-18.4807558,-70.31135459,,,0,,,0
+PI-180,18,Linderos / Raimundo Salinas,Paradero Informal 180,-18.44126629,-70.28626143,,,0,,,0
+PI-181,150,Linderos / Alejandro Fierro,Paradero Informal 181,-18.44393384,-70.28575624,,,0,,,0
+PI-54,57,Comandante San Martín (Salida Puerto TPA),Paradero Informal 54,-18.47492611,-70.31899912,,,0,,,0
+PI-182,153,Linderos / Raimundo Salinas,Paradero Informal 182,-18.44179419,-70.28580343,,,0,,,0
+PI-53,73,Colon / Bernardo O'higgins,Paradero Informal 53,-18.47663522,-70.31665709,,,0,,,0
+PI-185,144,Panamericana Norte / Eilat,Paradero Informal 185,-18.45273536,-70.29518231,,,0,,,0
+PI-186,174,Capitán Ávalos / Cementerio Parque de La Paz),Paradero Informal 186,-18.46864847,-70.2815713,,,0,,,0
+PI-59,132,Esmeralda / Benajmin Vicuña Mackenna,Paradero Informal 59,-18.47908262,-70.31022878,,,0,,,0
+PR-168,501,Eifel / Ginebra,Punto Referencia 168,-18.4449142,-70.29658558,,,0,,,0
+PR-162,495,Robinson Rojas / Los Misioneros,Punto Referencia 162,-18.43539171,-70.2901201,,,0,,,0
+PR-163,496,Doctor Amador Neghme / EL Roble,Punto Referencia 163,-18.43784471,-70.29315954,,,0,,,0
+PR-160,493,Paris /Mosa,Punto Referencia 160,-18.44823713,-70.29843627,,,0,,,0
+PR-166,499,Paris / Mosa,Punto Referencia 166,-18.44829011,-70.2983021,,,0,,,0
+PR-167,500,Paris / La Bastilla,Punto Referencia 167,-18.44582689,-70.29829116,,,0,,,0
+PR-164,497,El Roble /  La Concepción,Punto Referencia 164,-18.44006171,-70.29371826,,,0,,,0
+PR-165,498,Paris / Toltén,Punto Referencia 165,-18.45111111,-70.29837863,,,0,,,0
+PI-21,209,San Ignacio de Loyola / Pablo Picasso,Paradero Informal 21,-18.49185529,-70.30169528,,,0,,,0
+PI-20,108,San Ignacio Loyola / Nora Iglesias,Paradero Informal 20,-18.49479052,-70.30404593,,,0,,,0
+PR-170,503,El Roble / Llancolén,Punto Referencia 170,-18.44413373,-70.29419119,,,0,,,0
+PI-25,322,Comandante San Martín (frente Playa Laucho),Paradero Informal 25,-18.48959693,-70.32676227,,,0,,,0
+PI-24,323,Rafael Sotomayor / Reñaca,Paradero Informal 24,-18.48961605,-70.31241566,,,0,,,0
+PF-11,265,Cancha Rayada / Soldado Juan Donoso,Paradero Formal 11,-18.44161829,-70.28975743,,,0,,,0
+PI-23,354,Rafael Sotomayor / Consultorio Miramar),Paradero Informal 23,-18.49487191,-70.31235034,,,0,,,0
+PF-10,262,Cancha Rayada / Fuerte Bulnes,Paradero Formal 10,-18.44123756,-70.28966611,,,0,,,0
+PI-22,338,Rafael Sotomayor / Consultorio Miramar,Paradero Informal 22,-18.49500454,-70.31210649,,,0,,,0
+PF-13,258,Mentón / Ginebra,Paradero Formal 13,-18.4422888,-70.29620341,,,0,,,0
+PI-29,350,18 de Septiembre / Bolognesi,Paradero Informal 29,-18.47696968,-70.31902963,,,0,,,0
+PI-28,333,Pedro Montt / Thompson,Paradero Informal 28,-18.47650217,-70.32039487,,,0,,,0
+PI-27,165,Comandante San Martín / 21 de Mayo (TPA),Paradero Informal 27,-18.47631292,-70.32125243,,,0,,,0
+PF-15,236,Cancha Rayada / Chorrillos,Paradero Formal 15,-18.44914719,-70.29482927,,,0,,,0
+PF-14,235,Santiago Arata / Andalién,Paradero Formal 14,-18.44807052,-70.29520116,,,0,,,0
+PI-26,339,Comandante San Martín (Restaurant Maracuya),Paradero Informal 26,-18.48495073,-70.32618287,,,0,,,0
+PF-17,267,Panamericana Norte altura 3308-3398,Paradero Formal 17,-18.45179108,-70.29490451,,,0,,,0
+PF-16,237,Panamericana Norte / Antártica,Paradero Formal 16,-18.44975127,-70.29519024,,,0,,,0
+PF-19,239,Paris / Marsella,Paradero Formal 19,-18.45040969,-70.29844046,,,0,,,0
+PF-18,238,Ginebra / Monza,Paradero Formal 18,-18.44803093,-70.29616611,,,0,,,0
+PR-157,490,El Roble / Dr. Amador Neghme,Punto Referencia 157,-18.43802657,-70.29329632,,,0,,,0
+PR-158,491,Robinson Rojas / Tomé,Punto Referencia 158,-18.43609117,-70.2897146,,,0,,,0
+PR-159,492,Paris / Nva. Celedonia,Punto Referencia 159,-18.44607209,-70.29843627,,,0,,,0
+PR-153,486,Lagunillas / Cancha Rayada,Punto Referencia 153,-18.44774825,-70.29010306,,,0,,,0
+PR-154,487,Lagunillas / Antonio de las Heras,Punto Referencia 154,-18.4458192,-70.29167334,,,0,,,0
+PR-155,488,El Roble / Emilio Gutierrez,Punto Referencia 155,-18.44193864,-70.29389477,,,0,,,0
+PR-156,489,El Roble / Andalién,Punto Referencia 156,-18.44663068,-70.29416933,,,0,,,0
+PI-30,106,18 de Septiembre / Patricio Lynch,Paradero Informal 30,-18.4794581,-70.31694583,,,0,,,0
+PI-32,164,18 de Septiembre / U. Santo Tomás,Paradero Informal 32,-18.48358055,-70.31021227,,,0,,,0
+PI-31,20,18 de Septiembre / Arturo Gallo,Paradero Informal 31,-18.48169849,-70.31410723,,,0,,,0
+PI-34,204,18 de Septiembre / Andrés Bello,Paradero Informal 34,-18.48563359,-70.30141654,,,0,,,0
+PF-22,240,Cancha Rayada / Francisco Alvarez Romero,Paradero Formal 22,-18.44959807,-70.29212481,,,0,,,0
+PI-33,203,18 de Septiembre / Los Canarios,Paradero Informal 33,-18.48423278,-70.30751073,,,0,,,0
+PF-21,256,España / Eilat,Paradero Formal 21,-18.45245705,-70.29968181,,,0,,,0
+PF-20,255,Eilat / Paris,Paradero Formal 20,-18.4519152,-70.29922852,,,0,,,0
+PI-35,46,Conrado Rios / 18 de Septiembre,Paradero Informal 35,-18.48589404,-70.2994348,,,0,,,0
+PI-38,139,18 de Septiembre / Liceo Politécnico,Paradero Informal 38,-18.48751553,-70.29502327,,,0,,,0
+PF-26,260,Alejandro Azolas / Renato Roca,Paradero Formal 26,-18.46418357,-70.29111653,,,0,,,0
+PF-25,259,Linderos / Tupungato,Paradero Formal 25,-18.45306436,-70.2847364,,,0,,,0
+PF-24,241,Linderos / Moises Zuñiga,Paradero Formal 24,-18.44607442,-70.28500422,,,0,,,0
+PI-39,23,18 de Septiembre / Universidad Tarapacá,Paradero Informal 39,-18.48757462,-70.29429423,,,0,,,0
+PF-23,269,Cancha Rayada / Los Artesanos,Paradero Formal 23,-18.44972705,-70.29200992,,,0,,,0
+PF-29,362,Panamericana Norte / Renato Rocca,Paradero Formal 29,-18.46027697,-70.29550569,,,0,,,0
+PF-28,252,Panamericana Norte / Gral. Oscar Bonilla,Paradero Formal 28,-18.4598282,-70.29556323,,,0,,,0
+PF-27,261,Renato Roca / Alejandro Azolas,Paradero Formal 27,-18.46435272,-70.2915521,,,0,,,0
+PR-189,523,Senador Luis Valente Rossi / Alcalde Edmundo FLores,Punto Referencia 189,-18.49296671,-70.29731721,,,0,,,0
+PR-188,510,Loa / Juan Martinez de Rosas,Punto Referencia 188,-18.47771419,-70.28538201,,,0,,,0
+PR-187,535,Alcalde Edmundo Flores / Manantiales,Punto Referencia 187,-18.49543311,-70.2981562,,,0,,,0
+PR-186,520,Alcalde Edmundo Flores / Los Barriles,Punto Referencia 186,-18.49808089,-70.29674271,,,0,,,0
+PR-185,519,Alcalde Edmundo Flores / Mataveri,Punto Referencia 185,-18.4960044,-70.29810309,,,0,,,0
+PR-184,518,Alcalde Edmundo Flores / Pablo Picasso,Punto Referencia 184,-18.49388162,-70.29770744,,,0,,,0
+PR-183,517,Panamericana Norte / David Girban,Punto Referencia 183,-18.45718884,-70.29481867,,,0,,,0
+PR-182,516,El Roble / Ñiquén,Punto Referencia 182,-18.44432035,-70.29432547,,,0,,,0
+PF-38,294,Santa Maria / Super Agro,Paradero Formal 38,-18.47047739,-70.30462014,,,0,,,0
+PF-39,308,Diego Portales / Terminal Rodoviario,Paradero Formal 39,-18.47271458,-70.30449483,,,0,,,0
+PF-34,253,España / Consistorial,Paradero Formal 34,-18.45950075,-70.3007727,,,0,,,0
+PF-35,254,España / Consistorial,Paradero Formal 35,-18.45902309,-70.3007902,,,0,,,0
+PF-36,248,Panamericana Norte / Liceo Domingo Santa Maria,Paradero Formal 36,-18.4689612,-70.30334201,,,0,,,0
+PF-37,296,Santa Maria / Pasaje Doce,Paradero Formal 37,-18.47041866,-70.30435797,,,0,,,0
+PR-191,525,Simón Bolívar / Senador Luis Valente Rossi,Punto Referencia 191,-18.48964626,-70.30308391,,,0,,,0
+PF-30,244,Santa Maria / Javiera Carrera,Paradero Formal 30,-18.46527224,-70.2999243,,,0,,,0
+PR-192,526,Juan Manuel Borgoño / 18 de Septiembre,Punto Referencia 192,-18.48540514,-70.30246845,,,0,,,0
+PF-31,245,Santa Maria / Colo Colo,Paradero Formal 31,-18.4653809,-70.30022722,,,0,,,0
+PF-32,250,Luis Beretta Porcel / Brasil,Paradero Formal 32,-18.46584691,-70.30482791,,,0,,,0
+PR-190,524,Simon Bolívar /  Lord Cochrane,Punto Referencia 190,-18.48801171,-70.30237391,,,0,,,0
+PR-176,509,Pacífico Norte / Ginebra,Punto Referencia 176,-18.44147186,-70.29596388,,,0,,,0
+PR-175,508,Las Acacias /  Esteban Rios,Punto Referencia 175,-18.47522206,-70.28436852,,,0,,,0
+PR-178,511,Ramón Barros Luco / Raulí,Punto Referencia 178,-18.48113339,-70.28162189,,,0,,,0
+PR-177,512,Ginebra / Mentón,Punto Referencia 177,-18.44217355,-70.29632282,,,0,,,0
+PR-172,505,Lagunillas / La Concepción,Punto Referencia 172,-18.44704814,-70.29083469,,,0,,,0
+PR-171,504,La Proveedora / Yerbas Buenas,Punto Referencia 171,-18.44482345,-70.29246921,,,0,,,0
+PR-174,507,Aníbal Pinto / Osorno,Punto Referencia 174,-18.48016335,-70.30619891,,,0,,,0
+PR-173,506,Loa / Macul,Punto Referencia 173,-18.47099983,-70.29356015,,,0,,,0
+PR-179,541,Argentina / La Exótica,Punto Referencia 179,-18.45413756,-70.28751894,,,0,,,0
+PI-19,63,San Ignacio de Loyola / Tito Canepa,Paradero Informal 19,-18.49665268,-70.30496817,,,0,,,0
+PF-49,302,Chapiquiña / Loa,Paradero Formal 49,-18.47214243,-70.29232424,,,0,,,0
+PI-15,137,Alfonso Nespolo Arata / Mataveri,Paradero Informal 15,-18.49637683,-70.30020946,,,0,,,0
+PF-47,274,Tucapel / Loa,Paradero Formal 47,-18.47408392,-70.28985706,,,0,,,0
+PI-16,128,Bernardino Guerra / Pablo Picasso,Paradero Informal 16,-18.49279235,-70.2998351,,,0,,,0
+PF-48,276,Chapiquiña / Loa,Paradero Formal 48,-18.47174554,-70.29219984,,,0,,,0
+PI-17,116,Miguel Squella / Jim Hosey,Paradero Informal 17,-18.49639208,-70.30340374,,,0,,,0
+PF-45,301,Tucapel / Avaro Oliva,Paradero Formal 45,-18.48108462,-70.29562745,,,0,,,0
+PI-18,208,Miguel Squella / Luis Gallardo,Paradero Informal 18,-18.49822677,-70.3045389,,,0,,,0
+PF-46,299,Tucapel / Loa,Paradero Formal 46,-18.47450397,-70.28986592,,,0,,,0
+PI-11,11,Alfonso Nespolo / Oscar Belmar,Paradero Informal 11,-18.49996325,-70.29748076,,,0,,,0
+PF-43,311,Diego Portales / Pedro Aguirre Cerda,Paradero Formal 43,-18.47679994,-70.29998002,,,0,,,0
+PI-12,136,Pablo Picasso / El Creco,Paradero Informal 12,-18.49324392,-70.29864469,,,0,,,0
+PF-44,273,Tucapel / Rotonda Diego Portales,Paradero Formal 44,-18.48088829,-70.29576253,,,0,,,0
+PI-13,138,Pablo Picasso / El Greco,Paradero Informal 13,-18.49322066,-70.29890864,,,0,,,0
+PF-41,272,Diego Portales / Nicolys Hidalgo,Paradero Formal 41,-18.47333378,-70.30382193,,,0,,,0
+PR-181,515,Robinson Rojas / Moises Zuñiga,Punto Referencia 181,-18.43770822,-70.28924353,,,0,,,0
+PI-14,173,Alfonso Nespolo Arata / Iquique,Paradero Informal 14,-18.49548471,-70.30036964,,,0,,,0
+PF-42,309,Diego Portales / Argentina,Paradero Formal 42,-18.47310265,-70.3036422,,,0,,,0
+PF-40,271,Diego Portales / Terminal Rodoviario,Paradero Formal 40,-18.47249871,-70.30432314,,,0,,,0
+PI-10,217,Oscar Belmar / Chaitén,Paradero Informal 10,-18.4991042,-70.29649064,,,0,,,0
+PF-56,290,Alcalde Edmundo Flores / La Portada,Paradero Formal 56,-18.49004641,-70.29510898,,,0,,,0
+PF-57,289,Alcalde Edmundo Flores / La Portada,Paradero Formal 57,-18.48981163,-70.29505341,,,0,,,0
+PF-58,283,Edmundo Flores / Luis Valente Rossi,Paradero Formal 58,-18.49324552,-70.29705633,,,0,,,0
+PF-59,284,Edmundo Flores /Los Barriles,Paradero Formal 59,-18.49817137,-70.29633199,,,0,,,0
+PF-52,277,Tambo Quemado / Rio Mataquito,Paradero Formal 48,-18.49818752,-70.28462271,,,0,,,0
+PF-53,306,Tambo Quemado / Rio Maipo,Paradero Formal 53,-18.49927361,-70.28373048,,,0,,,0
+PF-54,282,Senador Luis Valente Rossi / Pedernales,Paradero Formal 54,-18.49267597,-70.2908563,,,0,,,0
+PF-55,303,Flamenco / Pedernales,Paradero Formal 55,-18.49247357,-70.29104279,,,0,,,0
+PR-194,528,Maipú / Benjamin Vicuña Mackena,Punto Referencia 194,-18.48186112,-70.31227622,,,0,,,0
+PR-193,527,18 de Septiembre / Colombia (Iglesia Sagrado Corazón),Punto Referencia 193,-18.48460379,-70.30451474,,,0,,,0
+PR-196,531,Carlos Marcos / Juanita Howard,Punto Referencia 196,-18.4953542,-70.30589951,,,0,,,0
+PR-195,529,Chiguayante / Carlos Marcos,Punto Referencia 195,-18.49338562,-70.30451203,,,0,,,0
+PR-198,533,18 de Septiembre / Santiago Chávez,Punto Referencia 198,-18.48886705,-70.29151595,,,0,,,0
+PR-197,532,Tito Canepa / San Ignacio de Loyola,Punto Referencia 197,-18.49668543,-70.30523829,,,0,,,0
+PR-199,542,Sergio Flores Temecier / San Ignacio de Loyola,Punto Referencia 199,-18.50178749,-70.31118276,,,0,,,0
+PF-69,291,18 de Septiembre / Augusto D'Halmar,Paradero Formal 69,-18.48407384,-70.30748449,,,0,,,0
+PF-68,312,18 de Septiembre / Almirante Latorre,Paradero Formal 68,-18.48299334,-70.31192211,,,0,,,0
+PF-61,285,San Ignacio Loyola / Luis Gallardo,Paradero Formal 61,-18.49733156,-70.30521552,,,0,,,0
+PF-60,292,San Ignacio Loyola / Nora Iglesias,Paradero Formal 60,-18.49549716,-70.30412284,,,0,,,0
+PF-65,345,Rafael Sotomayor / Reñaca,Paradero Formal 65,-18.4896342,-70.31212249,,,0,,,0
+PF-66,325,Arturo Gallo / 21 Mayo,Paradero Formal 66,-18.48233995,-70.31442076,,,0,,,0
+PF-63,343,Rafael Sotomayor / Lionel Valcarce,Paradero Formal 63,-18.49893424,-70.3102197,,,0,,,0
+PF-64,344,Rafael  Sotomayor / Lionel Valcarce,Paradero Formal 64,-18.49902356,-70.31046263,,,0,,,0
