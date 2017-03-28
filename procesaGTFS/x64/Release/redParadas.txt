@@ -158,7 +158,6 @@ PA187|PA187-Parada 1 / (M) República|345054|6297868|-33.4474|-70.667|
 PA19|PA19-Ñuble Esq. / Lord Cochrane|346444|6295355|-33.4703|-70.6525|
 PA190|PA190-Parada 10 / (M) Santa Ana|345660|6298924|-33.438|-70.6603|
 PA191|PA191-Parada 4 / (M) Quinta Normal|343839|6298550|-33.4411|-70.68|
-PA193|PA193-Parada 11 / (M) Santa Ana|345730|6299001|-33.4373|-70.6596|
 PA195|PA195-Parada 1 / Monjitas > San Antonio|346743|6299086|-33.4367|-70.6487|
 PA196|PA196-Nataniel Cox Esq. / Eleuterio Ramírez|346332|6297653|-33.4495|-70.6533|
 PA197|PA197-Nataniel Cox Esq. / Santa Isabel|346373|6297381|-33.452|-70.6529|
@@ -1769,8 +1768,6 @@ PB53|PB53-José Miguel Infante Esq. / Poseidón|337882|6302323|-33.4062|-70.7434
 PB531|PB531-Parada  / Pasarela   Alcalde Guzmán|341172|6306354|-33.3703|-70.7073|
 PB532|PB532-Lo Campino Esq. / Carampangue|340562|6306466|-33.3692|-70.7138|
 PB534|PB534-Avenida Lo Marcoleta Esq. / Ntra. Sra. Del Carmen|336470|6307137|-33.3626|-70.7577|
-PB535|PB535-Avenida Lo Marcoleta Esq. / Los Benedictinos|336726|6307196|-33.3621|-70.7549|
-PB536|PB536-Avenida Lo Marcoleta Esq. / Volcán Argüelle|337020|6307253|-33.3616|-70.7517|
 PB537|PB537-Avenida Lo Marcoleta Esq. / Volcán Copahue|337337|6307328|-33.361|-70.7483|
 PB538|PB538-Avenida Lo Marcoleta Esq. / San Enrique|337608|6307396|-33.3604|-70.7454|
 PB539|PB539-Avenida Lo Marcoleta Esq. / Presidente Bulnes|337818|6307477|-33.3597|-70.7431|
@@ -3413,10 +3410,6 @@ PD1122|PD1122-Estadio Colo Colo Esq. / José Caroca|350371|6291655|-33.5042|-70.
 PD1123|PD1123-Estadio Colo Colo Esq. / Jorge Quevedo|350543|6291641|-33.5043|-70.609|
 PD1124|PD1124-Estadio Colo Colo Esq. / Avenida Marathon|350733|6291594|-33.5048|-70.607|
 PD1125|PD1125-Avenida Marathon Esq. / Benito Rebolledo|350855|6291885|-33.5022|-70.6056|
-PD1126|PD1126-Benito Rebolledo Esq. / Exequiel Fernández|351066|6291894|-33.5021|-70.6034|
-PD1127|PD1127-Avenida La Aguada Esq. / Dr. A. Neghme |350929|6292458|-33.497|-70.6047|
-PD1128|PD1128-Av. Pedro De Valdivia Esq. / Los Cohetes|350765|6292903|-33.493|-70.6064|
-PD1129|PD1129-Av. Pedro De Valdivia Esq. / Los Planetas|350770|6293090|-33.4913|-70.6064|
 PD113|PD113-Campos De Deportes Esq. / Crescente Errázuriz|350392|6296748|-33.4583|-70.6098|
 PD1130|PD1130-Av. Escuela Agrícola Esq. / Castillo Urizar|350514|6293153|-33.4907|-70.6091|
 PD1132|PD1132-Avenida Marathon Esq. / Los Olmos |350143|6294234|-33.4809|-70.6129|
@@ -3426,17 +3419,8 @@ PD1135|PD1135-Carlos Dittborn Esq. / Calle 14 |349884|6295932|-33.4656|-70.6154|
 PD1136|PD1136-Carlos Dittborn Esq. / Los Jazmines|349638|6295890|-33.4659|-70.6181|
 PD1137|PD1137-Carlos Dittborn Esq. / Obispo Orrego|349475|6295863|-33.4661|-70.6198|
 PD1138|PD1138-Carlos Dittborn Esq. / Lo Encalada|349291|6295832|-33.4664|-70.6218|
-PD1139|PD1139-Lo Encalada Esq. / Fidias|349253|6295915|-33.4656|-70.6222|
 PD114|PD114-Campos De Deportes Esq. / Avenida Grecia|350349|6296382|-33.4616|-70.6103|
-PD1140|PD1140-Lo Encalada Esq. / Platón|349208|6296096|-33.464|-70.6227|
-PD1141|PD1141-Lo Encalada Esq. / Sur|349147|6296403|-33.4612|-70.6233|
-PD1142|PD1142-Sur Esq. / Julio Cordero B.|349068|6296445|-33.4608|-70.6241|
 PD1143|PD1143-San Eugenio Esq. / Suárez Mujica|348872|6296612|-33.4593|-70.6262|
-PD1144|PD1144-Avenida Grecia Esq. / Crescente Errázuriz|348935|6296884|-33.4568|-70.6255|
-PD1145|PD1145-Parada 2 / Suárez Mujica|349090|6296716|-33.4584|-70.6238|
-PD1146|PD1146-Parada 1 / Salvador Sur   Av. Grecia|349225|6296532|-33.4601|-70.6224|
-PD1147|PD1147-Parada 5 / Villa Olímpica|349612|6296377|-33.4615|-70.6183|
-PD1148|PD1148-Parada 5 / Avenida Marathon|349851|6296361|-33.4617|-70.6157|
 PD1149|PD1149-Avenida Marathon Esq. / José Ananías|350074|6294538|-33.4781|-70.6136|
 PD115|PD115-Parada 1 / Estadio Nacional|350489|6296321|-33.4621|-70.6088|
 PD1150|PD1150-Avenida Marathon Esq. / Domingo Arteaga|350095|6294279|-33.4805|-70.6134|
@@ -3445,12 +3429,8 @@ PD1152|PD1152-Avenida Marathon Esq. / Los Tuliperos|350218|6293489|-33.4876|-70.
 PD1153|PD1153-Avenida Marathon Esq. / Av. Escuela Agrícola|350253|6293138|-33.4908|-70.6119|
 PD1154|PD1154-Av. Escuela Agrícola Esq. / Castillo Urizar|350447|6293129|-33.4909|-70.6098|
 PD1155|PD1155-Av. Escuela Agrícola Esq. / Av. Pedro De Valdivia|350733|6293159|-33.4907|-70.6067|
-PD1156|PD1156-Av. Pedro De Valdivia Esq. / Los Astros|350752|6293075|-33.4914|-70.6066|
-PD1157|PD1157-Av. Pedro De Valdivia Esq. / Joaquín Rodríguez|350746|6292802|-33.4939|-70.6067|
 PD1158|PD1158-Avenida La Aguada Esq. / Mons. C. Casanueva|350646|6292639|-33.4953|-70.6078|
-PD1159|PD1159-Avenida La Aguada Esq. / Avenida Marathon|350866|6292440|-33.4972|-70.6054|
 PD116|PD116-Parada 1 / Los Tres Antonios|350994|6296189|-33.4634|-70.6034|
-PD1160|PD1160-Avenida La Aguada Esq. / E. Fernández|351111|6292210|-33.4993|-70.6028|
 PD1161|PD1161-Av. Departamental Esq. / E. Fernández|351114|6291149|-33.5088|-70.603|
 PD1162|PD1162-Avenida Quilín Esq. / 2 Poniente |350324|6293757|-33.4852|-70.611|
 PD1163|PD1163-Avenida Quilín Esq. / Castillo Urizar|350502|6293779|-33.4851|-70.6091|
@@ -5644,7 +5624,7 @@ PF1117|PF1117-Weber Esq. / T. De Calcuta 7 Pte.|351065|6277856|-33.6287|-70.6057
 PF1118|PF1118-Weber Esq. / Monseñor Alvear|350848|6277857|-33.6287|-70.6081|
 PF1119|PF1119-Weber Esq. / Bartok|350677|6277818|-33.629|-70.6099|
 PF112|PF112-Avenida Gabriela Esq. / 4 Oriente|350976|6282981|-33.5825|-70.6058|
-PF1120|PF1120-Parada 2 / Paradero 48 @ Santa Rosa|349120|6278911|-33.6189|-70.6265|
+PF1120|PF1120-Parada 2 / Paradero 48 @ Santa Rosa|349120|6278912|-33.6189|-70.6265|
 PF1121|PF1121-Avenida Santa Rosa Esq. / Av. Eyzaguirre|349138|6278912|-33.6189|-70.6263|
 PF1122|PF1122-Avenida Santa Rosa Esq. / Fco. Coloane|348858|6277358|-33.6329|-70.6296|
 PF1123|PF1123-Avenida Santa Rosa Esq. / Punta Chilen|348964|6277956|-33.6275|-70.6283|
@@ -8156,6 +8136,7 @@ PH1633|PH1633-Av. Edo. Frei Montalva Esq. / La Habana|342384|6289913|-33.5187|-7
 PH1634|PH1634-Av. Edo. Frei Montalva Esq. / Pío Xii|342173|6290031|-33.5177|-70.6994|
 PH1635|PH1635-Av. Edo. Frei Montalva Esq. / Av. Cerrillos|341975|6290141|-33.5166|-70.7015|
 PH1637|PH1637-Don Miguel Ángel Esq. / Don Carlos|341641|6289099|-33.526|-70.7053|
+PH1638|PH1638-Juan Fco González Esq./Don Fernando|341785|6288716|-33.5294|-70.7038|
 PH1639|PH1639-18 De Septiembre Esq. / Bermann|347141|6290508|-33.5141|-70.6458|
 PH164|PH164-Parada 1 / Estadio   San Joaquín|348615|6293768|-33.4849|-70.6294|
 PH1640|PH1640-Santa Clara Esq. / Santa Fe|347165|6290702|-33.5123|-70.6456|
@@ -9441,6 +9422,8 @@ PI1803|PI1803-Avenida Las Parcelas Esq. / Pasaje Gandhi|339319|6294930|-33.4731|
 PI1804|PI1804-Avenida Las Parcelas Esq. / Curacaví|339749|6295372|-33.4691|-70.7245|
 PI1805|PI1805-Judea Esq. / El Líbano|335975|6287163|-33.5426|-70.7666|
 PI1806|PI1806-Avenida El Rosal Esq. / Isabel Riquelme|334677|6292412|-33.495|-70.7796|
+PI1807|PI1807-Avenida El Rosal Esq. / Lican Ray|334693|6292409|-33.4951|-70.7795|
+PI1808|PI1808-Ing. Eduardo Dominguez Esq./Av. El Rosal|334653|6292933|-33.4904|-70.7798|
 PI1809|PI1809-Isabel Riquelme Esq. / Parque El Rosal|334498|6292301|-33.496|-70.7816|
 PI181|PI181-Parada 1 / Departamental   P. Aguirre Cerda|342406|6293766|-33.484|-70.6962|
 PI182|PI182-Parada 2 / Plaza Del Abrazo|335042|6290844|-33.5092|-70.776|
