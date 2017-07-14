@@ -45,6 +45,7 @@ public:
 	FuenteDatos *fdd_;
 
 	void ConstruyeGrilla();
+	void ConstruyeGrillaFija();
 	void IngresaParaderosAGrilla();
 	void IngresaRutasAGrilla();
 	void IngresaPuntosBipsAGrilla();

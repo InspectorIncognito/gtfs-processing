@@ -20,6 +20,7 @@ GridProcess::GridProcess(FuenteDatos *fdd)
 
 	///Construccion de Grilla
 	ConstruyeGrilla();
+	//ConstruyeGrillaFija();
 	IngresaParaderosAGrilla();
 	IngresaRutasAGrilla();
 	IngresaPuntosBipsAGrilla();
@@ -47,6 +48,11 @@ void GridProcess::ConstruyeGrilla()
 		fdd_->grid.minLon = std::fmin(fdd_->grid.minLon, (*it).second.lon);
 		fdd_->grid.maxLon = std::fmax(fdd_->grid.maxLon, (*it).second.lon);
 	}
+	
+	fdd_->grid.minLat += 0.001;
+	fdd_->grid.maxLat += 0.001;
+	fdd_->grid.minLon += 0.001;
+	fdd_->grid.maxLon += 0.001;
 
 	fdd_->grid.nLat = 100;
 	fdd_->grid.nLon = 100;
@@ -86,14 +92,21 @@ void GridProcess::IngresaParaderosAGrilla()
 	int nTimeStart = Cronometro::GetMilliCount();
 	cout << "Ingresando paradas a grilla regular....";
 
+	cout << "FLAG 0" << endl;
 	for (map< string, Paradero >::iterator it = fdd_->redParaderos.red.begin(); it != fdd_->redParaderos.red.end(); it++)
 	{
+		cout << "FLAG 1" << endl;
 		///Calculo la celda
 		int iLat = ((*it).second.lat - fdd_->grid.minLat) / fdd_->grid.ddLat;
 		int iLon = ((*it).second.lon - fdd_->grid.minLon) / fdd_->grid.ddLon;
 
+		cout << (*it).second.lat << "|" << (*it).second.lon << "|" << iLat << "|" << iLon << endl;
+
+		cout << "FLAG 2" << endl;
 		fdd_->grid.cells.at(iLat).at(iLon).stops.push_back((*it).second.codigo);
+		cout << "FLAG 3" << endl;
 	}
+	cout << "FLAG 4" << endl;
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
 
@@ -293,5 +306,58 @@ void GridProcess::IngresaPuntosBipsAGrilla()
 		if(iLat >= 0 && iLat < fdd_->grid.nLat && iLon >= 0 && iLon < fdd_->grid.nLon)
 			fdd_->grid.cells.at(iLat).at(iLon).puntos.push_back((*it).second.id);
 	}
+	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
+}
+
+void GridProcess::ConstruyeGrillaFija()
+{
+	int nTimeStart = Cronometro::GetMilliCount();
+	cout << "Construyendo grilla regular....";
+
+	///Deteccion de minimos y maximos que define dimensiones de la grilla
+	fdd_->grid.minLat = -33.589809;
+	fdd_->grid.maxLat = -33.326579;
+	fdd_->grid.minLon = -70.916865;
+	fdd_->grid.maxLon = -70.371407;
+
+	//for (map< string, Paradero >::iterator it = fdd_->redParaderos.red.begin(); it != fdd_->redParaderos.red.end(); it++)
+	//{
+	//	fdd_->grid.minLat = std::fmin(fdd_->grid.minLat, (*it).second.lat);
+	//	fdd_->grid.maxLat = std::fmax(fdd_->grid.maxLat, (*it).second.lat);
+	//	fdd_->grid.minLon = std::fmin(fdd_->grid.minLon, (*it).second.lon);
+	//	fdd_->grid.maxLon = std::fmax(fdd_->grid.maxLon, (*it).second.lon);
+	//}
+
+	fdd_->grid.nLat = 500;
+	fdd_->grid.nLon = 500;
+
+	fdd_->grid.delta_Latitud = fdd_->grid.maxLat - fdd_->grid.minLat;
+	fdd_->grid.delta_Longitud = fdd_->grid.maxLon - fdd_->grid.minLon;
+
+	fdd_->grid.ddLat = fdd_->grid.delta_Latitud / fdd_->grid.nLat;
+	fdd_->grid.ddLon = fdd_->grid.delta_Longitud / fdd_->grid.nLon;
+
+	cout << "Min : " << fdd_->grid.minLat << " | " << fdd_->grid.minLon << endl;
+	cout << "Max : " << fdd_->grid.maxLat << " | " << fdd_->grid.maxLon << endl;
+	cout << "ddLat : " << fdd_->grid.ddLat << endl;
+	cout << "ddLon : " << fdd_->grid.ddLon << endl;
+
+	///Llenado de estructura
+	cout.precision(10);
+	for (double dLat = 0; dLat <= fdd_->grid.delta_Latitud; dLat += fdd_->grid.ddLat)
+	{
+		//cout << "FLAG 0"  << endl;
+		vector< Cell > row;
+		for (double dLon = 0; dLon <= fdd_->grid.delta_Longitud; dLon += fdd_->grid.ddLon)
+		{
+			cout << "-,-," << fdd_->grid.minLat + dLat << "," << fdd_->grid.minLon + dLon<< endl;
+			Cell cell;
+			row.push_back(cell);
+		}
+		fdd_->grid.cells.push_back(row);
+	}
+
+	cout << fdd_->grid.cells.size() << endl;
+
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }

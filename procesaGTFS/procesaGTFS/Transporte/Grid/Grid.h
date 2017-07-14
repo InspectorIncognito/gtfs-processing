@@ -41,13 +41,13 @@ public:
 	~Grid(void);
 
 	///Coordenadas que definen grilla
-	float minLat;
-	float maxLat;
-	float minLon;
-	float maxLon;
+	double minLat;
+	double maxLat;
+	double minLon;
+	double maxLon;
 
-	float nLat;
-	float nLon;
+	double nLat;
+	double nLon;
 
 	double delta_Latitud;
 	double delta_Longitud;
