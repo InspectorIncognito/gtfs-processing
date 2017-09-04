@@ -1,4 +1,69 @@
-﻿  GridProcess.cpp
+﻿  FuenteDatos.cpp
+IO\FuenteDatos.cpp(216): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+IO\FuenteDatos.cpp(224): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+IO\FuenteDatos.cpp(369): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+IO\FuenteDatos.cpp(370): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+IO\FuenteDatos.cpp(488): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Parametros.cpp
+IO\Parametros.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ReporteFuenteDatos.cpp
+IO\ReporteFuenteDatos.cpp(472): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(495): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(517): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(554): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(617): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(650): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(721): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(744): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(845): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(882): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(895): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(1115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(1121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(1127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(1164): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(1180): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(1209): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+IO\ReporteFuenteDatos.cpp(1315): warning C4503: 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Insert_nohint': decorated name length exceeded, name was truncated
+          with
+          [
+              _Kty=std::string,
+              _Ty=std::map<int,std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>>,std::less<int>,std::allocator<std::pair<const int,std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>>>>>,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,std::map<int,std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>>,std::less<int>,std::allocator<std::pair<const int,std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>>>>>>>
+          ]
+IO\ReporteFuenteDatos.cpp(1315): warning C4503: 'std::_Tree<std::_Tmap_traits<_Kty,_Ty,_Pr,_Alloc,false>>::_Insert_at': decorated name length exceeded, name was truncated
+          with
+          [
+              _Kty=std::string,
+              _Ty=std::map<int,std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>>,std::less<int>,std::allocator<std::pair<const int,std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>>>>>,
+              _Pr=std::less<std::string>,
+              _Alloc=std::allocator<std::pair<const std::string,std::map<int,std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>>,std::less<int>,std::allocator<std::pair<const int,std::map<std::string,double,std::less<std::string>,std::allocator<std::pair<const std::string,double>>>>>>>>
+          ]
+  ReporteGlobal.cpp
+IO\ReporteGlobal.cpp(25): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  TablaDistanciaEnRutaParadas.cpp
+IO\Tablas\TablaDistanciaEnRutaParadas.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TablaGrilla.cpp
+  TablaParadas.cpp
+  TablaPuntoCarga.cpp
+  TablaRutasSimplificadas.cpp
+  TablaRutasTramadas.cpp
+  TablaServicios.cpp
+  TablaServiciosParaAndroid.cpp
+  TablaServiciosPorParada.cpp
+  TablaServiciosPorParadaParaAndriod.cpp
+  ColorScale.cpp
+  CreaKML.cpp
+  Visualizaciones.cpp
+  procesaGTFS.cpp
+  PuntoBip.cpp
+  DiccionarioServicios.cpp
+  Compiling...
+  Cell.cpp
+  Grid.cpp
+  GridProcess.cpp
 Transporte\Grid\GridProcess.cpp(100): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 Transporte\Grid\GridProcess.cpp(101): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 Transporte\Grid\GridProcess.cpp(134): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
@@ -17,9 +82,41 @@ Transporte\Grid\GridProcess.cpp(218): warning C4244: 'argument': conversion from
 Transporte\Grid\GridProcess.cpp(218): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
 Transporte\Grid\GridProcess.cpp(300): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
 Transporte\Grid\GridProcess.cpp(301): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Paradero.cpp
+  ProcesaParadas.cpp
+Transporte\Paraderos\ProcesaParadas.cpp(42): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Transporte\Paraderos\ProcesaParadas.cpp(43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  RedParadas.cpp
+  SecuenciaParaderos.cpp
+  ProcesaRutas.cpp
+  Ruta.cpp
+Transporte\Rutas\Ruta.cpp(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Transporte\Rutas\Ruta.cpp(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Transporte\Rutas\Ruta.cpp(191): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Rutas.cpp
+Transporte\Rutas\Rutas.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Transporte\Rutas\Rutas.cpp(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Transporte\Rutas\Rutas.cpp(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Servicio.cpp
+  ConvertCoordinate.cpp
+Utilidades\ConvertCoordinate.cpp(180): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Cronometro.cpp
+  Geometry2.cpp
+Utilidades\Geometry2.cpp(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Utilidades\Geometry2.cpp(272): warning C4101: 'cw': unreferenced local variable
+Utilidades\Geometry2.cpp(272): warning C4101: 'b': unreferenced local variable
+Utilidades\Geometry2.cpp(633): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Histogram.cpp
+Utilidades\Histogram.cpp(95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Utilidades\Histogram.cpp(135): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Utilidades\Histogram.cpp(161): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+Utilidades\Histogram.cpp(163): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+  Scatter.cpp
+  StringFunctions.cpp
+  TimeStampHandler.cpp
   Generating code
-  27 of 3847 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    17 functions had inline decision re-evaluated but remain unchanged
+  All 3803 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  procesaGTFS.vcxproj -> C:\workspace\tranSapp\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.exe
+  procesaGTFS.vcxproj -> C:\workspace\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.exe
+  procesaGTFS.vcxproj -> C:\workspace\GTFSProcessing\procesaGTFS\x64\Release\procesaGTFS.pdb (Full PDB)
