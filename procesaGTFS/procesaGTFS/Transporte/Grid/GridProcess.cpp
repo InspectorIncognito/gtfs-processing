@@ -92,21 +92,21 @@ void GridProcess::IngresaParaderosAGrilla()
 	int nTimeStart = Cronometro::GetMilliCount();
 	cout << "Ingresando paradas a grilla regular....";
 
-	cout << "FLAG 0" << endl;
+	//cout << "FLAG 0" << endl;
 	for (map< string, Paradero >::iterator it = fdd_->redParaderos.red.begin(); it != fdd_->redParaderos.red.end(); it++)
 	{
-		cout << "FLAG 1" << endl;
+		//cout << "FLAG 1" << endl;
 		///Calculo la celda
 		int iLat = ((*it).second.lat - fdd_->grid.minLat) / fdd_->grid.ddLat;
 		int iLon = ((*it).second.lon - fdd_->grid.minLon) / fdd_->grid.ddLon;
 
 		cout << (*it).second.lat << "|" << (*it).second.lon << "|" << iLat << "|" << iLon << endl;
 
-		cout << "FLAG 2" << endl;
+		//cout << "FLAG 2" << endl;
 		fdd_->grid.cells.at(iLat).at(iLon).stops.push_back((*it).second.codigo);
-		cout << "FLAG 3" << endl;
+		//cout << "FLAG 3" << endl;
 	}
-	cout << "FLAG 4" << endl;
+	//cout << "FLAG 4" << endl;
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
 
