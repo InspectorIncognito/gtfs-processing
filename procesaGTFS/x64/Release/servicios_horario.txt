@@ -128,7 +128,6 @@
 424;Domingo y Festivos-05:30-00:12/Lunes a Viernes-05:30-00:12/Sábado-05:30-00:12/;Domingo y Festivos-05:58-00:45/Lunes a Viernes-06:00-00:45/Sábado-05:57-00:45/
 425;Domingo y Festivos-00:00-23:59/Sábado-00:00-23:59/Lunes a Viernes-00:00-23:59/;Sábado-00:00-23:59/Domingo y Festivos-00:00-23:59/Lunes a Viernes-00:00-23:59/
 426;Domingo y Festivos-00:00-23:59/Lunes a Viernes-00:00-23:59/Sábado-00:00-23:59/;Sábado-00:00-23:59/Domingo y Festivos-00:00-23:59/Lunes a Viernes-00:00-23:59/
-427;;Lunes a Viernes-04:40-00:30/Sábado-04:50-00:30/Domingo y Festivos-05:30-00:30/Lunes a Viernes-05:51-00:45/Sábado-05:55-00:45/Domingo y Festivos-06:42-00:45/
 428;Sábado-00:00-23:59/Domingo y Festivos-00:00-23:59/Lunes a Viernes-00:00-23:59/;Sábado-00:00-23:59/Lunes a Viernes-00:00-23:59/Domingo y Festivos-00:00-23:59/
 428c;Lunes a Viernes-16:30-21:24/Lunes a Viernes-05:30-09:22/;Lunes a Viernes-16:30-21:22/Lunes a Viernes-05:30-09:20/
 428e;Lunes a Viernes-17:30-21:26/Lunes a Viernes-05:30-09:27/;Lunes a Viernes-17:30-21:26/Lunes a Viernes-05:30-09:28/
@@ -348,6 +347,7 @@ I11;Sábado-00:00-23:59/Lunes a Viernes-00:00-23:59/Domingo y Festivos-00:00-23:5
 I12;Lunes a Viernes-05:00-00:30/Domingo y Festivos-05:30-00:30/Sábado-05:30-00:30/;Sábado-05:54-00:30/Domingo y Festivos-06:00-00:30/Lunes a Viernes-05:54-00:30/
 I13;Lunes a Viernes-05:00-00:30/Domingo y Festivos-05:30-00:30/Sábado-05:15-00:30/;Domingo y Festivos-06:00-00:30/Sábado-06:00-00:30/Lunes a Viernes-05:54-00:30/
 I14;;Sábado-05:30-00:30/Domingo y Festivos-05:30-00:30/Lunes a Viernes-05:30-00:30/Lunes a Viernes-05:30-00:30/Domingo y Festivos-05:30-00:30/Sábado-05:30-00:30/
+I14N;;
 I16;Sábado-05:30-00:00/Lunes a Viernes-05:00-00:00/Domingo y Festivos-05:30-00:30/;Domingo y Festivos-05:50-00:30/Sábado-05:45-00:30/Lunes a Viernes-05:30-00:30/
 I17;Lunes a Viernes-05:30-00:30/Sábado-05:30-00:00/Domingo y Festivos-05:30-00:30/;Domingo y Festivos-05:46-00:30/Sábado-05:50-00:30/Lunes a Viernes-05:45-00:30/
 I18;Sábado-05:30-00:30/Domingo y Festivos-05:30-00:30/Lunes a Viernes-05:30-00:30/;Lunes a Viernes-05:30-00:30/Sábado-05:30-00:30/Domingo y Festivos-05:30-00:30/
@@ -379,15 +379,3 @@ J18;Domingo y Festivos-05:30-23:30/Lunes a Viernes-05:20-23:30/Sábado-05:30-23:3
 J18c;Lunes a Viernes-06:30-08:54/;Lunes a Viernes-17:30-21:06/
 J19;Lunes a Viernes-05:30-23:54/Sábado-05:30-23:54/Domingo y Festivos-05:30-23:54/;Lunes a Viernes-06:00-00:30/Domingo y Festivos-05:58-00:38/Sábado-06:00-00:30/
 J20;Sábado-05:30-22:59/Domingo y Festivos-05:30-22:59/Lunes a Viernes-05:30-22:55/;Sábado-06:05-23:41/Lunes a Viernes-06:04-23:31/Domingo y Festivos-06:03-23:35/
-L1_V33;;
-L2R_V33;;
-L2V_V33;;
-L2_V33;;
-L4A_V33;;
-L4R_V33;;
-L4V_V33;;
-L4_V33;;
-L5R_V33;;
-L5V_V33;;
-L5_V33;;
-MT_V33;;
