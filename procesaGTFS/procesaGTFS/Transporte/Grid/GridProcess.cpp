@@ -100,7 +100,7 @@ void GridProcess::IngresaParaderosAGrilla()
 		int iLat = ((*it).second.lat - fdd_->grid.minLat) / fdd_->grid.ddLat;
 		int iLon = ((*it).second.lon - fdd_->grid.minLon) / fdd_->grid.ddLon;
 
-		cout << (*it).second.lat << "|" << (*it).second.lon << "|" << iLat << "|" << iLon << endl;
+		//cout << (*it).second.lat << "|" << (*it).second.lon << "|" << iLat << "|" << iLon << endl;
 
 		//cout << "FLAG 2" << endl;
 		fdd_->grid.cells.at(iLat).at(iLon).stops.push_back((*it).second.codigo);

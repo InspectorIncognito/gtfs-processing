@@ -379,3 +379,16 @@ J18;Domingo y Festivos-05:30-23:30/Lunes a Viernes-05:20-23:30/Sábado-05:30-23:3
 J18c;Lunes a Viernes-06:30-08:54/;Lunes a Viernes-17:30-21:06/
 J19;Lunes a Viernes-05:30-23:54/Sábado-05:30-23:54/Domingo y Festivos-05:30-23:54/;Lunes a Viernes-06:00-00:30/Domingo y Festivos-05:58-00:38/Sábado-06:00-00:30/
 J20;Sábado-05:30-22:59/Domingo y Festivos-05:30-22:59/Lunes a Viernes-05:30-22:55/;Sábado-06:05-23:41/Lunes a Viernes-06:04-23:31/Domingo y Festivos-06:03-23:35/
+L1_V36;;
+L2R_V36;;
+L2V_V36;;
+L2_V36;;
+L4A_V36;;
+L4R_V36;;
+L4V_V36;;
+L4_V36;;
+L5R_V36;;
+L5V_V36;;
+L5_V36;;
+L6_V36;;
+MT_V36;;
