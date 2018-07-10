@@ -199,7 +199,7 @@ PA176|PA176-Parada 6 / (M) Irarrázaval|348446|6297321|-33.4528|-70.6306|
 PA177|PA177-Parada 4 / (M) Irarrázaval|348505|6297067|-33.4551|-70.6301|
 PA179|PA179-Av. Vicuña Mackenna / Esq. Maule|348730|6296243|-33.4626|-70.6278|
 PA18|PA18-Parada 2 / (M) Rondizzoni|346133|6295314|-33.4706|-70.6559|
-PA181|PA181-Parada 1 / (M) Ñuble|348853|6295781|-33.4668|-70.6265|
+PA181|PA181-Parada 1 / (M) Ñuble|348845|6295748|-33.4671|-70.6266|
 PA182|PA182-Parada 2 / (M) Santa Lucía|347003|6298435|-33.4426|-70.646|
 PA183|PA183-Parada 3 / (M) Universidad De Chile|346513|6298293|-33.4438|-70.6513|
 PA184|PA184-Parada 4 / (M) La Moneda|346133|6298196|-33.4446|-70.6554|
@@ -215,7 +215,7 @@ PA196|PA196-Nataniel Cox / Esq. Eleuterio Ramírez|346332|6297653|-33.4495|-70.6
 PA197|PA197-Nataniel Cox / Esq. Santa Isabel|346373|6297381|-33.452|-70.6529|
 PA198|PA198-Parada 6 / Teatro Cariola|346579|6297665|-33.4495|-70.6507|
 PA199|PA199-Portugal / Esq. Coquimbo|348132|6297236|-33.4535|-70.634|
-PA2|PA2-Chacabuco / Esq. Romero|344013|6297907|-33.4469|-70.6782|
+PA2|PA2-Chacabuco / Esq. Romero|344026|6297770|-33.4481|-70.6781|
 PA20|PA20-Lord Cochrane / Esq. Pedro Lagos|346460|6295587|-33.4682|-70.6523|
 PA200|PA200-Parada 5 / (M) Irarrázaval|348360|6296963|-33.456|-70.6316|
 PA202|PA202-Maule / Esq. Avenida Portugal|348469|6295940|-33.4653|-70.6306|
@@ -334,8 +334,8 @@ PA327|PA327-Parada 4 / Puente Bulnes|344606|6299978|-33.4283|-70.6715|
 PA329|PA329-Parada 13 / Estación Mapocho|346403|6299616|-33.4318|-70.6522|
 PA33|PA33-San Ignacio / Esq. Coquimbo|346123|6296795|-33.4572|-70.6557|
 PA331|PA331-Parada 5 / (M) Quinta Normal|343849|6298550|-33.4411|-70.6799|
-PA332|PA332-Parada 2 / Liceo Uno|345969|6298799|-33.4391|-70.657|
-PA334|PA334-Merced / Esq. Miraflores|346985|6298938|-33.438|-70.6461|
+PA332|PA332-Parada 2 / Liceo Uno|345928|6298803|-33.4391|-70.6575|
+PA334|PA334-Merced / Esq. Miraflores|346990|6298939|-33.438|-70.646|
 PA335|PA335-Parada 3 / (M) Unión Latinoamericana|344578|6297652|-33.4493|-70.6722|
 PA336|PA336-Parada 3 / (M) República|344989|6297793|-33.4481|-70.6677|
 PA337|PA337-Parada 8 / (M) Los Héroes|345526|6297933|-33.4469|-70.6619|
@@ -345,7 +345,7 @@ PA34|PA34-Parada 6 / (M) Parque O'Higgins|346148|6296492|-33.46|-70.6555|
 PA340|PA340-Parada 9 / (M) Santa Lucía|346955|6298377|-33.4431|-70.6465|
 PA341|PA341-Parada 3 / (M) Universidad Católica|347446|6298641|-33.4408|-70.6412|
 PA342|PA342-Parada 7 / Plaza Italia|347845|6298970|-33.4379|-70.6368|
-PA343|PA343-Parada 10 / Plaza Italia|347898|6299035|-33.4373|-70.6363|
+PA343|PA343-Parada 10 / Plaza Italia|347898|6299036|-33.4373|-70.6363|
 PA344|PA344-Parada 12 / (M) Santa Lucía|346891|6298403|-33.4429|-70.6472|
 PA345|PA345-Parada 4 / (M) Universidad De Chile|346664|6298339|-33.4434|-70.6496|
 PA346|PA346-Parada 10 / (M) La Moneda|345854|6298113|-33.4453|-70.6584|
@@ -407,10 +407,10 @@ PA413|PA413-Andes / Esq. General Bulnes|344672|6299454|-33.4331|-70.6709|
 PA414|PA414-Andes / Esq. Rafael Sotomayor|344400|6299428|-33.4333|-70.6738|
 PA415|PA415-Andes / Esq. Maipú|344100|6299397|-33.4335|-70.677|
 PA416|PA416-Parada 2 / Matucana - Andes|343804|6299372|-33.4337|-70.6802|
-PA417|PA417-Parada 3 / (M) Plaza De Armas|346495|6298870|-33.4386|-70.6514|
+PA417|PA417-Parada 3 / (M) Plaza De Armas|346487|6298875|-33.4385|-70.6514|
 PA419|PA419-Diagonal Paraguay / Esq. Avenida Portugal|347725|6298376|-33.4432|-70.6382|
 PA42|PA42-Parada 4 / (M) Universidad Católica|347526|6298746|-33.4398|-70.6403|
-PA420|PA420-Diagonal Paraguay / Esq. Av.Vicuña Mackenna|348102|6298515|-33.442|-70.6342|
+PA420|PA420-Diagonal Paraguay / Esq. Av.Vicuña Mackenna|348102|6298515|-33.442|-70.6341|
 PA421|PA421-Parada 2 / San Antonio - Santo Domingo|346678|6299165|-33.436|-70.6493|
 PA422|PA422-Parada 4 / (M) Plaza De Armas|346440|6299128|-33.4363|-70.6519|
 PA423|PA423-Parada / Santo Domingo - Teatinos|346107|6299078|-33.4367|-70.6555|
@@ -443,7 +443,6 @@ PA450|PA450-Parada 1 / (M) Parque O'Higgins|346022|6296457|-33.4603|-70.6569|
 PA451|PA451-Parada 4 / Plaza Ercilla|345602|6296851|-33.4567|-70.6613|
 PA452|PA452-Parada 4 / Escuela De Ingeniería|345373|6296825|-33.4569|-70.6638|
 PA453|PA453-Parada 4 / Avenida España - Blanco|344969|6296745|-33.4575|-70.6681|
-PA454|PA454-Parada 4 / Molina - Blanco|344623|6296670|-33.4581|-70.6719|
 PA455|PA455-Avenida España / Esq. Cabo Arestey|344745|6297659|-33.4493|-70.6704|
 PA456|PA456-Avenida España / Esq. Grajales|344819|6297309|-33.4524|-70.6697|
 PA457|PA457-Avenida España / Esq. Toesca|344872|6297059|-33.4547|-70.6691|
@@ -493,7 +492,7 @@ PA5|PA5-Parada 3 / Hospital San Juan De Dios|343882|6298350|-33.4429|-70.6796|
 PA50|PA50-Parada 1 / Teatro Teletón|345817|6299183|-33.4357|-70.6586|
 PA500|PA500-Lira / Esq. Ñuble|348243|6295584|-33.4685|-70.6331|
 PA501|PA501-Ñuble / Esq. Avenida Portugal|348493|6295656|-33.4678|-70.6304|
-PA502|PA502-Parada 3 / (M) Ñuble|348809|6295705|-33.4674|-70.627|
+PA502|PA502-Parada 3 / (M) Ñuble|348831|6295702|-33.4675|-70.6268|
 PA503|PA503-Portugal / Esq. Ñuble|348493|6295703|-33.4674|-70.6304|
 PA504|PA504-Portugal / Esq. Arauco|348568|6295397|-33.4702|-70.6297|
 PA505|PA505-Franklin / Esq. Sierra Bella|348281|6295172|-33.4722|-70.6328|
@@ -512,7 +511,7 @@ PA517|PA517-Arturo Prat / Esq. Arauco|346979|6295209|-33.4717|-70.6468|
 PA52|PA52-San Martín / Esq. Moneda|345902|6298485|-33.442|-70.6578|
 PA527|PA527-Avenida Matta / Esq. Víctor Manuel|347372|6296698|-33.4583|-70.6423|
 PA53|PA53-Parada 1 / (M) La Moneda|345939|6298180|-33.4447|-70.6575|
-PA531|PA531-Bio Bío / Esq. Nataniel Cox|346714|6294881|-33.4746|-70.6497|
+PA531|PA531-Bio Bío / Esq. Nataniel Cox|346714|6294880|-33.4746|-70.6497|
 PA532|PA532-Av. General Rondizzoni / Esq. Luis Cousiño|345839|6295370|-33.47|-70.659|
 PA534|PA534-Av. Pedro Montt / Esq. Amapolas|345117|6294971|-33.4735|-70.6669|
 PA535|PA535-Siria / Esq. Francisco Pizarro|344859|6295017|-33.4731|-70.6696|
@@ -521,10 +520,8 @@ PA537|PA537-Av. General Rondizzoni / Esq. Avenida El Mirador|344999|6295294|-33.
 PA538|PA538-Av. General Rondizzoni / Esq. Avenida Beaucheff|345382|6295308|-33.4705|-70.664|
 PA539|PA539-Av. General Rondizzoni / Esq. Luis Cousiño|345746|6295340|-33.4703|-70.66|
 PA54|PA54-Santa Isabel / Esq. Lord Cochrane|346215|6297269|-33.453|-70.6547|
-PA541|PA541-Cuarta Transversal / Esq. Nataniel Cox|346750|6294687|-33.4763|-70.6493|
 PA542|PA542-Curicó / Esq. Lira|347555|6298158|-33.4452|-70.6401|
 PA543|PA543-Parada 1 / Posta Central|347822|6298265|-33.4442|-70.6372|
-PA544|PA544-Cuarta Transversal / Esq. Nataniel Cox|346730|6294709|-33.4761|-70.6495|
 PA547|PA547-Parada 3 / (M) Quinta Normal|343858|6298611|-33.4405|-70.6798|
 PA55|PA55-Nataniel Cox / Esq. Av. 10 De Julio|346405|6297143|-33.4541|-70.6526|
 PA551|PA551-Parada 2 / (M) Unión Latinoamericana|344307|6297613|-33.4496|-70.6751|
@@ -589,7 +586,6 @@ PA630|PA630-San Ignacio / Esq. Santiago|346172|6296208|-33.4625|-70.6553|
 PA633|PA633-Parada 5 / (M) Rondizzoni|346243|6295363|-33.4702|-70.6547|
 PA634|PA634-Parada 3 / Centro De Justicia|346279|6295009|-33.4734|-70.6543|
 PA635|PA635-San Ignacio / Esq. Centenario|346309|6294666|-33.4765|-70.6541|
-PA636|PA636-Cuarta Transversal / Esq. Nataniel Cox|346729|6294723|-33.476|-70.6496|
 PA637|PA637-Franklin / Esq. Avenida Portugal|348643|6295253|-33.4715|-70.6289|
 PA638|PA638-Arauco / Esq. Avenida Portugal|348559|6295341|-33.4707|-70.6298|
 PA639|PA639-Arauco / Esq. Santa Elena|348781|6295394|-33.4703|-70.6274|
@@ -669,18 +665,18 @@ PA72|PA72-Parada 2 / Parque Almagro|346600|6297532|-33.4507|-70.6505|
 PA720|PA720-Lord Cochrane / Esq. Alameda|346141|6298090|-33.4456|-70.6553|
 PA722|PA722-San Diego / Esq. Santa Isabel|346626|6297359|-33.4522|-70.6502|
 PA724|PA724-Av. Ricardo Cumming / Esq. Catedral|344890|6298804|-33.4389|-70.6686|
-PA725|PA725-Avenida Matucana / Esq. Rosas|343826|6298937|-33.4376|-70.6801|
+PA725|PA725-Avenida Matucana / Esq. Rosas|343827|6298926|-33.4377|-70.68|
 PA726|PA726-Almirante Barroso / Esq. Santo Domingo|345462|6298967|-33.4376|-70.6625|
 PA727|PA727-Almirante Barroso / Esq. Moneda|345521|6298470|-33.4421|-70.6619|
 PA728|PA728-Parada 3 / Posta Central|347561|6298368|-33.4433|-70.64|
 PA763|PA763-Parada 2 / Teatro Municipal|346780|6298849|-33.4388|-70.6483|
-PA77|PA77-Parada 6 / Estación Mapocho|346391|6299500|-33.4329|-70.6524|
+PA774|PA774-San Martín / Esq.  Santo Domingo|345829|6299051|-33.4369|-70.6585|
 PA78|PA78-Parada 8 / (M) Santa Ana|345675|6298800|-33.4391|-70.6602|
 PA8|PA8-Parada 2 / Santo Domingo - Matucana|343839|6298810|-33.4387|-70.6799|
 PA80|PA80-Parada 2 / (M) Toesca|345857|6297404|-33.4517|-70.6585|
 PA81|PA81-Parada 5 / (M) Los Héroes|345677|6297929|-33.447|-70.6603|
 PA815|PA815-San Martín / Esq. Compañía De Jesús|345859|6298829|-33.4389|-70.6582|
-PA816|PA816-Portugal / Esq. Carab. De Chile|347615|6298592|-33.4412|-70.6394|
+PA816|PA816-Portugal / Esq. Carab. De Chile|347616|6298592|-33.4412|-70.6394|
 PA817|PA817-Av. Ricardo Cumming / Esq. Romero|345000|6297962|-33.4466|-70.6676|
 PA818|PA818-Av. Ricardo Cumming / Esq. Romero|344976|6297998|-33.4462|-70.6679|
 PA819|PA819-San Francisco / Esq. Placer|347261|6294826|-33.4752|-70.6438|
@@ -689,6 +685,7 @@ PA820|PA820-Parada 3 / Merced - San Antonio|346755|6298998|-33.4375|-70.6485|
 PA821|PA821-Parada 1 / Teatro Municipal|346818|6298576|-33.4413|-70.6479|
 PA822|PA822-Avenida Brasil / Esq. Catedral|345266|6298853|-33.4386|-70.6646|
 PA823|PA823-Av. Vicuña Mackenna / Esq. Victoria|348613|6296688|-33.4586|-70.629|
+PA832|PA832-Unión Latinoamericana / Esq. Blanco Encalada|344579|6296671|-33.4581|-70.6724|
 PA84|PA84-Parada 2 / Estación Mapocho|346324|6299550|-33.4324|-70.6531|
 PA86|PA86-Parada 9 / (M) La Moneda|345945|6298098|-33.4455|-70.6574|
 PA87|PA87-Parada 7 / Estación Mapocho|346390|6299488|-33.433|-70.6524|
@@ -708,7 +705,7 @@ PB1|PB1-Venezuela / Esq. Bolivia|349064|6302685|-33.4046|-70.6231|
 PB10|PB10-Avenida Dorsal / Esq. La Plata|346475|6303646|-33.3955|-70.6508|
 PB100|PB100-Av. Vicuña Mackenna / Esq. Themis|337618|6301879|-33.4101|-70.7463|
 PB1000|PB1000-Parada 5 / Independencia - Vespucio|342741|6306819|-33.3664|-70.6904|
-PB1001|PB1001-Parada / Cruce Quilicura|341773|6307052|-33.3641|-70.7007|
+PB1001|PB1001-Parada  / Cruce Quilicura|341773|6307052|-33.3641|-70.7007|
 PB1002|PB1002-Parada / Pasarela Lautaro|340920|6309184|-33.3448|-70.7095|
 PB1003|PB1003-Parada / Panamerica Norte Altura Del 9400|340729|6309766|-33.3395|-70.7114|
 PB1004|PB1004-San Ignacio / Esq. Lincoyán|340745|6310485|-33.333|-70.7111|
@@ -725,14 +722,14 @@ PB1013|PB1013-San Ignacio / Esq. Galvarino|341227|6310703|-33.3311|-70.7059|
 PB1014|PB1014-San Ignacio / Esq. Lincoyán|340801|6310535|-33.3326|-70.7105|
 PB1015|PB1015-Parada / Pasarela Lautaro|340846|6309183|-33.3448|-70.7103|
 PB1016|PB1016-Av. Edo. Frei Montalva / Esq. Las Esteras Sur|340962|6308889|-33.3475|-70.7091|
-PB1017|PB1017-Parada / Pasarela El Molino|341454|6307613|-33.359|-70.704|
+PB1017|PB1017-Parada  / Pasarela El Molino|341454|6307613|-33.359|-70.704|
 PB1018|PB1018-Parada / Cruce Quilicura|341637|6306918|-33.3653|-70.7022|
 PB1019|PB1019-Avenida Lo Cruzat / Esq. El Alerce|339903|6308285|-33.3527|-70.7206|
 PB102|PB102-Avenida Del Parque / Esq. Av. Del Cóndor|349397|6304251|-33.3905|-70.6193|
 PB1020|PB1020-Avenida Lo Cruzat / Esq. Roma|339907|6308449|-33.3513|-70.7205|
 PB1021|PB1021-Roma / Esq. Cost. Férreas|340229|6308433|-33.3515|-70.7171|
 PB1022|PB1022-Costaneras Férreas / Esq. El Alerce|340331|6308318|-33.3525|-70.716|
-PB1023|PB1023-Costaneras Férreas / Esq. Lenga|340438|6308175|-33.3538|-70.7149|
+PB1023|PB1023-Costaneras Férreas / Esq. Lenga|340438|6308175|-33.3538|-70.7148|
 PB1024|PB1024-Santa Fe / Esq. Talca|340443|6307984|-33.3555|-70.7148|
 PB1025|PB1025-Salvador De Bahía / Esq. Santa Cruz|340116|6308041|-33.355|-70.7183|
 PB1026|PB1026-Salvador De Bahía / Esq. Av. Lo Cruzat|339910|6308084|-33.3545|-70.7205|
@@ -748,7 +745,7 @@ PB1034|PB1034-Carampangue / Esq. Sen. Jaime Guzmán|341290|6306632|-33.3678|-70.
 PB1035|PB1035-Pedro Fontova / Esq. Santa Elena De H.|344556|6306431|-33.3701|-70.6709|
 PB1036|PB1036-Parada / Punta Nogales|344594|6306970|-33.3653|-70.6704|
 PB1037|PB1037-Pedro Fontova / Esq. Avenida El Sauce|344585|6307374|-33.3616|-70.6704|
-PB1038|PB1038-Pedro Fontova / Esq. Caciques Ch.-Sur|344580|6307642|-33.3592|-70.6704|
+PB1038|PB1038-Pedro Fontova / Esq. Caciques Ch.-Sur|344577|6307768|-33.3581|-70.6705|
 PB1039|PB1039-Pedro Fontova / Esq. Caciques Ch.-Norte |344573|6308017|-33.3558|-70.6705|
 PB104|PB104-Avenida Del Parque / Esq. Rinconada El Salto|349253|6303878|-33.3938|-70.6209|
 PB1040|PB1040-Pedro Fontova / Esq. El Guanaco -Norte|344571|6308240|-33.3538|-70.6704|
@@ -763,7 +760,7 @@ PB105|PB105-El Salto / Esq. Julio Moya Pena|348748|6303737|-33.395|-70.6263|
 PB1050|PB1050-El Guanaco Norte / Esq. Pedro Fontova|344513|6308354|-33.3528|-70.671|
 PB1051|PB1051-Pedro Fontova / Esq. El Roble|344570|6308708|-33.3496|-70.6704|
 PB1052|PB1052-Pedro Fontova / Esq. Alberto Undurraga|344555|6308046|-33.3556|-70.6706|
-PB1053|PB1053-Pedro Fontova / Esq. Pasaje H|344560|6307686|-33.3588|-70.6706|
+PB1053|PB1053-Pedro Fontova / Esq. Pasaje H|344554|6307693|-33.3588|-70.6707|
 PB1054|PB1054-Pedro Fontova / Esq. Las Puertas|344569|6307243|-33.3628|-70.6706|
 PB1055|PB1055-Parada / Punta Nogales|344574|6306983|-33.3652|-70.6706|
 PB1056|PB1056-Carampangue / Esq. La Conquista|341283|6306652|-33.3677|-70.706|
@@ -907,7 +904,7 @@ PB1190|PB1190-Tupungato / Esq. La Coruña|343830|6305585|-33.3777|-70.6789|
 PB1191|PB1191-Granada / Esq. Munich|343505|6305709|-33.3765|-70.6823|
 PB1192|PB1192-Granada / Esq. Av. J. M. Caro|343289|6306058|-33.3733|-70.6846|
 PB1193|PB1193-Calle 1 / Esq. Los Chercanes|342621|6307903|-33.3566|-70.6914|
-PB1194|PB1194-Calle 1 / Esq. Gral. San Martín|342550|6308269|-33.3533|-70.6921|
+PB1194|PB1194-Calle 1 / Esq. Gral. San Martín|342550|6308269|-33.3533|-70.6922|
 PB1195|PB1195-Caupolicán / Esq. Lautaro|342275|6309582|-33.3414|-70.6949|
 PB1196|PB1196-Caupolicán / Esq. Altura Del 9200|342235|6309927|-33.3383|-70.6952|
 PB1197|PB1197-Caupolicán / Esq. Altura Del 8600|342082|6310279|-33.3351|-70.6968|
@@ -1215,7 +1212,7 @@ PB1489|PB1489-Avenida Del Cóndor / Esq. Av. Del Parque|349680|6304416|-33.389|-
 PB149|PB149-El Salto / Esq. Arz. Valdivieso|347636|6301702|-33.4132|-70.6386|
 PB1490|PB1490-Moscú / Esq. Tannenbaum|347683|6290505|-33.5142|-70.64|
 PB1491|PB1491-San Pedro De Atacama / Esq. Lluta|342802|6307549|-33.3598|-70.6896|
-PB1492|PB1492-Rinconada El Salto / Esq. Camino La Pirámide|349565|6305046|-33.3833|-70.6173|
+PB1492|PB1492-Rinconada El Salto / Esq. Camino La Pirámide|349504|6305119|-33.3827|-70.618|
 PB1493|PB1493-Cam. Bosque De Stgo. / Esq. Las Gilas|348843|6305675|-33.3776|-70.625|
 PB1494|PB1494-Cam. Bosque De Stgo. / Esq. Av.Pdte. S.Allende|348660|6305716|-33.3772|-70.6269|
 PB1495|PB1495-Cam. Bosque De Stgo. / Esq. Los Versos Del Cap.|347878|6306026|-33.3743|-70.6353|
@@ -1246,7 +1243,7 @@ PB1520|PB1520-Principal / Esq. Miraflores|336217|6303300|-33.3971|-70.7611|
 PB1521|PB1521-Brasil / Esq. Brasil|336821|6303214|-33.398|-70.7546|
 PB1522|PB1522-Colón / Esq. Las Madreselvas|342473|6303090|-33.4|-70.6939|
 PB1523|PB1523-Costanera Norte / Esq. Chacao|339503|6301724|-33.4118|-70.726|
-PB1524|PB1524-Parada / Pasarela El Molino|341549|6307636|-33.3588|-70.703|
+PB1524|PB1524-Parada  / Pasarela   El Molino|341549|6307636|-33.3588|-70.703|
 PB1525|PB1525-Av. Edo. Frei Montalva / Esq. Carlos Medina|344989|6300165|-33.4267|-70.6673|
 PB1526|PB1526-Calle 1 / Esq. Psje. Los Tiuques|342716|6307598|-33.3593|-70.6905|
 PB1527|PB1527-El Sauce / Esq. Valle Del Maule|343705|6307568|-33.3598|-70.6799|
@@ -1265,7 +1262,7 @@ PB1543|PB1543-Calle 2 / Esq. Secundaria|336109|6303831|-33.3923|-70.7622|
 PB1544|PB1544-Brasil / Esq. La Rambla|336762|6303067|-33.3993|-70.7553|
 PB1546|PB1546-Av. Pdte. J. Alessandri R. / Esq. Nacimiento|340958|6283473|-33.5766|-70.7136|
 PB1548|PB1548-Hernán Mery / Esq. Bismuto|347420|6303890|-33.3935|-70.6406|
-PB1549|PB1549-Brasil / Esq. Miraflores|336808|6303222|-33.3979|-70.7547|
+PB1549|PB1549-Brasil / Esq. Miraflores|336808|6303222|-33.3979|-70.7548|
 PB155|PB155-Avenida Perú / Esq. Dominica|347514|6300175|-33.427|-70.6402|
 PB1557|PB1557-Carlos Gómez Vélez / Esq. Av. A. Vespucio|341554|6306733|-33.367|-70.7031|
 PB1558|PB1558-Avenida Recoleta / Esq. Los Helechos|348185|6307369|-33.3622|-70.6318|
@@ -1293,7 +1290,7 @@ PB1579|PB1579-El Guanaco / Esq. Cacique Lemo Leno|345839|6304345|-33.3891|-70.65
 PB158|PB158-Purísima / Esq. Av. Bellavista|347661|6299365|-33.4343|-70.6387|
 PB1580|PB1580-Parada 4 / Palacio Riesco|349033|6303939|-33.3932|-70.6232|
 PB1581|PB1581-Parada 3 / Palacio Riesco|349029|6303925|-33.3934|-70.6233|
-PB1582|PB1582-Caupolicán / Esq. Av.Sen.Jaime Guzmán|341708|6302841|-33.4021|-70.7021|
+PB1582|PB1582-Caupolicán / Esq. Av.Sen.Jaime Guzmán|341708|6302841|-33.4021|-70.7022|
 PB1586|PB1586-14 De La Fama / Esq. Av. Fermín Vivaceta|344454|6303130|-33.3999|-70.6726|
 PB1587|PB1587-Avenida Dorsal / Esq. El Guanaco|345887|6303608|-33.3958|-70.6571|
 PB1588|PB1588-Aviador Acevedo / Esq. Villa Franca|344797|6303808|-33.3938|-70.6688|
@@ -1336,7 +1333,7 @@ PB1622|PB1622-Alberto González / Esq. Av. Zapadores|344949|6304672|-33.386|-70.
 PB1623|PB1623-Calle 1 / Esq. Real Audiencia|342846|6307187|-33.3631|-70.6892|
 PB1624|PB1624-Parada 1 / Terminal Los Libertadores|343521|6307350|-33.3617|-70.6819|
 PB1625|PB1625-Parada 2 / Terminal Los Libertadores|343548|6307311|-33.3621|-70.6816|
-PB1626|PB1626-Mejillones / Esq. Pajonales|343271|6307618|-33.3592|-70.6845|
+PB1626|PB1626-Mejillones / Esq. Pajonales|343264|6307620|-33.3592|-70.6846|
 PB1627|PB1627-Nueva De Matte / Esq. Freirina|345214|6302110|-33.4092|-70.6646|
 PB1628|PB1628-Nueva De Matte / Esq. Freirina|345251|6302112|-33.4092|-70.6642|
 PB1629|PB1629-Intendente Saavedra / Esq. Pasaje Maipo|338030|6306251|-33.3708|-70.7411|
@@ -1397,8 +1394,7 @@ PB1680|PB1680-Rigoberto Jara / Esq. Egipto|337820|6307968|-33.3553|-70.743|
 PB1681|PB1681-El Alerce / Esq. Avenida Lo Cruzat|339917|6308313|-33.3525|-70.7204|
 PB1682|PB1682-El Alerce / Esq. El Cedro|340130|6308297|-33.3527|-70.7181|
 PB1683|PB1683-Aníbal Pinto / Esq. Colo Colo|337788|6306173|-33.3715|-70.7437|
-PB1684|PB1684-Alcalde Juan Larenas / Esq. Pedro Riveros|339651|6305218|-33.3803|-70.7238|
-PB1685|PB1685-Pedro Riveros / Esq. Avenida Las Torres|339397|6305422|-33.3785|-70.7265|
+PB1685|PB1685-Pedro Riveros / Esq. Avenida Las Torres|339428|6305394|-33.3787|-70.7262|
 PB1689|PB1689-Lincoyán / Esq. Totoralillo|340705|6310691|-33.3312|-70.7115|
 PB169|PB169-Avenida Perú / Esq. Desiderio Lemus|347660|6301420|-33.4158|-70.6384|
 PB1690|PB1690-José Miguel Infante / Esq. Playa Blanca|338964|6302205|-33.4074|-70.7318|
@@ -1484,11 +1480,21 @@ PB1864|PB1864-Alberto González / Esq. Paula Jaraquemada|344941|6304738|-33.3855
 PB1865|PB1865-Av. Fermín Vivaceta / Esq. Gamero|345383|6300754|-33.4214|-70.663|
 PB1866|PB1866-Av. Fermín Vivaceta / Esq. Bgdier. Garrido|345349|6300869|-33.4204|-70.6634|
 PB1867|PB1867-Aníbal Pinto / Esq. Gabriela Mistral|337871|6306209|-33.3712|-70.7428|
+PB1869|PB1869-Parada  / Ismael Briceño  Altura Del 1500|339270|6305869|-33.3744|-70.7278|
 PB187|PB187-Av. Independencia / Esq. H. La Concepción|342995|6306248|-33.3716|-70.6877|
+PB1870|PB1870-Parada  / Ismael Briceño Altura Del 1500|339295|6305843|-33.3747|-70.7276|
+PB1871|PB1871-San Luis Norte / Esq.  Calle Tauro|336609|6307691|-33.3576|-70.7561|
+PB1872|PB1872-San Luis Norte / Esq.  Nueva Delhi|336620|6307706|-33.3575|-70.756|
+PB1873|PB1873-San Luis Norte / Esq.  Los Mercedarios|336711|6307457|-33.3597|-70.755|
+PB1874|PB1874-San Luis Norte / Esq.  Calle Tauro|336721|6307500|-33.3593|-70.7549|
+PB1875|PB1875-Avenida Lo Marcoleta / Esq.  Volcán Argüelle |337020|6307253|-33.3616|-70.7517|
+PB1876|PB1876-Parada  / Alto De La Campiña|339564|6305267|-33.3799|-70.7248|
 PB1879|PB1879-Parada 1 / Mall Plaza Norte - Santa Elena|343586|6307193|-33.3631|-70.6812|
 PB188|PB188-Av. Independencia / Esq. Almirante Latorre|343094|6306047|-33.3734|-70.6867|
 PB1880|PB1880-Parada 5 / Plaza Renca|341328|6302573|-33.4044|-70.7063|
 PB1881|PB1881-J. Montt Salamanca / Esq.  Forestal|342636|6306793|-33.3666|-70.6915|
+PB1882|PB1882-Avenida Lo Marcoleta / Esq.  Bello Horizonte|340248|6307804|-33.3571|-70.717|
+PB1884|PB1884-Parada 6 / Estación Mapocho|346469|6299664|-33.4314|-70.6515|
 PB190|PB190-Av. Independencia / Esq. El Cortijo|343361|6305515|-33.3782|-70.6839|
 PB191|PB191-Av. Independencia / Esq. Quilicura|343451|6305199|-33.3811|-70.683|
 PB193|PB193-Parada 1 / Vuelta Del Padre|343767|6304692|-33.3857|-70.6797|
@@ -1536,7 +1542,6 @@ PB26|PB26-Senador Jaime Guzmán / Esq. Caupolicán|341689|6302751|-33.4029|-70.7
 PB263|PB263-Parada 1 / Plaza Chacabuco|345510|6302373|-33.4069|-70.6614|
 PB264|PB264-Parada 1 / Nueva De Matte - Independencia|345712|6301880|-33.4113|-70.6593|
 PB265|PB265-Av. Independencia / Esq. Avenida Central|345790|6301670|-33.4132|-70.6585|
-PB267|PB267-Av. Independencia / Esq. Carrión|345991|6301128|-33.4182|-70.6564|
 PB268|PB268-Av. Independencia / Esq. Colón |346064|6300732|-33.4217|-70.6557|
 PB269|PB269-Av. Independencia / Esq. Rivera|346139|6300375|-33.425|-70.6549|
 PB27|PB27-Senador Jaime Guzmán / Esq. Apóstol Santiago|342021|6302990|-33.4008|-70.6988|
@@ -1565,7 +1570,7 @@ PB301|PB301-Avenida Recoleta / Esq. M. Luisa Bombal|347302|6304715|-33.386|-70.6
 PB302|PB302-Avenida Recoleta / Esq. Alfredo Rosende|347244|6304455|-33.3883|-70.6424|
 PB303|PB303-Parada 3 / (M) Zapadores|347234|6304105|-33.3915|-70.6425|
 PB304|PB304-Avenida Recoleta / Esq. Urmeneta|347224|6303904|-33.3933|-70.6427|
-PB305|PB305-Parada 1 / (M) Dorsal|347219|6303590|-33.3961|-70.6428|
+PB305|PB305-Parada 1 / (M) Dorsal|347217|6303587|-33.3962|-70.6428|
 PB306|PB306-Avenida Recoleta / Esq. Muñoz Gamero|347208|6303089|-33.4007|-70.643|
 PB307|PB307-Avenida Recoleta / Esq. Diag. José M. Caro|347201|6302813|-33.4031|-70.6431|
 PB308|PB308-Parada 1 / (M) Einstein|347192|6302561|-33.4054|-70.6432|
@@ -1590,7 +1595,7 @@ PB324|PB324-Avenida Recoleta / Esq. Avenida México|347202|6302210|-33.4086|-70.
 PB325|PB325-Parada 2 / (M) Einstein|347207|6302486|-33.4061|-70.6431|
 PB326|PB326-Avenida Recoleta / Esq. Av. J. M. Caro|347219|6302772|-33.4035|-70.6429|
 PB327|PB327-Avenida Recoleta / Esq. Muñoz Gamero|347223|6303024|-33.4012|-70.6428|
-PB328|PB328-Parada 2 / (M) Dorsal|347232|6303454|-33.3974|-70.6427|
+PB328|PB328-Parada 2 / (M) Dorsal|347233|6303453|-33.3974|-70.6427|
 PB329|PB329-Avenida Recoleta / Esq. Ortiz De Rozas|347240|6303801|-33.3942|-70.6425|
 PB330|PB330-Parada 2 / (M) Zapadores|347251|6304101|-33.3915|-70.6423|
 PB331|PB331-Avenida Recoleta / Esq. Alfredo Rosende|347255|6304397|-33.3889|-70.6423|
@@ -1622,8 +1627,8 @@ PB36|PB36-Avenida Dorsal / Esq. Pasaje Barnechea|345039|6303437|-33.3972|-70.666
 PB360|PB360-Diego Silva Henríquez / Esq. Tupungato|343836|6304839|-33.3844|-70.6789|
 PB361|PB361-Diego Silva Henríquez / Esq. Cdlla. De Los Andes|343974|6304856|-33.3843|-70.6774|
 PB362|PB362-Diego Silva Henríquez / Esq. Tupungato|344213|6304836|-33.3845|-70.6749|
-PB363|PB363-Diego Silva Henríquez / Esq. Pedro Fontova|344461|6304864|-33.3843|-70.6722|
-PB364|PB364-Diego Silva Henríquez / Esq. Avenida La Palmilla|344628|6304900|-33.3839|-70.6704|
+PB363|PB363-Diego Silva Henríquez / Esq. Pedro Fontova|344461|6304864|-33.3842|-70.6722|
+PB364|PB364-Diego Silva Henríquez / Esq. Avenida La Palmilla|344628|6304900|-33.384|-70.6704|
 PB365|PB365-Diego Silva Henríquez / Esq. Alberto González|344873|6304952|-33.3835|-70.6678|
 PB366|PB366-Diego Silva Henríquez / Esq. Inés De Suárez|345071|6304922|-33.3838|-70.6656|
 PB367|PB367-Diego Silva Henríquez / Esq. Zaragoza|345336|6304904|-33.384|-70.6628|
@@ -1733,7 +1738,7 @@ PB466|PB466-Av. Américo Vespucio / Esq. Colo Colo|337874|6306153|-33.3717|-70.7
 PB467|PB467-Lo Campino / Esq. Ramón Rosales|340494|6306215|-33.3715|-70.7146|
 PB468|PB468-Parada / Pasarela Alcalde Guzmán|341109|6306236|-33.3714|-70.708|
 PB469|PB469-Av. Américo Vespucio / Esq. Alcalde Guzmán|340848|6306103|-33.3726|-70.7108|
-PB47|PB47-Pedro Donoso / Esq. Gac Ovalle|348377|6303194|-33.3999|-70.6304|
+PB47|PB47-Pedro Donoso / Esq. Gac Ovalle|347928|6303308|-33.3988|-70.6352|
 PB470|PB470-Parada 2 / Zañartu - Manuel A. Matta|341007|6306853|-33.3658|-70.709|
 PB471|PB471-Parada 2 / Las Parcelas - Manuel A. Matta|340757|6306801|-33.3662|-70.7117|
 PB472|PB472-Parada 2 / Lo Campino - Manuel A. Matta|340591|6306752|-33.3667|-70.7135|
@@ -1742,7 +1747,7 @@ PB474|PB474-Parada 2 / Lo Cruzat - Manuel A. Matta|339873|6306758|-33.3665|-70.7
 PB475|PB475-Parada 2 / De La Medialuna - Manuel A. Matta|339565|6306796|-33.3661|-70.7245|
 PB476|PB476-Parada 2 / Del Sauce - Manuel A. Matta|339302|6306861|-33.3655|-70.7273|
 PB477|PB477-Parada 2 / Mall San Valentín|339147|6306845|-33.3656|-70.729|
-PB478|PB478-Av. Américo Vespucio / Esq. Camino Lo Echevers|337426|6305713|-33.3756|-70.7476|
+PB478|PB478-Av. Américo Vespucio / Esq. Camino Lo Echevers|337426|6305713|-33.3756|-70.7477|
 PB479|PB479-Parada / Pasarela Central|337120|6305396|-33.3784|-70.751|
 PB48|PB48-Reina De Chile / Esq. Pasaje Progreso|348546|6302936|-33.4022|-70.6286|
 PB480|PB480-Parada / Pasarela Lo Boza|336647|6304901|-33.3828|-70.7562|
@@ -1866,7 +1871,7 @@ PB596|PB596-Av. Manuel A. Matta / Esq. Volcán Llaima|337511|6307197|-33.3622|-7
 PB597|PB597-Av. Manuel A. Matta / Esq. Volcán Villarrica|337299|6307145|-33.3626|-70.7488|
 PB598|PB598-Av. Manuel A. Matta / Esq. San Luis|336975|6307069|-33.3633|-70.7523|
 PB599|PB599-San Luis / Esq. Av. Lo Marcoleta|336835|6307197|-33.3621|-70.7537|
-PB6|PB6-Pedro Donoso / Esq.  Las Orquídeas|347571|6303414|-33.3978|-70.639|
+PB6|PB6-Pedro Donoso / Esq.  Las Orquídeas|347442|6303447|-33.3975|-70.6404|
 PB60|PB60-Condell / Esq. Pasaje Ñuble|339066|6302737|-33.4026|-70.7306|
 PB603|PB603-Antillanca / Esq. Parinacota|335986|6305685|-33.3756|-70.7631|
 PB604|PB604-Parinacota / Esq. Cordillera|336045|6305495|-33.3773|-70.7625|
@@ -1877,7 +1882,7 @@ PB608|PB608-Camino Lo Echevers / Esq. Av. A. Vespucio|336800|6305797|-33.3747|-7
 PB609|PB609-Camino Lo Echevers / Esq. Av. A. Vespucio|337327|6305655|-33.3761|-70.7487|
 PB61|PB61-Av. José M.Balmaceda / Esq. Paula Jaraquemada|339287|6302816|-33.402|-70.7282|
 PB610|PB610-Camino Lo Echevers / Esq. Ojos Del Salado|337351|6305663|-33.376|-70.7485|
-PB611|PB611-Camino Lo Echevers / Esq. Ojos Del Salado|336801|6305810|-33.3746|-70.7544|
+PB611|PB611-Camino Lo Echevers / Esq. Ojos Del Salado|336801|6305810|-33.3746|-70.7543|
 PB612|PB612-Ojos Del Salado / Esq. Villarrica|336681|6305598|-33.3765|-70.7557|
 PB613|PB613-Ojos Del Salado / Esq. Villarrica|336636|6305437|-33.3779|-70.7562|
 PB614|PB614-Ojos Del Salado / Esq. Parinacota|336553|6305269|-33.3794|-70.7571|
@@ -1991,7 +1996,7 @@ PB716|PB716-Av. Los Zapadores / Esq. General Gambino|345508|6304622|-33.3866|-70
 PB717|PB717-Av. Los Zapadores / Esq. Javier Solis|345706|6304607|-33.3867|-70.6589|
 PB718|PB718-Av. Los Zapadores / Esq. Av. El Guanaco|345843|6304599|-33.3868|-70.6574|
 PB719|PB719-Av. Los Zapadores / Esq. Montaña|346064|6304575|-33.3871|-70.655|
-PB72|PB72-Domingo Santa María / Esq. Pasaje Mapocho|342426|6302122|-33.4087|-70.6946|
+PB72|PB72-Domingo Santa María / Esq. Pasaje Mapocho|342426|6302122|-33.4087|-70.6945|
 PB720|PB720-Av. Los Zapadores / Esq. Juan Cristóbal|346481|6304541|-33.3875|-70.6506|
 PB721|PB721-Av. Los Zapadores / Esq. José Miguel Carrera|346657|6304469|-33.3881|-70.6487|
 PB722|PB722-Av. Los Zapadores / Esq. Freirina|346893|6304346|-33.3893|-70.6462|
@@ -2039,11 +2044,11 @@ PB761|PB761-Profesor A. Zañartu / Esq. Avenida Recoleta|347138|6301327|-33.4165
 PB762|PB762-El Salto Chico / Esq. Unión|347286|6301328|-33.4165|-70.6424|
 PB763|PB763-El Salto Chico / Esq. Arz. Valdivieso|347398|6301571|-33.4144|-70.6412|
 PB764|PB764-Arzobispo Valdivieso / Esq. Puma|347556|6301633|-33.4138|-70.6395|
-PB765|PB765-El Salto / Esq. Av. Santa Clara|348925|6303970|-33.3929|-70.6244|
+PB765|PB765-El Salto / Esq. Av. Santa Clara|348945|6304083|-33.3919|-70.6241|
 PB766|PB766-El Salto / Esq. Rinconada El Salto|349011|6304296|-33.39|-70.6234|
 PB767|PB767-El Salto / Esq. Rinconada El Salto|349097|6304633|-33.387|-70.6224|
 PB768|PB768-Parada / Espacio Riesco|349226|6305126|-33.3826|-70.6209|
-PB769|PB769-Camino La Pirámide / Esq. El Ponciano|349307|6305299|-33.381|-70.62|
+PB769|PB769-Camino La Pirámide / Esq. El Ponciano|349307|6305299|-33.381|-70.6201|
 PB77|PB77-Av. Apóstol Santiago / Esq. Pedro Prado|342622|6301809|-33.4115|-70.6925|
 PB770|PB770-Las Petunias / Esq. El Peumo|349510|6305646|-33.3779|-70.6178|
 PB771|PB771-Las Petunias / Esq. Los Retamos|349187|6305715|-33.3773|-70.6213|
@@ -2184,7 +2189,7 @@ PB901|PB901-Parada 3 / Hospitales|345974|6301180|-33.4177|-70.6566|
 PB902|PB902-Av. Fermín Vivaceta / Esq. Bezanilla|345322|6301142|-33.4179|-70.6636|
 PB907|PB907-Pedro Fontova / Esq. Av. A. Vespucio|344530|6306390|-33.3705|-70.6712|
 PB909|PB909-Santa Marta De H. / Esq. Los Portones|344245|6306978|-33.3652|-70.6742|
-PB91|PB91-Condell / Esq. Sgto. Candelaria|339068|6302681|-33.4031|-70.7305|
+PB91|PB91-Condell / Esq. Sgto. Candelaria|339068|6302681|-33.4031|-70.7306|
 PB911|PB911-Mejillones / Esq. Chimbote|343419|6307618|-33.3593|-70.6829|
 PB912|PB912-Mejillones / Esq. Tocomar|343251|6307633|-33.3591|-70.6847|
 PB913|PB913-Lasana / Esq. Sn.Pedro De Atacama|343179|6307532|-33.36|-70.6855|
@@ -2434,10 +2439,10 @@ PC119|PC119-Av. Padre Hurtado / Esq. Edimburgo|356379|6303048|-33.4023|-70.5444|
 PC12|PC12-Parada / The Kent School|350682|6298415|-33.4433|-70.6064|
 PC120|PC120-Av. Padre Hurtado / Esq. Paraná|356418|6302819|-33.4044|-70.544|
 PC121|PC121-Parada 6 / (M) Los Dominicos|356224|6302425|-33.4079|-70.5462|
-PC1216|PC1216-Tajamar / Esq. Avenida Vitacura|350819|6301328|-33.417|-70.6045|
+PC1216|PC1216-Tajamar / Esq. Avenida Vitacura|350870|6301319|-33.4171|-70.6039|
 PC122|PC122-Avenida Apoquindo / Esq. Zanzíbar Pnte.|355973|6302400|-33.4081|-70.5489|
 PC1220|PC1220-Parada 7 / (M) Tobalaba|350892|6301090|-33.4192|-70.6037|
-PC1221|PC1221-Manuel Montt / Esq. Nueva Providencia|349379|6299961|-33.4292|-70.6202|
+PC1221|PC1221-Manuel Montt / Esq. Nueva Providencia|349405|6299926|-33.4295|-70.6199|
 PC1223|PC1223-Vital Apoquindo / Esq. Lucaro|357793|6300511|-33.4254|-70.5296|
 PC1224|PC1224-Av. Pdte. Kennedy / Esq. Reina Astrid|355110|6303988|-33.3936|-70.5579|
 PC1225|PC1225-Padre Letelier / Esq. Los Españoles|350118|6301167|-33.4184|-70.612|
@@ -2522,7 +2527,7 @@ PC190|PC190-Parada 4 / (M) Pedro De Valdivia|349887|6300386|-33.4254|-70.6146|
 PC191|PC191-Parada 2 / Biblioteca De Providencia|349674|6300175|-33.4273|-70.617|
 PC192|PC192-Parada 2 / (M) Manuel Montt|349383|6300018|-33.4286|-70.6201|
 PC193|PC193-Parada 2 / Torres De Tajamar|349134|6299835|-33.4303|-70.6228|
-PC194|PC194-Parada 2 / (M) Salvador|348835|6299527|-33.433|-70.6261|
+PC194|PC194-Parada 2 / (M) Salvador|348814|6299497|-33.4333|-70.6263|
 PC195|PC195-Parada 2 / Parque Balmaceda|348545|6299285|-33.4351|-70.6292|
 PC196|PC196-Parada 2 / Museo De Los Tajamares|348325|6299166|-33.4362|-70.6316|
 PC199|PC199-Parada 3 / Museo De Los Tajamares|348359|6299146|-33.4364|-70.6313|
@@ -2607,7 +2612,7 @@ PC271|PC271-Parada 10 / (M) Los Leones|350524|6300945|-33.4204|-70.6077|
 PC272|PC272-Parada 2 / (M) Los Leones|350137|6300652|-33.423|-70.6119|
 PC273|PC273-Parada 4 / (M) Manuel Montt|349488|6300073|-33.4282|-70.619|
 PC274|PC274-Parada 4 / Torres De Tajamar|349215|6299902|-33.4297|-70.6219|
-PC275|PC275-Parada 4 / (M) Salvador|348865|6299567|-33.4326|-70.6258|
+PC275|PC275-Parada 4 / (M) Salvador|348874|6299569|-33.4326|-70.6257|
 PC276|PC276-Parada 4 / Parque Balmaceda|348613|6299326|-33.4348|-70.6285|
 PC277|PC277-Parada 4 / Museo De Los Tajamares|348394|6299201|-33.4359|-70.6309|
 PC278|PC278-Avenida Las Condes / Esq. Juan Montalvo|354931|6302570|-33.4064|-70.56|
@@ -2654,8 +2659,8 @@ PC313|PC313-Avenida Paul Harris / Esq. Almte. Soublette|357139|6302241|-33.4097|
 PC314|PC314-Avenida Paul Harris / Esq. Camino El Alba|357011|6302608|-33.4063|-70.5377|
 PC315|PC315-Camino El Alba / Esq. Waterloo|356716|6302698|-33.4055|-70.5408|
 PC316|PC316-Camino El Alba / Esq. Av. Padre A. Hurtado|356509|6302638|-33.406|-70.5431|
-PC317|PC317-Parada / Clínica Indisa|349566|6300788|-33.4217|-70.618|
-PC318|PC318-Avenida Santa María / Esq. Av. Pedro De Valdivia|349840|6300886|-33.4209|-70.6151|
+PC317|PC317-Parada / Clínica Indisa|349673|6300824|-33.4214|-70.6169|
+PC318|PC318-Avenida Santa María / Esq. Av. Pedro De Valdivia|349831|6300883|-33.4209|-70.6152|
 PC319|PC319-Avenida Santa María / Esq. Padre Letelier|350135|6301086|-33.4191|-70.6119|
 PC32|PC32-Avenida Los Leones / Esq. El Vergel|351114|6299455|-33.434|-70.6016|
 PC320|PC320-Avenida Santa María / Esq. Puente Los Leones|350322|6301245|-33.4177|-70.6098|
@@ -2763,7 +2768,7 @@ PC424|PC424-Parada / Mampato|358689|6306881|-33.368|-70.519|
 PC425|PC425-Raúl Labbé / Esq. Av. La Dehesa|359039|6307239|-33.3648|-70.5151|
 PC426|PC426-Avenida La Dehesa / Esq. El Roble|359044|6307498|-33.3625|-70.5151|
 PC427|PC427-Parada / Portal La Dehesa|358858|6307899|-33.3589|-70.517|
-PC428|PC428-Avenida La Dehesa / Esq. Luis Bascuñán|358809|6308261|-33.3556|-70.5175|
+PC428|PC428-Avenida La Dehesa / Esq. Luis Bascuñán|358809|6308260|-33.3556|-70.5175|
 PC429|PC429-El Rodeo / Esq. El Espino|358908|6308609|-33.3525|-70.5163|
 PC43|PC43-Manuel Montt / Esq. Dalmacia|349926|6298325|-33.444|-70.6146|
 PC430|PC430-El Rodeo / Esq. La Medialuna|359201|6308665|-33.352|-70.5132|
@@ -2780,7 +2785,7 @@ PC445|PC445-Alejandro Fleming / Esq. Fuenteovejuna|356216|6300557|-33.4247|-70.5
 PC446|PC446-Alejandro Fleming / Esq. Ayquina|356636|6300617|-33.4242|-70.542|
 PC447|PC447-Alejandro Fleming / Esq. Av. Padre A. Hurtado|356976|6300667|-33.4238|-70.5384|
 PC448|PC448-Alejandro Fleming / Esq. Las Tres Marías|357128|6300670|-33.4238|-70.5367|
-PC449|PC449-Alejandro Fleming / Esq. Espigas|357387|6300665|-33.4239|-70.5339|
+PC449|PC449-Alejandro Fleming / Esq. Espigas|357340|6300671|-33.4238|-70.5345|
 PC45|PC45-Av. Antonio Varas / Esq. Los Capitanes|350179|6298276|-33.4445|-70.6119|
 PC450|PC450-Alejandro Fleming / Esq. Santa Zita|357564|6300660|-33.424|-70.532|
 PC451|PC451-Alejandro Fleming / Esq. Vital Apoquindo|357765|6300656|-33.424|-70.5299|
@@ -2864,7 +2869,7 @@ PC523|PC523-Av. Cristóbal Colón / Esq. Guernica|355939|6301317|-33.4178|-70.54
 PC524|PC524-Av. Cristóbal Colón / Esq. Tordesillas|356130|6301348|-33.4176|-70.5474|
 PC525|PC525-Av. Cristóbal Colón / Esq. Toconao|356320|6301380|-33.4173|-70.5453|
 PC526|PC526-Av. Cristóbal Colón / Esq. Alhué|356489|6301408|-33.4171|-70.5435|
-PC527|PC527-Av. Cristóbal Colón / Esq. Visviri|356649|6301434|-33.4169|-70.5418|
+PC527|PC527-Av. Cristóbal Colón / Esq. Visviri|356662|6301446|-33.4168|-70.5416|
 PC528|PC528-Parada 1 / Parque Gandarillas|356881|6301477|-33.4165|-70.5393|
 PC529|PC529-Av. Cristóbal Colón / Esq. Av. Paul Harris|357290|6301513|-33.4162|-70.5349|
 PC53|PC53-Av. Américo Vespucio / Esq. Av.Isabel La Católica|353465|6300347|-33.4262|-70.5762|
@@ -2950,7 +2955,7 @@ PC605|PC605-Los Quincheros / Esq. Nido De Águilas|360035|6308459|-33.354|-70.50
 PC606|PC606-Raúl Labbé / Esq. La Pasarela|359888|6307579|-33.3619|-70.506|
 PC607|PC607-Parada / Raúl Labbé Altura Del 14700|360366|6307506|-33.3626|-70.5009|
 PC608|PC608-Raúl Labbé / Esq. Refugio Del Arrayán|361037|6307567|-33.3622|-70.4936|
-PC609|PC609-Avenida Las Condes / Esq. Cerro Castillo|360794|6307238|-33.3651|-70.4963|
+PC609|PC609-Avenida Las Condes / Esq. Cerro Castillo|360955|6307364|-33.364|-70.4946|
 PC61|PC61-Av. Américo Vespucio / Esq. Psje. Las Hualtatas|352457|6302985|-33.4023|-70.5866|
 PC610|PC610-Avenida Las Condes / Esq. Río Amarillo|360657|6307128|-33.3661|-70.4978|
 PC611|PC611-Avenida Las Condes / Esq. Las Brumas|360453|6306982|-33.3674|-70.5|
@@ -2992,7 +2997,7 @@ PC648|PC648-Luis Carrera / Esq. Luis Pasteur|352930|6304053|-33.3928|-70.5813|
 PC649|PC649-Luis Pasteur / Esq. Manquehue Norte|353344|6304638|-33.3875|-70.5768|
 PC65|PC65-Av. Américo Vespucio / Esq. Francisco De Aguirre|351905|6304072|-33.3924|-70.5923|
 PC650|PC650-Luis Pasteur / Esq. Cuernavaca|353105|6304273|-33.3908|-70.5794|
-PC651|PC651-Luis Pasteur / Esq. Lo Arcaya|353231|6304468|-33.3891|-70.578|
+PC651|PC651-Luis Pasteur / Esq. Lo Arcaya|353231|6304467|-33.3891|-70.578|
 PC652|PC652-Av. Manquehue Norte / Esq. Joaquín Cerda|353148|6304922|-33.3849|-70.5788|
 PC653|PC653-Sn. J. Escrivá De Balaguer / Esq. Dr. Luis Batlle B.|353272|6305312|-33.3814|-70.5774|
 PC654|PC654-Sn. J. Escrivá De Balaguer / Esq. Guaranies|353828|6305541|-33.3795|-70.5714|
@@ -3015,8 +3020,8 @@ PC669|PC669-Nueva Bilbao / Esq. Espigas|357362|6300317|-33.427|-70.5343|
 PC67|PC67-Av. Américo Vespucio / Esq. C. Goyenechea|352048|6303853|-33.3944|-70.5908|
 PC670|PC670-Nueva Bilbao / Esq. Av. Padre A. Hurtado|356995|6300315|-33.427|-70.5382|
 PC671|PC671-Av. Padre Hurtado -Sur / Esq. Vía Láctea|356963|6300332|-33.4268|-70.5386|
-PC672|PC672-Av. Padre Hurtado -Sur / Esq. Alejandro Fleming|356991|6300487|-33.4255|-70.5382|
-PC673|PC673-Av. Padre Hurtado -Sur / Esq. Alejandro Fleming|357009|6300640|-33.4241|-70.538|
+PC672|PC672-Av. Padre Hurtado -Sur / Esq. Alejandro Fleming|357009|6300640|-33.4241|-70.538|
+PC673|PC673-Av. Padre Hurtado -Sur / Esq. Alejandro Fleming|356991|6300487|-33.4255|-70.5382|
 PC674|PC674-Av. Padre Hurtado / Esq. Inca De Oro|357029|6300771|-33.4229|-70.5378|
 PC675|PC675-Av. Padre Hurtado -Sur / Esq. Patricia|357033|6300992|-33.4209|-70.5377|
 PC676|PC676-Av. Padre Hurtado / Esq. Puquios|356999|6301229|-33.4188|-70.538|
@@ -3082,7 +3087,7 @@ PC732|PC732-Chesterton / Esq. Roberto Burns|356244|6303541|-33.3978|-70.5458|
 PC733|PC733-Mons. Escrivá De Balaguer / Esq. Quinchamalí|360569|6307379|-33.3638|-70.4987|
 PC735|PC735-Mons. Escrivá De Balaguer / Esq. Escrivá De Balaguer|360158|6307306|-33.3644|-70.5031|
 PC736|PC736-Mons. Escrivá De Balaguer / Esq. Nazareth|359890|6307312|-33.3643|-70.506|
-PC738|PC738-Parada 4 / (M) Tobalaba|351150|6301133|-33.4188|-70.6009|
+PC738|PC738-Parada 4 / (M) Tobalaba|351149|6301133|-33.4188|-70.6009|
 PC739|PC739-Parada / Puente Centenario|351223|6304456|-33.3889|-70.5996|
 PC74|PC74-Parada 6 / (M) Escuela Militar|352650|6301629|-33.4146|-70.5847|
 PC740|PC740-Parada / Diario El Mercurio|351777|6304873|-33.3852|-70.5936|
@@ -3127,7 +3132,7 @@ PC777|PC777-Av. José Alcalde Délano / Esq. La Higuera|358039|6308405|-33.3542|
 PC778|PC778-El Rodeo / Esq. Av. La Dehesa|358658|6308557|-33.3529|-70.519|
 PC779|PC779-Avenida La Dehesa / Esq. Luis Bascuñán|358755|6308372|-33.3546|-70.518|
 PC78|PC78-Av. Américo Vespucio / Esq. Av.Isabel La Católica|353358|6300392|-33.4258|-70.5773|
-PC780|PC780-Parada / Portal La Dehesa|358825|6307900|-33.3589|-70.5174|
+PC780|PC780-Parada / Portal La Dehesa|358825|6307900|-33.3589|-70.5173|
 PC781|PC781-Avenida La Dehesa / Esq. El Roble|359005|6307562|-33.3619|-70.5155|
 PC782|PC782-Avenida La Dehesa / Esq. Raúl Labbé|359079|6307332|-33.364|-70.5147|
 PC786|PC786-El Rodeo / Esq. Camino La Ronda|358451|6308533|-33.3531|-70.5213|
@@ -3161,7 +3166,7 @@ PC810|PC810-Charles Hamilton / Esq. Sn. Francisco De Asís|359484|6305515|-33.38
 PC811|PC811-San F. De Asís / Esq. Los Tuliperos|359862|6305236|-33.383|-70.5066|
 PC812|PC812-San F. De Asís / Esq. Los Tuliperos|359809|6305247|-33.3829|-70.5072|
 PC813|PC813-San F. De Asís / Esq. Sn. C. De Apoquindo|360262|6304950|-33.3857|-70.5024|
-PC814|PC814-San F. De Asís / Esq. Sn. C. De Apoquindo|360369|6304743|-33.3875|-70.5012|
+PC814|PC814-San F. De Asís / Esq. Sn. C. De Apoquindo|360369|6304743|-33.3875|-70.5013|
 PC815|PC815-San F. De Asís / Esq. Avenida La Plaza|360476|6304476|-33.39|-70.5001|
 PC816|PC816-Avenida La Plaza / Esq. Rep. De Hondura|360146|6304200|-33.3924|-70.5037|
 PC817|PC817-Avenida La Plaza / Esq. Circun. Las Flores|359936|6303832|-33.3957|-70.506|
@@ -3231,7 +3236,7 @@ PC879|PC879-Las Hualtatas / Esq. G. De Alderete|354617|6304197|-33.3917|-70.5632
 PC880|PC880-Las Hualtatas / Esq. Texas|354917|6304340|-33.3904|-70.5599|
 PC881|PC881-Las Hualtatas / Esq. Indiana|355284|6304524|-33.3888|-70.5559|
 PC882|PC882-Las Hualtatas / Esq. Av. Las Tranqueras|355543|6304656|-33.3877|-70.5531|
-PC883|PC883-Las Hualtatas / Esq. Av. P. Hurtado -Norte|355820|6304798|-33.3864|-70.5501|
+PC883|PC883-Las Hualtatas / Esq. Av. P. Hurtado -Norte|355820|6304799|-33.3864|-70.5501|
 PC885|PC885-Las Hualtatas / Esq. Antuco|356121|6304925|-33.3853|-70.5469|
 PC886|PC886-Las Hualtatas / Esq. La Llavería|356504|6305020|-33.3845|-70.5427|
 PC887|PC887-Las Hualtatas / Esq. Los Tribunales|356918|6305258|-33.3824|-70.5383|
@@ -3253,7 +3258,7 @@ PC905|PC905-Cerro Colorado / Esq. A. De Córdova|352938|6302731|-33.4047|-70.581
 PC906|PC906-Parada 7 / (M) Escuela Militar|352611|6301686|-33.4141|-70.5851|
 PC907|PC907-Parada / Rotonda Pie Andino|356433|6311477|-33.3263|-70.5425|
 PC908|PC908-Camino Los Trapenses / Esq. Pedro Lira Urquieta|356433|6311039|-33.3302|-70.5426|
-PC909|PC909-Camino Los Trapenses / Esq. Cam. Del Sembrador|356306|6310579|-33.3344|-70.544|
+PC909|PC909-Camino Los Trapenses / Esq. Cam. Del Sembrador|356281|6310552|-33.3346|-70.5443|
 PC91|PC91-Av. Manquehue Sur / Esq. Av.Isabel La Católica|354625|6300406|-33.4259|-70.5637|
 PC910|PC910-Camino Los Trapenses / Esq. Golf De Manquehue|356130|6310297|-33.3369|-70.5459|
 PC911|PC911-Camino Los Trapenses / Esq. Golf De Manquehue|356155|6310223|-33.3376|-70.5457|
@@ -3381,7 +3386,7 @@ PD1045|PD1045-Av. José Arrieta / Esq. Av. Consistorial|356959|6296281|-33.4634|
 PD1046|PD1046-Av. José Arrieta / Esq. Quebrada De Suca|357262|6296191|-33.4642|-70.536|
 PD1047|PD1047-Av. José Arrieta / Esq. Qda. De Camarones|357511|6296110|-33.465|-70.5333|
 PD1053|PD1053-Avenida Las Torres / Esq. Los Torneros|353868|6291839|-33.503|-70.5732|
-PD1054|PD1054-Altiplano / Esq. El Archipiélago|354673|6294957|-33.475|-70.5641|
+PD1054|PD1054-Altiplano / Esq. El Archipiélago|354673|6294957|-33.475|-70.564|
 PD1055|PD1055-Altiplano / Esq. El Continente|354736|6295105|-33.4737|-70.5634|
 PD1056|PD1056-Parada 6 / Ictinos - Avenida Grecia|354777|6295268|-33.4722|-70.5629|
 PD1057|PD1057-Consistorial / Esq. Lago O'Higgins|356822|6295652|-33.469|-70.5408|
@@ -3440,6 +3445,7 @@ PD1122|PD1122-Av. Estadio Colo Colo / Esq. José Caroca|350371|6291655|-33.5042|
 PD1123|PD1123-Av. Estadio Colo Colo / Esq. Jorge Quevedo|350543|6291641|-33.5043|-70.609|
 PD1124|PD1124-Av. Estadio Colo Colo / Esq. Avenida Marathon|350733|6291594|-33.5048|-70.607|
 PD1125|PD1125-Avenida Marathon / Esq. Benito Rebolledo|350855|6291885|-33.5022|-70.6056|
+PD1128|PD1128-Av. Pedro De Valdivia / Esq.  Los Cohetes|350765|6292903|-33.493|-70.6064|
 PD113|PD113-Campos De Deportes / Esq. Crescente Errázuriz|350392|6296748|-33.4583|-70.6098|
 PD1130|PD1130-Av. Escuela Agrícola / Esq. Castillo Urizar|350514|6293153|-33.4907|-70.6091|
 PD1132|PD1132-Avenida Marathon / Esq. Los Olmos |350143|6294234|-33.4809|-70.6129|
@@ -3590,7 +3596,7 @@ PD1309|PD1309-Luis Valenzuela / Esq. Arturo Gordon|352026|6293254|-33.49|-70.592
 PD1310|PD1310-Luis Valenzuela / Esq. El Líbano|352219|6293249|-33.4901|-70.5907|
 PD1311|PD1311-Luis Valenzuela / Esq. Ramón Cruz Montt|352542|6293297|-33.4897|-70.5873|
 PD1312|PD1312-Ramón Cruz / Esq. Avenida Quilín|352654|6293559|-33.4873|-70.586|
-PD1315|PD1315-Av. Vicuña Mackenna / Esq. Av. Manuel A. Matta|348549|6296988|-33.4558|-70.6296|
+PD1315|PD1315-Av. Vicuña Mackenna / Esq. Av. Manuel A. Matta|348553|6296975|-33.456|-70.6296|
 PD1317|PD1317-Av. Rodrigo De Araya / Esq. Avenida Marathon|350011|6294916|-33.4747|-70.6142|
 PD1319|PD1319-Av. Rodrigo De Araya / Esq. Til Til|349567|6294904|-33.4748|-70.619|
 PD1322|PD1322-Parada 1 / Tobalaba - Avenida Grecia|355407|6295164|-33.4732|-70.5561|
@@ -3606,8 +3612,8 @@ PD135|PD135-Av. San Luis De Macul / Esq. Gabriela Mistral|354654|6291292|-33.508
 PD1350|PD1350-Avenida Egaña / Esq. Las Garzas|353673|6295600|-33.4691|-70.5747|
 PD1351|PD1351-Parada 4 / (M) Los Orientales|353837|6296286|-33.4629|-70.5728|
 PD1353|PD1353-Guillermo Mann / Esq. Francisco Meneses|349798|6295361|-33.4707|-70.6164|
-PD1354|PD1354-Avenida Quilín / Esq. Los Cerezos|354018|6292594|-33.4962|-70.5715|
-PD1355|PD1355-Avenida Quilín / Esq. Avenida Quilín|354044|6292613|-33.4961|-70.5712|
+PD1354|PD1354-Avenida Quilín / Esq. Los Cerezos|354068|6292675|-33.4955|-70.5709|
+PD1355|PD1355-Avenida Quilín / Esq. Avenida Quilín|354075|6292670|-33.4956|-70.5709|
 PD1356|PD1356-Parada 2 / (M) Quilín|353293|6293411|-33.4888|-70.5791|
 PD1357|PD1357-Avenida Tobalaba / Esq. Los Nogales |354988|6291915|-33.5025|-70.5612|
 PD1358|PD1358-Lo Plaza / Esq. Calle 11|352527|6295211|-33.4724|-70.5871|
@@ -3738,6 +3744,7 @@ PD1599|PD1599-San Eugenio / Esq. Carlos Dittborn|349078|6295337|-33.4708|-70.624
 PD16|PD16-Av. Pedro De Valdivia / Esq. Los Olmos|350783|6294457|-33.479|-70.606|
 PD1600|PD1600-San Eugenio / Esq. Trihue|349160|6295607|-33.4684|-70.6233|
 PD1602|PD1602-Guillermo Mann / Esq. W. Rebolledo|349449|6295308|-33.4711|-70.6202|
+PD1604|PD1604-Guillermo Mann / Esq.  Avenida Marathon|349978|6295352|-33.4708|-70.6145|
 PD1607|PD1607-Parada 1 / (M) Irarrázaval|348539|6296971|-33.456|-70.6297|
 PD1608|PD1608-Parada 2 / Paradero 2 Av.Vicuña Mackenna|349206|6294836|-33.4753|-70.6229|
 PD1609|PD1609-Parada 9 / (M) Carlos @ Valdovinos|349510|6293676|-33.4858|-70.6198|
@@ -3754,6 +3761,7 @@ PD162|PD162-Parada 6 / (M) Est.Nacional|350555|6296339|-33.462|-70.6081|
 PD1620|PD1620-Avenida Quilín / Esq.  Á. Casanova -Poniente|357650|6292005|-33.502|-70.5325|
 PD1621|PD1621-Avenida Quilín / Esq.  Av.C. Las Perdices|356695|6292069|-33.5013|-70.5428|
 PD1622|PD1622-Avenida Quilín / Esq.  Av.C. Las Perdices|357336|6292110|-33.501|-70.5359|
+PD1626|PD1626-Av. Pedro De Valdivia / Esq. Dublé Almeyda|350816|6296989|-33.4562|-70.6052|
 PD163|PD163-Campos De Deportes / Esq. Los Pescadores|350387|6296420|-33.4612|-70.6099|
 PD164|PD164-Campos De Deportes / Esq. Av. Castillo Velasco|350431|6296772|-33.4581|-70.6094|
 PD165|PD165-Campos De Deportes / Esq. Av. Irarrázaval|350471|6297203|-33.4542|-70.6089|
@@ -3795,11 +3803,11 @@ PD197|PD197-Parada 2 / Paradero 6 Av.Vicuña Mackenna|349847|6292506|-33.4964|-7
 PD198|PD198-Parada 2 / (M) Camino Agrícola|349745|6292991|-33.4921|-70.6174|
 PD2|PD2-Av. Departamental / Esq. Ramón Toro Ibáñez|351576|6291114|-33.5092|-70.598|
 PD20|PD20-Av. Escuela Agrícola / Esq. Vía Láctea|350900|6293175|-33.4906|-70.6049|
-PD200|PD200-Parada 3 / (M) Carlos Valdovinos|349421|6293986|-33.483|-70.6207|
-PD201|PD201-Av. Vicuña Mackenna / Esq. Domingo Arteaga|349331|6294360|-33.4796|-70.6216|
+PD200|PD200-Parada 3 / (M) Carlos Valdovinos|349603|6293616|-33.4864|-70.6188|
+PD201|PD201-Av. Vicuña Mackenna / Esq. Domingo Arteaga|349400|6294060|-33.4824|-70.6209|
 PD202|PD202-Parada 2 / (M) Rodrigo De Araya|349288|6294495|-33.4784|-70.6221|
-PD203|PD203-Parada 2 / Paradero 1 Av.Vicuña Mackenna|349143|6295165|-33.4724|-70.6235|
-PD204|PD204-Parada 2 / (M) Ñuble|348877|6295664|-33.4678|-70.6263|
+PD203|PD203-Parada 2 / Paradero 1 Av.Vicuña Mackenna|349131|6295158|-33.4724|-70.6236|
+PD204|PD204-Parada 2 / (M) Ñuble|348886|6295682|-33.4677|-70.6262|
 PD205|PD205-Av. Vicuña Mackenna / Esq. Miguel León Prado|348769|6296085|-33.464|-70.6274|
 PD206|PD206-Av. Vicuña Mackenna / Esq. Santa Elvira|348638|6296602|-33.4593|-70.6287|
 PD209|PD209-Parada 7 / (M) Irarrázaval|348388|6297553|-33.4507|-70.6312|
@@ -3945,7 +3953,7 @@ PD347|PD347-Parada / Matta Oriente Altura Del 500|349045|6297159|-33.4544|-70.62
 PD348|PD348-Dublé Almeyda / Esq. Avenida Salvador|349365|6297187|-33.4542|-70.6208|
 PD349|PD349-Dublé Almeyda / Esq. José M. Infante|349612|6297158|-33.4545|-70.6181|
 PD35|PD35-Exequiel Fernández / Esq. Victor Dgo. Silva|351196|6292877|-33.4933|-70.6018|
-PD350|PD350-Dublé Almeyda / Esq. Av. Pedro De Valdivia|350787|6297044|-33.4557|-70.6055|
+PD350|PD350-Dublé Almeyda Esq. / Av. Pedro De Valdivia|350787|6297044|-33.4557|-70.6055|
 PD351|PD351-Dublé Almeyda / Esq. Exequiel Fernández|351306|6296975|-33.4563|-70.5999|
 PD352|PD352-Dublé Almeyda / Esq. Juan E. Concha|351602|6296933|-33.4568|-70.5968|
 PD353|PD353-Dublé Almeyda / Esq. Brown Sur|352023|6296918|-33.457|-70.5922|
@@ -4164,7 +4172,7 @@ PD560|PD560-Parada 4 / (M) Est.Nacional|350645|6296318|-33.4622|-70.6072|
 PD561|PD561-Parada 4 / Avenida Marathon|350180|6296351|-33.4618|-70.6122|
 PD562|PD562-Parada 4 / Villa Olímpica|349744|6296381|-33.4615|-70.6168|
 PD563|PD563-Parada 4 / Suárez Mujica|349240|6296544|-33.4599|-70.6222|
-PD564|PD564-Parada 2 / (M) Irarrázaval|348682|6297084|-33.455|-70.6281|
+PD564|PD564-Parada 2 / (M) Irarrázaval|348682|6297084|-33.455|-70.6282|
 PD565|PD565-Lo Plaza / Esq. Peatones 15|352598|6295585|-33.4691|-70.5863|
 PD566|PD566-Lo Plaza / Esq. Avenida Grecia|352654|6295897|-33.4663|-70.5856|
 PD567|PD567-Ramón Cruz / Esq. Peatones 16|352974|6295520|-33.4697|-70.5822|
@@ -4234,7 +4242,7 @@ PD625|PD625-Avenida Las Torres / Esq. Avenida Los Mares|353583|6291924|-33.5022|
 PD626|PD626-Avenida Las Torres / Esq. Calle 414|353276|6291988|-33.5016|-70.5796|
 PD627|PD627-Avenida Las Torres / Esq. El Torreón|353004|6292045|-33.501|-70.5825|
 PD628|PD628-Avenida Las Torres / Esq. Av. A. Vespucio|352789|6292097|-33.5005|-70.5848|
-PD629|PD629-Dr. Amador Neghme R. / Esq. Sn. Vicente De Paul|352252|6292203|-33.4995|-70.5906|
+PD629|PD629-Dr. Amador Neghme R. / Esq. Sn. Vicente De Paul|352252|6292203|-33.4995|-70.5905|
 PD63|PD63-Av. José P. Alessandri / Esq. Los Alerces|351442|6295376|-33.4708|-70.5987|
 PD630|PD630-Parada / Mundo Sport|352104|6292464|-33.4971|-70.5921|
 PD631|PD631-El Líbano / Esq. Campo Lindo|352114|6292629|-33.4956|-70.592|
@@ -4261,7 +4269,7 @@ PD651|PD651-Avenida Marathon / Esq. Calle 2|350001|6295718|-33.4675|-70.6142|
 PD652|PD652-Avenida Marathon / Esq. Guillermo Mann|350020|6295407|-33.4703|-70.614|
 PD653|PD653-Guillermo Mann / Esq. Calle 6|349593|6295344|-33.4708|-70.6186|
 PD654|PD654-Guillermo Mann / Esq. Lo Encalada|349381|6295327|-33.4709|-70.6209|
-PD655|PD655-Parada 4 / Paradero 1 Av.Vicuña Mackenna|349139|6295265|-33.4715|-70.6235|
+PD655|PD655-Parada 4 / Paradero 1 Av.Vicuña Mackenna|349139|6295257|-33.4715|-70.6235|
 PD656|PD656-Avenida Tobalaba / Esq. Avenida Oriental|355768|6295618|-33.4692|-70.5522|
 PD657|PD657-Av. José Arrieta / Esq. Dragones De La Reina|354765|6296372|-33.4623|-70.5628|
 PD658|PD658-Ramón Cruz / Esq. José María Narbona|353073|6296260|-33.463|-70.581|
@@ -4426,7 +4434,7 @@ PD807|PD807-Hamburgo / Esq. Av. Diego De Almagro|353303|6299059|-33.4378|-70.578
 PD808|PD808-Hamburgo / Esq. Las Amapolas|353333|6298806|-33.4401|-70.5778|
 PD809|PD809-Hamburgo / Esq. Emilia Téllez|353358|6298577|-33.4422|-70.5776|
 PD81|PD81-Exequiel Fernández / Esq. Juan Gomez Millas|351294|6296395|-33.4616|-70.6002|
-PD810|PD810-Hamburgo / Esq. Avenida Pucara|353386|6298359|-33.4442|-70.5773|
+PD810|PD810-Hamburgo / Esq. Avenida Pucara|353386|6298358|-33.4442|-70.5773|
 PD811|PD811-Hamburgo / Esq. Avenida Echeñique|353410|6298155|-33.446|-70.5771|
 PD812|PD812-Hamburgo / Esq. Av. Simón Bolivar|353434|6297956|-33.4478|-70.5769|
 PD813|PD813-Hamburgo / Esq. Estrella Solitaria|353466|6297687|-33.4502|-70.5766|
@@ -4568,7 +4576,7 @@ PD947|PD947-Los Plátanos / Esq. Avenida Marathon|350181|6293990|-33.4831|-70.61
 PD948|PD948-Avenida Marathon / Esq. Avenida Quilín|350134|6293776|-33.485|-70.6131|
 PD949|PD949-Avenida Quilín / Esq. Til Til|349884|6293727|-33.4854|-70.6158|
 PD95|PD95-Parada 2 / Colegio San Marcos|351457|6295026|-33.4739|-70.5986|
-PD950|PD950-Parada 6 / (M) Carlos Valdovinos|349614|6293688|-33.4858|-70.6187|
+PD950|PD950-Parada 6 / (M) Carlos Valdovinos|349631|6293681|-33.4858|-70.6185|
 PD951|PD951-Av. Escuela Agrícola / Esq. Arturo Prat|349956|6293074|-33.4913|-70.6151|
 PD952|PD952-Av. Escuela Agrícola / Esq. Gral. Baquedano|350175|6293101|-33.4911|-70.6128|
 PD953|PD953-Avenida Marathon / Esq. Los Tuliperos|350263|6293445|-33.488|-70.6118|
@@ -4603,7 +4611,7 @@ PD979|PD979-Av. Los Presidentes / Esq. Avenida Tobalaba|355023|6293773|-33.4857|
 PD98|PD98-Parada / Utem Macul|351475|6295794|-33.467|-70.5983|
 PD980|PD980-Av. Los Presidentes / Esq. Matías Cousiño|355467|6293625|-33.4871|-70.5557|
 PD981|PD981-Av. Los Presidentes / Esq. Av. Consistorial|355993|6293437|-33.4889|-70.5501|
-PD982|PD982-Consistorial / Esq. Mar Pérsico|356165|6293820|-33.4855|-70.5482|
+PD982|PD982-Consistorial / Esq. Mar Pérsico|356116|6293712|-33.4864|-70.5487|
 PD983|PD983-Consistorial / Esq. Avenida El Valle|356290|6294010|-33.4838|-70.5468|
 PD984|PD984-Consistorial / Esq. Antupirén|356442|6294478|-33.4796|-70.5451|
 PD985|PD985-Antupirén / Esq. Ricardo Grellet|356655|6294392|-33.4804|-70.5428|
@@ -4647,14 +4655,14 @@ PE119|PE119-Parada 2 / Paradero 18 Santa Rosa|348037|6289804|-33.5205|-70.6363|
 PE12|PE12-Parada / Paradero 16 Av. La Florida|353611|6289008|-33.5285|-70.5765|
 PE120|PE120-Av. San Gregorio / Esq. Av. Santa Rosa|348256|6287955|-33.5372|-70.6343|
 PE121|PE121-Parada / Paradero 10 Av.Vicuña Mackenna|350554|6290670|-33.5131|-70.6091|
-PE122|PE122-Parada / Paradero 11 Av.Vicuña Mackenna|350766|6290389|-33.5157|-70.6068|
-PE123|PE123-Parada / Paradero 12 Av.Vicuña Mackenna|350978|6290139|-33.5179|-70.6046|
-PE125|PE125-Parada 9 / (M) Bellavista De La Florida|351285|6289812|-33.5209|-70.6014|
+PE122|PE122-Parada / Paradero 11 Av.Vicuña Mackenna|350754|6290420|-33.5154|-70.607|
+PE123|PE123-Parada / Paradero 12 Av.Vicuña Mackenna|350926|6290216|-33.5172|-70.6052|
+PE125|PE125-Parada 9 / (M) Bellavista De La Florida|351170|6289934|-33.5198|-70.6026|
 PE1259|PE1259-Parada 4 / (M) San José De La Estrella|352737|6286213|-33.5536|-70.5863|
 PE126|PE126-Parada 1 / (M) Vicente Valdés|351712|6289226|-33.5263|-70.5969|
 PE1260|PE1260-Benjamín Subercaseaux / Esq. Los Alelies|348987|6286236|-33.5528|-70.6267|
 PE1261|PE1261-Benjamín Subercaseaux / Esq. Pasaje 6|348936|6286212|-33.5531|-70.6273|
-PE1262|PE1262-Parada 5 / (M) Bellavista De La Florida|351669|6289629|-33.5226|-70.5973|
+PE1262|PE1262-Parada 5 / (M) Bellavista De La Florida|351658|6289636|-33.5226|-70.5974|
 PE1264|PE1264-Joaquín Tocornal / Esq. Sn. José De La Estrella|352864|6286115|-33.5545|-70.585|
 PE1265|PE1265-Las Higueras / Esq. Volcán Calbuco|354432|6290569|-33.5145|-70.5674|
 PE1266|PE1266-Maria Elena / Esq. El Maestro|350761|6285104|-33.5633|-70.6078|
@@ -4794,7 +4802,7 @@ PE1402|PE1402-Pedro Lira / Esq. Las Parcelas|349503|6286262|-33.5527|-70.6211|
 PE1403|PE1403-Pedro Lira / Esq. La Serena|349825|6286314|-33.5523|-70.6177|
 PE1404|PE1404-Tacora / Esq. Sur|348773|6287680|-33.5398|-70.6288|
 PE1405|PE1405-Av. San Gregorio / Esq. Los Vilos|348720|6287922|-33.5376|-70.6293|
-PE1406|PE1406-Avenida Tobalaba / Esq. Av. Walker Martínez|355389|6289946|-33.5203|-70.5572|
+PE1406|PE1406-Avenida Tobalaba / Esq. Av. Walker Martínez|355388|6289946|-33.5203|-70.5572|
 PE1407|PE1407-Avenida Tobalaba / Esq. San Francisco|355389|6289966|-33.5201|-70.5572|
 PE1408|PE1408-Walker Martínez / Esq. Lientur|355181|6289724|-33.5223|-70.5594|
 PE1409|PE1409-Walker Martínez / Esq. Tesalonica|355205|6289713|-33.5224|-70.5592|
@@ -4843,9 +4851,10 @@ PE1502|PE1502-Macul Alto / Esq.  Cam.Las Araucarias|358113|6290614|-33.5146|-70.
 PE1506|PE1506-Nueva María Angélica / Esq.  Cam. Del Paisaje|358036|6291126|-33.51|-70.5285|
 PE1507|PE1507-Nueva María Angélica / Esq.  Santa Sofía|357726|6291020|-33.5109|-70.5318|
 PE1508|PE1508-Cam. Las Araucarias / Esq.  Nva.María Angélica|358395|6291015|-33.511|-70.5246|
+PE1509|PE1509-Macul Alto / Esq. Cam.Las Araucarias|358403|6290659|-33.5143|-70.5246|
 PE151|PE151-Parada 2 / (M) Vicente Valdés|351742|6289166|-33.5268|-70.5965|
 PE152|PE152-Parada 6 / (M) Bellavista De La Florida|351589|6289553|-33.5233|-70.5981|
-PE155|PE155-Parada / Paradero 11 Av.Vicuña Mackenna|351066|6290436|-33.5153|-70.6036|
+PE155|PE155-Parada / Paradero 11 Av.Vicuña Mackenna|351037|6290471|-33.515|-70.6039|
 PE156|PE156-Parada 2 / (M) Mirador|350753|6290726|-33.5126|-70.6069|
 PE157|PE157-Parada / Mall Florida Center|350582|6290887|-33.5111|-70.6087|
 PE158|PE158-Parada / Colegio José A. Lecaros|352095|6290518|-33.5147|-70.5925|
@@ -4886,7 +4895,7 @@ PE19|PE19-Parada 1 / Paradero 23 Av. La Florida|354727|6286416|-33.552|-70.5649|
 PE190|PE190-Santa Julia / Esq. Pasaje La Lloica|351715|6288550|-33.5324|-70.5969|
 PE191|PE191-Santa Julia / Esq. Manutara|351513|6288564|-33.5322|-70.5991|
 PE192|PE192-Lircay / Esq. Rojas Magallanes|351328|6288216|-33.5353|-70.6012|
-PE193|PE193-Parada 7 / (M) Bellavista De La Florida|351504|6289517|-33.5236|-70.599|
+PE193|PE193-Parada 7 / (M) Bellavista De La Florida|351504|6289517|-33.5236|-70.5991|
 PE195|PE195-Dr. Sótero Del Río / Esq. Los Clarines|350783|6287883|-33.5383|-70.6071|
 PE196|PE196-Dr. Sótero Del Río / Esq. Av. Santa Raquel|351091|6287787|-33.5392|-70.6038|
 PE197|PE197-Avenida Trinidad / Esq. Río Mañihuales|350955|6286950|-33.5467|-70.6054|
@@ -4902,7 +4911,7 @@ PE204|PE204-Bahía Catalina / Esq. Pedro Lira|350217|6286372|-33.5518|-70.6134|
 PE205|PE205-Bahía Catalina / Esq. Sn. José De La Estrella|350277|6286138|-33.5539|-70.6128|
 PE206|PE206-Bahía Catalina / Esq. Santo Tomás|350321|6285972|-33.5554|-70.6124|
 PE207|PE207-Bahía Catalina / Esq. El Trombón|350363|6285806|-33.5569|-70.612|
-PE209|PE209-Bahía Catalina / Esq. Pleamar|350570|6284782|-33.5662|-70.6099|
+PE209|PE209-Bahía Catalina / Esq. Pleamar|350576|6284714|-33.5668|-70.6098|
 PE21|PE21-Parada / Paradero 25 Av. La Florida|355082|6285940|-33.5564|-70.5611|
 PE210|PE210-Bahía Catalina / Esq. Lontananza|350615|6284463|-33.5691|-70.6095|
 PE211|PE211-Bahía Catalina / Esq. Recalada Sur|350626|6284467|-33.569|-70.6093|
@@ -5004,7 +5013,7 @@ PE30|PE30-Avenida La Florida / Esq. Los Aralios|353098|6290124|-33.5184|-70.5818
 PE300|PE300-Padre Juan Meyer / Esq. Coronel|349861|6288192|-33.5353|-70.617|
 PE301|PE301-Angol / Esq. Av. San Gregorio|350086|6288006|-33.537|-70.6146|
 PE302|PE302-Av. San Gregorio / Esq. Coronel|349937|6287957|-33.5375|-70.6162|
-PE303|PE303-Coronel / Esq. Manco Capac|350015|6287304|-33.5434|-70.6155|
+PE303|PE303-Coronel / Esq. Manco Capac|350015|6287304|-33.5434|-70.6154|
 PE304|PE304-Parada 5 / (M) San José De La Estrella|352786|6286231|-33.5534|-70.5858|
 PE305|PE305-Sn. José De La Estrella / Esq. San Sebastian|353026|6286251|-33.5533|-70.5832|
 PE306|PE306-Sn. José De La Estrella / Esq. Bacteriológico|353184|6286265|-33.5532|-70.5815|
@@ -5454,10 +5463,10 @@ PE738|PE738-La Serena / Esq. Padre Juan Meyer|349431|6288170|-33.5355|-70.6216|
 PE739|PE739-San Jorge / Esq. Del Madrigal|354006|6285727|-33.5581|-70.5727|
 PE74|PE74-La Serena / Esq. Linares|349147|6289081|-33.5272|-70.6245|
 PE740|PE740-San Jorge / Esq. El Libertador|354238|6285764|-33.5578|-70.5702|
-PE741|PE741-San Jorge / Esq. Ciprés De Guaitecas|354461|6285806|-33.5575|-70.5678|
+PE741|PE741-San Jorge / Esq. Ciprés De Guaitecas|354632|6285836|-33.5572|-70.566|
 PE742|PE742-San Jorge / Esq. Los Zancos|354795|6285859|-33.5571|-70.5642|
 PE743|PE743-San Jorge / Esq. Sn. Antonio De Padua|354836|6285878|-33.5569|-70.5638|
-PE744|PE744-San Jorge / Esq. Ramón Vinay|354485|6285816|-33.5574|-70.5676|
+PE744|PE744-San Jorge / Esq. Ramón Vinay|354623|6285841|-33.5572|-70.5661|
 PE745|PE745-San Jorge / Esq. El Acero|354227|6285774|-33.5577|-70.5703|
 PE746|PE746-San Jorge / Esq. Martinica|353928|6285726|-33.5581|-70.5736|
 PE748|PE748-Los Vilos / Esq. Calle D|348470|6289962|-33.5192|-70.6316|
@@ -5490,7 +5499,7 @@ PE782|PE782-Gerónimo De Alderete / Esq. Aurora|352138|6289000|-33.5284|-70.5923
 PE783|PE783-Gerónimo De Alderete / Esq. Colombia|352437|6289015|-33.5283|-70.5891|
 PE784|PE784-Colombia / Esq. Perpetua Freire|352589|6288831|-33.53|-70.5875|
 PE786|PE786-Colombia / Esq. Av. Trinidad -Oriente|353390|6286950|-33.547|-70.5792|
-PE787|PE787-Av. Trinidad Oriente / Esq. El Pelícano|353680|6286903|-33.5475|-70.576|
+PE787|PE787-Av. Trinidad Oriente / Esq. El Pelícano|353680|6286903|-33.5475|-70.5761|
 PE789|PE789-José Miguel Carrera / Esq. Los Gladiolos|353417|6286616|-33.55|-70.5789|
 PE79|PE79-Linares / Esq. Punta Arenas|350485|6289211|-33.5262|-70.6101|
 PE791|PE791-Julio César / Esq. Jaspe|350892|6285737|-33.5576|-70.6063|
@@ -5504,10 +5513,10 @@ PE798|PE798-Dr. Sótero Del Río / Esq. Los Cedros|352011|6287759|-33.5395|-70.5
 PE799|PE799-Parada 5 / Paradero 19 Av.Vicuña Mackenna|352229|6287759|-33.5396|-70.5915|
 PE8|PE8-Parada / Liceo Técnico La Florida|352897|6290347|-33.5163|-70.5839|
 PE80|PE80-Parada / Hogar De María|350713|6288818|-33.5298|-70.6077|
-PE800|PE800-Froilán Lagos S. / Esq. El Molino|351113|6290537|-33.5144|-70.6031|
+PE800|PE800-Froilán Lagos S. / Esq. El Molino|351065|6290514|-33.5146|-70.6036|
 PE801|PE801-Froilán Lagos S. / Esq. Froilán Roa|351307|6290604|-33.5138|-70.601|
 PE804|PE804-Froilán Lagos S. / Esq. Av. A. Vespucio|352091|6290533|-33.5145|-70.5926|
-PE805|PE805-Dr. Sótero Del Río / Esq. Los Cedros|352042|6287774|-33.5394|-70.5936|
+PE805|PE805-Dr. Sótero Del Río / Esq. Los Cedros|352042|6287774|-33.5394|-70.5935|
 PE806|PE806-Dr. Sótero Del Río / Esq. Manutara|351757|6287779|-33.5393|-70.5966|
 PE807|PE807-José Miguel Carrera / Esq. Avenida Uno|350884|6286539|-33.5504|-70.6062|
 PE808|PE808-Avenida 1 / Esq. Jorge Cisternas|350901|6286364|-33.552|-70.6061|
@@ -5540,7 +5549,7 @@ PE838|PE838-Avenida Lo Ovalle / Esq. Av. Las Industrias|349142|6290263|-33.5166|
 PE839|PE839-Avenida Lo Ovalle / Esq. 24 Oriente|349460|6290460|-33.5148|-70.6209|
 PE84|PE84-Avenida Santa Raquel / Esq. Las Gardenias|351115|6287457|-33.5421|-70.6036|
 PE840|PE840-Diag. Los Castaños / Esq. Los Cerezos|353574|6290650|-33.5137|-70.5766|
-PE841|PE841-Diag. Los Castaños / Esq. Los Castaños|353539|6290699|-33.5132|-70.577|
+PE841|PE841-Diag. Los Castaños / Esq. Los Castaños|353539|6290699|-33.5132|-70.5769|
 PE845|PE845-Parada 3 / Paradero 22 Av.Vicuña Mackenna|352635|6286610|-33.55|-70.5873|
 PE846|PE846-Parada 3 / (M) San José De La Estrella|352693|6286259|-33.5532|-70.5868|
 PE847|PE847-Parada 3 / Paradero 24 Av.Vicuña Mackenna|352757|6285830|-33.557|-70.5862|
@@ -5639,7 +5648,7 @@ PF1066|PF1066-El Peral / Esq. Cerro Loma Larga|355789|6284352|-33.5708|-70.5538|
 PF1067|PF1067-El Peral / Esq. Las Campanillas|356116|6284270|-33.5716|-70.5502|
 PF107|PF107-Avenida Gabriela / Esq. Junquillar -Poniente|352467|6283247|-33.5803|-70.5897|
 PF108|PF108-Avenida Gabriela / Esq. J. De Dios Malebrán|352231|6283205|-33.5806|-70.5923|
-PF109|PF109-Avenida Gabriela / Esq. Ejército Libertador|351881|6283143|-33.5811|-70.596|
+PF109|PF109-Avenida Gabriela / Esq. Ejército Libertador|351881|6283143|-33.5811|-70.5961|
 PF1095|PF1095-El Peral / Esq. Psje. Divisadero|356251|6284208|-33.5721|-70.5488|
 PF1096|PF1096-El Peral / Esq. Loma Alta|356559|6284017|-33.5739|-70.5455|
 PF1097|PF1097-El Peral / Esq. Loma Alta|356506|6284049|-33.5736|-70.5461|
@@ -5672,14 +5681,17 @@ PF1121|PF1121-Avenida Santa Rosa / Esq. Av. Eyzaguirre|349138|6278912|-33.6189|-
 PF1122|PF1122-Avenida Santa Rosa / Esq. Fco. Coloane|348858|6277358|-33.6329|-70.6296|
 PF1123|PF1123-Avenida Santa Rosa / Esq. Punta Chilen|348964|6277956|-33.6275|-70.6283|
 PF1124|PF1124-El Ruiseñor / Esq. Chiloé|349120|6277542|-33.6313|-70.6267|
-PF1125|PF1125-Chiloé / Esq. Psje.La Cerámica|348953|6277416|-33.6324|-70.6286|
 PF113|PF113-Avenida Gabriela / Esq. 4 Oriente|350642|6282923|-33.583|-70.6094|
 PF1133|PF1133-Troncal Sn. Francisco / Esq. Salar De Coposa|350502|6284314|-33.5704|-70.6107|
 PF1135|PF1135-Cerro Tronador / Esq. Los Cipreses|350922|6283330|-33.5793|-70.6064|
 PF1136|PF1136-Creta / Esq. Las Ninfas|351552|6281479|-33.5961|-70.5999|
 PF1137|PF1137-Chiloé / Esq. Puerto Saavedra|351316|6281414|-33.5967|-70.6024|
 PF1138|PF1138-Chiloé / Esq. Pacífico Sur|351420|6281599|-33.595|-70.6013|
+PF1139|PF1139-Cabo Leones / Esq.  Bahía Catalina|350758|6283721|-33.5758|-70.6081|
 PF114|PF114-Avenida Santa Rosa / Esq. Punta Chilen|348971|6278023|-33.6269|-70.6283|
+PF1140|PF1140-Camino El Retiro / Empresa El Romeral|348786|6276810|-33.6378|-70.6305|
+PF1141|PF1141-Chiloé / Esq. San Pedro|349248|6277718|-33.6297|-70.6253|
+PF1143|PF1143-San Pedro / Esq. Isla Talcán|348993|6277725|-33.6296|-70.6281|
 PF116|PF116-Camino El Retiro / Esq. Apóstol Bartolomé|349031|6278430|-33.6232|-70.6275|
 PF117|PF117-Camino El Retiro / Esq. Apóstol Tomás|349073|6278653|-33.6212|-70.6271|
 PF12|PF12-Parada / Cementerio Parque El Prado|355045|6286052|-33.5554|-70.5615|
@@ -5874,7 +5886,7 @@ PF313|PF313-Av. Ejército Libertador / Esq. Omar Herrera G.|351663|6283565|-33.5
 PF314|PF314-Bahía Fitzroy / Esq. Bahía India|351335|6284041|-33.573|-70.6018|
 PF315|PF315-Bahía Fitzroy / Esq. Creta -Norte|351157|6284005|-33.5733|-70.6037|
 PF316|PF316-Creta Norte / Esq. Cabo Leones|351125|6283809|-33.575|-70.6041|
-PF317|PF317-Bahía Catalina / Esq. Psje. Cabo De Hornos|350743|6283735|-33.5756|-70.6082|
+PF317|PF317-Bahía Catalina / Esq. Psje. Cabo De Hornos|350722|6283866|-33.5745|-70.6084|
 PF319|PF319-Luis Matte Larraín / Esq. Blanca|351067|6282275|-33.5889|-70.605|
 PF32|PF32-Av. Gabriela Oriente / Esq. Av.Camilo Henríquez|355698|6283949|-33.5744|-70.5548|
 PF320|PF320-Luis Matte Larraín / Esq. Creta|351404|6282340|-33.5883|-70.6013|
@@ -6071,7 +6083,7 @@ PF530|PF530-Parada / Mampato Las Viscachas|358888|6281350|-33.5983|-70.5208|
 PF531|PF531-Parada / Colegio Almenar Del Maipo|359447|6281381|-33.598|-70.5148|
 PF532|PF532-Avenida Juanita / Esq. La Lechería|350441|6278200|-33.6255|-70.6124|
 PF533|PF533-Avenida Juanita / Esq. Estación Temuco|350429|6278451|-33.6232|-70.6125|
-PF534|PF534-Avenida Juanita / Esq. Sargento Menadier|350419|6278651|-33.6214|-70.6125|
+PF534|PF534-Avenida Juanita / Esq. Sargento Menadier|350419|6278651|-33.6214|-70.6126|
 PF535|PF535-Avenida Juanita / Esq. Lagunillas|350380|6278983|-33.6184|-70.6129|
 PF536|PF536-Óscar Bonilla / Esq. Hermano Domingo|352154|6279230|-33.6165|-70.5938|
 PF537|PF537-Óscar Bonilla / Esq. Sargento Menadier|352204|6278991|-33.6186|-70.5933|
@@ -6104,7 +6116,7 @@ PF560|PF560-San Pedro / Esq. Enrique Ibaceta|353271|6278540|-33.6228|-70.5818|
 PF561|PF561-San Pedro / Esq. Las Frambuesas|352924|6278465|-33.6235|-70.5856|
 PF562|PF562-San Pedro / Esq. La Colonia|352742|6278435|-33.6237|-70.5875|
 PF563|PF563-Av. Ejército Libertador / Esq. La Reconquista|352507|6278166|-33.6261|-70.5901|
-PF564|PF564-Av. Ejército Libertador / Esq. Las Achiras|352527|6277928|-33.6282|-70.59|
+PF564|PF564-Av. Ejército Libertador / Esq. Las Achiras|352527|6277928|-33.6282|-70.5899|
 PF565|PF565-Av. Ejército Libertador / Esq. Quebrada Honda|352542|6277760|-33.6298|-70.5898|
 PF566|PF566-Av. Ejército Libertador / Esq. Cam. Internacional|352557|6277578|-33.6314|-70.5897|
 PF569|PF569-Nocedal / Esq. Sócrates|352175|6278130|-33.6264|-70.5937|
@@ -6231,8 +6243,8 @@ PF708|PF708-Tomé / Esq. Los Loros|355740|6279715|-33.6126|-70.555|
 PF709|PF709-Tomé / Esq. Av. Eyzaguirre|355744|6279961|-33.6104|-70.5549|
 PF71|PF71-Avenida Gabriela / Esq. Creta|351242|6283015|-33.5822|-70.6029|
 PF710|PF710-El Sauce / Esq. El Pintor|349841|6277499|-33.6317|-70.619|
-PF713|PF713-Quitalmahue / Esq. El Xilófono|349303|6277642|-33.6304|-70.6247|
-PF714|PF714-Quitalmahue / Esq. Chiloé|349318|6277903|-33.628|-70.6245|
+PF713|PF713-Quitalmahue / Esq. El Ruiseñor|349311|6277519|-33.6315|-70.6247|
+PF714|PF714-Quitalmahue / Esq. Chiloé|349318|6277904|-33.628|-70.6245|
 PF715|PF715-Quitalmahue / Esq. Curaco De Vélez|349328|6278077|-33.6265|-70.6244|
 PF717|PF717-Sargento Menadier / Esq. Esmeralda|352652|6279023|-33.6184|-70.5884|
 PF718|PF718-Sargento Menadier / Esq. Av.Pdte. S.Allende|352894|6279075|-33.618|-70.5858|
@@ -6295,7 +6307,7 @@ PF786|PF786-Av.Pdte. Salvador Allende / Esq. Sargento Menadier|352891|6279114|-3
 PF787|PF787-Av.Pdte. Salvador Allende / Esq. Arturo Prat|352826|6279297|-33.6159|-70.5865|
 PF788|PF788-Av.Pdte. Salvador Allende / Esq. P. Aguirre Cerda|353869|6278998|-33.6188|-70.5753|
 PF789|PF789-Av.Pdte. Salvador Allende / Esq. Bombero Núñez|353208|6278757|-33.6209|-70.5825|
-PF79|PF79-Parada 1 / Paradero 32 Av.Vicuña Mackenna|353270|6282993|-33.5827|-70.5811|
+PF79|PF79-Parada 1 / Paradero 32 Av.Vicuña Mackenna|353270|6282994|-33.5827|-70.5811|
 PF790|PF790-Av.Pdte. Salvador Allende / Esq. Sargento Menadier|352930|6279060|-33.6181|-70.5854|
 PF791|PF791-Av.Pdte. Salvador Allende / Esq. Pdte. Gonzáles|353615|6278872|-33.6199|-70.5781|
 PF792|PF792-Av.Pdte. Salvador Allende / Esq. Marmaduque Grove|352989|6278921|-33.6194|-70.5848|
@@ -6336,7 +6348,6 @@ PF831|PF831-Curaco De Vélez / Esq. Av. Pedro Lira |349162|6278179|-33.6255|-70.
 PF832|PF832-Curaco De Vélez / Esq. Ancud|349008|6278173|-33.6255|-70.6278|
 PF833|PF833-Curaco De Vélez / Esq. Quitalmahue|349342|6278101|-33.6262|-70.6243|
 PF834|PF834-Curaco De Vélez / Esq. Ancud|349163|6278196|-33.6254|-70.6262|
-PF835|PF835-Del Huerto / Esq. Alcalde Luis Osorio|351366|6279985|-33.6095|-70.6021|
 PF837|PF837-Domingo Tocornal / Esq. Coquimbo|353138|6280679|-33.6035|-70.5829|
 PF838|PF838-Domingo Tocornal / Esq. Central|352890|6280617|-33.6041|-70.5856|
 PF839|PF839-Dr. Eduardo Cordero / Esq. Pasaje 14|355042|6280627|-33.6043|-70.5624|
@@ -6426,7 +6437,6 @@ PF916|PF916-Domingo Tocornal / Esq. Tomé|355406|6281003|-33.6009|-70.5584|
 PF917|PF917-Dr. Eduardo Cordero / Esq. Santa Elena|354004|6280472|-33.6055|-70.5736|
 PF919|PF919-Avenida Eyzaguirre / Esq. Central|354504|6279762|-33.612|-70.5683|
 PF92|PF92-Av. Concha Y Toro / Esq. Genaro Salinas|353924|6279410|-33.6151|-70.5747|
-PF920|PF920-Avenida Juanita / Esq. Belén|350465|6277833|-33.6288|-70.6122|
 PF921|PF921-La Lechería / Esq. El Tranque|350749|6278280|-33.6248|-70.6091|
 PF923|PF923-Avenida Los Toros / Esq. Canope|353778|6284573|-33.5685|-70.5754|
 PF925|PF925-Luis Matte Larraín / Esq. Pasaje Caren|355167|6282759|-33.5851|-70.5607|
@@ -6519,7 +6529,7 @@ PG1025|PG1025-Condell / Esq. Aron|343238|6281293|-33.5966|-70.6895|
 PG1026|PG1026-Condell / Esq. José Besa|343048|6281357|-33.596|-70.6915|
 PG1027|PG1027-Condell / Esq. San Martín|342809|6281439|-33.5952|-70.6941|
 PG1029|PG1029-Avenida América / Esq. 12 De Febrero|341594|6282356|-33.5868|-70.707|
-PG103|PG103-Violeta Parra / Esq. A. Latorre|347194|6285371|-33.5604|-70.6461|
+PG103|PG103-Violeta Parra / Esq. A. Latorre|347194|6285371|-33.5604|-70.6462|
 PG1030|PG1030-Avenida América / Esq. Avenida Balmaceda|341656|6282528|-33.5852|-70.7063|
 PG1031|PG1031-Avenida América / Esq. Isabel Riquelme|341743|6282777|-33.583|-70.7053|
 PG1032|PG1032-Avenida América / Esq. El Quisco|341849|6283075|-33.5803|-70.7041|
@@ -6558,7 +6568,7 @@ PG1069|PG1069-Avenida América / Esq. Florida|341590|6282381|-33.5865|-70.707|
 PG107|PG107-Venancia Leiva / Esq. P. Aguirre Cerda|347966|6285710|-33.5574|-70.6378|
 PG1070|PG1070-Avenida América / Esq. Av. Colón -Norte|341509|6282157|-33.5885|-70.7079|
 PG1071|PG1071-Avenida Colón / Esq. Maipú|341582|6282078|-33.5893|-70.7072|
-PG1073|PG1073-Condell / Esq. Laguna San Rafael|342969|6281374|-33.5958|-70.6923|
+PG1073|PG1073-Condell / Esq. Laguna San Rafael|342969|6281374|-33.5958|-70.6924|
 PG1074|PG1074-Condell / Esq. Carirriñe|343261|6281275|-33.5967|-70.6892|
 PG1075|PG1075-Condell / Esq. Martín De Solis|343441|6281215|-33.5973|-70.6873|
 PG1076|PG1076-Condell / Esq. Ducaud|343717|6281124|-33.5982|-70.6843|
@@ -6721,7 +6731,7 @@ PG1235|PG1235-Av. Observatorio / Esq. Los Alerces|344287|6285453|-33.5592|-70.67
 PG1236|PG1236-Av. Observatorio / Esq. Mariano Latorre|344587|6285401|-33.5597|-70.6742|
 PG1237|PG1237-Av. Observatorio / Esq. Av. Padre Hurtado|344913|6285351|-33.5602|-70.6707|
 PG1238|PG1238-Av. Observatorio / Esq. Los Maquis|345198|6285300|-33.5607|-70.6677|
-PG1239|PG1239-Av. Observatorio / Esq. Los Pinares|345972|6285164|-33.5621|-70.6593|
+PG1239|PG1239-Av. Observatorio / Esq. Los Pinares|345972|6285164|-33.5621|-70.6594|
 PG124|PG124-Parada 4 / Paradero 37 Santa Rosa|348986|6282607|-33.5856|-70.6273|
 PG1240|PG1240-Av. Observatorio / Esq. San Francisco|346179|6285127|-33.5624|-70.6571|
 PG1241|PG1241-Av. Observatorio / Esq. Las Loicas|346431|6285087|-33.5628|-70.6544|
@@ -6757,7 +6767,7 @@ PG1271|PG1271-Av. Observatorio / Esq. Av. Padre Hurtado|344962|6285356|-33.5602|
 PG1272|PG1272-Los Tréboles / Esq. Los Quillayes|344925|6285507|-33.5588|-70.6706|
 PG1273|PG1273-Los Tréboles / Esq. Mariano Latorre|344692|6285563|-33.5583|-70.6731|
 PG1274|PG1274-Los Tréboles / Esq. Gran Avenida|344315|6285655|-33.5574|-70.6771|
-PG1276|PG1276-Lo Martínez / Esq. Esmeralda|344971|6284062|-33.5719|-70.6703|
+PG1276|PG1276-Lo Martínez / Esq. Esmeralda|344971|6284061|-33.5719|-70.6703|
 PG1277|PG1277-Lo Martínez / Esq. Av. Padre Hurtado|344697|6284118|-33.5713|-70.6733|
 PG1279|PG1279-Porto Alegre / Esq. Lo Martínez|347957|6283585|-33.5766|-70.6382|
 PG128|PG128-Avenida Gabriela / Esq. 4 Oriente|350414|6282865|-33.5834|-70.6119|
@@ -6822,7 +6832,7 @@ PG1335|PG1335-Doñihue / Esq. Carlos Dávila|347549|6287965|-33.5371|-70.6419|
 PG1336|PG1336-Ecuador / Esq. Juan L. Sanfuentes|347285|6287938|-33.5373|-70.6447|
 PG1337|PG1337-Ecuador / Esq. Elías Fernández A.|346961|6288007|-33.5366|-70.6482|
 PG1338|PG1338-Ecuador / Esq. La Granja|346800|6288045|-33.5362|-70.6499|
-PG1339|PG1339-Ecuador / Esq. Victoria|346556|6288101|-33.5357|-70.6526|
+PG1339|PG1339-Ecuador / Esq. Victoria|346556|6288101|-33.5357|-70.6525|
 PG134|PG134-Parada 4 / Paradero 35 Santa Rosa|348773|6283629|-33.5763|-70.6294|
 PG1340|PG1340-Ecuador / Esq. Blas Vial|346377|6288141|-33.5353|-70.6545|
 PG1341|PG1341-Ismael Tocornal / Esq. Alpatacal|346802|6286881|-33.5467|-70.6501|
@@ -6834,7 +6844,7 @@ PG1347|PG1347-Julio Chávez / Esq. Sargento Aldea|346113|6282615|-33.5851|-70.65
 PG1348|PG1348-Julio Chávez / Esq. Julio Barrenechea|346144|6282830|-33.5831|-70.6579|
 PG1349|PG1349-Caupolicán / Esq. Riquelme|348367|6286324|-33.552|-70.6334|
 PG135|PG135-Parada 4 / Facultad De Veterinaria|348740|6283998|-33.573|-70.6297|
-PG1350|PG1350-Riquelme / Esq. La Corbeta|348227|6286422|-33.5511|-70.6349|
+PG1350|PG1350-Riquelme / Esq. La Corbeta|348227|6286422|-33.5511|-70.6348|
 PG1351|PG1351-Riquelme / Esq. P. Aguirre Cerda|348083|6286455|-33.5507|-70.6364|
 PG1352|PG1352-Pedro Aguirre Cerda / Esq. Alpatacal|348062|6286645|-33.549|-70.6366|
 PG1353|PG1353-Pedro Aguirre Cerda / Esq. Vicuña Mackenna|348053|6286834|-33.5473|-70.6367|
@@ -6862,7 +6872,7 @@ PG1402|PG1402-Maipú / Esq. Bernardo O'Higgins|341542|6281860|-33.5912|-70.7076|
 PG1403|PG1403-Avenida América / Esq. Polpaico|342082|6283716|-33.5746|-70.7015|
 PG1404|PG1404-Ochagavía / Esq. Teniente Merino|342463|6284764|-33.5652|-70.6972|
 PG1405|PG1405-Ochagavía / Esq. Ochagavía|342513|6285183|-33.5614|-70.6966|
-PG1406|PG1406-Ochagavía / Esq. Millantu|342961|6286126|-33.553|-70.6916|
+PG1406|PG1406-Ochagavía / Esq. Millantu|342961|6286125|-33.553|-70.6916|
 PG1407|PG1407-El Pillán / Esq. Indio Jerónimo|343200|6286285|-33.5516|-70.689|
 PG1408|PG1408-El Pillán / Esq. Rengo|343518|6286170|-33.5527|-70.6856|
 PG1409|PG1409-Rengo / Esq. L. Barros Borgoño|343595|6286339|-33.5511|-70.6847|
@@ -7126,7 +7136,7 @@ PG176|PG176-Parada 1 / Parque Mapuhue|348926|6281993|-33.5911|-70.6281|
 PG1760|PG1760-El Parrón / Esq. Chile España|344771|6289487|-33.5229|-70.6715|
 PG1761|PG1761-Av. San Francisco / Esq. Las Parcelas|345684|6282787|-33.5835|-70.6629|
 PG1762|PG1762-Parada / Garden House|341198|6284921|-33.5636|-70.7108|
-PG1763|PG1763-Avenida Portales / Esq. Frida Khalo|341998|6277677|-33.629|-70.7035|
+PG1763|PG1763-Avenida Portales / Esq. Frida Khalo|342005|6277702|-33.6288|-70.7034|
 PG1764|PG1764-Avenida Portales / Esq. Paulo Freire|342096|6277947|-33.6266|-70.7024|
 PG1765|PG1765-Av. Pdte. J. Alessandri R. / Esq. Cam. La Vara Int. -Sur|341163|6284620|-33.5663|-70.7112|
 PG1766|PG1766-Caletera Acceso Sur / Esq. Dr. A. Neghme|350865|6281316|-33.5975|-70.6073|
@@ -7170,7 +7180,7 @@ PG1804|PG1804-Parada / Condominio Aires Del Sur|342880|6285905|-33.5549|-70.6925
 PG1805|PG1805-Parada / Condominio Aires Del Sur|342861|6285897|-33.555|-70.6927|
 PG181|PG181-Parada 1 / Paradero 45 Santa Rosa|349089|6279644|-33.6123|-70.6267|
 PG182|PG182-Parada 1 / Paradero 47 Santa Rosa|349100|6279345|-33.615|-70.6266|
-PG1825|PG1825-Av. Santo Tomás / Esq.  La Serena|349946|6285828|-33.5567|-70.6164|
+PG1825|PG1825-Av. Santo Tomás / Esq.  La Serena|349941|6285828|-33.5567|-70.6165|
 PG183|PG183-Parada 1 / Paradero 48 Santa Rosa|349104|6279019|-33.6179|-70.6267|
 PG184|PG184-Avenida Santa Rosa / Esq. Los Manzanos|349067|6278688|-33.6209|-70.6271|
 PG1848|PG1848-Ochagavía / Esq.  Auka|342255|6284155|-33.5706|-70.6996|
@@ -7182,7 +7192,7 @@ PG1893|PG1893-Camino Padre Hurtado / Esq. Pasaje Sartre|343887|6279335|-33.6143|
 PG1894|PG1894-Mateo De Toro Y Z. / Esq. Augusto Carozzi P.|342284|6279244|-33.6149|-70.7001|
 PG1895|PG1895-Mateo De Toro Y Z. / Esq. Las Carabelas|342274|6279237|-33.615|-70.7002|
 PG1896|PG1896-El Topacio / Esq. Onix|342040|6279111|-33.6161|-70.7028|
-PG1897|PG1897-General Urrutia / Esq. Las Ágatas|342030|6279001|-33.6171|-70.7029|
+PG1897|PG1897-General Urrutia / Esq. Las Ágatas|341835|6279090|-33.6162|-70.705|
 PG1898|PG1898-General Urrutia / Esq. Nva.Barros Arana|341697|6279152|-33.6157|-70.7064|
 PG1899|PG1899-General Urrutia / Esq. Nva.Barros Arana|341615|6279174|-33.6154|-70.7073|
 PG19|PG19-Parada / Paradero 36 Gran Avenida|343633|6284682|-33.5661|-70.6846|
@@ -7228,7 +7238,7 @@ PG1949|PG1949-Av. Observatorio / Esq.  San Nestor|349303|6284850|-33.5654|-70.62
 PG195|PG195-Parada 4 / Paradero 38 Santa Rosa|348906|6282342|-33.5879|-70.6282|
 PG1950|PG1950-Av. Observatorio / Esq.  San Nestor|349217|6284825|-33.5656|-70.6245|
 PG1951|PG1951-Av. Observatorio / Esq.  Av. Santa Rosa|348713|6284802|-33.5657|-70.6299|
-PG1952|PG1952-J. Edwards Bello / Esq.  Av. Observatorio|349941|6285828|-33.5567|-70.6165|
+PG1952|PG1952-J. Edwards Bello / Esq.  Av. Observatorio|349405|6284962|-33.5644|-70.6224|
 PG1953|PG1953-J. Edwards Bello / Esq.  San Miguel|349416|6285007|-33.564|-70.6223|
 PG1954|PG1954-La Serena / Esq.  Vicente Yáñez L.|349971|6285748|-33.5574|-70.6162|
 PG1955|PG1955-Av. Observatorio / Esq.  Pasaje Los Tajamares|348971|6284782|-33.566|-70.6271|
@@ -7414,7 +7424,6 @@ PG369|PG369-Camino Padre Hurtado / Esq. Pirineos|344104|6281400|-33.5957|-70.680
 PG37|PG37-Freire / Esq. San José|341773|6281251|-33.5967|-70.7053|
 PG370|PG370-Camino Padre Hurtado / Esq. Av. A. Vespucio|344158|6281673|-33.5933|-70.6795|
 PG371|PG371-Camino Padre Hurtado / Esq. Quetrupillán|344222|6281983|-33.5905|-70.6787|
-PG372|PG372-Camino Padre Hurtado / Esq. Río Baker|344249|6282115|-33.5893|-70.6784|
 PG373|PG373-Camino Padre Hurtado / Esq. Santa Ana|344304|6282396|-33.5868|-70.6778|
 PG374|PG374-Parada / Hospital El Pino|344376|6282736|-33.5837|-70.677|
 PG375|PG375-Av. Padre Hurtado / Esq. Volcán Llullaillaco|344425|6282950|-33.5818|-70.6764|
@@ -7613,7 +7622,7 @@ PG573|PG573-Los Raulíes / Esq. El Conquistador|345297|6284586|-33.5672|-70.6667
 PG574|PG574-Los Raulíes / Esq. El Libertador|345238|6284306|-33.5697|-70.6674|
 PG575|PG575-Los Raulíes / Esq. Lo Martínez|345182|6284028|-33.5722|-70.6681|
 PG576|PG576-Parada / Consultorio Laura Vicuña|345275|6283989|-33.5726|-70.6671|
-PG577|PG577-Lo Martínez / Esq. Los Minbres|345479|6283949|-33.573|-70.6649|
+PG577|PG577-Lo Martínez / Esq. Los Mimbres|345479|6283949|-33.573|-70.6649|
 PG578|PG578-Lo Martínez / Esq. San Francisco|345895|6283868|-33.5738|-70.6604|
 PG579|PG579-Tte. Montt Salamanca / Esq. Río Loa|346160|6283656|-33.5757|-70.6576|
 PG58|PG58-Parada 2 / Paradero 28 Gran Avenida|345109|6286946|-33.5459|-70.6683|
@@ -7727,7 +7736,7 @@ PG682|PG682-Los Nogales / Esq. Pasaje 35|343731|6287095|-33.5443|-70.6831|
 PG683|PG683-Los Nogales / Esq. Calle A|343655|6286924|-33.5459|-70.684|
 PG684|PG684-A. Bórquez Del Solar / Esq. Victor Plaza M.|343691|6286819|-33.5468|-70.6836|
 PG685|PG685-A. Bórquez Del Solar / Esq. General Körner|343649|6286615|-33.5487|-70.6841|
-PG686|PG686-Rengo / Esq. Cayumanqui|343585|6286338|-33.5512|-70.6849|
+PG686|PG686-Rengo / Esq. Cayumanqui|343585|6286338|-33.5512|-70.6848|
 PG687|PG687-Rengo / Esq. Pillan|343540|6286198|-33.5524|-70.6854|
 PG688|PG688-El Pillán / Esq. Lincoyan|343381|6286229|-33.5521|-70.6871|
 PG689|PG689-El Pillán / Esq. Indio Jerónimo|343257|6286274|-33.5517|-70.6884|
@@ -7823,13 +7832,13 @@ PG788|PG788-Vecinal Sur / Esq. Peñablanca|344817|6283153|-33.58|-70.6721|
 PG789|PG789-Vecinal Sur / Esq. Av. Padre Hurtado|344522|6283221|-33.5794|-70.6753|
 PG79|PG79-Avenida Colón / Esq. Eyzaguirre|341888|6282038|-33.5897|-70.7039|
 PG790|PG790-Lo Moreno / Esq. Lolol|344228|6283360|-33.5781|-70.6784|
-PG791|PG791-Lo Moreno / Esq. Placilla|343928|6283485|-33.5769|-70.6817|
+PG791|PG791-Lo Moreno / Esq. Placilla|343928|6283484|-33.5769|-70.6817|
 PG793|PG793-Avenida Lo Blanco / Esq. Pedro De Mendoza|343447|6283315|-33.5784|-70.6869|
 PG794|PG794-Pedro De Mendoza / Esq. Alonso Trueno|343397|6283279|-33.5787|-70.6874|
 PG795|PG795-Pedro De Mendoza / Esq. Calderón De La Barca|343275|6283021|-33.581|-70.6888|
 PG796|PG796-Pedro De Mendoza / Esq. Bartolomé Díaz|343175|6282789|-33.5831|-70.6899|
 PG797|PG797-Pedro De Mendoza / Esq. Santa Marta|343067|6282551|-33.5852|-70.6911|
-PG798|PG798-Santa Marta / Esq. Tomás De Berlanza|342765|6282694|-33.5839|-70.6943|
+PG798|PG798-Santa Marta / Esq. Tomás De Berlanza|342802|6282677|-33.584|-70.6939|
 PG799|PG799-Parada 4 / Paradero 41 Gran Avenida|342559|6282815|-33.5828|-70.6965|
 PG8|PG8-Parada 9 / (M) La Cisterna|345442|6287843|-33.5379|-70.6646|
 PG80|PG80-Avenida Colón / Esq. Av. Las Americas|341563|6282128|-33.5888|-70.7074|
@@ -8017,9 +8026,9 @@ PH102|PH102-Av. Alc. Carlos Valdovinos / Esq. Av. J. J. Prieto Vial|346074|62943
 PH103|PH103-Av. Alc. Carlos Valdovinos / Esq. Av. J. J. Prieto Vial|346229|6294420|-33.4787|-70.655|
 PH104|PH104-Av. Alc. Carlos Valdovinos / Esq. Los Talaveras|345963|6294410|-33.4787|-70.6579|
 PH105|PH105-Av. Alc. Carlos Valdovinos / Esq. Urzúa|345544|6294409|-33.4787|-70.6624|
-PH106|PH106-Parada 2 / (M) P. Aguirre Cerda|345342|6294417|-33.4786|-70.6645|
+PH106|PH106-Parada 2 / (M) P. Aguirre Cerda|345349|6294414|-33.4786|-70.6645|
 PH107|PH107-Av. Alc. Carlos Valdovinos / Esq. Ramírez|344936|6294408|-33.4786|-70.6689|
-PH108|PH108-Parada 2 / (M) Lo Valledor|343672|6294424|-33.4783|-70.6825|
+PH108|PH108-Parada 2 / (M) Lo Valledor|343784|6294430|-33.4782|-70.6813|
 PH109|PH109-Av. Alc. Carlos Valdovinos / Esq. Avenida 1|343288|6294435|-33.4781|-70.6866|
 PH11|PH11-Parada 4 / (M) Departamental|346209|6291675|-33.5034|-70.6557|
 PH110|PH110-Parada 1 / Paradero 3 Gran Avenida|346847|6294357|-33.4793|-70.6483|
@@ -8075,7 +8084,7 @@ PH1450|PH1450-Av. Las Industrias / Esq. La Castrina|349083|6290484|-33.5146|-70.
 PH1451|PH1451-Av. Las Industrias / Esq. Varas Mena|349057|6290835|-33.5114|-70.6252|
 PH1452|PH1452-Parada 2 / Est. Lo Espejo|343446|6290457|-33.514|-70.6856|
 PH1453|PH1453-Av. Departamental / Esq. Alcibiades|344927|6292124|-33.4992|-70.6694|
-PH1454|PH1454-Av. Departamental / Esq. Alcibiades|344899|6292118|-33.4992|-70.6697|
+PH1454|PH1454-Av. Departamental / Esq. Alcibiades|344894|6292118|-33.4992|-70.6697|
 PH1455|PH1455-Av. Departamental / Esq. Av. Las Industrias|349030|6291277|-33.5074|-70.6254|
 PH1456|PH1456-Av. Departamental / Esq. Av. Las Industrias|348904|6291254|-33.5076|-70.6267|
 PH1458|PH1458-Santa Clara / Esq. Vargas Buston|347209|6290964|-33.51|-70.645|
@@ -8140,7 +8149,7 @@ PH1513|PH1513-Gil De Castro / Esq. Avenida Central|342241|6289241|-33.5248|-70.6
 PH1514|PH1514-Gil De Castro / Esq. Pedro Lira|342187|6289324|-33.524|-70.6994|
 PH1516|PH1516-Buenaventura / Esq. Arturo Alessandri|343328|6291107|-33.5081|-70.6868|
 PH1517|PH1517-Av. Departamental / Esq. Alcibiades|344930|6292129|-33.4991|-70.6694|
-PH1518|PH1518-Av. Departamental / Esq. Alcibiades|344894|6292118|-33.4992|-70.6697|
+PH1518|PH1518-Av. Departamental / Esq. Alcibiades|344884|6292122|-33.4992|-70.6699|
 PH1519|PH1519-Ureta Cox / Esq. Alonso De Ojeda|347804|6291955|-33.5011|-70.6385|
 PH152|PH152-Parada 4 / Paradero 13 Santa Rosa|347885|6290930|-33.5104|-70.6378|
 PH1524|PH1524-Avenida Santa Rosa / Esq. Ingeniero Budge|347678|6292327|-33.4977|-70.6398|
@@ -8169,7 +8178,7 @@ PH156|PH156-Parada 2 / Paradero 9 Santa Rosa|347667|6292678|-33.4946|-70.6398|
 PH157|PH157-Parada 2 / Paradero 8 Santa Rosa|347619|6293033|-33.4914|-70.6403|
 PH158|PH158-Parada 4 / Paradero 6 Santa Rosa|347564|6293472|-33.4874|-70.6408|
 PH159|PH159-Parada 2 / Hospital Trudeau|347509|6293903|-33.4835|-70.6413|
-PH16|PH16-Parada 6 / Departamental - Santa Rosa|347722|6291288|-33.5071|-70.6395|
+PH16|PH16-Parada 6 / Departamental - Santa Rosa|347722|6291287|-33.5071|-70.6395|
 PH160|PH160-Parada 2 / Paradero 3 Santa Rosa|347469|6294270|-33.4802|-70.6417|
 PH161|PH161-Parada 2 / (M) Bio Bío|347464|6294521|-33.4779|-70.6417|
 PH162|PH162-Carmen / Esq. Pintor Cicarelli|348118|6294712|-33.4763|-70.6346|
@@ -8239,11 +8248,11 @@ PH203|PH203-Parada 2 / Paradero 6 Santa Rosa|347577|6293369|-33.4883|-70.6407|
 PH204|PH204-Parada 4 / Hospital Trudeau|347519|6293812|-33.4843|-70.6412|
 PH205|PH205-Parada 4 / Paradero 3 Santa Rosa|347479|6294159|-33.4812|-70.6416|
 PH206|PH206-Parada 4 / (M) Bio Bío|347460|6294398|-33.479|-70.6418|
-PH207|PH207-Parada 1 / Paradero 1 Av.Vicuña Mackenna|349081|6295290|-33.4712|-70.6242|
-PH208|PH208-Parada 1 / Paradero 2 Av.Vicuña Mackenna|349174|6294914|-33.4746|-70.6232|
-PH209|PH209-Parada 1 / (M) Rodrigo De Araya|349282|6294458|-33.4788|-70.6221|
+PH207|PH207-Parada 1 / Paradero 1 Av.Vicuña Mackenna|349094|6295278|-33.4713|-70.624|
+PH208|PH208-Parada 1 / Paradero 2 Av.Vicuña Mackenna|349195|6294826|-33.4754|-70.623|
+PH209|PH209-Parada 1 / (M) Rodrigo De Araya|349287|6294452|-33.4788|-70.6221|
 PH21|PH21-Av. Departamental / Esq. Avenida Haydn|349409|6291222|-33.508|-70.6213|
-PH210|PH210-Av. Vicuña Mackenna / Esq. Schubert|349402|6293970|-33.4832|-70.6209|
+PH210|PH210-Av. Vicuña Mackenna / Esq. Schubert|349361|6294154|-33.4815|-70.6213|
 PH212|PH212-Parada 1 / (M) Camino Agrícola|349710|6293098|-33.4911|-70.6178|
 PH213|PH213-Parada 1 / Paradero 6 Av.Vicuña Mackenna|349818|6292590|-33.4957|-70.6167|
 PH214|PH214-Parada / (M) San Joaquín|349877|6292298|-33.4983|-70.6161|
@@ -8412,8 +8421,8 @@ PH378|PH378-Club Hípico / Esq. Nueva 4|345340|6293679|-33.4852|-70.6647|
 PH379|PH379-Club Hípico / Esq. Enrique Matte|345334|6293958|-33.4827|-70.6647|
 PH38|PH38-Av. Departamental / Esq. Delta|345158|6292032|-33.5|-70.6669|
 PH380|PH380-Club Hípico / Esq. I. Valdés Valdés|345330|6294148|-33.481|-70.6647|
-PH381|PH381-Parada 4 / (M) P. Aguirre Cerda|345324|6294370|-33.479|-70.6647|
-PH383|PH383-Punta Arenas / Esq. Naciones Unidas|350332|6290790|-33.512|-70.6115|
+PH381|PH381-Parada 4 / (M) P. Aguirre Cerda|345323|6294377|-33.4789|-70.6647|
+PH383|PH383-Punta Arenas / Esq. Naciones Unidas|350332|6290790|-33.512|-70.6114|
 PH384|PH384-Avenida Lo Ovalle / Esq. Avenida Estadio|350164|6290676|-33.513|-70.6133|
 PH385|PH385-Carlos Silva Vildósola / Esq. Lira|348443|6294581|-33.4775|-70.6311|
 PH386|PH386-Lira / Esq. Diag. Sta. Elena|348499|6294379|-33.4794|-70.6306|
@@ -8496,7 +8505,7 @@ PH478|PH478-Avenida Lo Ovalle / Esq. Maipú|343484|6291389|-33.5056|-70.6851|
 PH479|PH479-Avenida Lo Ovalle / Esq. Av. Clotario Blest|343667|6291320|-33.5062|-70.6831|
 PH48|PH48-Avenida Lo Ovalle / Esq. Vecinal|349497|6290506|-33.5144|-70.6205|
 PH480|PH480-Isabel Riquelme / Esq. Avenida Haydn|349302|6293768|-33.485|-70.622|
-PH481|PH481-Isabel Riquelme / Esq. Gluck|349121|6293823|-33.4845|-70.624|
+PH481|PH481-Isabel Riquelme / Esq. Gluck|349032|6293842|-33.4843|-70.6249|
 PH482|PH482-Isabel Riquelme / Esq. Enrique Soro|348814|6293993|-33.4829|-70.6272|
 PH483|PH483-Parada 6 / (M) Bio Bío|347478|6294559|-33.4776|-70.6415|
 PH484|PH484-Carlos Silva Vildósola / Esq. Chiloé|347170|6294555|-33.4776|-70.6448|
@@ -8588,10 +8597,10 @@ PH574|PH574-Santa Anita / Esq. El Caribe|343099|6289810|-33.5198|-70.6895|
 PH575|PH575-Santa Anita / Esq. Av. Frei Montalva|343007|6289582|-33.5218|-70.6905|
 PH577|PH577-Venus / Esq. Unicornio|342880|6289158|-33.5256|-70.6919|
 PH578|PH578-Av. Américo Vespucio / Esq. Plutón|342719|6289158|-33.5256|-70.6937|
-PH579|PH579-Central Nino García / Esq. 5 Sur|343975|6294165|-33.4806|-70.6793|
+PH579|PH579-Central Nino García / Esq. 5 Sur|343975|6294166|-33.4806|-70.6793|
 PH58|PH58-Card. Raúl Silva H. / Esq. 1 Norte|342847|6291361|-33.5058|-70.6919|
 PH580|PH580-Central Nino García / Esq. Mariquina|343966|6293955|-33.4825|-70.6794|
-PH581|PH581-Central / Esq. Quactemoc|343251|6293450|-33.487|-70.6872|
+PH581|PH581-Central / Esq. Quactemoc|343251|6293449|-33.487|-70.6872|
 PH585|PH585-Maipú / Esq. Unión Ferroviaria|343583|6291796|-33.5019|-70.6839|
 PH586|PH586-Maipú / Esq. Avenida Lo Ovalle|343516|6291403|-33.5055|-70.6847|
 PH587|PH587-Maipú / Esq. Pasaje 12|343583|6291749|-33.5024|-70.6839|
@@ -8603,7 +8612,7 @@ PH594|PH594-Avenida Cerrillos / Esq. Pasaje D|343113|6293167|-33.4895|-70.6887|
 PH595|PH595-Augusto D`Halmar / Esq. Tomas Somerscales|341885|6289029|-33.5266|-70.7027|
 PH596|PH596-Augusto D`Halmar Esq. / Gabriela Mistral|342070|6289014|-33.5268|-70.7007|
 PH598|PH598-Av. Américo Vespucio / Esq. Pío Xii|341999|6289710|-33.5205|-70.7013|
-PH599|PH599-Avenida Cerrillos / Esq. Av. Frei Montalva|341924|6290021|-33.5177|-70.7021|
+PH599|PH599-Avenida Cerrillos / Esq. Av. Frei Montalva|341952|6290130|-33.5167|-70.7018|
 PH6|PH6-Av. Departamental / Esq. Club Hípico |344676|6292310|-33.4975|-70.6721|
 PH60|PH60-Card. Raúl Silva H. / Esq. Pasaje 3 Sur|343014|6291086|-33.5083|-70.6902|
 PH600|PH600-Avenida Cerrillos / Esq. Pasaje 23 Sur|342041|6290294|-33.5153|-70.7008|
@@ -8664,7 +8673,7 @@ PH653|PH653-Teresa Vial / Esq. Sn. Ignacio De Loyola|346048|6292898|-33.4924|-70
 PH654|PH654-Teresa Vial / Esq. Av. J. J. Prieto Vial|345673|6292996|-33.4914|-70.6612|
 PH655|PH655-Salesianos / Esq. Historiador Vassari|345440|6293260|-33.489|-70.6637|
 PH656|PH656-Quemchi / Esq. Melinka|344128|6291468|-33.505|-70.6781|
-PH657|PH657-Melinka / Esq. Manuela Errázuriz|344293|6291357|-33.506|-70.6764|
+PH657|PH657-Melinka / Esq. Manuela Errázuriz|344293|6291357|-33.506|-70.6763|
 PH658|PH658-Melinka / Esq. Rauten|344496|6291250|-33.507|-70.6742|
 PH66|PH66-Card. Raúl Silva H. / Esq. Av. Frei Montalva|342525|6289845|-33.5194|-70.6956|
 PH662|PH662-Maipú Esq. / 9 De Enero|342553|6288769|-33.5291|-70.6955|
@@ -8672,7 +8681,7 @@ PH665|PH665-Av.Pdte. Salvador Allende / Esq. 5 Oriente|343013|6290350|-33.5149|-
 PH666|PH666-Av.Pdte. Salvador Allende / Esq. Santa Anita|343251|6290257|-33.5158|-70.6878|
 PH669|PH669-Avenida Haydn / Esq. Lago Rupanco|349544|6290680|-33.5129|-70.62|
 PH67|PH67-Card. Raúl Silva H. / Esq. Osa Menor|342365|6289552|-33.522|-70.6974|
-PH670|PH670-Avenida Haydn / Esq. Futrono|349492|6290938|-33.5105|-70.6205|
+PH670|PH670-Avenida Haydn / Esq. Futrono|349492|6290937|-33.5105|-70.6205|
 PH671|PH671-Avenida Haydn / Esq. Av. Departamental|349451|6291200|-33.5082|-70.6209|
 PH672|PH672-Av. Departamental / Esq. Av.Vicuña Mackenna|349913|6291207|-33.5082|-70.6159|
 PH673|PH673-Avenida Haydn / Esq. Varas Mena|349486|6290861|-33.5112|-70.6205|
@@ -8690,7 +8699,7 @@ PH688|PH688-Inés De Suárez / Esq. Llay Llay|343659|6290498|-33.5137|-70.6833|
 PH690|PH690-Lucila Godoy / Esq. Huasco|343927|6290301|-33.5155|-70.6805|
 PH691|PH691-Huasco / Esq. Av.Pdte. S.Allende|343866|6290092|-33.5174|-70.6812|
 PH692|PH692-Guanajuato / Esq. México|343774|6289818|-33.5198|-70.6822|
-PH693|PH693-Guanajuato / Esq. Pdte. A. López Mateo|343724|6289680|-33.521|-70.6828|
+PH693|PH693-Guanajuato / Esq. Pdte. A. López Mateo|343724|6289679|-33.521|-70.6828|
 PH695|PH695-Pdte. López Mateos / Esq. Hermosilla|344127|6289497|-33.5228|-70.6785|
 PH696|PH696-Av. Edo. Frei Montalva / Esq. Hermosilla|344084|6289267|-33.5248|-70.679|
 PH697|PH697-Av. Edo. Frei Montalva / Esq. Calamahue|343824|6289338|-33.5241|-70.6818|
@@ -8823,7 +8832,7 @@ PI1008|PI1008-La Galaxia / Esq. Las Tinajas|333329|6290072|-33.5159|-70.7946|
 PI1009|PI1009-Blanco Encalada / Esq. Kilimanjaro|335862|6291859|-33.5002|-70.767|
 PI101|PI101-Parada / Colegio Polivalente Patricio Mekis|335093|6290723|-33.5103|-70.7755|
 PI1010|PI1010-Blanco Encalada / Esq. Lib. B. O'Higgins|336098|6291763|-33.5011|-70.7645|
-PI1011|PI1011-San Martín / Esq. Avenida Argentina|336129|6291999|-33.499|-70.7641|
+PI1011|PI1011-San Martín / Esq. Avenida Argentina|336129|6292015|-33.4988|-70.7641|
 PI1012|PI1012-Arqto. Hugo Bravo / Esq. Rebeca Matte|337760|6294695|-33.4749|-70.7461|
 PI1013|PI1013-Arqto. Hugo Bravo / Esq. Valenzuela Llanos|337982|6294681|-33.4751|-70.7437|
 PI1014|PI1014-Ing. Pedro Gallo / Esq. Kayac|338012|6294711|-33.4748|-70.7433|
@@ -8832,7 +8841,7 @@ PI1016|PI1016-Avenida El Descanso / Esq. Chungungo|337952|6295232|-33.4701|-70.7
 PI1017|PI1017-Avenida El Descanso / Esq. Longitudinal|337590|6295241|-33.47|-70.7478|
 PI1018|PI1018-Antonio Varas / Esq. Parque El Golf -Norte|336876|6295568|-33.4669|-70.7554|
 PI1019|PI1019-Antonio Varas / Esq. Av. El Descanso|336844|6295281|-33.4695|-70.7558|
-PI102|PI102-Parada / Crs Maipú|335473|6290874|-33.509|-70.7714|
+PI102|PI102-Parada / Crs Maipú|335412|6290870|-33.5091|-70.772|
 PI1020|PI1020-Avenida El Descanso / Esq. Anita Lizana|337047|6295243|-33.4699|-70.7536|
 PI1021|PI1021-Avenida El Descanso / Esq. Longitudinal|337402|6295230|-33.4701|-70.7498|
 PI1022|PI1022-Avenida El Descanso / Esq. Longitudinal|337543|6295227|-33.4701|-70.7483|
@@ -8841,7 +8850,7 @@ PI1024|PI1024-Parada 4 / (M) Las Parcelas|338250|6294672|-33.4752|-70.7408|
 PI1025|PI1025-Avenida 3 Poniente / Esq. Las Basas|334747|6290659|-33.5109|-70.7792|
 PI1027|PI1027-La Galaxia / Esq. Sen. María De La Cruz|333345|6290631|-33.5109|-70.7943|
 PI1028|PI1028-La Galaxia / Esq. José M. Borgoño|333280|6290817|-33.5092|-70.795|
-PI103|PI103-Camino A Rinconada / Esq. Av. De La Victoria|335779|6290840|-33.5094|-70.7681|
+PI103|PI103-Camino A Rinconada / Esq. Av. De La Victoria|335696|6290861|-33.5092|-70.769|
 PI1030|PI1030-José Manuel Borgoño / Esq. Antofagasta|333125|6290789|-33.5094|-70.7966|
 PI1031|PI1031-José Manuel Borgoño / Esq. Av. El Conquistador|332956|6290729|-33.51|-70.7985|
 PI1032|PI1032-Avenida El Rosal / Esq. Yerbas Buenas|335357|6293169|-33.4883|-70.7722|
@@ -8857,11 +8866,11 @@ PI1041|PI1041-Arturo Aldunate P. / Esq. Nazca|337035|6293516|-33.4855|-70.7541|
 PI1042|PI1042-Parada 2 / (M) Las Rejas|341538|6296705|-33.4574|-70.7051|
 PI1043|PI1043-Coronel Souper / Esq. Concón|342531|6296669|-33.4579|-70.6944|
 PI1049|PI1049-La Sinfonía / Esq. Arqto. G. Mardones|335883|6293035|-33.4896|-70.7665|
-PI105|PI105-Parada 1 / Templo Votivo|336333|6290696|-33.5108|-70.7621|
+PI105|PI105-Parada 1 / Templo Votivo|336337|6290697|-33.5108|-70.7621|
 PI1050|PI1050-La Sinfonía / Esq. Teatro Municipal|335630|6292925|-33.4906|-70.7693|
 PI1051|PI1051-Cord. De Los Andes / Esq. Victoria De Abril|335679|6293190|-33.4882|-70.7687|
 PI1052|PI1052-Cord. De Los Andes / Esq. Fiestas Patrias|335938|6293376|-33.4866|-70.7659|
-PI106|PI106-Parada 8 / (M) Plaza De Maipú|336883|6290715|-33.5107|-70.7562|
+PI106|PI106-Parada 8 / (M) Plaza De Maipú|336880|6290720|-33.5106|-70.7562|
 PI1062|PI1062-Primera Transversal / Esq. Blanco Encalda|337190|6291022|-33.508|-70.7529|
 PI1063|PI1063-Primera Transversal / Esq. 1 Sur |337199|6291271|-33.5057|-70.7527|
 PI1064|PI1064-Primera Transversal / Esq. Los Heroes|337236|6291644|-33.5024|-70.7522|
@@ -8951,6 +8960,7 @@ PI1147|PI1147-Francia / Esq. Costanera Norte|340190|6294027|-33.4813|-70.72|
 PI1148|PI1148-Costanera Norte / Esq. Camino Sin Nombre|340049|6294000|-33.4816|-70.7216|
 PI1149|PI1149-Costanera Norte / Esq. Av. Lo Errázuriz|339820|6293972|-33.4818|-70.724|
 PI115|PI115-Parada / Plaza Zaror|339390|6290636|-33.5118|-70.7292|
+PI1150|PI1150-Rosa Ester Rodríguez / Esq.  Costa Rica|339702|6293078|-33.4898|-70.7254|
 PI1151|PI1151-Costa Rica / Esq. Haití|339633|6293274|-33.488|-70.7262|
 PI1152|PI1152-Nicaragua / Esq. México|339568|6293395|-33.4869|-70.7268|
 PI1153|PI1153-México / Esq. Los Presidentes|339437|6293134|-33.4893|-70.7283|
@@ -9071,7 +9081,7 @@ PI1316|PI1316-José Manuel Borgoño / Esq. Avenida 3 Poniente|334777|6290576|-33
 PI1317|PI1317-Los Tilos / Esq. Av. Esquina Blanca|339253|6290707|-33.5111|-70.7307|
 PI1318|PI1318-Santa Corina / Esq. Voltaire|339614|6295095|-33.4716|-70.726|
 PI1319|PI1319-Avenida Buzeta / Esq. Avenida 3|343038|6294202|-33.4802|-70.6894|
-PI1320|PI1320-Parada 7 / (M) Cerrillos|342661|6293961|-33.4823|-70.6935|
+PI1320|PI1320-Parada 7 / (M) Cerrillos|342663|6293960|-33.4823|-70.6934|
 PI1321|PI1321-Parada 3 / Colegio Don Orione|341014|6291572|-33.5036|-70.7116|
 PI1322|PI1322-Parada 4 / El Mirador|340825|6291311|-33.5059|-70.7137|
 PI1323|PI1323-Parada 3 / El Mirador|340842|6291373|-33.5053|-70.7135|
@@ -9112,7 +9122,7 @@ PI1360|PI1360-Isabel Riquelme / Esq. El Violín|336552|6292775|-33.4921|-70.7594
 PI1361|PI1361-Isabel Riquelme / Esq. Cascanueces|336745|6292808|-33.4918|-70.7573|
 PI1362|PI1362-Longitudinal / Esq. Parque Los Reyes |337533|6295416|-33.4684|-70.7484|
 PI1363|PI1363-Longitudinal / Esq. Ing. Roberto Llona|337295|6295463|-33.4679|-70.7509|
-PI1364|PI1364-Jorge Alessandri / Esq. La Sinfonía|336254|6293077|-33.4893|-70.7625|
+PI1364|PI1364-Jorge Alessandri / Esq. La Sinfonía|336254|6293077|-33.4893|-70.7626|
 PI1367|PI1367-Avenida 5 De Abril / Esq. Las Terrazas|337409|6290734|-33.5106|-70.7505|
 PI1368|PI1368-Parada 1 / Estadio Santiago Bueras|337676|6290745|-33.5105|-70.7477|
 PI1369|PI1369-Avenida 5 De Abril / Esq. Los Estandartes|338012|6290760|-33.5104|-70.7441|
@@ -9120,7 +9130,7 @@ PI137|PI137-Parada 1 / Villa Sta. Adela|340319|6291020|-33.5085|-70.7192|
 PI1370|PI1370-Parada 1 / Portal Maipú|338264|6290790|-33.5102|-70.7413|
 PI1372|PI1372-Parada 2 / Portal Maipú|338462|6290800|-33.5102|-70.7392|
 PI1373|PI1373-Parada 7 / Portal Maipú|338379|6290829|-33.5099|-70.7401|
-PI1375|PI1375-Parada 3 / (M) Cerrillos|342550|6293787|-33.4838|-70.6947|
+PI1375|PI1375-Parada 3 / (M) Cerrillos|342551|6293786|-33.4839|-70.6947|
 PI1376|PI1376-Félix Margoz / Esq. Los Clarines|341145|6292805|-33.4925|-70.71|
 PI1377|PI1377-Félix Margoz / Esq. Los Almendros|340744|6292981|-33.4908|-70.7143|
 PI1378|PI1378-Las Rosas / Esq. Bremen|341801|6293941|-33.4823|-70.7027|
@@ -9141,7 +9151,7 @@ PI1392|PI1392-Radal / Esq. La Coruña|341782|6297291|-33.4521|-70.7023|
 PI1393|PI1393-Radal / Esq. Buzo Sobenes|341732|6297510|-33.4502|-70.7028|
 PI1394|PI1394-Radal / Esq. La Coruña|341806|6297237|-33.4526|-70.7021|
 PI1395|PI1395-Radal / Esq. Avenida Ecuador|341836|6297089|-33.454|-70.7018|
-PI1396|PI1396-Parada 9 / (M) Plaza De Maipú|336523|6290705|-33.5107|-70.7601|
+PI1396|PI1396-Parada 9 / (M) Plaza De Maipú|336751|6290708|-33.5107|-70.7576|
 PI1398|PI1398-Longitudinal / Esq. Pque. Metropolitano|337072|6295493|-33.4676|-70.7533|
 PI14|PI14-Av. Lo Errázuriz / Esq. Los Presidentes|339814|6293329|-33.4876|-70.7242|
 PI1401|PI1401-El Tranque / Esq. René Olivares B.|333250|6286493|-33.5482|-70.7961|
@@ -9220,7 +9230,7 @@ PI1476|PI1476-Central / Esq. Campos De Deportes|330364|6290492|-33.5117|-70.8264
 PI1477|PI1477-Central / Esq. Germán Grèves|330363|6290778|-33.5091|-70.8264|
 PI1478|PI1478-Germán Greves / Esq. Juvenal Hernández|330566|6290828|-33.5087|-70.8242|
 PI1479|PI1479-José Garrido / Esq. Central|330378|6290373|-33.5128|-70.8263|
-PI148|PI148-Parada 3 / (M) Plaza De Maipú|336810|6290733|-33.5105|-70.757|
+PI148|PI148-Parada 3 / (M) Plaza De Maipú|336847|6290733|-33.5105|-70.7566|
 PI1480|PI1480-Longitudinal / Esq. Av. El Descanso|337567|6295220|-33.4702|-70.748|
 PI1481|PI1481-Parada 3 / (M) Las Parcelas|338318|6294724|-33.4748|-70.74|
 PI1482|PI1482-Lumen / Esq. 2 Norte|338546|6291758|-33.5015|-70.7381|
@@ -9229,7 +9239,7 @@ PI1484|PI1484-Parada 6 / Paradero 10 Pajaritos|338205|6294344|-33.4782|-70.7413|
 PI1485|PI1485-Parada 5 / Paradero 10 Pajaritos|338212|6294316|-33.4784|-70.7413|
 PI1486|PI1486-Calle 1 / Esq. Pasaje 12|342255|6294693|-33.4756|-70.6977|
 PI1489|PI1489-Parada 3 / 5 De Abril - Las Rejas|341536|6295933|-33.4643|-70.7052|
-PI149|PI149-Parada 2 / Templo Votivo|336261|6290708|-33.5107|-70.7629|
+PI149|PI149-Parada 2 / Templo Votivo|336322|6290713|-33.5106|-70.7623|
 PI1490|PI1490-Avenida Matucana / Esq. Pasaje 70|343887|6298075|-33.4454|-70.6796|
 PI1491|PI1491-Obispo Manuel Umaña / Esq. Arz. Subercaseaux|343474|6295773|-33.4661|-70.6844|
 PI1492|PI1492-Camino A Melipilla / Esq. Champollion|334859|6287137|-33.5426|-70.7787|
@@ -9241,7 +9251,7 @@ PI1497|PI1497-Ing. Eduardo Domínguez / Esq. Ilihue|334281|6292831|-33.4912|-70.
 PI1498|PI1498-Avenida Las Torres / Esq. Los Presidentes|339179|6293191|-33.4887|-70.7311|
 PI1499|PI1499-Jorge Alessandri / Esq. El Molino|336227|6293340|-33.4869|-70.7628|
 PI15|PI15-Av. Lo Errázuriz / Esq. Avenida Cerrillos|339982|6292906|-33.4914|-70.7225|
-PI150|PI150-Camino A Rinconada / Esq. San Martín|335882|6290828|-33.5095|-70.767|
+PI150|PI150-Camino A Rinconada / Esq. San Martín|336002|6290803|-33.5098|-70.7657|
 PI1500|PI1500-Jorge Alessandri / Esq. Av. Alto Jahuel|336239|6293352|-33.4868|-70.7627|
 PI1501|PI1501-Isabel Riquelme Sur / Esq. Las Golondrinas|338523|6293566|-33.4852|-70.7381|
 PI1502|PI1502-Isabel Riquelme Sur / Esq. Las Rosas|338313|6293548|-33.4854|-70.7403|
@@ -9252,7 +9262,7 @@ PI1506|PI1506-Avenida Del Ferrocarril / Esq. Moctezuma|339046|6292455|-33.4953|-
 PI1507|PI1507-Avenida Del Ferrocarril / Esq. Moctezuma|339042|6292440|-33.4955|-70.7327|
 PI1508|PI1508-Volcán Maipo / Esq. El Manzano|337124|6293270|-33.4877|-70.7532|
 PI1509|PI1509-Volcán Maipo / Esq. Juan José Rivera|336922|6293153|-33.4887|-70.7554|
-PI151|PI151-Camino A Rinconada / Esq. Av. De La Victoria|335693|6290872|-33.5091|-70.769|
+PI151|PI151-Camino A Rinconada / Esq.  De La Victoria|335594|6290886|-33.5089|-70.7701|
 PI1510|PI1510-Israel / Esq. Quellon|336175|6286607|-33.5476|-70.7646|
 PI1511|PI1511-Israel / Esq. Avenida 4 Poniente|336082|6286431|-33.5492|-70.7656|
 PI1512|PI1512-Israel / Esq. Abisinia|336265|6286736|-33.5465|-70.7636|
@@ -9263,7 +9273,7 @@ PI1516|PI1516-Cord. De Los Andes / Esq. Campos De Hielo|336155|6293532|-33.4852|
 PI1517|PI1517-Egipto / Esq. Israel|336124|6286526|-33.5483|-70.7652|
 PI1518|PI1518-Av. El Conquistador / Esq. Valle De Los Reyes|333035|6288461|-33.5304|-70.798|
 PI1519|PI1519-Avenida 4 Poniente / Esq. Av. González Videla|333947|6287739|-33.5371|-70.7884|
-PI152|PI152-Parada 2 / Hospital Maipú|335465|6290885|-33.5089|-70.7714|
+PI152|PI152-Parada 2 / Hospital Maipú|335266|6290873|-33.509|-70.7736|
 PI1520|PI1520-Avenida 4 Poniente / Esq. Francisco Pizarro|333787|6287857|-33.536|-70.7901|
 PI1521|PI1521-Judea / Esq. Israel|336356|6286961|-33.5445|-70.7626|
 PI1522|PI1522-Judea / Esq. Israel|336329|6286966|-33.5444|-70.7629|
@@ -9288,7 +9298,6 @@ PI1539|PI1539-Santa Rosa / Esq. Isabel Riquelme|338519|6293835|-33.4828|-70.738|
 PI154|PI154-Avenida El Olimpo / Esq. Avenida Grecia|335091|6290466|-33.5127|-70.7755|
 PI1540|PI1540-Santa Rosa / Esq. Lugo|338405|6294006|-33.4813|-70.7392|
 PI1541|PI1541-Parada 3 / Paradero 7 Pajaritos|339172|6295559|-33.4674|-70.7307|
-PI1542|PI1542-Emiliano Llona / Esq. Cam. A Rinconada|336190|6290778|-33.51|-70.7637|
 PI1543|PI1543-Parada / Abisinia Altura Del 1500|336473|6286662|-33.5472|-70.7614|
 PI1544|PI1544-Abisinia / Esq. Israel|336287|6286760|-33.5462|-70.7633|
 PI1545|PI1545-Parada / Abisinia Altura Del 1500|336471|6286652|-33.5473|-70.7614|
@@ -9324,7 +9333,7 @@ PI1571|PI1571-Parada / Pueblito La Farfana|333598|6293612|-33.4841|-70.791|
 PI1572|PI1572-Camino La Farfana / Esq. Caticura|334735|6293200|-33.488|-70.7789|
 PI1573|PI1573-Parada / Pueblito La Farfana|333587|6293606|-33.4841|-70.7911|
 PI1574|PI1574-Avenida 4 Poniente / Esq. José M. Borgoño|333709|6290857|-33.5089|-70.7903|
-PI1575|PI1575-Avenida El Olimpo / Esq. El Champion|335086|6290880|-33.5089|-70.7755|
+PI1575|PI1575-Avenida El Olimpo / Esq. El Champion|335082|6290913|-33.5086|-70.7756|
 PI1576|PI1576-José Manuel Borgoño / Esq. Antofagasta|333100|6290771|-33.5096|-70.7969|
 PI1577|PI1577-José Manuel Borgoño / Esq. Avenida 4 Poniente|333686|6290878|-33.5087|-70.7906|
 PI1578|PI1578-René Olivares / Esq. Osmán Pérez Freire|334187|6287340|-33.5407|-70.7859|
@@ -9371,8 +9380,8 @@ PI1617|PI1617-Parada / Comando Logístico Fach|341995|6293232|-33.4888|-70.7008|
 PI1618|PI1618-Parada / P. Aguirre Cerda Altura Del 5800|341790|6292918|-33.4916|-70.703|
 PI1619|PI1619-Parada / Centro Cívico Cerrillos|341613|6292634|-33.4941|-70.705|
 PI162|PI162-Pdte. G. Videla / Esq. Cerro Blanco|334299|6288021|-33.5346|-70.7845|
-PI1623|PI1623-Parada 4 / (M) Cerrillos|342448|6293774|-33.4839|-70.6958|
-PI1624|PI1624-Parada 2 / (M) Cerrillos|342390|6293723|-33.4844|-70.6964|
+PI1623|PI1623-Parada 4 / (M) Cerrillos|342441|6293760|-33.4841|-70.6959|
+PI1624|PI1624-Parada 2 / (M) Cerrillos|342380|6293706|-33.4845|-70.6965|
 PI1625|PI1625-Parada / Museo Aeronáutico|342173|6293453|-33.4868|-70.6988|
 PI1626|PI1626-Parada / Comando Logístico Fach|341963|6293154|-33.4895|-70.7011|
 PI1627|PI1627-Parada / P. Aguirre Cerda Altura Del 5800|341769|6292862|-33.4921|-70.7033|
@@ -9421,7 +9430,7 @@ PI1670|PI1670-Camino La Farfana / Esq. Lican-Ray|334230|6293382|-33.4862|-70.784
 PI1671|PI1671-Avenida Lo Espejo / Esq. Av. Santa Adela|339080|6289551|-33.5215|-70.7328|
 PI1672|PI1672-Avenida Lo Espejo / Esq. Camino A Lonquén|339075|6289521|-33.5218|-70.7328|
 PI1673|PI1673-Av. Nueva San Martín / Esq. Av. Padre A. Hurtado|335777|6289117|-33.5249|-70.7684|
-PI1674|PI1674-Av. Nueva San Martín / Esq. Los Diamantes|335798|6289095|-33.5251|-70.7682|
+PI1674|PI1674-Av. Nueva San Martín / Esq. Los Diamantes|335841|6289095|-33.5251|-70.7677|
 PI1675|PI1675-Av. Padre Hurtado / Esq. Manuel Rodríguez|343164|6295088|-33.4722|-70.6879|
 PI1676|PI1676-Paracelso / Esq. Sn. Juan De Chena|335693|6287592|-33.5387|-70.7696|
 PI1677|PI1677-Embajador Quintana / Esq. La Laguna|341452|6297314|-33.4519|-70.7059|
@@ -9443,7 +9452,7 @@ PI178|PI178-Av. Pedro Aguirre Cerda / Esq. Manuel Chacón|343082|6294638|-33.476
 PI1788|PI1788-Parada / Est. Intermodal Del Sol|337167|6293066|-33.4895|-70.7527|
 PI179|PI179-Av. Pedro Aguirre Cerda / Esq. Los Cisnes|342818|6294335|-33.4789|-70.6917|
 PI1790|PI1790-Avenida Grecia / Esq. El Cid|335339|6290447|-33.5129|-70.7729|
-PI1792|PI1792-Parada 4 / Hospital Maipú|335285|6290857|-33.5092|-70.7734|
+PI1792|PI1792-Parada 4 / Hospital Maipú|335169|6290850|-33.5092|-70.7746|
 PI1793|PI1793-General Amengual / Esq. Coronel Souper|342333|6296613|-33.4583|-70.6965|
 PI1794|PI1794-General Amengual / Esq. Av. 5 De Abril|342391|6296308|-33.4611|-70.696|
 PI1795|PI1795-Avenida Del Ferrocarril / Esq. Av. Padre A. Hurtado|343107|6294850|-33.4743|-70.6885|
@@ -9454,7 +9463,7 @@ PI1799|PI1799-Av. Las Parcelas / Esq. Santa Corina|339505|6295081|-33.4717|-70.7
 PI18|PI18-Av. Lo Errázuriz / Esq. San Juan|340356|6292245|-33.4974|-70.7186|
 PI180|PI180-Parada 1 / Escuela P. Aguirre Cerda|342614|6294067|-33.4813|-70.6939|
 PI1800|PI1800-Buzo Sobenes / Esq. Apóstol Santiago|342640|6297529|-33.4501|-70.6931|
-PI1801|PI1801-Concón / Esq. Avenida Ecuador|342325|6297193|-33.4531|-70.6965|
+PI1801|PI1801-Concón / Esq. Avenida Ecuador|342325|6297192|-33.4531|-70.6965|
 PI1802|PI1802-Avenida Las Torres / Esq. Jules Rimet|339162|6294716|-33.475|-70.731|
 PI1803|PI1803-Av. Las Parcelas / Esq. Ghandi|339319|6294930|-33.4731|-70.7292|
 PI1804|PI1804-Avenida Las Parcelas / Esq. Curacaví|339749|6295372|-33.4691|-70.7245|
@@ -9463,18 +9472,28 @@ PI1806|PI1806-Avenida El Rosal / Esq. Isabel Riquelme|334677|6292412|-33.495|-70
 PI1807|PI1807-Avenida El Rosal / Esq. Trihue|334693|6292409|-33.4951|-70.7795|
 PI1808|PI1808-Ing. Eduardo Domínguez / Esq. Avenida El Rosal|334653|6292933|-33.4904|-70.7798|
 PI1809|PI1809-Isabel Riquelme / Esq. Parque El Rosal|334498|6292301|-33.496|-70.7816|
-PI181|PI181-Parada 1 / (M) Cerrillos|342406|6293766|-33.484|-70.6962|
+PI181|PI181-Parada 1 / (M) Cerrillos|342404|6293761|-33.4841|-70.6963|
 PI1812|PI1812-Parada 11 / (M) Estación Central|343903|6297437|-33.4511|-70.6795|
 PI1813|PI1813-Parada 7 / (M) Estación Central|343975|6297450|-33.451|-70.6787|
 PI1814|PI1814-Parada 6 / (M) Estación Central|344035|6297465|-33.4509|-70.6781|
 PI1815|PI1815-Camino A Rinconada / Esq. Av. Las Naciones|334242|6291107|-33.5068|-70.7846|
 PI1816|PI1816-Camino A Rinconada / Esq. San Martín|336108|6290780|-33.51|-70.7645|
-PI1817|PI1817-Camino A Rinconada / Esq. De La Victoria|335688|6290872|-33.5091|-70.769|
+PI1817|PI1817-Camino A Rinconada / Esq. De La Victoria|335675|6290873|-33.5091|-70.7692|
 PI1818|PI1818-Parada 12 / (M) Plaza De Maipú|337011|6290752|-33.5104|-70.7548|
 PI1819|PI1819-Parada 9 / (M) Cerrillos|342592|6293987|-33.482|-70.6942|
-PI182|PI182-Parada 2 / Plaza Del Abrazo|335042|6290844|-33.5092|-70.776|
+PI182|PI182-Parada 2 / Plaza Del Abrazo|334987|6290845|-33.5092|-70.7766|
 PI1820|PI1820-Av. El Conquistador / Esq.  Himno Patrio|332981|6290966|-33.5078|-70.7982|
-PI183|PI183-Camino A Rinconada / Esq. Avenida 3 Poniente|334746|6290923|-33.5085|-70.7792|
+PI1821|PI1821-San Martín / Esq.  Cam. A Rinconada|336069|6290821|-33.5096|-70.7649|
+PI1822|PI1822-Mons. Carlos Oviedo / Esq.  Santa Corina|340395|6294297|-33.4789|-70.7178|
+PI1823|PI1823-Costanera Norte /Esq. Card.J.Fco.Fresno|340492|6294199|-33.4798|-70.7167|
+PI1824|PI1824-Costanera Norte /Esq. Mons. J. Rodríguez|340499|6294163|-33.4801|-70.7167|
+PI1825|PI1825-Avenida Del Canal / Esq.  Aurora|327915|6296988|-33.4527|-70.8515|
+PI1826|PI1826-Avenida Del Canal / Esq.  Cam. Lo Aguirre -Norte|327622|6296709|-33.4552|-70.8547|
+PI1827|PI1827-Avenida Del Canal / Esq.  Los Cipreses|327634|6296682|-33.4554|-70.8546|
+PI1828|PI1828-Avenida Del Canal / Esq.  El Rodeo|327582|6296258|-33.4593|-70.8552|
+PI1829|PI1829-Avenida Del Canal / Esq.  El Rodeo|327574|6296226|-33.4595|-70.8553|
+PI183|PI183-Camino A Rinconada / Esq. Avenida 3 Poniente|334679|6290940|-33.5083|-70.7799|
+PI1830|PI1830-Las Torres Poniente /Esq. Alaska|339128|6293022|-33.4902|-70.7316|
 PI185|PI185-Avenida Las Naciones / Esq. La Lechería|334270|6291028|-33.5075|-70.7843|
 PI186|PI186-Avenida Las Naciones / Esq. Océano Índico|334246|6290789|-33.5096|-70.7846|
 PI187|PI187-Avenida Las Naciones / Esq. Pasaje Chiu Chiu|334228|6290629|-33.5111|-70.7848|
@@ -9490,8 +9509,8 @@ PI196|PI196-Avenida 4 Poniente / Esq. Pasaje Vicaría|333716|6290979|-33.5078|-7
 PI198|PI198-Camino A Rinconada / Esq. Quinta Vergara|333904|6291234|-33.5056|-70.7882|
 PI2|PI2-Parada 1 / 5 De Abril - Las Rejas|341545|6295959|-33.4641|-70.7051|
 PI20|PI20-Av. Lo Errázuriz / Esq. San Marcos|340785|6291981|-33.4999|-70.714|
-PI200|PI200-Camino A Rinconada / Esq. Av. Las Naciones|334465|6291004|-33.5077|-70.7822|
-PI202|PI202-Camino A Rinconada / Esq. Avenida 3 Poniente|335068|6290829|-33.5094|-70.7757|
+PI200|PI200-Camino A Rinconada / Esq. Av. Las Naciones|334313|6291070|-33.5071|-70.7838|
+PI202|PI202-Camino A Rinconada / Esq. Avenida 3 Poniente|334921|6290860|-33.5091|-70.7773|
 PI203|PI203-Parada 2 / Escuela P. Aguirre Cerda|342712|6294158|-33.4805|-70.6929|
 PI204|PI204-Av. Pedro Aguirre Cerda / Esq. Av.Carlos Valdovinos|342887|6294394|-33.4784|-70.691|
 PI205|PI205-Av. Pedro Aguirre Cerda / Esq. Av. Gral. Velásquez|343114|6294640|-33.4762|-70.6885|
@@ -9510,15 +9529,15 @@ PI218|PI218-Parada 1 / (M) Santiago Bueras|336722|6292383|-33.4956|-70.7576|
 PI219|PI219-Avenida Los Pajaritos / Esq. Centenario|336739|6291939|-33.4996|-70.7575|
 PI220|PI220-Avenida Los Pajaritos / Esq. Avenida Chile|336750|6291561|-33.503|-70.7575|
 PI221|PI221-Avenida Los Pajaritos / Esq. Maipú|336758|6291172|-33.5065|-70.7575|
-PI222|PI222-Parada 11 / (M) Plaza De Maipú|336766|6290856|-33.5094|-70.7574|
+PI222|PI222-Parada 11 / (M) Plaza De Maipú|336777|6290850|-33.5095|-70.7573|
 PI223|PI223-Avenida Del Ferrocarril / Esq. Jose M. Irarrázaval|338228|6290447|-33.5133|-70.7418|
 PI224|PI224-Avenida Del Ferrocarril / Esq. 4 Álamos|337988|6290136|-33.5161|-70.7444|
 PI225|PI225-4 Álamos / Esq. 2ª Transversal|337719|6290127|-33.5161|-70.7473|
 PI226|PI226-Segunda Transversal / Esq. Pasaje Oslo|337715|6290408|-33.5136|-70.7473|
 PI227|PI227-Parada 4 / Estadio Santiago Bueras|337725|6290655|-33.5114|-70.7472|
-PI228|PI228-Parada 5 / (M) Plaza De Maipú|337024|6290749|-33.5104|-70.7547|
+PI228|PI228-Parada 5 / (M) Plaza De Maipú|336987|6290734|-33.5105|-70.7551|
 PI23|PI23-Parada 1 / El Mirador|340854|6291372|-33.5054|-70.7134|
-PI230|PI230-Parada 2 / (M) Plaza De Maipú|336793|6290796|-33.5099|-70.7572|
+PI230|PI230-Parada 2 / (M) Plaza De Maipú|336792|6290798|-33.5099|-70.7572|
 PI231|PI231-Avenida Los Pajaritos / Esq. Luis Gandarillas|336780|6291334|-33.5051|-70.7572|
 PI232|PI232-Avenida Los Pajaritos / Esq. Av. Pérez Llona|336766|6291727|-33.5015|-70.7573|
 PI233|PI233-Avenida Los Pajaritos / Esq. Alhué|336758|6292047|-33.4987|-70.7573|
@@ -9568,7 +9587,7 @@ PI272|PI272-Camino A Melipilla / Esq. Granad. De Sn. Martín|333913|6286359|-33.
 PI273|PI273-Camino A Melipilla / Esq. Egipto|334849|6287151|-33.5425|-70.7788|
 PI274|PI274-Camino A Melipilla / Esq. Jacques Cousteau|335145|6287413|-33.5402|-70.7755|
 PI275|PI275-Camino A Melipilla / Esq. Judea|335351|6287558|-33.5389|-70.7733|
-PI276|PI276-Camino A Melipilla / Esq. Avenida 3 Poniente|335653|6287840|-33.5364|-70.77|
+PI276|PI276-Camino A Melipilla / Esq. Avenida 3 Poniente|335718|6287887|-33.536|-70.7693|
 PI277|PI277-Parada / Nestlé - Maipú|335836|6287993|-33.5351|-70.768|
 PI279|PI279-Parada / Gasco - Maipú|336270|6288358|-33.5318|-70.7632|
 PI28|PI28-Don Orione / Esq. Av. Lo Errázuriz|340563|6292092|-33.4988|-70.7164|
@@ -9684,7 +9703,7 @@ PI382|PI382-Parada / Cti (A. Llona)|336966|6289526|-33.5214|-70.7555|
 PI383|PI383-Alberto Llona / Esq. Fernardo Riesco|336959|6289783|-33.5191|-70.7556|
 PI384|PI384-Alberto Llona / Esq. 4 Álamos|336953|6290051|-33.5167|-70.7556|
 PI385|PI385-Alberto Llona / Esq. Jose M. Irarrázaval|336945|6290387|-33.5137|-70.7556|
-PI386|PI386-Parada 1 / (M) Plaza De Maipú|336791|6290867|-33.5093|-70.7572|
+PI386|PI386-Parada 1 / (M) Plaza De Maipú|336793|6290855|-33.5094|-70.7572|
 PI387|PI387-Parada 2 / Paradero 12 Pajaritos|337439|6293347|-33.487|-70.7498|
 PI388|PI388-Parada / Colegio Santa María De Maipú|337743|6293686|-33.484|-70.7464|
 PI389|PI389-Parada / (M) Monte Tabor|337859|6293914|-33.482|-70.7451|
@@ -9719,7 +9738,7 @@ PI415|PI415-Parada 1 / Paradero 10 Pajaritos|338189|6294472|-33.477|-70.7415|
 PI416|PI416-Parada / (M) Monte Tabor|337880|6294007|-33.4812|-70.7449|
 PI417|PI417-Parada / Colegio Santa María De Maipú|337733|6293728|-33.4837|-70.7465|
 PI418|PI418-Parada 1 / Paradero 12 Pajaritos|337508|6293453|-33.4861|-70.749|
-PI419|PI419-Parada 10 / (M) Plaza De Maipú|336767|6290785|-33.51|-70.7574|
+PI419|PI419-Parada 10 / (M) Plaza De Maipú|336778|6290792|-33.51|-70.7573|
 PI42|PI42-Avenida 5 De Abril / Esq. Av. Aeropuerto|340985|6295570|-33.4675|-70.7112|
 PI420|PI420-Parada 1 / Ricardo Ayala - Pajaritos|336779|6290374|-33.5137|-70.7574|
 PI422|PI422-Parada 1 / Fernando Riesco - Pajaritos|336793|6289847|-33.5185|-70.7573|
@@ -9816,14 +9835,14 @@ PI509|PI509-Avenida El Olimpo / Esq. Lib. B. O'Higgins|335062|6291590|-33.5025|-
 PI51|PI51-Avenida Las Rejas / Esq. Mailef|341743|6294685|-33.4756|-70.7032|
 PI510|PI510-Avenida El Olimpo / Esq. Los Dorios|335038|6291368|-33.5045|-70.776|
 PI511|PI511-Avenida El Olimpo / Esq. Maipú|335062|6291136|-33.5066|-70.7757|
-PI512|PI512-Parada 3 / Plaza Del Abrazo|335079|6290858|-33.5091|-70.7756|
+PI512|PI512-Parada 3 / Plaza Del Abrazo|335077|6290900|-33.5087|-70.7756|
 PI513|PI513-A. Silva Carvallo / Esq. Andrés Bello|334859|6288208|-33.533|-70.7785|
 PI514|PI514-A. Silva Carvallo / Esq. Av. González Videla|334615|6288224|-33.5328|-70.7811|
 PI52|PI52-Suiza / Esq. Lucerna|342148|6294048|-33.4814|-70.699|
 PI526|PI526-Avenida Las Torres / Esq. Pedro Lucio Cuadra|339151|6295862|-33.4646|-70.7309|
 PI527|PI527-Avenida Las Torres / Esq. Avenida Laguna -Sur|339148|6296240|-33.4612|-70.7308|
 PI528|PI528-René Olivares / Esq. Los Olivares|334056|6287220|-33.5418|-70.7873|
-PI529|PI529-René Olivares / Esq. Avenida 4 Poniente|334264|6287396|-33.5402|-70.785|
+PI529|PI529-René Olivares / Esq. Avenida 4 Poniente|334202|6287340|-33.5407|-70.7857|
 PI53|PI53-Suiza / Esq. Cam. Melipilla|342305|6293927|-33.4825|-70.6973|
 PI530|PI530-A. Silva Carvallo / Esq. L Hernández Parker|335573|6288652|-33.5291|-70.7707|
 PI531|PI531-Andrés Amenábar / Esq. L Hernández Parker|335778|6288612|-33.5295|-70.7685|
@@ -9861,7 +9880,7 @@ PI561|PI561-A. Silva Carvallo / Esq. Los Diamantes|335935|6288767|-33.5281|-70.7
 PI562|PI562-A. Silva Carvallo / Esq. Cassandra|335737|6288755|-33.5282|-70.7689|
 PI563|PI563-A. Silva Carvallo / Esq. Monte Palomar|335510|6288618|-33.5294|-70.7714|
 PI564|PI564-René Olivares / Esq. Volcán Quizapu|334058|6287229|-33.5417|-70.7873|
-PI565|PI565-Avenida Los Pajaritos / Esq. Cam. Melipilla|336825|6288996|-33.5262|-70.7572|
+PI565|PI565-Avenida Los Pajaritos / Esq. Cam. Melipilla|336825|6288996|-33.5262|-70.7571|
 PI566|PI566-Parada / Liceo Domingo Matte|337044|6290128|-33.516|-70.7546|
 PI567|PI567-4 Álamos / Esq. Santa Gemita|337468|6290122|-33.5161|-70.75|
 PI568|PI568-4 Álamos / Esq. 2ª Transversal|337682|6290115|-33.5162|-70.7477|
@@ -9877,7 +9896,7 @@ PI576|PI576-Segunda Transversal / Esq. 3 Norte|338020|6292459|-33.4951|-70.7437|
 PI577|PI577-Segunda Transversal / Esq. Primo De Rivera|338063|6292714|-33.4928|-70.7431|
 PI578|PI578-Primo De Rivera / Esq. Longotoma|338310|6292794|-33.4922|-70.7405|
 PI579|PI579-Primo De Rivera / Esq. Las Golondrinas|338446|6292773|-33.4924|-70.739|
-PI58|PI58-Parada 6 / (M) Cerrillos|342523|6293826|-33.4835|-70.695|
+PI58|PI58-Parada 6 / (M) Cerrillos|342516|6293829|-33.4835|-70.695|
 PI580|PI580-Las Golondrinas / Esq. Alaska|338505|6292915|-33.4911|-70.7384|
 PI581|PI581-Las Golondrinas Oriente / Esq. Los Presidentes|338582|6293173|-33.4888|-70.7375|
 PI582|PI582-Las Golondrinas Oriente / Esq. Los Ministros|338585|6293293|-33.4877|-70.7374|
@@ -9953,11 +9972,11 @@ PI652|PI652-El Carmen / Esq. Cunco|336247|6289764|-33.5192|-70.7632|
 PI653|PI653-El Carmen / Esq. San José|336224|6290175|-33.5155|-70.7634|
 PI654|PI654-El Carmen / Esq. La Colonia|336235|6290416|-33.5133|-70.7632|
 PI655|PI655-Parada 4 / Templo Votivo|336250|6290675|-33.511|-70.763|
-PI657|PI657-Parada 6 / (M) Plaza De Maipú|337037|6290718|-33.5107|-70.7546|
+PI657|PI657-Parada 6 / (M) Plaza De Maipú|337018|6290728|-33.5106|-70.7548|
 PI658|PI658-Av.Pdte. Salvador Allende / Esq. La Primavera|338483|6290954|-33.5088|-70.739|
 PI659|PI659-Av.Pdte. Salvador Allende / Esq. Acapulco|338568|6291191|-33.5067|-70.738|
 PI66|PI66-Av. General Velásquez / Esq. Avenida Ecuador|342736|6297408|-33.4512|-70.692|
-PI662|PI662-Av.Pdte. Salvador Allende / Esq. El Mirador|338758|6291718|-33.5019|-70.7358|
+PI662|PI662-Av.Pdte. Salvador Allende / Esq. El Mirador|338758|6291718|-33.5019|-70.7359|
 PI663|PI663-Av.Pdte. Salvador Allende / Esq. Las Galaxias|338850|6291967|-33.4997|-70.7348|
 PI664|PI664-Dr. Vargas Salcedo / Esq. Avenida Las Torres|339038|6292207|-33.4976|-70.7328|
 PI665|PI665-Dr. Vargas Salcedo / Esq. El Universo|339208|6292073|-33.4988|-70.7309|
@@ -9995,7 +10014,7 @@ PI693|PI693-Av.Pdte. Salvador Allende / Esq. Los Paralelos|338828|6291936|-33.5|
 PI694|PI694-Av.Pdte. Salvador Allende / Esq. Critias|338754|6291729|-33.5018|-70.7359|
 PI695|PI695-Avenida Las Torres / Esq. Av. A. Vespucio|338814|6291518|-33.5037|-70.7353|
 PI696|PI696-Parada 9 / Portal Maipú|338431|6290844|-33.5098|-70.7395|
-PI697|PI697-El Carmen / Esq. Carmen L. Correa|336234|6290597|-33.5117|-70.7632|
+PI697|PI697-El Carmen / Esq. Carmen L. Correa|336233|6290597|-33.5117|-70.7632|
 PI698|PI698-El Carmen / Esq. San José|336215|6290236|-33.5149|-70.7635|
 PI699|PI699-El Carmen / Esq. Avenida Portales|336221|6289986|-33.5172|-70.7635|
 PI7|PI7-Avenida 5 De Abril / Esq. El Altarcillo|340366|6295243|-33.4704|-70.7179|
@@ -10118,7 +10137,7 @@ PI826|PI826-Curacaví / Esq. Av. Las Parcelas|339792|6295376|-33.4691|-70.7241|
 PI827|PI827-Avenida Las Parcelas / Esq. José Cardijn|339961|6295493|-33.4681|-70.7222|
 PI828|PI828-Avenida Las Parcelas / Esq. Atlántida|340179|6295622|-33.4669|-70.7199|
 PI829|PI829-Avenida Las Parcelas / Esq. Vista Hermosa|340372|6295724|-33.4661|-70.7178|
-PI83|PI83-Parada / Plaza Jacarandá|342739|6297866|-33.4471|-70.6919|
+PI83|PI83-Parada / Plaza Jacarandá|342739|6297865|-33.4471|-70.6919|
 PI830|PI830-Avenida Las Parcelas / Esq. Manuel Rivas V.|340705|6295898|-33.4645|-70.7142|
 PI831|PI831-Manuel Rivas Vicuña / Esq. Upsala|340717|6295976|-33.4638|-70.714|
 PI832|PI832-Manuel Rivas Vicuña / Esq. Av. Los Pajaritos|340687|6296155|-33.4622|-70.7143|
@@ -10317,7 +10336,7 @@ PJ1041|PJ1041-Isla Decepción / Esq. Pedro De Córdova|340782|6297238|-33.4525|-
 PJ1042|PJ1042-Isla Decepción / Esq. Avenida Dorsal|340730|6297419|-33.4508|-70.7136|
 PJ1044|PJ1044-Santa Marta / Esq. La Comuna|340600|6297661|-33.4486|-70.715|
 PJ1045|PJ1045-Santa Marta / Esq. Avenida Portales|340561|6298000|-33.4456|-70.7153|
-PJ1046|PJ1046-Avenida Portales / Esq. Necochea|340820|6297991|-33.4457|-70.7125|
+PJ1046|PJ1046-Avenida Portales / Esq. Necochea|340820|6297990|-33.4457|-70.7125|
 PJ1047|PJ1047-Avenida Portales / Esq. Los Ediles|341031|6297971|-33.4459|-70.7103|
 PJ1048|PJ1048-Oceánica / Esq. Av. A. Vespucio|334276|6297858|-33.4459|-70.783|
 PJ1049|PJ1049-Oceánica / Esq. Puerto Vespucio|334521|6297806|-33.4464|-70.7803|
@@ -10340,7 +10359,7 @@ PJ1066|PJ1066-Territorio Antártico / Esq. Froilán Bijou|340168|6297697|-33.448
 PJ107|PJ107-Av. Américo Vespucio / Esq. Avenida Laguna -Sur|335945|6296469|-33.4587|-70.7653|
 PJ1070|PJ1070-Avenida San Daniel / Esq. Taltal|336938|6299476|-33.4317|-70.754|
 PJ1071|PJ1071-Avenida San Daniel / Esq. Av. Santa Victoria|336551|6299538|-33.4311|-70.7582|
-PJ1072|PJ1072-Avenida San Daniel / Esq. Federico Errázuriz|336199|6299613|-33.4304|-70.7619|
+PJ1072|PJ1072-Avenida San Daniel / Esq. Federico Errázuriz|336199|6299613|-33.4304|-70.762|
 PJ1073|PJ1073-Avenida San Daniel / Esq. Serrano|335934|6299708|-33.4295|-70.7648|
 PJ1074|PJ1074-Nueva Imperial / Esq. Barros Arana|342338|6298071|-33.4452|-70.6962|
 PJ1075|PJ1075-Nueva Imperial / Esq. Díaz Sagredo|342636|6298142|-33.4446|-70.693|
@@ -10348,7 +10367,7 @@ PJ1076|PJ1076-Radal / Esq. Nueva Imperial|341745|6297956|-33.4461|-70.7026|
 PJ1077|PJ1077-9 De Julio / Esq. Necochea|340793|6298734|-33.439|-70.7127|
 PJ108|PJ108-Av. Américo Vespucio / Esq. Papa San Pío|335973|6296529|-33.4581|-70.7649|
 PJ109|PJ109-Av. Américo Vespucio / Esq. Av. La Travesía|335627|6296906|-33.4547|-70.7686|
-PJ11|PJ11-Sergio Valdovinos / Esq. Vicuña Rozas|341304|6299075|-33.436|-70.7071|
+PJ11|PJ11-Sergio Valdovinos / Esq. Vicuña Rozas|341304|6299075|-33.436|-70.7072|
 PJ110|PJ110-Parada 2 / Pasarela El Maitén|335294|6297233|-33.4517|-70.7721|
 PJ111|PJ111-Av. Américo Vespucio / Esq. Ruta 68|334925|6297623|-33.4481|-70.776|
 PJ112|PJ112-Parada 7 / (M) Las Rejas|341288|6296689|-33.4575|-70.7077|
@@ -10443,7 +10462,7 @@ PJ1609|PJ1609-Nueva Imperial / Esq. Santa Petronila|341530|6297978|-33.4459|-70.
 PJ161|PJ161-Avenida San Pablo / Esq. Av. Jose Guzmán R.|335206|6298129|-33.4436|-70.7729|
 PJ1610|PJ1610-Nueva Imperial / Esq. Gaspar De Orense|341982|6297982|-33.4459|-70.7001|
 PJ1611|PJ1611-Nueva Imperial / Esq. Avenida Las Rejas|341331|6297971|-33.4459|-70.7071|
-PJ1613|PJ1613-Parada 13 / (M) Las Rejas|341323|6296731|-33.4571|-70.7074|
+PJ1613|PJ1613-Parada 13 / (M) Las Rejas|341327|6296734|-33.4571|-70.7073|
 PJ1614|PJ1614-Camino Renca Lampa / Esq. Camino A Lampa|333875|6306068|-33.3718|-70.7857|
 PJ1615|PJ1615-Camino Renca Lampa / Esq. Cam. Aguas Claras|333919|6306052|-33.372|-70.7853|
 PJ1616|PJ1616-Camino Renca Lampa / Esq. Alejandro Dip|331724|6304593|-33.3848|-70.8091|
@@ -10466,7 +10485,7 @@ PJ1634|PJ1634-Parada / Instituto Santo Tomás|326869|6302691|-33.4011|-70.8617|
 PJ1635|PJ1635-Cam. Bdo. O'Higgins / Esq. Doña Ester|326034|6302745|-33.4005|-70.8706|
 PJ1636|PJ1636-Cam. Bdo. O'Higgins / Esq. Doña Ester|326032|6302738|-33.4006|-70.8707|
 PJ1637|PJ1637-Camino A Noviciado / Esq. Ruta 68|330366|6298806|-33.4367|-70.8248|
-PJ1638|PJ1638-Camino A Noviciado / Esq. Ruta 68|330365|6298824|-33.4366|-70.8248|
+PJ1638|PJ1638-Camino A Noviciado / Esq. Ruta 68|330365|6298825|-33.4366|-70.8248|
 PJ1639|PJ1639-Parada / Cementerio Canaán|332620|6298209|-33.4425|-70.8007|
 PJ164|PJ164-Avenida San Pablo / Esq. El Tranque|335372|6298153|-33.4434|-70.7711|
 PJ1640|PJ1640-Luis Cruz Martínez / Esq. Kilometro 1.1|327036|6304256|-33.3871|-70.8596|
@@ -10543,7 +10562,7 @@ PJ1712|PJ1712-Avenida Laguna Sur / Esq. Isla De Pascua|336196|6296540|-33.4581|-
 PJ1713|PJ1713-Avenida Laguna Sur / Esq. El Avellano|336570|6296464|-33.4588|-70.7585|
 PJ1714|PJ1714-Parada 3 / Oceanía - Laguna Sur|336729|6296411|-33.4593|-70.7568|
 PJ1715|PJ1715-Parada 5 / (M) Laguna Sur|338542|6296047|-33.4629|-70.7374|
-PJ1716|PJ1716-Los Maitenes / Esq. Salar De Atacama|334522|6299362|-33.4324|-70.78|
+PJ1716|PJ1716-Los Maitenes Esq. / Salar De Atacama|334522|6299362|-33.4324|-70.78|
 PJ1717|PJ1717-Avenida Los Mares / Esq. Laguna Negra|337542|6295647|-33.4663|-70.7482|
 PJ1718|PJ1718-Avenida Los Mares / Esq. Laguna Del Inca|337344|6295688|-33.4659|-70.7504|
 PJ1719|PJ1719-María Angélica / Esq. Salar Surire|335076|6299121|-33.4346|-70.7741|
@@ -10571,9 +10590,9 @@ PJ1739|PJ1739-Parada / Hospital Félix Bulnes|342204|6301334|-33.4158|-70.6971|
 PJ1740|PJ1740-Parada 1 / (M) Neptuno|339856|6297332|-33.4515|-70.723|
 PJ1741|PJ1741-Panamá / Esq. Ricardo Vial|338285|6298390|-33.4417|-70.7397|
 PJ1743|PJ1743-Av. Américo Vespucio / Esq. Los Maitenes Pte.|334037|6299412|-33.4318|-70.7852|
-PJ1744|PJ1744-Av. Américo Vespucio / Esq. Los Cactus|334040|6299087|-33.4348|-70.7853|
-PJ1745|PJ1745-Av. Américo Vespucio / Esq. Los Maitenes Ote.|334107|6299015|-33.4354|-70.7846|
-PJ1746|PJ1746-Av. Américo Vespucio / Esq. Los Maitenes Ote.|334082|6299288|-33.433|-70.7848|
+PJ1744|PJ1744-Av. Américo Vespucio Esq. / Los Cactus|334040|6299087|-33.4348|-70.7853|
+PJ1745|PJ1745-Av. Américo Vespucio Esq. / Los Maitenes Ote.|334107|6299015|-33.4354|-70.7846|
+PJ1746|PJ1746-Av. Américo Vespucio Esq. / Los Maitenes Ote.|334082|6299288|-33.433|-70.7848|
 PJ1747|PJ1747-Avenida Carrascal / Esq. Pasaje N|340521|6301354|-33.4153|-70.7152|
 PJ1748|PJ1748-Corona Sueca / Esq. Avenida La Estrella|336979|6297745|-33.4473|-70.7539|
 PJ1749|PJ1749-Parada / Pasarela Pedro Jorquera|334190|6297993|-33.4447|-70.7839|
@@ -10594,7 +10613,7 @@ PJ1762|PJ1762-Radal / Esq. Cónsul Poinsett|341581|6299731|-33.4301|-70.7041|
 PJ1764|PJ1764-Serrano / Esq. Claudio Arrau|335752|6297509|-33.4493|-70.7671|
 PJ1765|PJ1765-Serrano / Esq. Jardín De La Viña|335818|6297277|-33.4514|-70.7665|
 PJ1766|PJ1766-Parada 1 / Rot. Boulevard Aeropuerto|334696|6299922|-33.4273|-70.7781|
-PJ1767|PJ1767-Federico Errázuriz / Esq. El Sauce|336351|6300839|-33.4193|-70.7601|
+PJ1767|PJ1767-Federico Errázuriz / Esq. El Sauce|336357|6300672|-33.4208|-70.7601|
 PJ1768|PJ1768-Federico Errázuriz / Esq. El Alerce|336354|6300526|-33.4222|-70.7601|
 PJ1769|PJ1769-Federico Errázuriz / Esq. El Belloto|336368|6300672|-33.4208|-70.7599|
 PJ177|PJ177-Parada / (M) Lo Prado|340488|6298241|-33.4434|-70.7161|
@@ -10616,7 +10635,7 @@ PJ1788|PJ1788-Camino A Noviciado / Esq. Kilometro 4|328028|6301787|-33.4095|-70.
 PJ1789|PJ1789-Salvador Gutiérrez / Esq. Pasaje Abrantes|337042|6301144|-33.4167|-70.7526|
 PJ179|PJ179-Parada 6 / (M) Blanqueado|341220|6298426|-33.4418|-70.7082|
 PJ1790|PJ1790-Mar De Chile / Esq. Río Douro|335873|6300875|-33.4189|-70.7652|
-PJ1791|PJ1791-Mar De Chile / Esq. Las Fragatas|335883|6300918|-33.4186|-70.7651|
+PJ1791|PJ1791-Mar De Chile / Esq. Las Fragatas|335885|6300951|-33.4183|-70.7651|
 PJ1792|PJ1792-Serrano / Esq. Rodoviario|336065|6300577|-33.4216|-70.7632|
 PJ1793|PJ1793-Serrano / Esq. Río Douro|336069|6300761|-33.42|-70.7631|
 PJ1795|PJ1795-Parada / Claudio Arrau Altura Del 9450|335491|6297609|-33.4483|-70.7699|
@@ -10646,7 +10665,7 @@ PJ1816|PJ1816-Gabriela Mistral / Esq. Ricardo Vial|338590|6298380|-33.4418|-70.7
 PJ1817|PJ1817-Gabriela Mistral / Esq. Av. San Pablo|338601|6298046|-33.4449|-70.7364|
 PJ1818|PJ1818-Parada 12 / (M) Las Rejas|341476|6296769|-33.4568|-70.7057|
 PJ1819|PJ1819-Avenida Dorsal / Esq. Las Acacias|341290|6297575|-33.4495|-70.7076|
-PJ1820|PJ1820-Los Maitenes / Esq. Bvard.Aeropuerto|334891|6299826|-33.4282|-70.776|
+PJ1820|PJ1820-Los Maitenes Esq. / Boulevard Aerop.|334891|6299826|-33.4282|-70.776|
 PJ183|PJ183-Santa Genoveva / Esq. Av.San Pablo|342168|6298781|-33.4388|-70.6979|
 PJ184|PJ184-Parada 5 / (M) San Pablo|339760|6298118|-33.4444|-70.7239|
 PJ185|PJ185-Parada 2 / Santa Victoria - San Pablo|336603|6298191|-33.4432|-70.7579|
@@ -10666,9 +10685,10 @@ PJ1936|PJ1936-Río Douro / Esq. Serrano|336096|6300832|-33.4194|-70.7628|
 PJ1937|PJ1937-Río Douro / Esq. Federico Errázuriz|336314|6300796|-33.4197|-70.7605|
 PJ1938|PJ1938-Río Douro / Esq. Serrano|336307|6300832|-33.4194|-70.7606|
 PJ194|PJ194-Parada 1 / A. Alessandri - José J. Pérez|338363|6299702|-33.4299|-70.7387|
-PJ1940|PJ1940-Serrano / Esq. Cultura|336069|6300928|-33.4185|-70.7631|
-PJ1942|PJ1942-Serrano / Esq. Austeridad|336060|6301186|-33.4162|-70.7632|
-PJ1943|PJ1943-Serrano / Esq. La Capilla|336057|6301318|-33.415|-70.7632|
+PJ1940|PJ1940-Serrano Esq. / Cultura|336069|6300928|-33.4185|-70.7631|
+PJ1941|PJ1941-Serrano / Esq.  Las Fragatas|336061|6300986|-33.418|-70.7632|
+PJ1943|PJ1943-Serrano Esq. / La Capilla|336057|6301318|-33.415|-70.7632|
+PJ1944|PJ1944-Serrano / Esq.  Los Guiraos|336054|6301289|-33.4152|-70.7632|
 PJ1945|PJ1945-Avenida San Pablo / Esq. Altura Del 11000|333756|6298167|-33.443|-70.7885|
 PJ1946|PJ1946-General Juan Buendía / Esq. John Adams|339346|6297186|-33.4527|-70.7285|
 PJ1949|PJ1949-Av. Camino Apacible / Esq.  Av. Del Canal|328718|6297510|-33.4481|-70.8428|
@@ -10677,6 +10697,9 @@ PJ1951|PJ1951-Transversal 1 / Esq.  Camino Del Agua|328957|6297382|-33.4493|-70.
 PJ1952|PJ1952-Transversal 1 / Esq.  Nueva Uno Sur|329116|6297297|-33.4501|-70.8385|
 PJ1953|PJ1953-Parada / Rotonda Camino Apacible|328475|6297636|-33.447|-70.8454|
 PJ1954|PJ1954-Ciudad Del Valle / Esq. Ruta 68|328368|6298002|-33.4437|-70.8465|
+PJ1961|PJ1961-Costanera Sur / Esq.  Los Suspiros|341263|6302113|-33.4086|-70.7071|
+PJ1962|PJ1962-Doña Isabel / Esq.  Mar Rojo|330455|6297355|-33.4498|-70.8241|
+PJ1963|PJ1963-Doña Isabel / Esq.  Mar Rojo|330463|6297398|-33.4494|-70.824|
 PJ198|PJ198-Federico Errázuriz / Esq. Av. San Daniel|336185|6299630|-33.4302|-70.7621|
 PJ199|PJ199-Serrano / Esq. Carmen|335888|6299664|-33.4299|-70.7653|
 PJ2|PJ2-Lo Espinoza / Esq. Carmen Lidia|341343|6301722|-33.4121|-70.7063|
@@ -10896,15 +10919,15 @@ PJ425|PJ425-El Tranque / Esq. Cerro La Campaña|335405|6298671|-33.4387|-70.7707
 PJ426|PJ426-El Tranque / Esq. Cerro Calan|335392|6298356|-33.4416|-70.7709|
 PJ427|PJ427-El Tranque / Esq. Av. San Pablo|335371|6298189|-33.4431|-70.7711|
 PJ428|PJ428-Av. San Francisco / Esq. Canalejas|335839|6299295|-33.4332|-70.7659|
-PJ429|PJ429-Avenida La Estrella / Esq. Los Conquistadores|337217|6300026|-33.4268|-70.7509|
+PJ429|PJ429-Avenida La Estrella / Esq. Los Conquistadores|337195|6300095|-33.4262|-70.7512|
 PJ43|PJ43-Av. Apóstol Santiago / Esq. Nueva Imperial|342700|6298179|-33.4443|-70.6923|
 PJ430|PJ430-Avenida La Estrella / Esq. Viscu|337160|6300338|-33.424|-70.7515|
 PJ431|PJ431-Avenida La Estrella / Esq. Mapocho Sur|337125|6300512|-33.4224|-70.7518|
-PJ432|PJ432-Mapocho Norte / Esq. Diagonal Reny|336927|6300537|-33.4221|-70.7539|
+PJ432|PJ432-Mapocho Norte / Esq. Diagonal Reny|336927|6300537|-33.4221|-70.754|
 PJ433|PJ433-Diagonal Reny / Esq. Río Douro|336743|6300815|-33.4196|-70.7559|
 PJ434|PJ434-Diagonal Reny / Esq. Salvador Gutiérrez|336581|6301082|-33.4172|-70.7576|
 PJ435|PJ435-Diagonal Reny / Esq. La Capilla|336414|6301355|-33.4147|-70.7593|
-PJ436|PJ436-Costanera Sur / Esq. Abrantes|337069|6301493|-33.4135|-70.7522|
+PJ436|PJ436-Costanera Sur / Esq. Abrantes|337069|6301493|-33.4135|-70.7523|
 PJ437|PJ437-Costanera Sur / Esq. Goruche|337402|6301520|-33.4134|-70.7487|
 PJ438|PJ438-Costanera Sur / Esq. Isoka|338058|6301553|-33.4132|-70.7416|
 PJ439|PJ439-Costanera Sur / Esq. El Resbalon|338357|6301541|-33.4133|-70.7384|
@@ -11056,7 +11079,7 @@ PJ581|PJ581-Gonzalo Bulnes / Esq. Dr. C. Ottolenghi|342132|6300992|-33.4188|-70.
 PJ582|PJ582-Parada 3 / Escuela E. Hurtado|342154|6300704|-33.4214|-70.6977|
 PJ583|PJ583-Avenida Carrascal / Esq. Villasana|343124|6300387|-33.4244|-70.6873|
 PJ584|PJ584-Villasana / Esq. Claudio Vicuña M.|343108|6300175|-33.4263|-70.6876|
-PJ585|PJ585-Villasana / Esq. Juan De Barros|343077|6299897|-33.4288|-70.6879|
+PJ585|PJ585-Villasana Esq. / Juan De Barros|343075|6299849|-33.4293|-70.688|
 PJ586|PJ586-Villasana / Esq. Avenida Mapocho|343036|6299515|-33.4323|-70.6885|
 PJ587|PJ587-Villasana / Esq. Andes|343028|6299353|-33.4337|-70.6886|
 PJ588|PJ588-Villasana / Esq. Martínez De Rozas|343026|6299240|-33.4347|-70.6886|
@@ -11141,7 +11164,7 @@ PJ661|PJ661-Radal / Esq. Vicuña Rozas|341557|6299108|-33.4357|-70.7044|
 PJ662|PJ662-Vicuña Rozas / Esq. Sergio Valdovinos|341332|6299055|-33.4362|-70.7069|
 PJ663|PJ663-Vicuña Rozas / Esq. Hostos|341010|6299048|-33.4362|-70.7103|
 PJ664|PJ664-Vicuña Rozas / Esq. Júpiter|340651|6299055|-33.4361|-70.7142|
-PJ665|PJ665-Vicuña Rozas / Esq. Saturno|340317|6299161|-33.4351|-70.7177|
+PJ665|PJ665-Vicuña Rozas / Esq. Saturno|340317|6299161|-33.4351|-70.7178|
 PJ666|PJ666-Vicuña Rozas / Esq. Neptuno|340036|6299255|-33.4342|-70.7208|
 PJ667|PJ667-Av. San Francisco / Esq. Los Pinos|339614|6298890|-33.4374|-70.7254|
 PJ668|PJ668-Av. San Francisco / Esq. Las Violetas|339471|6298918|-33.4371|-70.7269|
@@ -11159,7 +11182,7 @@ PJ678|PJ678-Av. San Francisco / Esq. Lebu -Oriente|336796|6298988|-33.4361|-70.7
 PJ679|PJ679-Av. San Francisco / Esq. Av. Santa Victoria|336566|6299050|-33.4355|-70.7581|
 PJ68|PJ68-Av. Teniente Cruz / Esq. Ricardo Vial|338204|6298400|-33.4416|-70.7406|
 PJ680|PJ680-Av. San Francisco / Esq. Federico Errázuriz|336151|6299170|-33.4344|-70.7625|
-PJ681|PJ681-J. M. Guzmán Riesco / Esq. Iorana|335211|6299164|-33.4343|-70.7726|
+PJ681|PJ681-J. M. Guzmán Riesco / Esq. Iorana|335211|6299164|-33.4343|-70.7727|
 PJ682|PJ682-J. M. Guzmán Riesco / Esq. Santa Cristina|335216|6299302|-33.433|-70.7726|
 PJ683|PJ683-Mateo De Toro Y Z. / Esq. Ambrosio O'Higgins|339785|6300288|-33.4248|-70.7233|
 PJ684|PJ684-Mapocho Norte / Esq. Islas Azores|337911|6300587|-33.4218|-70.7434|
@@ -11210,7 +11233,7 @@ PJ73|PJ73-Parada 2 / Oceanía - Laguna Sur|336817|6296412|-33.4593|-70.7559|
 PJ731|PJ731-Avenida Las Torres / Esq. Los Copihues|339097|6298697|-33.4391|-70.731|
 PJ732|PJ732-Avenida Las Torres / Esq. Los Crisantemos|339100|6298393|-33.4418|-70.731|
 PJ733|PJ733-Avenida Las Torres / Esq. Av. San Pablo|339102|6298121|-33.4443|-70.731|
-PJ734|PJ734-Avenida Las Torres / Esq. Territorio Antártico|339102|6297845|-33.4467|-70.731|
+PJ734|PJ734-Avenida Las Torres / Esq. Territorio Antártico|339102|6297845|-33.4467|-70.7311|
 PJ735|PJ735-Parada / Escuela Violeta Parra|337027|6300918|-33.4187|-70.7528|
 PJ736|PJ736-Río Douro / Esq. Río Loa|336884|6300881|-33.419|-70.7544|
 PJ737|PJ737-Río Douro / Esq. Diagonal Reny|336754|6300839|-33.4194|-70.7558|
@@ -11400,7 +11423,7 @@ PJ972|PJ972-Torres De Pisa / Esq. Turín|339116|6300108|-33.4263|-70.7305|
 PJ973|PJ973-Torres De Pisa / Esq. Av. José J. Pérez|339097|6299831|-33.4288|-70.7307|
 PJ974|PJ974-Vicuña Rozas / Esq. Lo López|339368|6299419|-33.4326|-70.7279|
 PJ975|PJ975-Vicuña Rozas / Esq. Los Retamos|339588|6299371|-33.4331|-70.7255|
-PJ976|PJ976-Vicuña Rozas / Esq. Pedro Urmiola|339811|6299322|-33.4335|-70.7232|
+PJ976|PJ976-Vicuña Rozas / Esq. Pedro Urmiola|339811|6299321|-33.4335|-70.7232|
 PJ977|PJ977-Vicuña Rozas / Esq. Neptuno|339995|6299260|-33.4341|-70.7212|
 PJ978|PJ978-Radal / Esq. Catedral|341739|6298212|-33.4438|-70.7026|
 PJ979|PJ979-Radal / Esq. Cura Marchant|341737|6298034|-33.4454|-70.7027|
