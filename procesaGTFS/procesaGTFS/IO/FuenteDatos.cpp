@@ -668,8 +668,6 @@ void FuenteDatos::leePuntosDeCargaBip()
 	///Iterador para buscar los paraderos
 	map< int, PuntoBip >::iterator itPar;
 
-	int id = 1;
-
 	///Lectura del header
 	cur = StringFunctions::ExplodeF(';', &archivoPuntosBips);
 
@@ -689,14 +687,12 @@ void FuenteDatos::leePuntosDeCargaBip()
 			continue;
 		}
 
-		ConvertCoordinate::LLtoUTM(23, atof(cur[2].c_str()), atof(cur[1].c_str()), y, x, UTMZone);
+		ConvertCoordinate::LLtoUTM(23, atof(cur[6].c_str()), atof(cur[5].c_str()), y, x, UTMZone);
 
 		//stop_id,stop_code,stop_name,stop_lat,stop_lon
-		PuntoBip punto = PuntoBip(id,cur[0],atof(cur[2].c_str()), atof(cur[1].c_str()), (int)x, (int)y);
+		PuntoBip punto = PuntoBip(atoi(cur[0].c_str()),cur[2],atof(cur[6].c_str()), atof(cur[5].c_str()), (int)x, (int)y);
 
-		puntosDeCargaBip[id] = punto;
-
-		id++;
+		puntosDeCargaBip[atoi(cur[0].c_str())] = punto;
 	}
 
 
