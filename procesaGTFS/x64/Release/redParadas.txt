@@ -5691,6 +5691,7 @@ PF1139|PF1139-Cabo Leones / Esq.  Bahía Catalina|350758|6283721|-33.5758|-70.6
 PF114|PF114-Avenida Santa Rosa / Esq. Punta Chilen|348971|6278023|-33.6269|-70.6283|
 PF1140|PF1140-Camino El Retiro / Empresa El Romeral|348786|6276810|-33.6378|-70.6305|
 PF1141|PF1141-Chiloé / Esq. San Pedro|349248|6277718|-33.6297|-70.6253|
+PF1142|PF1142-El Ruiseñor / Esq. Quitalmahue|349242|6277530|-33.6314|-70.6254|
 PF1143|PF1143-San Pedro / Esq. Isla Talcán|348993|6277725|-33.6296|-70.6281|
 PF116|PF116-Camino El Retiro / Esq. Apóstol Bartolomé|349031|6278430|-33.6232|-70.6275|
 PF117|PF117-Camino El Retiro / Esq. Apóstol Tomás|349073|6278653|-33.6212|-70.6271|

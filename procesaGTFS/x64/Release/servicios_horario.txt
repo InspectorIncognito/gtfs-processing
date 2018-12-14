@@ -163,7 +163,7 @@
 516;Domingo y Festivos-00:00-23:59/Sábado-00:00-23:59/Lunes a Viernes-00:00-23:59/;Domingo y Festivos-00:00-23:59/Sábado-00:00-23:59/Lunes a Viernes-00:00-23:59/
 517;;Domingo y Festivos-06:50-22:50/Sábado-06:00-22:50/Lunes a Viernes-05:50-22:50/Lunes a Viernes-05:50-22:50/Sábado-06:00-22:50/Domingo y Festivos-06:50-22:50/
 518;Sábado-00:00-23:59/Domingo y Festivos-00:00-23:59/Lunes a Viernes-00:00-23:59/;Lunes a Viernes-00:00-23:59/Sábado-00:00-23:59/Domingo y Festivos-00:00-23:59/
-519e;Lunes a Viernes-06:40-09:59/;Lunes a Viernes-06:00-09:13/
+519;;
 541N;Lunes a Viernes-00:15-05:15/Domingo y Festivos-00:15-05:15/Sábado-00:15-05:15/;Domingo y Festivos-00:00-05:00/Lunes a Viernes-00:00-05:00/Sábado-00:00-05:00/
 546e;;
 712;;
@@ -382,16 +382,16 @@ J18;Domingo y Festivos-05:30-23:30/Lunes a Viernes-05:20-23:30/Sábado-05:30-23:3
 J18c;Lunes a Viernes-06:30-08:54/;Lunes a Viernes-17:30-21:06/
 J19;Lunes a Viernes-05:30-23:54/Sábado-05:30-23:54/Domingo y Festivos-05:30-23:54/;Lunes a Viernes-06:00-00:30/Domingo y Festivos-05:58-00:38/Sábado-06:00-00:30/
 J20;Sábado-05:30-22:59/Domingo y Festivos-05:30-22:59/Lunes a Viernes-05:30-22:55/;Sábado-06:05-23:41/Lunes a Viernes-06:04-23:31/Domingo y Festivos-06:03-23:35/
-L1_V40;;
-L2R_V40;;
-L2V_V40;;
-L2_V40;;
-L4A_V40;;
-L4R_V40;;
-L4V_V40;;
-L4_V40;;
-L5R_V40;;
-L5V_V40;;
-L5_V40;;
-L6_V40;;
-MT_V40;;
+L1_V42;;
+L2R_V42;;
+L2V_V42;;
+L2_V42;;
+L4A_V42;;
+L4R_V42;;
+L4V_V42;;
+L4_V42;;
+L5R_V42;;
+L5V_V42;;
+L5_V42;;
+L6_V42;;
+MT_V42;;
