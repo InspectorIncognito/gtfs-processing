@@ -34,6 +34,9 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 	///Inicializacion de reporte
 	this->reporte = new ReporteFuenteDatos(parametros->carpetaReportes);
 
+	readStopTimes();
+	exit(1);
+
 	///Lectura de diccionario de codigos servicio-sentido
 	leeDiccionarioServicios();
 
@@ -539,7 +542,253 @@ void FuenteDatos::leeSecuenciaDeParadas()
 	///Variables para reporte
 	reporte->tParadas = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
 	cout << reporte->tParadas << "(min)" << endl;
+}
 
+void FuenteDatos::readStopTimes()
+{
+	/****TODO
+	* 1. agregar columna servicio
+	* 2. separador de servicios con guion
+	* 3. agregar nombre de servicio (cambiar sentido en caso contrario)
+	* 4. identificar secuencias no unicas en el dia y armar archivo para diccionario
+	*/
+	int nTimeStart = Cronometro::GetMilliCount();
+
+	/*****************************/
+	struct frecuencia
+	{
+		string hora_ini;
+		string hora_fin;
+	};
+
+	map< string, frecuencia > frecuencias;
+	map< string, frecuencia >::iterator ifrec;
+
+	///Archivo de entrada Principal
+	ifstream archivoFrecuencia;
+	archivoFrecuencia.open(parametros->nombreCarpetaGTFS + parametros->slash + "frequencies.txt");
+
+	///Chequeo de archivo 
+	if (!archivoFrecuencia.good())
+		cout << "Error : No se encuentra el archivo " << parametros->nombreCarpetaGTFS + parametros->slash + "frequencies.txt" << "!" << endl;
+	else
+		cout << "Cargando datos de Secuencia de frecuencias (" << parametros->nombreCarpetaGTFS + parametros->slash + "frequencies.txt" << ")... " << endl;
+
+	vector<string> cur1;
+	cur1 = StringFunctions::ExplodeF(',', &archivoFrecuencia);
+
+	///Lectura archivo primario
+	while (archivoFrecuencia.good())
+	{
+		cur1 = StringFunctions::ExplodeF(',', &archivoFrecuencia);
+		if (cur1.size() == 0 || cur1[0].compare("") == 0)
+			continue;
+
+		frecuencia frec;
+		frec.hora_ini = cur1[1];
+		frec.hora_fin = cur1[2];
+
+		frecuencias[cur1[0]] = frec;
+	}
+
+	/*****************************/
+
+	struct Secuencia
+	{
+		map<int, string> paradas;
+		string hora_ini = string("-");
+		string hora_fin = string("-");
+		string nombre = string("-");
+		string version = string("-");
+		string codigo = string("-");
+	};
+
+	map<string, Secuencia > secuencias;
+	map<string, Secuencia >::iterator isec;
+
+	///Archivo de entrada Principal
+	ifstream archivoParaderos;
+	archivoParaderos.open(parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt");
+
+	///Chequeo de archivo 
+	if (!archivoParaderos.good())
+		cout << "Error : No se encuentra el archivo " << parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt" << "!" << endl;
+	else
+		cout << "Cargando datos de Secuencia de Paraderos (" << parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt" << ")... ";
+
+	///Vector contenedor de la linea actual del archivo
+	vector<string> cur;
+
+	///Lectura del header
+	cur = StringFunctions::ExplodeF(',', &archivoParaderos);
+
+	///Lectura archivo primario
+	int nlineas = 0;
+	while (archivoParaderos.good())
+	{
+		nlineas++;
+
+		///Lectura de linea del archivo
+		cur = StringFunctions::ExplodeF(',', &archivoParaderos);
+
+		///Condicion de salida, a veces no es suficiente solo la condicion del ciclo
+		if (cur.size() == 0 || cur[0].compare("") == 0)
+			continue;
+
+		///Generacion del codigo servicio-sentido concatenando las 3 columnas servicio-sentido-variante
+		vector<string> cod = StringFunctions::Explode(cur[0], '_');
+		vector<string> cod_serv = StringFunctions::Explode(cod[0], '-');
+		vector<string> horario = StringFunctions::Explode(cod[1], '-');
+
+		//string sec = string(cod_serv[0] + "-" + cod_serv[1] + "-" + horario[1]);
+		string sec = cur[0];
+
+		isec = secuencias.find(sec);
+		if (isec == secuencias.end())
+		{
+			map<int, string> tmp;
+			tmp[atoi(cur[4].c_str())] = cur[3];
+
+			Secuencia secu;
+			secu.codigo = cod[0];
+			secu.version = cod[1];
+			secu.paradas = tmp;
+
+			ifrec = frecuencias.find(sec);
+			if (ifrec != frecuencias.end())
+			{
+				secu.hora_ini = (*ifrec).second.hora_ini;
+				secu.hora_fin = (*ifrec).second.hora_fin;
+			}
+
+			secuencias[sec] = secu;
+		}
+		else
+		{
+			(*isec).second.paradas[atoi(cur[4].c_str())] = cur[3];
+		}
+	}
+
+	///DEBUG
+	ofstream fout;
+	fout.open("Android_busstops_sequences" + parametros->version + ".csv");
+	int min_hora_ini = 999999;
+	int max_hora_fin = -1;
+	for (isec = secuencias.begin(); isec != secuencias.end(); isec++)
+	{
+		map<string, Secuencia >::iterator isec_ant;
+		map<string, Secuencia >::iterator isec_sgt;
+		isec_ant = isec;
+		isec_ant--;
+		isec_sgt = isec;
+		isec_sgt++;
+
+
+		//fout << (*isec).first << ";" << (*isec).second.hora_ini << ";" << (*isec).second.hora_fin << ";";
+		//for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
+		//{
+		//	fout << (*ipar).second << ";";
+		//}
+		//fout << endl;
+
+	
+		if (isec == secuencias.begin())
+		{
+			int ihora_ini = tsh.Time2Seconds((*isec).second.hora_ini);
+			int ihora_fin = tsh.Time2Seconds((*isec).second.hora_fin);
+
+			if (ihora_ini <= min_hora_ini) min_hora_ini = ihora_ini;
+			if (ihora_fin >= max_hora_fin) max_hora_fin = ihora_fin;
+		}
+		if (isec_ant != secuencias.end())
+		{
+			//chequeo igualdad
+			bool sonIguales = true;
+			if ((int)(*isec).second.paradas.size() != (int)(*isec_ant).second.paradas.size())
+			{
+				sonIguales = false;
+			}
+			else
+			{
+				map<int, string>::iterator ipar1 = (*isec).second.paradas.begin();
+				map<int, string>::iterator ipar2 = (*isec_ant).second.paradas.begin();
+				for (; ipar1 != (*isec).second.paradas.end(); ipar1++, ipar2++)
+				{
+					if ((*ipar1).second.compare((*ipar2).second) != 0)
+						sonIguales = false;
+				}
+			}
+
+			//fout << (*isec).first << ";" << tsh.Seconds2TimeStampInDay(min_hora_ini) << ";" << tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
+			//for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
+			//{
+			//	fout << (*ipar).second << ";";
+			//}
+			//fout << endl;
+
+			///codigo anterior igual, se fusionan horarios
+			if ((*isec).second.codigo.compare((*isec_ant).second.codigo) == 0 && sonIguales)
+			{
+				int ihora_ini_ant = tsh.Time2Seconds((*isec_ant).second.hora_ini);
+				int ihora_fin_ant = tsh.Time2Seconds((*isec_ant).second.hora_fin);
+
+				int ihora_ini = tsh.Time2Seconds((*isec).second.hora_ini);
+				int ihora_fin = tsh.Time2Seconds((*isec).second.hora_fin);
+
+				//fout << "flig 1 : " << min_hora_ini << ";" << max_hora_fin << endl;
+				//fout << "flig 2 : " << ihora_ini_ant << ";" << ihora_fin_ant << endl;
+				//fout << "flig 3 : " << ihora_ini << ";" << ihora_fin << endl;
+
+				if (ihora_ini_ant <= min_hora_ini) min_hora_ini = ihora_ini_ant;
+				if (ihora_ini <= min_hora_ini) min_hora_ini = ihora_ini;
+
+				if (ihora_fin_ant >= max_hora_fin) max_hora_fin = ihora_fin_ant;
+				if (ihora_fin >= max_hora_fin) max_hora_fin = ihora_fin;
+
+				//fout << "flig 11 : " << min_hora_ini << ";" << max_hora_fin << endl;
+
+				//fout << tsh.Seconds2TimeStampInDay(min_hora_ini) << ";" << tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
+				//fout << endl;
+			}
+			else
+			{
+				if (min_hora_ini == 999999 || max_hora_fin == -1)
+				{
+					fout << (*isec_ant).first << ";";
+					fout << (*isec_ant).second.hora_ini << ";";
+					fout << (*isec_ant).second.hora_fin << ";";
+					fout << (*isec_ant).second.nombre << ";";
+					for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
+					{
+						fout << (*ipar).second << ";";
+					}
+					fout << endl;
+				}
+				else
+				{
+					fout << (*isec_ant).first << ";";
+					fout << tsh.Seconds2TimeStampInDay(min_hora_ini) << ";";
+					fout << tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
+					fout << (*isec_ant).second.nombre << ";";
+					for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
+					{
+						fout << (*ipar).second << ";";
+					}
+					fout << endl;
+				}
+
+				min_hora_ini = 999999;
+				max_hora_fin = -1;
+			}
+		}
+	
+
+	}
+	fout.close();
+
+	///Variables para reporte
+	reporte->tParadas = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
+	cout << reporte->tParadas << "(min)" << endl;
 }
 
 void FuenteDatos::leeHorarios()

@@ -261,6 +261,9 @@ string TimeStampHandler::Seconds2TimeStampInDay(int seconds)
 	if(seconds < 0)
 		return string("-");
 
+	if (seconds == 86400)
+		return string("24:00:00");
+
 	int segundosEnDia;
 	if(seconds >= 86400 )
 		segundosEnDia= seconds%(24*60*60);

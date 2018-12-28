@@ -115,6 +115,7 @@ class FuenteDatos{
 	* @return referencia a objeto con el conjunto de paraderos del sistema
 	*/
 	void leeSecuenciaDeParadas();
+	void readStopTimes();
 
 	/**
 	*	Metodo que lee un archivo de horarios, el metodo permite la no existencia del archivo
