@@ -34,9 +34,6 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 	///Inicializacion de reporte
 	this->reporte = new ReporteFuenteDatos(parametros->carpetaReportes);
 
-	readStopTimes();
-	exit(1);
-
 	///Lectura de diccionario de codigos servicio-sentido
 	leeDiccionarioServicios();
 
@@ -51,6 +48,9 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 
 	///Lectura de horarios de servicios
 	leeHorarios();
+
+	///Lectura bustops, para obenter todas las secuencias posibles por servicio
+	readStopTimes();
 
 	///Lectura de puntos de carga
 	leePuntosDeCargaBip();
@@ -672,6 +672,7 @@ void FuenteDatos::readStopTimes()
 	///DEBUG
 	ofstream fout;
 	fout.open("Android_busstops_sequences" + parametros->version + ".csv");
+	fout << "servicio;sentido;tipodia;hora_ini;hora_fin;direccion;paradas" << endl;
 	int min_hora_ini = 999999;
 	int max_hora_fin = -1;
 	for (isec = secuencias.begin(); isec != secuencias.end(); isec++)
@@ -682,14 +683,6 @@ void FuenteDatos::readStopTimes()
 		isec_ant--;
 		isec_sgt = isec;
 		isec_sgt++;
-
-
-		//fout << (*isec).first << ";" << (*isec).second.hora_ini << ";" << (*isec).second.hora_fin << ";";
-		//for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
-		//{
-		//	fout << (*ipar).second << ";";
-		//}
-		//fout << endl;
 
 	
 		if (isec == secuencias.begin())
@@ -702,6 +695,12 @@ void FuenteDatos::readStopTimes()
 		}
 		if (isec_ant != secuencias.end())
 		{
+			vector<string> cod = StringFunctions::Explode((*isec_ant).second.codigo, '-');
+
+			string servicio = cod[0];
+			string sentido = cod[1];
+			string tipoDia = cod[2];
+
 			//chequeo igualdad
 			bool sonIguales = true;
 			if ((int)(*isec).second.paradas.size() != (int)(*isec_ant).second.paradas.size())
@@ -719,13 +718,6 @@ void FuenteDatos::readStopTimes()
 				}
 			}
 
-			//fout << (*isec).first << ";" << tsh.Seconds2TimeStampInDay(min_hora_ini) << ";" << tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
-			//for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
-			//{
-			//	fout << (*ipar).second << ";";
-			//}
-			//fout << endl;
-
 			///codigo anterior igual, se fusionan horarios
 			if ((*isec).second.codigo.compare((*isec_ant).second.codigo) == 0 && sonIguales)
 			{
@@ -735,44 +727,59 @@ void FuenteDatos::readStopTimes()
 				int ihora_ini = tsh.Time2Seconds((*isec).second.hora_ini);
 				int ihora_fin = tsh.Time2Seconds((*isec).second.hora_fin);
 
-				//fout << "flig 1 : " << min_hora_ini << ";" << max_hora_fin << endl;
-				//fout << "flig 2 : " << ihora_ini_ant << ";" << ihora_fin_ant << endl;
-				//fout << "flig 3 : " << ihora_ini << ";" << ihora_fin << endl;
-
 				if (ihora_ini_ant <= min_hora_ini) min_hora_ini = ihora_ini_ant;
 				if (ihora_ini <= min_hora_ini) min_hora_ini = ihora_ini;
 
 				if (ihora_fin_ant >= max_hora_fin) max_hora_fin = ihora_fin_ant;
 				if (ihora_fin >= max_hora_fin) max_hora_fin = ihora_fin;
-
-				//fout << "flig 11 : " << min_hora_ini << ";" << max_hora_fin << endl;
-
-				//fout << tsh.Seconds2TimeStampInDay(min_hora_ini) << ";" << tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
-				//fout << endl;
 			}
 			else
 			{
+				string nombre = string("-");
+				map< string, Servicio >::iterator iserv = servicios.find(servicio);
+				if (iserv != servicios.end())
+				{
+					if(sentido.compare("I")==0)
+						nombre = (*iserv).second.origen + " - " + (*iserv).second.destino;
+					else
+						nombre = (*iserv).second.destino + " - " + (*iserv).second.origen;
+				}
+
+
 				if (min_hora_ini == 999999 || max_hora_fin == -1)
 				{
-					fout << (*isec_ant).first << ";";
+					//fout << (*isec_ant).first << ";";
+					fout << servicio << ";";
+					fout << sentido << ";";
+					fout << tipoDia << ";";
 					fout << (*isec_ant).second.hora_ini << ";";
 					fout << (*isec_ant).second.hora_fin << ";";
-					fout << (*isec_ant).second.nombre << ";";
+					fout << nombre << ";";
 					for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
 					{
-						fout << (*ipar).second << ";";
+						if (ipar == (*isec).second.paradas.begin())
+							fout << (*ipar).second;
+						else
+							fout << "-" << (*ipar).second;
 					}
 					fout << endl;
 				}
 				else
 				{
-					fout << (*isec_ant).first << ";";
+					//fout << (*isec_ant).first << ";";
+					fout << servicio << ";";
+					fout << sentido << ";";
+					fout << tipoDia << ";";
 					fout << tsh.Seconds2TimeStampInDay(min_hora_ini) << ";";
 					fout << tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
-					fout << (*isec_ant).second.nombre << ";";
+					fout << nombre << ";";
 					for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
 					{
-						fout << (*ipar).second << ";";
+						if (ipar == (*isec).second.paradas.begin())
+							fout << (*ipar).second;
+						else
+							fout << "-" << (*ipar).second;
+
 					}
 					fout << endl;
 				}
