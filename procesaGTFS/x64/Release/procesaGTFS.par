@@ -7,7 +7,7 @@ fairpoints.csv						* Nombre de archivo con puntos de carga bip
 GTFS_Transantiago_kmls\				* carpeta para kmls
 GTFS_Transantiago_reportes\			* carpeta para reportes
 20.0								* Distancia para el tramado de la ruta
-v2.0								* version
+v2.1								* version
 7									* colores
 ED1C24 1					
 F58220 2				
