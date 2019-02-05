@@ -1,47 +1,47 @@
 101;Cerrillos;Domingo y Festivos;05:30;00:30
 101;Cerrillos;Lunes a Viernes;05:30;00:30
-101;Cerrillos;S√°bado;05:30;00:30
+101;Cerrillos;S·bado;05:30;00:30
 101;Recoleta;Domingo y Festivos;05:30;00:30
 101;Recoleta;Lunes a Viernes;05:30;00:30
-101;Recoleta;S√°bado;05:30;00:30
+101;Recoleta;S·bado;05:30;00:30
 101c;Cerrillos;Lunes a Viernes;06:30;08:25
 101c;Cerrillos;Lunes a Viernes;17:30;20:24
 101c;(M) Las Rejas;Lunes a Viernes;06:30;08:29
 101c;(M) Las Rejas;Lunes a Viernes;17:30;20:24
 102;Mall Plaza Tobalaba;Lunes a Viernes;05:30;00:30
 102;Mall Plaza Tobalaba;Domingo y Festivos;05:30;00:30
-102;Mall Plaza Tobalaba;S√°bado;05:30;00:30
+102;Mall Plaza Tobalaba;S·bado;05:30;00:30
 102;(M) Las Rejas;Domingo y Festivos;05:30;00:30
 102;(M) Las Rejas;Lunes a Viernes;05:30;00:30
-102;(M) Las Rejas;S√°bado;05:30;00:30
+102;(M) Las Rejas;S·bado;05:30;00:30
 103;San Joaquin;Domingo y Festivos;05:30;00:30
-103;San Joaquin;S√°bado;05:30;00:40
+103;San Joaquin;S·bado;05:30;00:40
 103;San Joaquin;Lunes a Viernes;05:30;00:40
 103;Providencia;Domingo y Festivos;05:30;00:30
-103;Providencia;S√°bado;05:30;00:40
+103;Providencia;S·bado;05:30;00:40
 103;Providencia;Lunes a Viernes;05:30;00:40
 104;Mall Plaza Tobalaba;Domingo y Festivos;00:00;23:59
 104;Mall Plaza Tobalaba;Lunes a Viernes;00:00;23:59
-104;Mall Plaza Tobalaba;S√°bado;00:00;23:59
+104;Mall Plaza Tobalaba;S·bado;00:00;23:59
 104;Providencia;Domingo y Festivos;00:00;23:59
-104;Providencia;S√°bado;00:00;23:59
+104;Providencia;S·bado;00:00;23:59
 104;Providencia;Lunes a Viernes;00:00;23:59
 105;Lo Espejo;Lunes a Viernes;05:30;23:39
-105;Lo Espejo;S√°bado;05:30;23:35
+105;Lo Espejo;S·bado;05:30;23:35
 105;Lo Espejo;Domingo y Festivos;05:30;23:30
 105;Renca;Lunes a Viernes;05:30;23:39
 105;Renca;Domingo y Festivos;05:30;23:30
-105;Renca;S√°bado;05:30;23:48
+105;Renca;S·bado;05:30;23:48
 106;La Florida;Domingo y Festivos;05:30;23:40
 106;La Florida;Lunes a Viernes;05:30;23:40
-106;La Florida;S√°bado;05:30;23:40
-106;Nueva San Martin;S√°bado;05:30;00:30
+106;La Florida;S·bado;05:30;23:40
+106;Nueva San Martin;S·bado;05:30;00:30
 106;Nueva San Martin;Lunes a Viernes;05:30;00:30
 106;Nueva San Martin;Domingo y Festivos;05:30;00:30
 107;Av. Departamental;Lunes a Viernes;00:00;23:59
-107;Av. Departamental;S√°bado;00:00;23:59
+107;Av. Departamental;S·bado;00:00;23:59
 107;Av. Departamental;Domingo y Festivos;00:00;23:59
-107;Ciudad Empresarial;S√°bado;00:00;23:59
+107;Ciudad Empresarial;S·bado;00:00;23:59
 107;Ciudad Empresarial;Domingo y Festivos;00:00;23:59
 107;Ciudad Empresarial;Lunes a Viernes;00:00;23:59
 107c;Plaza Renca;Lunes a Viernes;06:30;08:27
@@ -50,131 +50,131 @@
 107c;Ciudad Empresarial;Lunes a Viernes;17:30;20:18
 108;La Florida;Lunes a Viernes;05:30;00:30
 108;La Florida;Domingo y Festivos;05:30;00:30
-108;La Florida;S√°bado;05:30;00:30
+108;La Florida;S·bado;05:30;00:30
 108;Maipu;Domingo y Festivos;05:30;00:30
 108;Maipu;Lunes a Viernes;05:30;00:30
-108;Maipu;S√°bado;05:30;00:30
-109;Maipu;S√°bado;05:30;23:45
+108;Maipu;S·bado;05:30;00:30
+109;Maipu;S·bado;05:30;23:45
 109;Maipu;Lunes a Viernes;05:30;23:30
 109;Maipu;Domingo y Festivos;05:30;23:45
 109;Renca;Domingo y Festivos;05:30;23:45
-109;Renca;S√°bado;05:30;23:45
+109;Renca;S·bado;05:30;23:45
 109;Renca;Lunes a Viernes;05:30;23:45
 109N;Maipu;Lunes a Viernes;00:00;05:00
 109N;Maipu;Domingo y Festivos;00:00;05:06
-109N;Maipu;S√°bado;00:00;05:00
+109N;Maipu;S·bado;00:00;05:00
 109N;(M) Quinta Normal;Lunes a Viernes;00:00;05:00
 109N;(M) Quinta Normal;Domingo y Festivos;00:00;05:00
-109N;(M) Quinta Normal;S√°bado;00:00;05:00
+109N;(M) Quinta Normal;S·bado;00:00;05:00
 110;Maipu;Domingo y Festivos;05:30;00:30
-110;Maipu;S√°bado;05:30;00:30
+110;Maipu;S·bado;05:30;00:30
 110;Maipu;Lunes a Viernes;05:30;00:30
 110;Renca;Domingo y Festivos;05:30;00:30
 110;Renca;Lunes a Viernes;05:30;00:30
-110;Renca;S√°bado;05:30;00:30
+110;Renca;S·bado;05:30;00:30
 110c;Pudahuel Sur;Domingo y Festivos;10:00;20:50
 110c;Pudahuel Sur;Lunes a Viernes;06:30;21:22
-110c;Pudahuel Sur;S√°bado;09:48;20:24
+110c;Pudahuel Sur;S·bado;09:48;20:24
 110c;Renca;Lunes a Viernes;06:30;21:29
 110c;Renca;Domingo y Festivos;10:30;20:50
-110c;Renca;S√°bado;10:24;20:24
+110c;Renca;S·bado;10:24;20:24
 111;Ciudad Satelite;Domingo y Festivos;05:30;00:30
 111;Ciudad Satelite;Lunes a Viernes;05:30;00:30
-111;Ciudad Satelite;S√°bado;05:30;00:30
-111;(M) Pajaritos;S√°bado;05:30;00:30
+111;Ciudad Satelite;S·bado;05:30;00:30
+111;(M) Pajaritos;S·bado;05:30;00:30
 111;(M) Pajaritos;Lunes a Viernes;05:30;00:30
 111;(M) Pajaritos;Domingo y Festivos;05:30;00:30
 112;(M) Vespucio Norte;Domingo y Festivos;05:30;23:48
 112;(M) Vespucio Norte;Lunes a Viernes;05:30;23:48
-112;(M) Vespucio Norte;S√°bado;05:30;23:48
+112;(M) Vespucio Norte;S·bado;05:30;23:48
 112;Nonato Coo;Domingo y Festivos;05:30;23:48
-112;Nonato Coo;S√°bado;05:30;23:48
+112;Nonato Coo;S·bado;05:30;23:48
 112;Nonato Coo;Lunes a Viernes;05:30;23:40
 112N;Recoleta;Lunes a Viernes;00:00;05:20
 112N;Recoleta;Domingo y Festivos;00:00;05:20
-112N;Recoleta;S√°bado;00:00;05:20
+112N;Recoleta;S·bado;00:00;05:20
 112N;Av. La Florida;Domingo y Festivos;00:00;05:20
-112N;Av. La Florida;S√°bado;00:00;05:20
+112N;Av. La Florida;S·bado;00:00;05:20
 112N;Av. La Florida;Lunes a Viernes;00:00;05:20
 113;(M) La Moneda;Domingo y Festivos;05:30;23:45
-113;(M) La Moneda;S√°bado;05:30;23:45
+113;(M) La Moneda;S·bado;05:30;23:45
 113;(M) La Moneda;Lunes a Viernes;05:30;23:45
 113;Ciudad Satelite;Domingo y Festivos;05:30;23:45
 113;Ciudad Satelite;Lunes a Viernes;06:30;23:45
-113;Ciudad Satelite;S√°bado;05:30;23:45
+113;Ciudad Satelite;S·bado;05:30;23:45
 113e;(M) La Moneda;Lunes a Viernes;06:00;08:45
 113e;Ciudad Satelite;Lunes a Viernes;17:33;21:24
 114;Mall Plaza Tobalaba;Domingo y Festivos;05:30;20:59
 114;Mall Plaza Tobalaba;Lunes a Viernes;05:30;21:21
-114;Mall Plaza Tobalaba;S√°bado;05:30;20:15
+114;Mall Plaza Tobalaba;S·bado;05:30;20:15
 114;Providencia;Lunes a Viernes;05:39;21:29
-114;Providencia;S√°bado;05:30;20:29
+114;Providencia;S·bado;05:30;20:29
 114;Providencia;Domingo y Festivos;05:33;20:59
 115;(M) La Moneda;Lunes a Viernes;05:30;23:45
-115;(M) La Moneda;S√°bado;05:30;23:45
+115;(M) La Moneda;S·bado;05:30;23:45
 115;(M) La Moneda;Domingo y Festivos;05:30;23:30
 115;Villa El Abrazo;Lunes a Viernes;06:30;00:30
 115;Villa El Abrazo;Domingo y Festivos;06:15;23:40
-115;Villa El Abrazo;S√°bado;06:36;23:45
+115;Villa El Abrazo;S·bado;06:36;23:45
 116;Santiago Centro;Lunes a Viernes;05:30;23:45
-116;Santiago Centro;S√°bado;05:30;23:30
+116;Santiago Centro;S·bado;05:30;23:30
 116;Santiago Centro;Domingo y Festivos;06:00;23:40
 116;Huechuraba;Domingo y Festivos;06:24;23:40
-116;Huechuraba;S√°bado;05:30;23:30
+116;Huechuraba;S·bado;05:30;23:30
 116;Huechuraba;Lunes a Viernes;05:30;23:45
 117;San Joaquin;Lunes a Viernes;05:30;23:40
 117;San Joaquin;Domingo y Festivos;06:50;22:50
-117;San Joaquin;S√°bado;06:30;22:52
+117;San Joaquin;S·bado;06:30;22:52
 117;(M) Vespucio Norte;Lunes a Viernes;05:30;23:40
 117;(M) Vespucio Norte;Domingo y Festivos;07:50;22:50
-117;(M) Vespucio Norte;S√°bado;06:30;22:52
+117;(M) Vespucio Norte;S·bado;06:30;22:52
 117c;Providencia;Lunes a Viernes;05:39;09:07
 117c;Providencia;Lunes a Viernes;17:30;21:10
 117c;Huechuraba;Lunes a Viernes;05:30;09:08
 117c;Huechuraba;Lunes a Viernes;17:30;21:10
-118;Mall Plaza Vespucio;S√°bado;05:30;23:45
+118;Mall Plaza Vespucio;S·bado;05:30;23:45
 118;Mall Plaza Vespucio;Lunes a Viernes;05:30;23:45
 118;Mall Plaza Vespucio;Domingo y Festivos;05:30;23:30
 118;Maipu;Lunes a Viernes;05:30;23:45
-118;Maipu;S√°bado;05:30;23:45
+118;Maipu;S·bado;05:30;23:45
 118;Maipu;Domingo y Festivos;05:30;23:30
 119;Lo Espejo;Domingo y Festivos;00:00;23:59
-119;Lo Espejo;S√°bado;00:00;23:59
+119;Lo Espejo;S·bado;00:00;23:59
 119;Lo Espejo;Lunes a Viernes;00:00;23:59
 119;Mapocho;Domingo y Festivos;00:00;23:59
-119;Mapocho;S√°bado;00:00;23:59
+119;Mapocho;S·bado;00:00;23:59
 119;Mapocho;Lunes a Viernes;00:00;23:59
 120;(M) La Cisterna;Domingo y Festivos;05:30;23:30
-120;(M) La Cisterna;S√°bado;05:30;23:30
+120;(M) La Cisterna;S·bado;05:30;23:30
 120;(M) La Cisterna;Lunes a Viernes;05:30;23:40
 120;Renca;Lunes a Viernes;05:30;23:40
 120;Renca;Domingo y Festivos;05:33;23:30
-120;Renca;S√°bado;05:30;23:30
+120;Renca;S·bado;05:30;23:30
 121;Lo Espejo;Domingo y Festivos;05:30;23:48
-121;Lo Espejo;S√°bado;05:30;23:48
+121;Lo Espejo;S·bado;05:30;23:48
 121;Lo Espejo;Lunes a Viernes;05:30;23:48
 121;Mapocho;Domingo y Festivos;05:30;23:48
-121;Mapocho;S√°bado;05:30;23:48
+121;Mapocho;S·bado;05:30;23:48
 121;Mapocho;Lunes a Viernes;05:30;23:49
 125;Lo Espejo;Domingo y Festivos;05:30;22:50
 125;Lo Espejo;Lunes a Viernes;05:30;22:59
-125;Lo Espejo;S√°bado;05:30;22:45
+125;Lo Espejo;S·bado;05:30;22:45
 125;(M) U. De Chile;Domingo y Festivos;05:30;22:50
 125;(M) U. De Chile;Lunes a Viernes;05:30;22:59
-125;(M) U. De Chile;S√°bado;05:30;22:45
+125;(M) U. De Chile;S·bado;05:30;22:45
 126;La Higuera;Lunes a Viernes;06:30;20:22
 126;(M) Manuel Montt;Lunes a Viernes;06:00;20:18
-201;San Bernardo;S√°bado;00:00;23:59
+201;San Bernardo;S·bado;00:00;23:59
 201;San Bernardo;Domingo y Festivos;00:00;23:59
 201;San Bernardo;Lunes a Viernes;00:00;23:59
 201;Mall Plaza Norte;Lunes a Viernes;00:00;23:59
-201;Mall Plaza Norte;S√°bado;00:00;23:59
+201;Mall Plaza Norte;S·bado;00:00;23:59
 201;Mall Plaza Norte;Domingo y Festivos;00:00;23:59
-201e;San Bernardo;S√°bado;05:30;22:48
+201e;San Bernardo;S·bado;05:30;22:48
 201e;San Bernardo;Domingo y Festivos;09:30;22:48
 201e;San Bernardo;Lunes a Viernes;05:30;23:48
 201e;Mall Plaza Norte;Lunes a Viernes;05:30;23:48
-201e;Mall Plaza Norte;S√°bado;05:30;22:48
+201e;Mall Plaza Norte;S·bado;05:30;22:48
 201e;Mall Plaza Norte;Domingo y Festivos;09:30;22:48
 202c;Mapocho;Lunes a Viernes;17:30;21:24
 202c;Mapocho;Lunes a Viernes;06:30;08:25
@@ -182,8 +182,8 @@
 202c;El Cortijo;Lunes a Viernes;06:30;08:25
 203;La Pintana;Lunes a Viernes;05:30;00:45
 203;La Pintana;Domingo y Festivos;05:30;00:45
-203;La Pintana;S√°bado;05:30;00:45
-203;Huechuraba;S√°bado;05:30;00:45
+203;La Pintana;S·bado;05:30;00:45
+203;Huechuraba;S·bado;05:30;00:45
 203;Huechuraba;Domingo y Festivos;05:30;00:45
 203;Huechuraba;Lunes a Viernes;05:30;00:45
 203e;La Pintana;Lunes a Viernes;06:30;08:25
@@ -192,19 +192,19 @@
 203e;Centro;Lunes a Viernes;06:30;08:25
 204;Gabriela;Lunes a Viernes;00:00;23:59
 204;Gabriela;Domingo y Festivos;00:00;23:59
-204;Gabriela;S√°bado;00:00;23:59
-204;Alameda;S√°bado;00:00;23:59
+204;Gabriela;S·bado;00:00;23:59
+204;Alameda;S·bado;00:00;23:59
 204;Alameda;Domingo y Festivos;00:00;23:59
 204;Alameda;Lunes a Viernes;00:00;23:59
 204e;Gabriela;Lunes a Viernes;17:30;21:20
 204e;Gabriela;Lunes a Viernes;06:30;08:24
 204e;Alameda;Lunes a Viernes;06:30;08:24
 204e;Alameda;Lunes a Viernes;17:30;21:20
-205;Puente Alto;S√°bado;05:30;00:40
+205;Puente Alto;S·bado;05:30;00:40
 205;Puente Alto;Domingo y Festivos;05:30;00:40
 205;Puente Alto;Lunes a Viernes;05:30;00:40
 205;Santiago;Lunes a Viernes;05:30;00:40
-205;Santiago;S√°bado;05:30;00:40
+205;Santiago;S·bado;05:30;00:40
 205;Santiago;Domingo y Festivos;05:30;00:40
 205e;Puente Alto;Lunes a Viernes;06:32;08:27
 205e;Puente Alto;Lunes a Viernes;17:33;21:21
@@ -212,10 +212,10 @@
 205e;Santiago;Lunes a Viernes;06:32;08:27
 206;La Pintana;Lunes a Viernes;05:30;00:45
 206;La Pintana;Domingo y Festivos;05:30;00:45
-206;La Pintana;S√°bado;05:30;00:45
+206;La Pintana;S·bado;05:30;00:45
 206;Centro;Domingo y Festivos;05:30;00:45
 206;Centro;Lunes a Viernes;05:30;00:45
-206;Centro;S√°bado;05:30;00:45
+206;Centro;S·bado;05:30;00:45
 206e;La Pintana;Lunes a Viernes;17:30;21:18
 206e;La Pintana;Lunes a Viernes;06:30;08:20
 206e;Centro;Lunes a Viernes;17:30;21:18
@@ -227,20 +227,20 @@
 207e;Mapocho;Lunes a Viernes;17:30;22:48
 207e;Mapocho;Lunes a Viernes;06:30;08:20
 208;Centro;Domingo y Festivos;00:00;23:59
-208;Centro;S√°bado;00:00;23:59
+208;Centro;S·bado;00:00;23:59
 208;Centro;Lunes a Viernes;00:00;23:59
 208;Huechuraba;Domingo y Festivos;00:00;23:59
 208;Huechuraba;Lunes a Viernes;00:00;23:59
-208;Huechuraba;S√°bado;00:00;23:59
+208;Huechuraba;S·bado;00:00;23:59
 208c;(M) Zapadores;Lunes a Viernes;17:30;22:52
 208c;(M) Zapadores;Lunes a Viernes;06:30;09:20
 208c;Huechuraba;Lunes a Viernes;06:30;09:20
 208c;Huechuraba;Lunes a Viernes;17:30;22:52
-209;El Volcan;S√°bado;05:30;00:45
+209;El Volcan;S·bado;05:30;00:45
 209;El Volcan;Domingo y Festivos;05:30;00:45
 209;El Volcan;Lunes a Viernes;05:30;00:45
 209;Alameda;Domingo y Festivos;05:30;00:45
-209;Alameda;S√°bado;05:30;00:45
+209;Alameda;S·bado;05:30;00:45
 209;Alameda;Lunes a Viernes;05:00;00:45
 209e;El Volcan;Lunes a Viernes;17:30;22:47
 209e;El Volcan;Lunes a Viernes;06:30;08:18
@@ -248,44 +248,44 @@
 209e;Alameda;Lunes a Viernes;06:30;08:18
 210;Puente Alto;Lunes a Viernes;00:00;23:59
 210;Puente Alto;Domingo y Festivos;00:00;23:59
-210;Puente Alto;S√°bado;00:00;23:59
-210;Estacion Central;S√°bado;00:00;23:59
+210;Puente Alto;S·bado;00:00;23:59
+210;Estacion Central;S·bado;00:00;23:59
 210;Estacion Central;Domingo y Festivos;00:00;23:59
 210;Estacion Central;Lunes a Viernes;00:00;23:59
 210v;Av. Mexico;Domingo y Festivos;05:30;23:48
-210v;Av. Mexico;S√°bado;05:30;23:45
+210v;Av. Mexico;S·bado;05:30;23:45
 210v;Av. Mexico;Lunes a Viernes;05:30;23:40
 210v;Estacion Central;Lunes a Viernes;05:30;23:40
 210v;Estacion Central;Domingo y Festivos;05:30;23:48
-210v;Estacion Central;S√°bado;05:30;23:45
-211;Nos;S√°bado;00:00;23:59
+210v;Estacion Central;S·bado;05:30;23:45
+211;Nos;S·bado;00:00;23:59
 211;Nos;Lunes a Viernes;00:00;23:59
 211;Nos;Domingo y Festivos;00:00;23:59
 211;La Florida;Domingo y Festivos;00:00;23:59
-211;La Florida;S√°bado;00:00;23:59
+211;La Florida;S·bado;00:00;23:59
 211;La Florida;Lunes a Viernes;00:00;23:59
 211c;San Bernardo;Lunes a Viernes;05:30;23:50
 211c;(M) La Cisterna;Lunes a Viernes;05:30;23:50
 212;La Pintana;Domingo y Festivos;05:30;00:45
-212;La Pintana;S√°bado;05:30;00:45
+212;La Pintana;S·bado;05:30;00:45
 212;La Pintana;Lunes a Viernes;05:30;00:45
 212;Providencia;Domingo y Festivos;05:30;00:45
-212;Providencia;S√°bado;05:30;00:45
+212;Providencia;S·bado;05:30;00:45
 212;Providencia;Lunes a Viernes;05:30;00:45
 213e;Puente Alto;Lunes a Viernes;05:30;23:54
 213e;Plaza Italia;Lunes a Viernes;05:30;23:54
 214;El Cortijo;Lunes a Viernes;05:30;23:45
-214;El Cortijo;S√°bado;05:30;23:45
+214;El Cortijo;S·bado;05:30;23:45
 214;El Cortijo;Domingo y Festivos;05:30;23:45
 214;Santa Olga;Lunes a Viernes;05:30;23:45
 214;Santa Olga;Domingo y Festivos;05:30;23:45
-214;Santa Olga;S√°bado;05:30;23:45
+214;Santa Olga;S·bado;05:30;23:45
 216;Vitacura;Domingo y Festivos;05:30;00:40
-216;Vitacura;S√°bado;05:30;00:40
+216;Vitacura;S·bado;05:30;00:40
 216;Vitacura;Lunes a Viernes;05:00;00:40
 216;Pablo De Rokha;Lunes a Viernes;05:30;00:40
 216;Pablo De Rokha;Domingo y Festivos;05:30;00:40
-216;Pablo De Rokha;S√°bado;05:30;00:40
+216;Pablo De Rokha;S·bado;05:30;00:40
 217e;(M) Santa Ana;Lunes a Viernes;17:30;20:20
 217e;(M) Santa Ana;Lunes a Viernes;05:30;09:24
 217e;Maestranza;Lunes a Viernes;06:00;09:18
@@ -308,102 +308,102 @@
 222e;Puente Alto;Lunes a Viernes;17:30;20:15
 223;Lo Espejo;Domingo y Festivos;05:30;00:45
 223;Lo Espejo;Lunes a Viernes;05:30;00:45
-223;Lo Espejo;S√°bado;05:30;00:45
+223;Lo Espejo;S·bado;05:30;00:45
 223;Ciudad Empresarial;Domingo y Festivos;05:30;00:45
-223;Ciudad Empresarial;S√°bado;05:30;00:45
+223;Ciudad Empresarial;S·bado;05:30;00:45
 223;Ciudad Empresarial;Lunes a Viernes;05:30;00:45
 224;Gabriela;Lunes a Viernes;06:00;22:47
-224;Gabriela;S√°bado;06:00;22:50
+224;Gabriela;S·bado;06:00;22:50
 224;Gabriela;Domingo y Festivos;06:00;22:48
-224;√ëu√±oa;Lunes a Viernes;05:30;22:47
-224;√ëu√±oa;Domingo y Festivos;05:30;22:48
-224;√ëu√±oa;S√°bado;05:30;22:50
+224;—uÒoa;Lunes a Viernes;05:30;22:47
+224;—uÒoa;Domingo y Festivos;05:30;22:48
+224;—uÒoa;S·bado;05:30;22:50
 224c;Gabriela;Lunes a Viernes;17:30;22:45
 224c;(M) Vicente Valdes;Lunes a Viernes;17:30;22:42
-224N;Gabriela;S√°bado;23:00;05:07
+224N;Gabriela;S·bado;23:00;05:07
 224N;Gabriela;Domingo y Festivos;23:00;05:03
 224N;Gabriela;Lunes a Viernes;23:00;05:07
 224N;(M) Pedrero;Domingo y Festivos;23:00;05:03
-224N;(M) Pedrero;S√°bado;23:00;05:07
+224N;(M) Pedrero;S·bado;23:00;05:07
 224N;(M) Pedrero;Lunes a Viernes;23:00;05:07
-225;Bah√≠a Catalina;S√°bado;05:30;00:40
-225;Bah√≠a Catalina;Domingo y Festivos;05:30;00:40
-225;Bah√≠a Catalina;Lunes a Viernes;05:30;00:40
-225;Las Condes;S√°bado;05:30;00:40
+225;BahÌa Catalina;S·bado;05:30;00:40
+225;BahÌa Catalina;Domingo y Festivos;05:30;00:40
+225;BahÌa Catalina;Lunes a Viernes;05:30;00:40
+225;Las Condes;S·bado;05:30;00:40
 225;Las Condes;Lunes a Viernes;05:30;00:40
 225;Las Condes;Domingo y Festivos;05:30;00:40
 226;Nonato Coo;Domingo y Festivos;05:30;00:45
 226;Nonato Coo;Lunes a Viernes;05:30;00:45
-226;Nonato Coo;S√°bado;05:30;00:45
-226;Mapocho;S√°bado;05:30;00:45
+226;Nonato Coo;S·bado;05:30;00:45
+226;Mapocho;S·bado;05:30;00:45
 226;Mapocho;Domingo y Festivos;05:30;00:45
 226;Mapocho;Lunes a Viernes;05:30;00:45
 227;Pedro Aguirre Cerda;Lunes a Viernes;05:30;00:40
-227;Pedro Aguirre Cerda;S√°bado;05:30;00:40
+227;Pedro Aguirre Cerda;S·bado;05:30;00:40
 227;Pedro Aguirre Cerda;Domingo y Festivos;05:30;00:40
 227;La Reina;Domingo y Festivos;05:30;00:40
-227;La Reina;S√°bado;05:30;00:40
+227;La Reina;S·bado;05:30;00:40
 227;La Reina;Lunes a Viernes;05:30;00:40
 228;Angelmo;Lunes a Viernes;05:30;00:40
 228;Angelmo;Domingo y Festivos;05:30;00:40
-228;Angelmo;S√°bado;05:30;00:40
+228;Angelmo;S·bado;05:30;00:40
 228;(M) La Cisterna;Domingo y Festivos;05:30;00:40
-228;(M) La Cisterna;S√°bado;05:30;00:40
+228;(M) La Cisterna;S·bado;05:30;00:40
 228;(M) La Cisterna;Lunes a Viernes;05:30;00:40
 229;La Pintana;Domingo y Festivos;05:30;00:40
-229;La Pintana;S√°bado;05:30;00:40
+229;La Pintana;S·bado;05:30;00:40
 229;La Pintana;Lunes a Viernes;05:30;00:40
 229;(M) La Moneda;Domingo y Festivos;05:30;00:40
-229;(M) La Moneda;S√°bado;05:30;00:40
+229;(M) La Moneda;S·bado;05:30;00:40
 229;(M) La Moneda;Lunes a Viernes;05:30;00:40
 230;La Pintana;Lunes a Viernes;00:00;23:59
 230;La Pintana;Domingo y Festivos;00:00;23:59
-230;La Pintana;S√°bado;00:00;23:59
-230;Conchal√≠;S√°bado;00:00;23:59
-230;Conchal√≠;Lunes a Viernes;00:00;23:59
-230;Conchal√≠;Domingo y Festivos;00:00;23:59
+230;La Pintana;S·bado;00:00;23:59
+230;ConchalÌ;S·bado;00:00;23:59
+230;ConchalÌ;Lunes a Viernes;00:00;23:59
+230;ConchalÌ;Domingo y Festivos;00:00;23:59
 261e;San Bernardo;Lunes a Viernes;07:30;07:50
 261e;San Bernardo;Lunes a Viernes;17:30;21:18
 261e;(M) Los Heroes;Lunes a Viernes;18:00;21:10
 261e;(M) Los Heroes;Lunes a Viernes;06:30;08:20
-301;Angelm√≥;S√°bado;00:00;23:59
-301;Angelm√≥;Domingo y Festivos;00:00;23:59
-301;Angelm√≥;Lunes a Viernes;00:00;23:59
-301;Juan Antonio R√≠os;Lunes a Viernes;00:00;23:59
-301;Juan Antonio R√≠os;Domingo y Festivos;00:00;23:59
-301;Juan Antonio R√≠os;S√°bado;00:00;23:59
-301c;Angelm√≥;Lunes a Viernes;05:30;23:50
-301c;Angelm√≥;Domingo y Festivos;07:30;23:50
-301c;Angelm√≥;S√°bado;06:30;23:50
+301;AngelmÛ;S·bado;00:00;23:59
+301;AngelmÛ;Domingo y Festivos;00:00;23:59
+301;AngelmÛ;Lunes a Viernes;00:00;23:59
+301;Juan Antonio RÌos;Lunes a Viernes;00:00;23:59
+301;Juan Antonio RÌos;Domingo y Festivos;00:00;23:59
+301;Juan Antonio RÌos;S·bado;00:00;23:59
+301c;AngelmÛ;Lunes a Viernes;05:30;23:50
+301c;AngelmÛ;Domingo y Festivos;07:30;23:50
+301c;AngelmÛ;S·bado;06:30;23:50
 301c;(M) La Cisterna;Lunes a Viernes;05:00;22:45
 301c;(M) La Cisterna;Domingo y Festivos;07:30;22:50
-301c;(M) La Cisterna;S√°bado;06:30;22:52
+301c;(M) La Cisterna;S·bado;06:30;22:52
 301c2;Lo Blanco;Lunes a Viernes;17:30;20:24
 301c2;(M) La Cisterna;Lunes a Viernes;05:00;09:20
-301e;Angelm√≥;Lunes a Viernes;05:30;09:22
-301e;Angelm√≥;Lunes a Viernes;17:30;21:24
+301e;AngelmÛ;Lunes a Viernes;05:30;09:22
+301e;AngelmÛ;Lunes a Viernes;17:30;21:24
 301e;(M) La Moneda;Lunes a Viernes;05:00;09:23
 301e;(M) La Moneda;Lunes a Viernes;17:30;21:20
 302;La Pintana;Domingo y Festivos;05:30;00:45
-302;La Pintana;S√°bado;05:30;00:45
+302;La Pintana;S·bado;05:30;00:45
 302;La Pintana;Lunes a Viernes;05:30;00:45
 302;(M) Santa Ana;Domingo y Festivos;05:30;00:30
 302;(M) Santa Ana;Lunes a Viernes;05:30;00:30
-302;(M) Santa Ana;S√°bado;05:30;00:30
-302e;San Ram√≥n;Lunes a Viernes;17:30;21:15
-302e;San Ram√≥n;Lunes a Viernes;06:00;09:00
+302;(M) Santa Ana;S·bado;05:30;00:30
+302e;San RamÛn;Lunes a Viernes;17:30;21:15
+302e;San RamÛn;Lunes a Viernes;06:00;09:00
 302e;(M) Los Heroes;Lunes a Viernes;17:30;20:18
 302e;(M) Los Heroes;Lunes a Viernes;06:00;08:54
-302N;La Pintana;S√°bado;01:15;05:15
+302N;La Pintana;S·bado;01:15;05:15
 302N;La Pintana;Domingo y Festivos;01:15;05:15
 302N;La Pintana;Lunes a Viernes;01:15;05:15
 302N;Alameda;Domingo y Festivos;01:00;05:00
-302N;Alameda;S√°bado;01:00;05:00
+302N;Alameda;S·bado;01:00;05:00
 302N;Alameda;Lunes a Viernes;01:00;05:15
 303;Plaza Italia;Lunes a Viernes;00:00;23:59
-303;Plaza Italia;S√°bado;00:00;23:59
+303;Plaza Italia;S·bado;00:00;23:59
 303;Plaza Italia;Domingo y Festivos;00:00;23:59
-303;Quilicura;S√°bado;00:00;23:59
+303;Quilicura;S·bado;00:00;23:59
 303;Quilicura;Domingo y Festivos;00:00;23:59
 303;Quilicura;Lunes a Viernes;00:00;23:59
 303e;(M) Santa Ana;Lunes a Viernes;17:30;21:20
@@ -412,19 +412,19 @@
 303e;Quilicura;Lunes a Viernes;17:30;21:24
 307;Plaza Italia;Domingo y Festivos;05:15;00:30
 307;Plaza Italia;Lunes a Viernes;05:00;00:30
-307;Plaza Italia;S√°bado;05:15;00:30
+307;Plaza Italia;S·bado;05:15;00:30
 307;Lo Marcoleta;Domingo y Festivos;05:40;01:10
 307;Lo Marcoleta;Lunes a Viernes;05:40;01:00
-307;Lo Marcoleta;S√°bado;05:40;01:10
+307;Lo Marcoleta;S·bado;05:40;01:10
 307e;Plaza Italia;Lunes a Viernes;05:00;09:24
 307e;Plaza Italia;Lunes a Viernes;17:30;21:22
 307e;Rigoberto Jara;Lunes a Viernes;05:30;09:22
 307e;Rigoberto Jara;Lunes a Viernes;17:30;21:24
 308;Mapocho;Lunes a Viernes;05:00;00:30
 308;Mapocho;Domingo y Festivos;05:30;00:30
-308;Mapocho;S√°bado;05:30;00:30
+308;Mapocho;S·bado;05:30;00:30
 308;Lo Marcoleta;Domingo y Festivos;05:30;00:30
-308;Lo Marcoleta;S√°bado;05:30;00:30
+308;Lo Marcoleta;S·bado;05:30;00:30
 308;Lo Marcoleta;Lunes a Viernes;05:30;00:30
 312e;Mapocho;Lunes a Viernes;06:30;09:15
 312e;Quilicura;Lunes a Viernes;17:30;21:18
@@ -433,9 +433,9 @@
 313e;Quilicura;Lunes a Viernes;06:20;09:15
 313e;Quilicura;Lunes a Viernes;17:30;21:15
 314;Plaza Italia;Lunes a Viernes;05:00;00:30
-314;Plaza Italia;S√°bado;05:15;00:30
+314;Plaza Italia;S·bado;05:15;00:30
 314;Plaza Italia;Domingo y Festivos;05:15;00:30
-314;Lo Marcoleta;S√°bado;05:50;01:10
+314;Lo Marcoleta;S·bado;05:50;01:10
 314;Lo Marcoleta;Lunes a Viernes;05:40;01:10
 314;Lo Marcoleta;Domingo y Festivos;05:50;01:10
 314e;Plaza Italia;Lunes a Viernes;06:30;08:20
@@ -443,145 +443,145 @@
 314e;Lo Marcoleta;Lunes a Viernes;07:30;09:15
 314e;Lo Marcoleta;Lunes a Viernes;17:30;20:18
 315e;Plaza Italia;Domingo y Festivos;05:30;22:45
-315e;Plaza Italia;S√°bado;05:30;22:45
+315e;Plaza Italia;S·bado;05:30;22:45
 315e;Plaza Italia;Lunes a Viernes;05:00;23:45
-315e;Rigoberto Jara;S√°bado;05:45;22:54
+315e;Rigoberto Jara;S·bado;05:45;22:54
 315e;Rigoberto Jara;Domingo y Festivos;05:45;22:45
 315e;Rigoberto Jara;Lunes a Viernes;05:40;23:48
 316e;(M) Cal Y Canto;Lunes a Viernes;18:00;18:30
 316e;San Ignacio;Lunes a Viernes;07:00;07:30
 321;Lo Sierra;Lunes a Viernes;05:30;22:55
-321;Lo Sierra;S√°bado;05:30;22:55
+321;Lo Sierra;S·bado;05:30;22:55
 321;Lo Sierra;Domingo y Festivos;05:45;22:42
-321;(M) Lo Ovalle;S√°bado;05:30;22:43
+321;(M) Lo Ovalle;S·bado;05:30;22:43
 321;(M) Lo Ovalle;Domingo y Festivos;05:45;22:42
 321;(M) Lo Ovalle;Lunes a Viernes;05:30;22:45
 322;Jardin Alto;Lunes a Viernes;05:50;23:40
-322;Jardin Alto;S√°bado;06:10;23:40
+322;Jardin Alto;S·bado;06:10;23:40
 322;Jardin Alto;Domingo y Festivos;06:30;23:40
 322;(M) Bellavista De La Florida;Domingo y Festivos;06:30;23:40
 322;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:40
-322;(M) Bellavista De La Florida;S√°bado;05:50;23:40
-323;La Loma;S√°bado;06:00;23:55
+322;(M) Bellavista De La Florida;S·bado;05:50;23:40
+323;La Loma;S·bado;06:00;23:55
 323;La Loma;Lunes a Viernes;05:45;23:55
 323;La Loma;Domingo y Festivos;07:00;23:55
 323;(M) Bellavista De La Florida;Domingo y Festivos;06:45;23:45
 323;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:46
-323;(M) Bellavista De La Florida;S√°bado;05:45;23:45
-345;Alameda;S√°bado;05:30;00:30
+323;(M) Bellavista De La Florida;S·bado;05:45;23:45
+345;Alameda;S·bado;05:30;00:30
 345;Alameda;Lunes a Viernes;05:30;00:30
 345;Alameda;Domingo y Festivos;05:30;00:30
-345;Lo Espejo;S√°bado;05:30;00:30
+345;Lo Espejo;S·bado;05:30;00:30
 345;Lo Espejo;Domingo y Festivos;05:30;00:30
 345;Lo Espejo;Lunes a Viernes;05:30;00:30
-346N;Alameda;S√°bado;01:15;05:15
+346N;Alameda;S·bado;01:15;05:15
 346N;Alameda;Domingo y Festivos;01:15;05:15
 346N;Alameda;Lunes a Viernes;01:15;05:15
 346N;Lo Espejo;Lunes a Viernes;01:15;05:15
-346N;Lo Espejo;S√°bado;01:15;05:15
+346N;Lo Espejo;S·bado;01:15;05:15
 346N;Lo Espejo;Domingo y Festivos;01:15;05:15
 348;(M) Lo Ovalle;Lunes a Viernes;05:30;23:45
 348;(M) Lo Ovalle;Domingo y Festivos;05:30;23:40
-348;(M) Lo Ovalle;S√°bado;05:30;23:45
+348;(M) Lo Ovalle;S·bado;05:30;23:45
 348;Rinconada;Lunes a Viernes;05:30;23:45
 348;Rinconada;Domingo y Festivos;06:00;23:40
-348;Rinconada;S√°bado;05:45;23:45
+348;Rinconada;S·bado;05:45;23:45
 350;Rinconada;Lunes a Viernes;05:30;23:30
 350;Ciudad Satelite;Lunes a Viernes;05:30;23:30
-385;  MALL F. CENTER;Domingo y Festivos;06:15;00:30
-385;  MALL F. CENTER;S√°bado;06:00;00:30
-385;  MALL F. CENTER;Lunes a Viernes;05:30;00:30
+385;Florida Center;Domingo y Festivos;06:15;00:30
+385;Florida Center;S·bado;06:00;00:30
+385;Florida Center;Lunes a Viernes;05:30;00:30
 385;Villa Francia;Lunes a Viernes;00:30;00:30
-385;Villa Francia;S√°bado;06:15;00:30
+385;Villa Francia;S·bado;06:15;00:30
 385;Villa Francia;Domingo y Festivos;06:30;00:30
-401;HOSPITAL DIPRECA;Lunes a Viernes;05:00;23:56
-401;HOSPITAL DIPRECA;S√°bado;05:00;23:48
-401;HOSPITAL DIPRECA;Domingo y Festivos;05:00;23:56
-401;Maipu;S√°bado;06:00;00:36
+401;Las Condes;Lunes a Viernes;05:00;23:56
+401;Las Condes;S·bado;05:00;23:48
+401;Las Condes;Domingo y Festivos;05:00;23:56
+401;Maipu;S·bado;06:00;00:36
 401;Maipu;Lunes a Viernes;06:00;00:36
 401;Maipu;Domingo y Festivos;06:30;00:48
 401N;Los Dominicos;Domingo y Festivos;00:00;04:46
-401N;Los Dominicos;S√°bado;00:00;04:41
+401N;Los Dominicos;S·bado;00:00;04:41
 401N;Los Dominicos;Lunes a Viernes;00:00;04:41
-401N;Maipu;S√°bado;01:02;05:51
+401N;Maipu;S·bado;01:02;05:51
 401N;Maipu;Domingo y Festivos;01:00;05:45
 401N;Maipu;Lunes a Viernes;01:02;05:51
 402;Mapocho;Domingo y Festivos;05:42;00:10
 402;Mapocho;Lunes a Viernes;05:30;00:10
-402;Mapocho;S√°bado;05:30;00:10
+402;Mapocho;S·bado;05:30;00:10
 402;Pudahuel;Domingo y Festivos;06:02;00:45
 402;Pudahuel;Lunes a Viernes;06:10;00:47
-402;Pudahuel;S√°bado;06:02;00:47
+402;Pudahuel;S·bado;06:02;00:47
 403;La Reina;Lunes a Viernes;05:52;01:24
 403;La Reina;Domingo y Festivos;05:50;01:24
-403;La Reina;S√°bado;05:40;01:24
+403;La Reina;S·bado;05:40;01:24
 403;(M) Santa Ana;Lunes a Viernes;05:15;00:52
 403;(M) Santa Ana;Domingo y Festivos;05:30;00:54
-403;(M) Santa Ana;S√°bado;05:30;00:52
-404;Mapocho;S√°bado;05:30;00:38
+403;(M) Santa Ana;S·bado;05:30;00:52
+404;Mapocho;S·bado;05:30;00:38
 404;Mapocho;Lunes a Viernes;05:30;00:38
 404;Mapocho;Domingo y Festivos;05:30;00:30
 404;El Descanso;Domingo y Festivos;06:00;00:45
 404;El Descanso;Lunes a Viernes;06:00;00:52
-404;El Descanso;S√°bado;06:03;00:52
+404;El Descanso;S·bado;06:03;00:52
 404c;(M) Las Rejas;Lunes a Viernes;06:00;08:55
 404c;(M) Las Rejas;Lunes a Viernes;17:30;19:50
 404c;El Descanso;Lunes a Viernes;07:00;08:21
 404c;El Descanso;Lunes a Viernes;17:30;21:00
 405;Cantagallo;Domingo y Festivos;00:02;23:59
 405;Cantagallo;Lunes a Viernes;00:00;23:59
-405;Cantagallo;S√°bado;00:00;23:59
+405;Cantagallo;S·bado;00:00;23:59
 405;Maipu;Lunes a Viernes;00:00;23:59
-405;Maipu;S√°bado;00:00;23:59
+405;Maipu;S·bado;00:00;23:59
 405;Maipu;Domingo y Festivos;00:02;23:59
 405c;Vitacura;Lunes a Viernes;16:32;19:53
 405c;Vitacura;Lunes a Viernes;06:30;09:26
 405c;Plaza Italia;Lunes a Viernes;16:00;20:50
 405c;Plaza Italia;Lunes a Viernes;07:00;09:37
-406;Cantagallo;S√°bado;05:00;22:53
+406;Cantagallo;S·bado;05:00;22:53
 406;Cantagallo;Lunes a Viernes;05:00;23:50
 406;Pudahuel;Lunes a Viernes;05:57;23:54
-406;Pudahuel;S√°bado;05:45;22:54
+406;Pudahuel;S·bado;05:45;22:54
 406c;Cantagallo;Lunes a Viernes;06:30;10:00
 406c;Cantagallo;Lunes a Viernes;16:30;20:00
-406c;Cantagallo;S√°bado;06:30;22:45
+406c;Cantagallo;S·bado;06:30;22:45
 406c;(M) Escuela Militar;Lunes a Viernes;16:40;20:20
 406c;(M) Escuela Militar;Lunes a Viernes;07:00;09:20
-406c;(M) Escuela Militar;S√°bado;06:53;23:15
-407;HOSPITAL DIPRECA;Domingo y Festivos;05:30;23:48
-407;HOSPITAL DIPRECA;S√°bado;05:05;23:48
-407;HOSPITAL DIPRECA;Lunes a Viernes;05:32;23:48
+406c;(M) Escuela Militar;S·bado;06:53;23:15
+407;Las Condes;Domingo y Festivos;05:30;23:48
+407;Las Condes;S·bado;05:05;23:48
+407;Las Condes;Lunes a Viernes;05:32;23:48
 407;Enea;Lunes a Viernes;06:00;00:30
 407;Enea;Domingo y Festivos;05:48;00:24
-407;Enea;S√°bado;05:50;00:30
+407;Enea;S·bado;05:50;00:30
 408;Mapocho;Lunes a Viernes;05:30;23:45
 408;Mapocho;Domingo y Festivos;05:30;23:40
-408;Mapocho;S√°bado;05:30;23:48
+408;Mapocho;S·bado;05:30;23:48
 408;Renca;Lunes a Viernes;05:49;00:10
 408;Renca;Domingo y Festivos;05:35;00:10
-408;Renca;S√°bado;05:50;00:10
-409;Plaza San Enrique;S√°bado;05:30;00:20
+408;Renca;S·bado;05:50;00:10
+409;Plaza San Enrique;S·bado;05:30;00:20
 409;Plaza San Enrique;Domingo y Festivos;05:30;00:20
 409;Plaza San Enrique;Lunes a Viernes;05:39;00:20
 409;Mapocho;Domingo y Festivos;06:00;00:40
 409;Mapocho;Lunes a Viernes;05:58;00:50
-409;Mapocho;S√°bado;06:15;00:50
+409;Mapocho;S·bado;06:15;00:50
 410;Providencia;Domingo y Festivos;05:30;23:50
 410;Providencia;Lunes a Viernes;05:30;23:48
-410;Providencia;S√°bado;05:30;23:50
+410;Providencia;S·bado;05:30;23:50
 410;Renca;Lunes a Viernes;06:03;00:12
 410;Renca;Domingo y Festivos;06:06;00:12
-410;Renca;S√°bado;05:59;00:12
+410;Renca;S·bado;05:59;00:12
 411;Plaza San Enrique;Lunes a Viernes;05:39;23:50
-411;Plaza San Enrique;S√°bado;05:42;23:48
+411;Plaza San Enrique;S·bado;05:42;23:48
 411;Plaza San Enrique;Domingo y Festivos;05:54;23:38
-411;Providencia;S√°bado;06:00;00:20
+411;Providencia;S·bado;06:00;00:20
 411;Providencia;Lunes a Viernes;06:00;00:20
 411;Providencia;Domingo y Festivos;05:58;00:20
 412;La Reina;Domingo y Festivos;05:30;01:30
-412;La Reina;S√°bado;05:43;01:30
+412;La Reina;S·bado;05:43;01:30
 412;La Reina;Lunes a Viernes;05:30;01:30
-412;(M) San Pablo;S√°bado;04:50;00:48
+412;(M) San Pablo;S·bado;04:50;00:48
 412;(M) San Pablo;Lunes a Viernes;04:50;00:48
 412;(M) San Pablo;Domingo y Festivos;04:50;00:48
 413c;(M) Las Rejas;Lunes a Viernes;06:00;08:50
@@ -597,67 +597,67 @@
 417e;(M) Manquehue;Lunes a Viernes;06:00;09:28
 417e;Maipu;Lunes a Viernes;17:30;21:28
 418;Av. Tobalaba;Domingo y Festivos;05:30;00:20
-418;Av. Tobalaba;S√°bado;05:00;00:20
+418;Av. Tobalaba;S·bado;05:00;00:20
 418;Av. Tobalaba;Lunes a Viernes;05:09;00:20
 418;Enea;Lunes a Viernes;05:52;00:45
-418;Enea;S√°bado;05:58;00:45
+418;Enea;S·bado;05:58;00:45
 418;Enea;Domingo y Festivos;05:45;00:45
 419;Plaza Italia;Lunes a Viernes;05:39;23:48
-419;Plaza Italia;S√°bado;05:30;23:44
+419;Plaza Italia;S·bado;05:30;23:44
 419;Plaza Italia;Domingo y Festivos;05:36;23:44
 419;Villa Los Heroes;Lunes a Viernes;05:58;00:30
 419;Villa Los Heroes;Domingo y Festivos;06:24;00:30
-419;Villa Los Heroes;S√°bado;05:44;00:30
+419;Villa Los Heroes;S·bado;05:44;00:30
 420e;Lo Hermida;Lunes a Viernes;06:00;09:20
 420e;Lo Hermida;Lunes a Viernes;17:30;21:29
 420e;(M) Escuela Militar;Lunes a Viernes;17:30;21:00
 420e;(M) Escuela Militar;Lunes a Viernes;05:30;09:22
 421;San Carlos De Apoquindo;Lunes a Viernes;05:00;23:48
 421;San Carlos De Apoquindo;Domingo y Festivos;05:00;23:48
-421;San Carlos De Apoquindo;S√°bado;05:00;23:48
+421;San Carlos De Apoquindo;S·bado;05:00;23:48
 421;Maipu;Lunes a Viernes;06:00;00:48
 421;Maipu;Domingo y Festivos;06:00;00:48
-421;Maipu;S√°bado;06:00;00:48
+421;Maipu;S·bado;06:00;00:48
 422;La Reina;Domingo y Festivos;07:30;22:45
-422;La Reina;S√°bado;05:30;23:36
+422;La Reina;S·bado;05:30;23:36
 422;La Reina;Lunes a Viernes;05:30;23:30
 422;Pobl. Teniente Merino;Domingo y Festivos;07:30;23:15
 422;Pobl. Teniente Merino;Lunes a Viernes;06:30;23:30
-422;Pobl. Teniente Merino;S√°bado;05:30;23:42
+422;Pobl. Teniente Merino;S·bado;05:30;23:42
 423;Plaza Italia;Lunes a Viernes;05:30;23:48
-423;Plaza Italia;S√°bado;06:08;23:48
+423;Plaza Italia;S·bado;06:08;23:48
 423;Plaza Italia;Domingo y Festivos;06:30;23:43
 423;Segunda Transversal;Domingo y Festivos;06:54;23:43
 423;Segunda Transversal;Lunes a Viernes;06:06;23:58
-423;Segunda Transversal;S√°bado;06:10;23:48
+423;Segunda Transversal;S·bado;06:10;23:48
 424;(M) U. De Chile;Domingo y Festivos;05:30;00:12
 424;(M) U. De Chile;Lunes a Viernes;05:30;00:12
-424;(M) U. De Chile;S√°bado;05:30;00:12
+424;(M) U. De Chile;S·bado;05:30;00:12
 424;Pudahuel Sur;Domingo y Festivos;05:58;00:45
 424;Pudahuel Sur;Lunes a Viernes;06:00;00:45
-424;Pudahuel Sur;S√°bado;05:57;00:45
+424;Pudahuel Sur;S·bado;05:57;00:45
 425;Lo Hermida;Domingo y Festivos;00:00;23:59
-425;Lo Hermida;S√°bado;00:00;23:59
+425;Lo Hermida;S·bado;00:00;23:59
 425;Lo Hermida;Lunes a Viernes;00:00;23:59
-425;Rigoberto Jara;S√°bado;00:00;23:59
+425;Rigoberto Jara;S·bado;00:00;23:59
 425;Rigoberto Jara;Domingo y Festivos;00:00;23:59
 425;Rigoberto Jara;Lunes a Viernes;00:00;23:59
 426;La Dehesa;Domingo y Festivos;00:00;23:59
 426;La Dehesa;Lunes a Viernes;00:00;23:59
-426;La Dehesa;S√°bado;00:00;23:59
-426;Pudahuel;S√°bado;00:00;23:59
+426;La Dehesa;S·bado;00:00;23:59
+426;Pudahuel;S·bado;00:00;23:59
 426;Pudahuel;Domingo y Festivos;00:00;23:59
 426;Pudahuel;Lunes a Viernes;00:00;23:59
 427;Vital Apoquindo;Lunes a Viernes;04:40;00:30
-427;Vital Apoquindo;S√°bado;04:50;00:30
+427;Vital Apoquindo;S·bado;04:50;00:30
 427;Vital Apoquindo;Domingo y Festivos;05:30;00:30
 427;Pudahuel;Lunes a Viernes;05:51;00:45
-427;Pudahuel;S√°bado;05:55;00:45
+427;Pudahuel;S·bado;05:55;00:45
 427;Pudahuel;Domingo y Festivos;06:42;00:45
-428;(M) La Cisterna;S√°bado;00:00;23:59
+428;(M) La Cisterna;S·bado;00:00;23:59
 428;(M) La Cisterna;Domingo y Festivos;00:00;23:59
 428;(M) La Cisterna;Lunes a Viernes;00:00;23:59
-428;Quilicura;S√°bado;00:00;23:59
+428;Quilicura;S·bado;00:00;23:59
 428;Quilicura;Lunes a Viernes;00:00;23:59
 428;Quilicura;Domingo y Festivos;00:00;23:59
 428c;(M) La Cisterna;Lunes a Viernes;16:30;21:24
@@ -668,12 +668,12 @@
 428e;(M) La Cisterna;Lunes a Viernes;05:30;09:27
 428e;Quilicura;Lunes a Viernes;17:30;21:26
 428e;Quilicura;Lunes a Viernes;05:30;09:28
-429;Lo Hermida;S√°bado;05:30;23:42
+429;Lo Hermida;S·bado;05:30;23:42
 429;Lo Hermida;Domingo y Festivos;05:30;23:45
 429;Lo Hermida;Lunes a Viernes;05:00;23:42
 429;Lo Echevers;Lunes a Viernes;05:00;23:45
 429;Lo Echevers;Domingo y Festivos;05:30;23:45
-429;Lo Echevers;S√°bado;05:30;23:42
+429;Lo Echevers;S·bado;05:30;23:42
 429c;(M) Tobalaba;Lunes a Viernes;16:23;19:55
 429c;(M) Tobalaba;Lunes a Viernes;06:30;09:20
 429c;Quilicura;Lunes a Viernes;17:30;20:56
@@ -685,859 +685,859 @@
 431c;Nueva San Martin;Lunes a Viernes;07:00;08:53
 431c;Nueva San Martin;Lunes a Viernes;17:30;20:24
 431v;(M) Plaza De Maipu;Lunes a Viernes;06:30;08:20
-431v;Nueva San Mart√≠n;Lunes a Viernes;17:30;20:48
+431v;Nueva San MartÌn;Lunes a Viernes;17:30;20:48
 435;Vitacura;Domingo y Festivos;05:30;23:48
 435;Vitacura;Lunes a Viernes;05:30;23:48
-435;Vitacura;S√°bado;05:30;23:48
-435;Quilicura;S√°bado;06:20;23:50
+435;Vitacura;S·bado;05:30;23:48
+435;Quilicura;S·bado;06:20;23:50
 435;Quilicura;Domingo y Festivos;06:20;23:50
 435;Quilicura;Lunes a Viernes;06:30;23:58
-501;VITAL APOQUINDO;S√°bado;06:00;23:36
-501;VITAL APOQUINDO;Domingo y Festivos;05:56;23:37
-501;VITAL APOQUINDO;Lunes a Viernes;05:58;23:37
+501;Fleming;S·bado;06:00;23:36
+501;Fleming;Domingo y Festivos;05:56;23:37
+501;Fleming;Lunes a Viernes;05:58;23:37
 501;(M) Parque Bustamante;Lunes a Viernes;05:30;22:59
-501;(M) Parque Bustamante;S√°bado;05:35;22:58
+501;(M) Parque Bustamante;S·bado;05:35;22:58
 501;(M) Parque Bustamante;Domingo y Festivos;05:30;22:59
-502;Cantagallo;S√°bado;05:00;23:59
+502;Cantagallo;S·bado;05:00;23:59
 502;Cantagallo;Domingo y Festivos;05:45;23:59
 502;Cantagallo;Lunes a Viernes;05:00;23:59
 502;Cerro Navia;Domingo y Festivos;06:47;00:42
-502;Cerro Navia;S√°bado;05:47;00:40
+502;Cerro Navia;S·bado;05:47;00:40
 502;Cerro Navia;Lunes a Viernes;06:00;00:40
 502c;Santiago;Lunes a Viernes;05:30;08:11
 502c;Cerro Navia;Lunes a Viernes;17:30;21:06
-503;Vital Apoquindo;S√°bado;05:00;23:48
+503;Vital Apoquindo;S·bado;05:00;23:48
 503;Vital Apoquindo;Lunes a Viernes;05:00;23:52
 503;Vital Apoquindo;Domingo y Festivos;05:30;23:52
 503;Av. La Estrella;Lunes a Viernes;05:30;00:45
 503;Av. La Estrella;Domingo y Festivos;05:30;00:45
-503;Av. La Estrella;S√°bado;05:30;00:45
-504;HOSPITAL DIPRECA;S√°bado;05:30;23:30
+503;Av. La Estrella;S·bado;05:30;00:45
+504;HOSPITAL DIPRECA;S·bado;05:30;23:30
 504;HOSPITAL DIPRECA;Domingo y Festivos;05:30;23:30
 504;HOSPITAL DIPRECA;Lunes a Viernes;05:30;23:40
-504;EL TRANQUE;S√°bado;05:30;23:45
+504;EL TRANQUE;S·bado;05:30;23:45
 504;EL TRANQUE;Lunes a Viernes;05:30;23:40
 504;EL TRANQUE;Domingo y Festivos;05:30;23:40
-505;Pe√±alolen;Domingo y Festivos;05:15;23:59
-505;Pe√±alolen;Lunes a Viernes;05:10;23:59
-505;Pe√±alolen;S√°bado;05:15;23:59
-505;Cerro Navia;S√°bado;05:15;23:59
+505;PeÒalolÈn;Domingo y Festivos;05:15;23:59
+505;PeÒalolÈn;Lunes a Viernes;05:10;23:59
+505;PeÒalolÈn;S·bado;05:15;23:59
+505;Cerro Navia;S·bado;05:15;23:59
 505;Cerro Navia;Lunes a Viernes;05:10;23:59
 505;Cerro Navia;Domingo y Festivos;05:15;23:59
-506;Pe√±alolen;S√°bado;00:00;23:59
-506;Pe√±alolen;Domingo y Festivos;00:00;23:59
-506;Pe√±alolen;Lunes a Viernes;00:00;23:59
-506;Maipu;S√°bado;00:00;23:59
+506;PeÒalolen;S·bado;00:00;23:59
+506;PeÒalolen;Domingo y Festivos;00:00;23:59
+506;PeÒalolen;Lunes a Viernes;00:00;23:59
+506;Maipu;S·bado;00:00;23:59
 506;Maipu;Lunes a Viernes;00:00;23:59
 506;Maipu;Domingo y Festivos;00:00;23:59
-506e;Pe√±alolen;Lunes a Viernes;17:30;21:25
-506e;Pe√±alolen;Lunes a Viernes;06:30;09:19
+506e;PeÒalolen;Lunes a Viernes;17:30;21:25
+506e;PeÒalolen;Lunes a Viernes;06:30;09:19
 506e;Maipu;Lunes a Viernes;06:30;09:18
 506e;Maipu;Lunes a Viernes;17:30;21:17
-506v;Pe√±alolen;Lunes a Viernes;05:15;23:45
-506v;Pe√±alolen;Domingo y Festivos;05:30;23:30
-506v;Pe√±alolen;S√°bado;05:30;23:30
+506v;PeÒalolen;Lunes a Viernes;05:15;23:45
+506v;PeÒalolen;Domingo y Festivos;05:30;23:30
+506v;PeÒalolen;S·bado;05:30;23:30
 506v;Villa El Abrazo;Lunes a Viernes;05:30;23:45
-506v;Villa El Abrazo;S√°bado;05:33;23:30
+506v;Villa El Abrazo;S·bado;05:33;23:30
 506v;Villa El Abrazo;Domingo y Festivos;05:33;23:30
 507;Av. Grecia;Lunes a Viernes;05:30;00:30
-507;Av. Grecia;S√°bado;05:30;00:30
+507;Av. Grecia;S·bado;05:30;00:30
 507;Av. Grecia;Domingo y Festivos;05:30;00:30
 507;Enea;Domingo y Festivos;05:30;00:30
-507;Enea;S√°bado;05:30;00:30
+507;Enea;S·bado;05:30;00:30
 507;Enea;Lunes a Viernes;05:30;00:30
-507c;Pe√±alolen;Lunes a Viernes;16:48;20:55
-507c;Pe√±alolen;Lunes a Viernes;06:31;10:03
+507c;PeÒalolen;Lunes a Viernes;16:48;20:55
+507c;PeÒalolen;Lunes a Viernes;06:31;10:03
 507c;(M) Parque O'higgins;Lunes a Viernes;16:00;20:10
 507c;(M) Parque O'higgins;Lunes a Viernes;05:56;09:20
 508;AV. LAS TORRES;Domingo y Festivos;00:00;23:59
 508;AV. LAS TORRES;Lunes a Viernes;00:00;23:59
-508;AV. LAS TORRES;S√°bado;00:00;23:59
+508;AV. LAS TORRES;S·bado;00:00;23:59
 508;AV. MAPOCHO;Domingo y Festivos;00:00;23:59
-508;AV. MAPOCHO;S√°bado;00:00;23:59
+508;AV. MAPOCHO;S·bado;00:00;23:59
 508;AV. MAPOCHO;Lunes a Viernes;00:00;23:59
 509;Mapocho;Lunes a Viernes;05:00;23:30
-509;Mapocho;S√°bado;05:15;23:30
+509;Mapocho;S·bado;05:15;23:30
 509;Mapocho;Domingo y Festivos;05:15;23:30
 509;Maipu;Domingo y Festivos;06:07;00:35
 509;Maipu;Lunes a Viernes;05:55;00:30
-509;Maipu;S√°bado;06:08;00:30
-510;Rio Claro;S√°bado;05:30;23:59
+509;Maipu;S·bado;06:08;00:30
+510;Rio Claro;S·bado;05:30;23:59
 510;Rio Claro;Domingo y Festivos;05:35;23:59
 510;Rio Claro;Lunes a Viernes;05:30;23:59
-510;Pudahuel Sur;S√°bado;05:30;23:59
+510;Pudahuel Sur;S·bado;05:30;23:59
 510;Pudahuel Sur;Domingo y Festivos;05:30;23:59
 510;Pudahuel Sur;Lunes a Viernes;05:30;23:59
-511;Pe√±alolen;Domingo y Festivos;05:31;00:30
-511;Pe√±alolen;Lunes a Viernes;05:31;00:30
-511;Pe√±alolen;S√°bado;05:31;00:35
-511;Cerro Navia;S√°bado;05:31;00:30
+511;PeÒalolen;Domingo y Festivos;05:31;00:30
+511;PeÒalolen;Lunes a Viernes;05:31;00:30
+511;PeÒalolen;S·bado;05:31;00:35
+511;Cerro Navia;S·bado;05:31;00:30
 511;Cerro Navia;Lunes a Viernes;05:31;00:30
 511;Cerro Navia;Domingo y Festivos;05:31;00:30
 513;Jose Arrieta;Domingo y Festivos;00:00;23:59
-513;Jose Arrieta;S√°bado;00:00;23:59
+513;Jose Arrieta;S·bado;00:00;23:59
 513;Jose Arrieta;Lunes a Viernes;00:00;23:59
-513;El Montijo;S√°bado;00:00;23:59
+513;El Montijo;S·bado;00:00;23:59
 513;El Montijo;Domingo y Festivos;00:00;23:59
 513;El Montijo;Lunes a Viernes;00:00;23:59
 514;San Luis De Macul;Lunes a Viernes;05:30;23:40
-514;San Luis De Macul;S√°bado;05:30;23:40
+514;San Luis De Macul;S·bado;05:30;23:40
 514;San Luis De Macul;Domingo y Festivos;05:30;23:40
-514;Enea;S√°bado;05:30;23:40
+514;Enea;S·bado;05:30;23:40
 514;Enea;Lunes a Viernes;05:30;23:40
 514;Enea;Domingo y Festivos;05:30;23:40
 514c;San Luis De Macul;Lunes a Viernes;16:30;21:15
 514c;(M) Salvador;Lunes a Viernes;06:02;09:12
 515N;San Luis De Macul;Lunes a Viernes;00:00;05:13
-515N;San Luis De Macul;S√°bado;00:00;05:17
+515N;San Luis De Macul;S·bado;00:00;05:17
 515N;San Luis De Macul;Domingo y Festivos;00:00;05:19
-515N;Centro;S√°bado;00:06;05:10
+515N;Centro;S·bado;00:06;05:10
 515N;Centro;Domingo y Festivos;00:00;05:10
 515N;Centro;Lunes a Viernes;00:06;05:07
 516;Las Parcelas;Domingo y Festivos;00:00;23:59
-516;Las Parcelas;S√°bado;00:00;23:59
+516;Las Parcelas;S·bado;00:00;23:59
 516;Las Parcelas;Lunes a Viernes;00:00;23:59
 516;Pudahuel Sur;Domingo y Festivos;00:00;23:59
-516;Pudahuel Sur;S√°bado;00:00;23:59
+516;Pudahuel Sur;S·bado;00:00;23:59
 516;Pudahuel Sur;Lunes a Viernes;00:00;23:59
-517;Pe√±alolen;Domingo y Festivos;06:50;22:50
-517;Pe√±alolen;S√°bado;06:00;22:50
-517;Pe√±alolen;Lunes a Viernes;05:50;22:50
+517;PeÒalolÈn;Domingo y Festivos;06:50;22:50
+517;PeÒalolÈn;S·bado;06:00;22:50
+517;PeÒalolÈn;Lunes a Viernes;05:50;22:50
 517;J. J. Perez;Lunes a Viernes;05:50;22:50
-517;J. J. Perez;S√°bado;06:00;22:50
+517;J. J. Perez;S·bado;06:00;22:50
 517;J. J. Perez;Domingo y Festivos;06:50;22:50
-518;Bilbao;S√°bado;00:00;23:59
+518;Bilbao;S·bado;00:00;23:59
 518;Bilbao;Domingo y Festivos;00:00;23:59
 518;Bilbao;Lunes a Viernes;00:00;23:59
 518;J.J. Perez;Lunes a Viernes;00:00;23:59
-518;J.J. Perez;S√°bado;00:00;23:59
+518;J.J. Perez;S·bado;00:00;23:59
 518;J.J. Perez;Domingo y Festivos;00:00;23:59
 519e;Av.Grecia;Lunes a Viernes;06:40;09:59
 519e;Alameda;Lunes a Viernes;06:00;09:13
 541N;COLON;Lunes a Viernes;00:15;05:15
 541N;COLON;Domingo y Festivos;00:15;05:15
-541N;COLON;S√°bado;00:15;05:15
+541N;COLON;S·bado;00:15;05:15
 541N;EL TRANQUE;Domingo y Festivos;00:00;05:00
 541N;EL TRANQUE;Lunes a Viernes;00:00;05:00
-541N;EL TRANQUE;S√°bado;00:00;05:00
+541N;EL TRANQUE;S·bado;00:00;05:00
 B01;Huamachuco;Domingo y Festivos;05:50;00:40
-B01;Huamachuco;S√°bado;05:50;00:30
+B01;Huamachuco;S·bado;05:50;00:30
 B01;Huamachuco;Lunes a Viernes;05:50;00:40
 B01;El Salto;Domingo y Festivos;05:30;00:40
 B01;El Salto;Lunes a Viernes;05:30;00:40
-B01;El Salto;S√°bado;05:30;00:30
-B02;Estaci√≥n Mapocho;S√°bado;05:30;00:40
-B02;Estaci√≥n Mapocho;Domingo y Festivos;05:30;00:40
-B02;Estaci√≥n Mapocho;Lunes a Viernes;05:30;00:40
+B01;El Salto;S·bado;05:30;00:30
+B02;EstaciÛn Mapocho;S·bado;05:30;00:40
+B02;EstaciÛn Mapocho;Domingo y Festivos;05:30;00:40
+B02;EstaciÛn Mapocho;Lunes a Viernes;05:30;00:40
 B02;Camino Punta Mocha;Domingo y Festivos;05:30;00:40
-B02;Camino Punta Mocha;S√°bado;05:30;00:40
+B02;Camino Punta Mocha;S·bado;05:30;00:40
 B02;Camino Punta Mocha;Lunes a Viernes;05:30;00:40
-B02n;Plaza Italia;S√°bado;01:00;05:00
+B02n;Plaza Italia;S·bado;01:00;05:00
 B02n;Plaza Italia;Domingo y Festivos;01:00;05:00
 B02n;Plaza Italia;Lunes a Viernes;01:00;05:00
 B02n;Huechuraba;Domingo y Festivos;01:05;05:05
 B02n;Huechuraba;Lunes a Viernes;01:05;05:05
-B02n;Huechuraba;S√°bado;01:05;05:05
+B02n;Huechuraba;S·bado;01:05;05:05
 B03;(M) Cerro Blanco;Lunes a Viernes;05:00;00:40
-B03;(M) Cerro Blanco;S√°bado;05:30;00:40
+B03;(M) Cerro Blanco;S·bado;05:30;00:40
 B03;(M) Cerro Blanco;Domingo y Festivos;05:30;00:40
 B03;Miraflores;Domingo y Festivos;05:30;00:40
 B03;Miraflores;Lunes a Viernes;05:00;00:40
-B03;Miraflores;S√°bado;05:30;00:40
+B03;Miraflores;S·bado;05:30;00:40
 B04;Mapocho;Lunes a Viernes;05:30;23:40
 B04;Mapocho;Domingo y Festivos;05:30;23:45
-B04;Mapocho;S√°bado;05:30;23:45
+B04;Mapocho;S·bado;05:30;23:45
 B04;El Cortijo;Domingo y Festivos;05:30;23:45
-B04;El Cortijo;S√°bado;05:30;23:45
+B04;El Cortijo;S·bado;05:30;23:45
 B04;El Cortijo;Lunes a Viernes;05:30;23:40
 B04v;(M) Cerro Blanco;Domingo y Festivos;05:30;23:30
-B04v;(M) Cerro Blanco;S√°bado;05:30;23:30
+B04v;(M) Cerro Blanco;S·bado;05:30;23:30
 B04v;(M) Cerro Blanco;Lunes a Viernes;05:30;23:40
-B04v;El Cortijo;S√°bado;05:30;23:30
+B04v;El Cortijo;S·bado;05:30;23:30
 B04v;El Cortijo;Domingo y Festivos;05:30;23:30
 B04v;El Cortijo;Lunes a Viernes;05:30;23:40
-B05;Ciudad Empresarial;S√°bado;05:30;23:30
+B05;Ciudad Empresarial;S·bado;05:30;23:30
 B05;Ciudad Empresarial;Domingo y Festivos;05:30;23:30
 B05;Ciudad Empresarial;Lunes a Viernes;05:30;23:40
 B05;Barrio San Ignacio;Domingo y Festivos;05:30;23:30
-B05;Barrio San Ignacio;S√°bado;05:30;23:30
+B05;Barrio San Ignacio;S·bado;05:30;23:30
 B05;Barrio San Ignacio;Lunes a Viernes;05:30;23:40
 B06;Santa Laura;Lunes a Viernes;05:30;00:30
 B06;Santa Laura;Domingo y Festivos;05:30;00:30
-B06;Santa Laura;S√°bado;05:30;00:30
+B06;Santa Laura;S·bado;05:30;00:30
 B06;(M) Zapadores;Lunes a Viernes;05:30;00:30
 B06;(M) Zapadores;Domingo y Festivos;05:30;00:30
-B06;(M) Zapadores;S√°bado;05:30;00:30
-B07;Parque Industrial;S√°bado;05:30;23:45
+B06;(M) Zapadores;S·bado;05:30;00:30
+B07;Parque Industrial;S·bado;05:30;23:45
 B07;Parque Industrial;Lunes a Viernes;05:30;23:45
 B07;Parque Industrial;Domingo y Festivos;05:30;23:30
-B07;Santa Luisa;S√°bado;05:30;23:45
+B07;Santa Luisa;S·bado;05:30;23:45
 B07;Santa Luisa;Lunes a Viernes;05:30;23:45
 B07;Santa Luisa;Domingo y Festivos;05:30;23:30
 B08;Mall Plaza Norte;Domingo y Festivos;05:30;23:30
 B08;Mall Plaza Norte;Lunes a Viernes;05:30;23:00
-B08;Mall Plaza Norte;S√°bado;05:30;23:30
-B08;Lo Marcoleta;S√°bado;05:30;23:30
+B08;Mall Plaza Norte;S·bado;05:30;23:30
+B08;Lo Marcoleta;S·bado;05:30;23:30
 B08;Lo Marcoleta;Lunes a Viernes;05:30;23:59
 B08;Lo Marcoleta;Domingo y Festivos;05:30;00:00
-B09;Hospital Felix Bulnes;S√°bado;05:30;00:40
+B09;Hospital Felix Bulnes;S·bado;05:30;00:40
 B09;Hospital Felix Bulnes;Domingo y Festivos;05:30;00:30
 B09;Hospital Felix Bulnes;Lunes a Viernes;05:30;00:30
 B09;Lo Boza;Lunes a Viernes;05:30;00:48
-B09;Lo Boza;S√°bado;05:30;00:48
+B09;Lo Boza;S·bado;05:30;00:48
 B09;Lo Boza;Domingo y Festivos;05:30;00:45
 B10;(M) Cerro Blanco;Domingo y Festivos;05:30;23:45
 B10;(M) Cerro Blanco;Lunes a Viernes;05:30;23:45
-B10;(M) Cerro Blanco;S√°bado;05:30;23:45
+B10;(M) Cerro Blanco;S·bado;05:30;23:45
 B10;Villa Los Libertadores;Domingo y Festivos;05:30;23:45
 B10;Villa Los Libertadores;Lunes a Viernes;05:30;23:45
-B10;Villa Los Libertadores;S√°bado;05:30;23:45
-B11;Lo Marcoleta;S√°bado;05:30;23:45
+B10;Villa Los Libertadores;S·bado;05:30;23:45
+B11;Lo Marcoleta;S·bado;05:30;23:45
 B11;Lo Marcoleta;Domingo y Festivos;05:30;23:40
 B11;Lo Marcoleta;Lunes a Viernes;05:30;23:40
 B11;El Salto;Lunes a Viernes;05:30;23:00
 B11;El Salto;Domingo y Festivos;05:30;23:00
-B11;El Salto;S√°bado;05:30;23:00
-B12;Lo Marcoleta;S√°bado;05:30;00:30
+B11;El Salto;S·bado;05:30;23:00
+B12;Lo Marcoleta;S·bado;05:30;00:30
 B12;Lo Marcoleta;Lunes a Viernes;05:30;00:30
 B12;Lo Marcoleta;Domingo y Festivos;05:30;00:30
-B12;(M) Zapadores;S√°bado;05:30;00:30
+B12;(M) Zapadores;S·bado;05:30;00:30
 B12;(M) Zapadores;Lunes a Viernes;05:30;00:30
 B12;(M) Zapadores;Domingo y Festivos;05:30;00:30
 B13;Lo Marcoleta;Lunes a Viernes;05:30;00:45
-B13;Lo Marcoleta;S√°bado;05:30;00:45
+B13;Lo Marcoleta;S·bado;05:30;00:45
 B13;Lo Marcoleta;Domingo y Festivos;05:30;00:45
-B13;(M) Vespucio Norte;S√°bado;05:30;00:30
+B13;(M) Vespucio Norte;S·bado;05:30;00:30
 B13;(M) Vespucio Norte;Domingo y Festivos;05:30;00:30
 B13;(M) Vespucio Norte;Lunes a Viernes;05:30;00:30
 B14;Mapocho;Lunes a Viernes;05:30;00:00
 B14;Mapocho;Domingo y Festivos;05:30;00:00
-B14;Mapocho;S√°bado;05:30;00:00
+B14;Mapocho;S·bado;05:30;00:00
 B14;El Salto;Domingo y Festivos;05:30;00:00
-B14;El Salto;S√°bado;05:30;00:00
+B14;El Salto;S·bado;05:30;00:00
 B14;El Salto;Lunes a Viernes;05:30;00:00
-B15;Mapocho;S√°bado;05:30;23:40
+B15;Mapocho;S·bado;05:30;23:40
 B15;Mapocho;Domingo y Festivos;05:30;23:30
 B15;Mapocho;Lunes a Viernes;05:30;23:30
-B15;Arzobispo Valdivieso;S√°bado;05:30;23:40
+B15;Arzobispo Valdivieso;S·bado;05:30;23:40
 B15;Arzobispo Valdivieso;Domingo y Festivos;05:30;23:30
 B15;Arzobispo Valdivieso;Lunes a Viernes;05:30;23:30
 B16;(M) Vespucio Norte;Domingo y Festivos;05:30;23:45
-B16;(M) Vespucio Norte;S√°bado;05:30;23:45
+B16;(M) Vespucio Norte;S·bado;05:30;23:45
 B16;(M) Vespucio Norte;Lunes a Viernes;05:30;23:48
 B16;El Carmen;Domingo y Festivos;05:30;23:45
 B16;El Carmen;Lunes a Viernes;05:30;23:48
-B16;El Carmen;S√°bado;05:30;23:45
-B17;Av. Arzobispo Valdivieso;S√°bado;05:30;00:00
+B16;El Carmen;S·bado;05:30;23:45
+B17;Av. Arzobispo Valdivieso;S·bado;05:30;00:00
 B17;Av. Arzobispo Valdivieso;Domingo y Festivos;05:30;00:00
 B17;Av. Arzobispo Valdivieso;Lunes a Viernes;05:30;00:00
 B17;Huamachuco;Lunes a Viernes;05:30;00:00
 B17;Huamachuco;Domingo y Festivos;05:30;00:00
-B17;Huamachuco;S√°bado;05:30;00:00
-B18;(M) Vespucio Norte;S√°bado;05:30;00:00
+B17;Huamachuco;S·bado;05:30;00:00
+B18;(M) Vespucio Norte;S·bado;05:30;00:00
 B18;(M) Vespucio Norte;Lunes a Viernes;05:30;00:00
 B18;(M) Vespucio Norte;Domingo y Festivos;05:30;00:00
-B18;Villa Pucara;S√°bado;05:30;00:00
+B18;Villa Pucara;S·bado;05:30;00:00
 B18;Villa Pucara;Lunes a Viernes;05:30;00:00
 B18;Villa Pucara;Domingo y Festivos;05:30;00:00
 B18e;(M) Vespucio Norte;Lunes a Viernes;17:30;20:25
 B18e;(M) Vespucio Norte;Lunes a Viernes;06:30;08:18
 B18e;Villa Pucara;Lunes a Viernes;17:30;20:25
 B18e;Villa Pucara;Lunes a Viernes;06:30;08:18
-B19;EL ROSAL;S√°bado;05:30;00:00
+B19;EL ROSAL;S·bado;05:30;00:00
 B19;EL ROSAL;Lunes a Viernes;05:30;00:00
 B19;EL ROSAL;Domingo y Festivos;05:30;00:00
-B19;JUAN AGUIRRE;S√°bado;05:30;00:00
+B19;JUAN AGUIRRE;S·bado;05:30;00:00
 B19;JUAN AGUIRRE;Lunes a Viernes;05:30;00:00
 B19;JUAN AGUIRRE;Domingo y Festivos;05:30;00:00
 B20;Mapocho;Domingo y Festivos;05:30;00:30
 B20;Mapocho;Lunes a Viernes;05:00;00:30
-B20;Mapocho;S√°bado;05:30;00:30
+B20;Mapocho;S·bado;05:30;00:30
 B20;Miraflores;Domingo y Festivos;05:30;00:30
 B20;Miraflores;Lunes a Viernes;05:00;00:30
-B20;Miraflores;S√°bado;05:30;00:30
+B20;Miraflores;S·bado;05:30;00:30
 B21;Lo Marcoleta;Lunes a Viernes;05:30;00:00
 B21;Lo Marcoleta;Domingo y Festivos;05:30;00:00
-B21;Lo Marcoleta;S√°bado;05:30;00:00
+B21;Lo Marcoleta;S·bado;05:30;00:00
 B21;Plaza Chacabuco;Lunes a Viernes;05:30;00:00
-B21;Plaza Chacabuco;S√°bado;05:30;00:00
+B21;Plaza Chacabuco;S·bado;05:30;00:00
 B21;Plaza Chacabuco;Domingo y Festivos;05:30;00:00
 B22;Urmeneta;Lunes a Viernes;05:30;23:40
 B22;Urmeneta;Domingo y Festivos;05:30;23:00
-B22;Urmeneta;S√°bado;05:30;23:40
+B22;Urmeneta;S·bado;05:30;23:40
 B22;Palacio Riesco;Domingo y Festivos;05:30;23:00
-B22;Palacio Riesco;S√°bado;05:30;23:40
+B22;Palacio Riesco;S·bado;05:30;23:40
 B22;Palacio Riesco;Lunes a Viernes;05:30;23:40
 B23;Mapocho;Domingo y Festivos;05:30;23:30
 B23;Mapocho;Lunes a Viernes;05:30;23:00
-B23;Mapocho;S√°bado;05:30;23:00
-B23;Reina Mar√≠a;Domingo y Festivos;05:30;23:00
-B23;Reina Mar√≠a;S√°bado;05:30;23:30
-B23;Reina Mar√≠a;Lunes a Viernes;05:30;23:30
-B24;Mapocho;S√°bado;05:30;23:40
+B23;Mapocho;S·bado;05:30;23:00
+B23;Reina MarÌa;Domingo y Festivos;05:30;23:00
+B23;Reina MarÌa;S·bado;05:30;23:30
+B23;Reina MarÌa;Lunes a Viernes;05:30;23:30
+B24;Mapocho;S·bado;05:30;23:40
 B24;Mapocho;Lunes a Viernes;05:30;23:40
 B24;Mapocho;Domingo y Festivos;05:30;23:40
 B24;Huamachuco;Domingo y Festivos;05:30;23:40
 B24;Huamachuco;Lunes a Viernes;05:30;23:41
-B24;Huamachuco;S√°bado;05:30;23:40
-B25;(M) Cerro Blanco;S√°bado;05:30;23:00
+B24;Huamachuco;S·bado;05:30;23:40
+B25;(M) Cerro Blanco;S·bado;05:30;23:00
 B25;(M) Cerro Blanco;Domingo y Festivos;05:30;23:00
 B25;(M) Cerro Blanco;Lunes a Viernes;05:30;23:40
 B25;(M) Vespucio Norte;Domingo y Festivos;05:30;23:15
-B25;(M) Vespucio Norte;S√°bado;05:30;23:15
+B25;(M) Vespucio Norte;S·bado;05:30;23:15
 B25;(M) Vespucio Norte;Lunes a Viernes;05:30;23:40
-B26;(M) Estacion Central;S√°bado;05:30;00:00
+B26;(M) Estacion Central;S·bado;05:30;00:00
 B26;(M) Estacion Central;Lunes a Viernes;05:30;00:00
 B26;(M) Estacion Central;Domingo y Festivos;05:30;00:00
 B26;El Cortijo;Domingo y Festivos;05:30;00:00
 B26;El Cortijo;Lunes a Viernes;05:30;00:00
-B26;El Cortijo;S√°bado;05:30;00:00
+B26;El Cortijo;S·bado;05:30;00:00
 B27;(M) SALVADOR;Lunes a Viernes;05:30;23:45
-B27;(M) SALVADOR;S√°bado;05:30;23:40
+B27;(M) SALVADOR;S·bado;05:30;23:40
 B27;(M) SALVADOR;Domingo y Festivos;05:30;23:40
-B27;(M) VESPUCIO NORTE;S√°bado;05:30;23:45
+B27;(M) VESPUCIO NORTE;S·bado;05:30;23:45
 B27;(M) VESPUCIO NORTE;Lunes a Viernes;05:30;23:45
 B27;(M) VESPUCIO NORTE;Domingo y Festivos;05:30;23:45
 B28;(M) Quinta Normal;Domingo y Festivos;05:30;00:30
-B28;(M) Quinta Normal;S√°bado;05:30;00:30
+B28;(M) Quinta Normal;S·bado;05:30;00:30
 B28;(M) Quinta Normal;Lunes a Viernes;05:30;00:30
 B28;Huamachuco;Lunes a Viernes;05:30;00:30
-B28;Huamachuco;S√°bado;05:30;00:30
+B28;Huamachuco;S·bado;05:30;00:30
 B28;Huamachuco;Domingo y Festivos;05:30;00:30
 B29;(M) Santa Ana;Lunes a Viernes;06:30;08:18
 B29;(M) Santa Ana;Lunes a Viernes;17:30;20:25
 B29;Renca;Lunes a Viernes;06:30;08:16
 B29;Renca;Lunes a Viernes;17:30;20:25
 B30n;Centro;Lunes a Viernes;01:00;04:30
-B30n;Centro;S√°bado;01:00;05:00
+B30n;Centro;S·bado;01:00;05:00
 B30n;Centro;Domingo y Festivos;01:00;05:00
 B30n;Renca;Domingo y Festivos;01:00;05:00
-B30n;Renca;S√°bado;01:00;05:00
+B30n;Renca;S·bado;01:00;05:00
 B30n;Renca;Lunes a Viernes;01:00;04:30
 B31n;Quilicura;Domingo y Festivos;01:00;05:00
-B31n;Quilicura;S√°bado;01:00;05:00
+B31n;Quilicura;S·bado;01:00;05:00
 B31n;Quilicura;Lunes a Viernes;01:00;05:00
 B31n;Alameda;Domingo y Festivos;01:00;05:00
-B31n;Alameda;S√°bado;01:00;05:00
+B31n;Alameda;S·bado;01:00;05:00
 B31n;Alameda;Lunes a Viernes;01:00;05:00
 C01;Cerro 18;Lunes a Viernes;05:30;00:30
 C01;Cerro 18;Domingo y Festivos;05:30;00:40
-C01;Cerro 18;S√°bado;05:30;00:40
+C01;Cerro 18;S·bado;05:30;00:40
 C01;(M) Francisco Bilbao;Lunes a Viernes;05:30;00:30
 C01;(M) Francisco Bilbao;Domingo y Festivos;05:30;00:40
-C01;(M) Francisco Bilbao;S√°bado;05:30;00:40
+C01;(M) Francisco Bilbao;S·bado;05:30;00:40
 C01c;La Ermita;Lunes a Viernes;17:30;21:23
 C01c;La Ermita;Lunes a Viernes;06:30;09:25
 C01c;(M) Escuela Militar;Lunes a Viernes;17:00;21:23
 C01c;(M) Escuela Militar;Lunes a Viernes;06:30;09:25
 C02;(M) Escuela Militar;Lunes a Viernes;00:00;23:59
 C02;(M) Escuela Militar;Domingo y Festivos;00:00;23:59
-C02;(M) Escuela Militar;S√°bado;00:00;23:59
+C02;(M) Escuela Militar;S·bado;00:00;23:59
 C02;San Carlos De Apoquindo;Lunes a Viernes;00:00;23:59
 C02;San Carlos De Apoquindo;Domingo y Festivos;00:00;23:59
-C02;San Carlos De Apoquindo;S√°bado;00:00;23:59
+C02;San Carlos De Apoquindo;S·bado;00:00;23:59
 C02c;(M) Los Dominicos;Domingo y Festivos;06:30;22:48
-C02c;(M) Los Dominicos;S√°bado;06:30;22:50
+C02c;(M) Los Dominicos;S·bado;06:30;22:50
 C02c;(M) Los Dominicos;Lunes a Viernes;06:30;21:23
 C02c;San Carlos De Apoquindo;Lunes a Viernes;06:30;21:23
-C02c;San Carlos De Apoquindo;S√°bado;06:30;22:50
+C02c;San Carlos De Apoquindo;S·bado;06:30;22:50
 C02c;San Carlos De Apoquindo;Domingo y Festivos;06:30;22:48
 C03;Vital Apoquindo;Lunes a Viernes;05:30;23:40
-C03;Vital Apoquindo;S√°bado;06:30;23:40
+C03;Vital Apoquindo;S·bado;06:30;23:40
 C03;Vital Apoquindo;Domingo y Festivos;06:30;23:00
 C03;Rotonda Perez Zukjovic;Domingo y Festivos;06:30;23:30
 C03;Rotonda Perez Zukjovic;Lunes a Viernes;05:30;23:30
-C03;Rotonda Perez Zukjovic;S√°bado;06:30;23:45
+C03;Rotonda Perez Zukjovic;S·bado;06:30;23:45
 C03c;Vital Apoquindo;Lunes a Viernes;06:30;09:18
 C03c;Vital Apoquindo;Lunes a Viernes;17:30;20:18
 C03c;Lo Gallo;Lunes a Viernes;17:30;20:18
 C03c;Lo Gallo;Lunes a Viernes;06:30;09:29
 C04;(M) Manuel Montt;Lunes a Viernes;05:30;22:45
 C04;(M) Manuel Montt;Domingo y Festivos;06:30;22:43
-C04;(M) Manuel Montt;S√°bado;06:30;22:43
-C04;Vital Apoquindo;S√°bado;06:30;22:43
+C04;(M) Manuel Montt;S·bado;06:30;22:43
+C04;Vital Apoquindo;S·bado;06:30;22:43
 C04;Vital Apoquindo;Domingo y Festivos;06:30;22:43
 C04;Vital Apoquindo;Lunes a Viernes;05:30;22:42
 C05;(M) Francisco Bilbao;Domingo y Festivos;06:30;00:30
-C05;(M) Francisco Bilbao;S√°bado;05:30;00:30
+C05;(M) Francisco Bilbao;S·bado;05:30;00:30
 C05;(M) Francisco Bilbao;Lunes a Viernes;05:30;00:30
-C05;La Ermita;S√°bado;05:30;00:30
+C05;La Ermita;S·bado;05:30;00:30
 C05;La Ermita;Domingo y Festivos;06:30;00:30
 C05;La Ermita;Lunes a Viernes;05:30;00:30
 C06;(M) Tobalaba;Lunes a Viernes;05:30;00:30
 C06;(M) Tobalaba;Domingo y Festivos;05:30;00:30
-C06;(M) Tobalaba;S√°bado;05:30;00:30
+C06;(M) Tobalaba;S·bado;05:30;00:30
 C06;Vital Apoquindo;Domingo y Festivos;05:30;00:30
-C06;Vital Apoquindo;S√°bado;05:30;00:30
+C06;Vital Apoquindo;S·bado;05:30;00:30
 C06;Vital Apoquindo;Lunes a Viernes;05:30;00:30
 C07;(M) Francisco Bilbao;Domingo y Festivos;06:30;22:45
 C07;(M) Francisco Bilbao;Lunes a Viernes;05:30;22:53
-C07;(M) Francisco Bilbao;S√°bado;05:30;22:48
+C07;(M) Francisco Bilbao;S·bado;05:30;22:48
 C07;La Piramide;Domingo y Festivos;06:30;23:00
 C07;La Piramide;Lunes a Viernes;05:30;23:40
-C07;La Piramide;S√°bado;05:30;23:15
-C08;Cantagallo;S√°bado;05:30;22:46
+C07;La Piramide;S·bado;05:30;23:15
+C08;Cantagallo;S·bado;05:30;22:46
 C08;Cantagallo;Lunes a Viernes;05:30;22:47
 C08;Cantagallo;Domingo y Festivos;05:30;22:47
 C08;Camino Real;Lunes a Viernes;05:30;22:42
-C08;Camino Real;S√°bado;05:30;22:43
+C08;Camino Real;S·bado;05:30;22:43
 C08;Camino Real;Domingo y Festivos;05:30;22:43
 C09;Nueva Bilbao;Lunes a Viernes;05:30;23:00
-C09;Nueva Bilbao;S√°bado;05:30;23:30
+C09;Nueva Bilbao;S·bado;05:30;23:30
 C09;Nueva Bilbao;Domingo y Festivos;05:30;23:30
 C09;La Dehesa;Domingo y Festivos;05:30;23:30
-C09;La Dehesa;S√°bado;05:30;23:30
+C09;La Dehesa;S·bado;05:30;23:30
 C09;La Dehesa;Lunes a Viernes;05:30;23:00
 C10e;Camino Juan Pablo Ii;Lunes a Viernes;17:00;19:23
 C10e;Camino Juan Pablo Ii;Lunes a Viernes;05:30;09:54
 C10e;(M) Tobalaba;Lunes a Viernes;16:30;20:24
 C10e;(M) Tobalaba;Lunes a Viernes;05:30;08:54
 C11;Tabancura;Lunes a Viernes;05:30;23:40
-C11;Tabancura;S√°bado;05:30;00:30
+C11;Tabancura;S·bado;05:30;00:30
 C11;Tabancura;Domingo y Festivos;06:30;00:30
 C11;(M) Escuela Militar;Lunes a Viernes;05:30;23:50
 C11;(M) Escuela Militar;Domingo y Festivos;06:30;00:45
-C11;(M) Escuela Militar;S√°bado;05:30;00:45
+C11;(M) Escuela Militar;S·bado;05:30;00:45
 C12;Cantagallo;Lunes a Viernes;05:30;22:42
 C12;Cantagallo;Domingo y Festivos;06:30;23:00
-C12;Cantagallo;S√°bado;06:30;22:46
+C12;Cantagallo;S·bado;06:30;22:46
 C12;Camino Juan Pablo Ii;Lunes a Viernes;05:30;22:30
 C12;Camino Juan Pablo Ii;Domingo y Festivos;06:30;22:48
-C12;Camino Juan Pablo Ii;S√°bado;06:30;22:43
-C13;La Laguna;S√°bado;06:30;22:30
+C12;Camino Juan Pablo Ii;S·bado;06:30;22:43
+C13;La Laguna;S·bado;06:30;22:30
 C13;La Laguna;Domingo y Festivos;06:30;22:30
 C13;La Laguna;Lunes a Viernes;06:30;21:00
-C13;Cantagallo;S√°bado;06:30;22:35
+C13;Cantagallo;S·bado;06:30;22:35
 C13;Cantagallo;Domingo y Festivos;06:30;22:36
 C13;Cantagallo;Lunes a Viernes;06:30;21:10
 C14;Los Trapenses;Lunes a Viernes;05:30;23:00
 C14;Los Trapenses;Domingo y Festivos;05:30;23:00
-C14;Los Trapenses;S√°bado;05:30;23:00
-C14;(M) Escuela Militar;S√°bado;05:30;23:40
+C14;Los Trapenses;S·bado;05:30;23:00
+C14;(M) Escuela Militar;S·bado;05:30;23:40
 C14;(M) Escuela Militar;Lunes a Viernes;05:30;23:30
 C14;(M) Escuela Militar;Domingo y Festivos;05:30;23:24
 C15;Estoril;Lunes a Viernes;05:30;22:42
-C15;Estoril;S√°bado;05:30;22:48
+C15;Estoril;S·bado;05:30;22:48
 C15;Estoril;Domingo y Festivos;06:30;22:47
 C15;(M) Escuela Militar;Lunes a Viernes;05:30;22:47
-C15;(M) Escuela Militar;S√°bado;05:30;23:00
+C15;(M) Escuela Militar;S·bado;05:30;23:00
 C15;(M) Escuela Militar;Domingo y Festivos;06:30;23:00
-C16;El Huinganal;S√°bado;06:30;23:40
+C16;El Huinganal;S·bado;06:30;23:40
 C16;El Huinganal;Domingo y Festivos;06:30;23:40
 C16;El Huinganal;Lunes a Viernes;05:30;23:30
 C16;Vital Apoquindo;Domingo y Festivos;06:30;23:40
 C16;Vital Apoquindo;Lunes a Viernes;05:30;23:30
-C16;Vital Apoquindo;S√°bado;06:30;23:40
+C16;Vital Apoquindo;S·bado;06:30;23:40
 C17;Los Trapenses;Domingo y Festivos;07:30;22:30
-C17;Los Trapenses;S√°bado;06:30;22:30
+C17;Los Trapenses;S·bado;06:30;22:30
 C17;Los Trapenses;Lunes a Viernes;06:30;21:00
 C17;Cerro 18;Domingo y Festivos;07:30;22:30
-C17;Cerro 18;S√°bado;06:30;22:30
+C17;Cerro 18;S·bado;06:30;22:30
 C17;Cerro 18;Lunes a Viernes;06:30;21:00
 C18;Ciudad Empresarial;Lunes a Viernes;05:30;23:00
-C18;Ciudad Empresarial;S√°bado;05:30;23:00
+C18;Ciudad Empresarial;S·bado;05:30;23:00
 C18;Ciudad Empresarial;Domingo y Festivos;06:30;23:00
 C18;(M) Escuela Militar;Lunes a Viernes;05:30;22:50
-C18;(M) Escuela Militar;S√°bado;05:30;22:45
+C18;(M) Escuela Militar;S·bado;05:30;22:45
 C18;(M) Escuela Militar;Domingo y Festivos;06:30;22:45
-C19;Cantagallo;S√°bado;06:30;22:35
+C19;Cantagallo;S·bado;06:30;22:35
 C19;Cantagallo;Lunes a Viernes;06:30;21:00
 C19;Cantagallo;Domingo y Festivos;06:30;22:36
-C19;Bernardo Larrain Cotapos;S√°bado;06:30;22:30
+C19;Bernardo Larrain Cotapos;S·bado;06:30;22:30
 C19;Bernardo Larrain Cotapos;Lunes a Viernes;06:30;21:00
 C19;Bernardo Larrain Cotapos;Domingo y Festivos;06:30;22:30
 C20;Parque Arauco;Lunes a Viernes;06:30;22:54
 C20;Parque Arauco;Domingo y Festivos;06:30;23:00
-C20;Parque Arauco;S√°bado;06:30;23:00
-C20;(M) Escuela Militar;S√°bado;06:30;23:40
+C20;Parque Arauco;S·bado;06:30;23:00
+C20;(M) Escuela Militar;S·bado;06:30;23:40
 C20;(M) Escuela Militar;Domingo y Festivos;06:30;23:40
 C20;(M) Escuela Militar;Lunes a Viernes;06:30;23:00
 C21n;Cantagallo;Domingo y Festivos;23:00;05:00
-C21n;Cantagallo;S√°bado;23:00;05:00
+C21n;Cantagallo;S·bado;23:00;05:00
 C21n;Cantagallo;Lunes a Viernes;23:00;05:00
-C21n;El Gabino;S√°bado;23:00;05:00
+C21n;El Gabino;S·bado;23:00;05:00
 C21n;El Gabino;Domingo y Festivos;23:00;05:00
 C21n;El Gabino;Lunes a Viernes;23:00;05:00
 C22;Rotonda Lo Curro;Domingo y Festivos;06:30;22:47
 C22;Rotonda Lo Curro;Lunes a Viernes;05:30;22:49
-C22;Rotonda Lo Curro;S√°bado;05:30;23:00
+C22;Rotonda Lo Curro;S·bado;05:30;23:00
 C22;(M) Escuela Militar;Domingo y Festivos;06:30;22:43
-C22;(M) Escuela Militar;S√°bado;05:30;22:48
+C22;(M) Escuela Militar;S·bado;05:30;22:48
 C22;(M) Escuela Militar;Lunes a Viernes;05:30;22:42
 C23;Lo Barnechea;Lunes a Viernes;06:20;21:00
 C23;La Ermita De San Antonio;Lunes a Viernes;06:40;21:20
 D01;Consistorial;Lunes a Viernes;06:02;22:45
-D01;Plaza Ega√±a (M);Lunes a Viernes;06:00;22:45
+D01;Plaza EgaÒa (M);Lunes a Viernes;06:00;22:45
 D02;Diagonal Las Torres;Lunes a Viernes;05:30;00:30
 D02;Diagonal Las Torres;Domingo y Festivos;05:30;00:30
-D02;Diagonal Las Torres;S√°bado;05:30;00:30
+D02;Diagonal Las Torres;S·bado;05:30;00:30
 D02;(M) Irarrazaval;Lunes a Viernes;05:30;00:30
-D02;(M) Irarrazaval;S√°bado;05:30;00:30
+D02;(M) Irarrazaval;S·bado;05:30;00:30
 D02;(M) Irarrazaval;Domingo y Festivos;05:30;00:30
-D03;Las Parcelas;S√°bado;05:30;00:30
+D03;Las Parcelas;S·bado;05:30;00:30
 D03;Las Parcelas;Domingo y Festivos;05:30;00:30
 D03;Las Parcelas;Lunes a Viernes;05:30;00:30
 D03;(M) Toesca;Lunes a Viernes;05:30;00:30
-D03;(M) Toesca;S√°bado;05:30;00:30
+D03;(M) Toesca;S·bado;05:30;00:30
 D03;(M) Toesca;Domingo y Festivos;05:30;00:30
 D05;Las Perdices;Lunes a Viernes;05:30;00:30
-D05;Las Perdices;S√°bado;05:30;00:30
+D05;Las Perdices;S·bado;05:30;00:30
 D05;Las Perdices;Domingo y Festivos;05:30;00:30
-D05;(M) Franklin;S√°bado;05:30;00:30
+D05;(M) Franklin;S·bado;05:30;00:30
 D05;(M) Franklin;Lunes a Viernes;05:30;00:30
 D05;(M) Franklin;Domingo y Festivos;05:30;00:30
 D06;(M) Bellavista De La Florida;Domingo y Festivos;06:30;23:30
-D06;(M) Bellavista De La Florida;S√°bado;06:00;23:30
+D06;(M) Bellavista De La Florida;S·bado;06:00;23:30
 D06;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:30
-D06;(M) Irarrazaval;S√°bado;06:05;23:30
+D06;(M) Irarrazaval;S·bado;06:05;23:30
 D06;(M) Irarrazaval;Lunes a Viernes;05:35;23:30
 D06;(M) Irarrazaval;Domingo y Festivos;06:35;23:30
 D07;(M) Franklin;Lunes a Viernes;05:30;00:30
-D07;(M) Franklin;S√°bado;05:30;00:30
+D07;(M) Franklin;S·bado;05:30;00:30
 D07;(M) Franklin;Domingo y Festivos;05:30;00:30
 D07;Diagonal Las Torres;Domingo y Festivos;05:30;00:30
-D07;Diagonal Las Torres;S√°bado;05:30;00:30
+D07;Diagonal Las Torres;S·bado;05:30;00:30
 D07;Diagonal Las Torres;Lunes a Viernes;05:30;00:30
 D07c;(M) Los Presidentes;Lunes a Viernes;06:30;09:15
 D07c;Diagonal Las Torres;Lunes a Viernes;06:30;09:15
 D08;(M) Francisco Bilbao;Domingo y Festivos;00:00;23:59
-D08;(M) Francisco Bilbao;S√°bado;00:00;23:59
+D08;(M) Francisco Bilbao;S·bado;00:00;23:59
 D08;(M) Francisco Bilbao;Lunes a Viernes;00:00;23:59
 D08;Av. Grecia;Lunes a Viernes;00:00;23:59
-D08;Av. Grecia;S√°bado;00:00;23:59
+D08;Av. Grecia;S·bado;00:00;23:59
 D08;Av. Grecia;Domingo y Festivos;00:00;23:59
 D08c;(M) Francisco Bilbao;Lunes a Viernes;06:30;09:15
 D08c;Plaza La Reina;Lunes a Viernes;06:30;09:15
-D09;(M) Manuel Montt;S√°bado;00:00;23:59
+D09;(M) Manuel Montt;S·bado;00:00;23:59
 D09;(M) Manuel Montt;Domingo y Festivos;00:00;23:59
 D09;(M) Manuel Montt;Lunes a Viernes;00:00;23:59
 D09;Diagonal Las Torres;Domingo y Festivos;00:00;23:59
-D09;Diagonal Las Torres;S√°bado;00:00;23:59
+D09;Diagonal Las Torres;S·bado;00:00;23:59
 D09;Diagonal Las Torres;Lunes a Viernes;00:00;23:59
-D10;Alvaro Casanova;S√°bado;05:30;00:30
+D10;Alvaro Casanova;S·bado;05:30;00:30
 D10;Alvaro Casanova;Domingo y Festivos;05:30;00:30
 D10;Alvaro Casanova;Lunes a Viernes;05:30;00:30
 D10;(M) Carlos Valdovinos;Domingo y Festivos;05:30;00:30
 D10;(M) Carlos Valdovinos;Lunes a Viernes;05:30;00:30
-D10;(M) Carlos Valdovinos;S√°bado;05:30;00:30
+D10;(M) Carlos Valdovinos;S·bado;05:30;00:30
 D11;Mall Alto Las Condes;Domingo y Festivos;00:00;23:59
 D11;Mall Alto Las Condes;Lunes a Viernes;00:00;23:59
-D11;Mall Alto Las Condes;S√°bado;00:00;23:59
+D11;Mall Alto Las Condes;S·bado;00:00;23:59
 D11;Diagonal Las Torres;Domingo y Festivos;00:00;23:59
 D11;Diagonal Las Torres;Lunes a Viernes;00:00;23:59
-D11;Diagonal Las Torres;S√°bado;00:00;23:59
+D11;Diagonal Las Torres;S·bado;00:00;23:59
 D12;(M) Francisco Bilbao;Lunes a Viernes;05:30;00:30
-D12;(M) Francisco Bilbao;S√°bado;05:30;00:30
+D12;(M) Francisco Bilbao;S·bado;05:30;00:30
 D12;(M) Francisco Bilbao;Domingo y Festivos;05:30;00:30
 D12;Las Perdices;Domingo y Festivos;06:00;00:30
-D12;Las Perdices;S√°bado;06:00;00:30
+D12;Las Perdices;S·bado;06:00;00:30
 D12;Las Perdices;Lunes a Viernes;06:06;00:30
 D13;(M) Irarrazaval;Domingo y Festivos;06:36;23:30
 D13;(M) Irarrazaval;Lunes a Viernes;05:35;23:45
-D13;(M) Irarrazaval;S√°bado;06:05;23:45
+D13;(M) Irarrazaval;S·bado;06:05;23:45
 D13;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:45
 D13;(M) Bellavista De La Florida;Domingo y Festivos;06:30;23:30
-D13;(M) Bellavista De La Florida;S√°bado;06:00;23:45
+D13;(M) Bellavista De La Florida;S·bado;06:00;23:45
 D14;(M) Quilin;Domingo y Festivos;06:30;23:30
-D14;(M) Quilin;S√°bado;05:30;23:45
+D14;(M) Quilin;S·bado;05:30;23:45
 D14;(M) Quilin;Lunes a Viernes;05:30;23:45
 D14;(M) Pedrero;Domingo y Festivos;06:30;23:30
-D14;(M) Pedrero;S√°bado;05:30;23:45
+D14;(M) Pedrero;S·bado;05:30;23:45
 D14;(M) Pedrero;Lunes a Viernes;05:30;23:45
-D15;(M) Francisco Bilbao;S√°bado;05:30;00:30
+D15;(M) Francisco Bilbao;S·bado;05:30;00:30
 D15;(M) Francisco Bilbao;Lunes a Viernes;05:30;00:30
 D15;(M) Francisco Bilbao;Domingo y Festivos;06:30;00:30
 D15;Diagonal Las Torres;Lunes a Viernes;05:30;00:30
 D15;Diagonal Las Torres;Domingo y Festivos;06:30;00:30
-D15;Diagonal Las Torres;S√°bado;05:30;00:30
+D15;Diagonal Las Torres;S·bado;05:30;00:30
 D16;(M) Francisco Bilbao;Lunes a Viernes;05:30;00:30
-D16;(M) Francisco Bilbao;S√°bado;05:30;00:30
+D16;(M) Francisco Bilbao;S·bado;05:30;00:30
 D16;(M) Francisco Bilbao;Domingo y Festivos;05:30;00:30
 D16;(M) Quilin;Domingo y Festivos;05:30;00:30
 D16;(M) Quilin;Lunes a Viernes;05:30;00:30
-D16;(M) Quilin;S√°bado;05:30;00:30
+D16;(M) Quilin;S·bado;05:30;00:30
 D17;(M) Quilin;Domingo y Festivos;06:30;23:30
-D17;(M) Quilin;S√°bado;06:00;23:30
+D17;(M) Quilin;S·bado;06:00;23:30
 D17;(M) Quilin;Lunes a Viernes;05:45;23:30
 D17;Alto Macul;Lunes a Viernes;05:45;23:30
 D17;Alto Macul;Domingo y Festivos;06:30;23:30
-D17;Alto Macul;S√°bado;06:00;23:30
+D17;Alto Macul;S·bado;06:00;23:30
 D18;(M) Santa Isabel;Domingo y Festivos;05:30;00:30
-D18;(M) Santa Isabel;S√°bado;05:30;00:30
+D18;(M) Santa Isabel;S·bado;05:30;00:30
 D18;(M) Santa Isabel;Lunes a Viernes;05:30;00:30
 D18;Diagonal Las Torres;Domingo y Festivos;05:30;00:30
-D18;Diagonal Las Torres;S√°bado;05:30;00:30
+D18;Diagonal Las Torres;S·bado;05:30;00:30
 D18;Diagonal Las Torres;Lunes a Viernes;05:30;00:30
 E01;(M) Santa Rosa;Domingo y Festivos;06:00;00:30
-E01;(M) Santa Rosa;S√°bado;05:30;00:30
+E01;(M) Santa Rosa;S·bado;05:30;00:30
 E01;(M) Santa Rosa;Lunes a Viernes;05:30;00:30
-E01;San Jose De La Estrella;S√°bado;05:30;00:30
+E01;San Jose De La Estrella;S·bado;05:30;00:30
 E01;San Jose De La Estrella;Domingo y Festivos;06:00;00:30
 E01;San Jose De La Estrella;Lunes a Viernes;05:30;00:30
 E02;Diego Portales;Domingo y Festivos;06:02;23:40
 E02;Diego Portales;Lunes a Viernes;05:42;23:54
-E02;Diego Portales;S√°bado;05:42;23:54
+E02;Diego Portales;S·bado;05:42;23:54
 E02;(M) Lo Ovalle;Domingo y Festivos;05:30;23:40
 E02;(M) Lo Ovalle;Lunes a Viernes;05:30;23:54
-E02;(M) Lo Ovalle;S√°bado;05:30;23:54
+E02;(M) Lo Ovalle;S·bado;05:30;23:54
 E03;Jardin Alto;Domingo y Festivos;00:00;23:59
-E03;Jardin Alto;S√°bado;00:00;23:59
+E03;Jardin Alto;S·bado;00:00;23:59
 E03;Jardin Alto;Lunes a Viernes;00:00;23:59
 E03;(M) Lo Ovalle;Domingo y Festivos;00:00;23:59
-E03;(M) Lo Ovalle;S√°bado;00:00;23:59
+E03;(M) Lo Ovalle;S·bado;00:00;23:59
 E03;(M) Lo Ovalle;Lunes a Viernes;00:00;23:59
-E04;(M) Franklin;S√°bado;05:30;00:30
+E04;(M) Franklin;S·bado;05:30;00:30
 E04;(M) Franklin;Lunes a Viernes;05:30;00:30
 E04;(M) Franklin;Domingo y Festivos;05:45;00:30
-E04;Av. La Florida;S√°bado;05:30;00:30
+E04;Av. La Florida;S·bado;05:30;00:30
 E04;Av. La Florida;Domingo y Festivos;05:45;00:30
 E04;Av. La Florida;Lunes a Viernes;05:30;00:30
 E05;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:50
-E05;(M) Bellavista De La Florida;S√°bado;05:45;23:55
+E05;(M) Bellavista De La Florida;S·bado;05:45;23:55
 E05;(M) Bellavista De La Florida;Domingo y Festivos;06:30;23:50
 E05;(M) La Cisterna;Domingo y Festivos;06:45;23:50
-E05;(M) La Cisterna;S√°bado;06:00;23:55
+E05;(M) La Cisterna;S·bado;06:00;23:55
 E05;(M) La Cisterna;Lunes a Viernes;05:42;23:55
 E06;Maria Angelica;Lunes a Viernes;05:54;23:55
 E06;Maria Angelica;Domingo y Festivos;07:00;23:55
-E06;Maria Angelica;S√°bado;06:00;23:55
-E06;(M) Bellavista De La Florida;S√°bado;05:45;23:55
+E06;Maria Angelica;S·bado;06:00;23:55
+E06;(M) Bellavista De La Florida;S·bado;05:45;23:55
 E06;(M) Bellavista De La Florida;Domingo y Festivos;06:45;23:50
 E06;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:50
-E07;Rojas Magallanes;S√°bado;06:00;23:55
+E07;Rojas Magallanes;S·bado;06:00;23:55
 E07;Rojas Magallanes;Domingo y Festivos;07:00;23:55
 E07;Rojas Magallanes;Lunes a Viernes;05:45;23:55
 E07;(M) Bellavista De La Florida;Domingo y Festivos;06:45;23:45
-E07;(M) Bellavista De La Florida;S√°bado;05:45;23:45
+E07;(M) Bellavista De La Florida;S·bado;05:45;23:45
 E07;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:46
-E08;(M) Bellavista De La Florida;S√°bado;05:45;23:55
+E08;(M) Bellavista De La Florida;S·bado;05:45;23:55
 E08;(M) Bellavista De La Florida;Domingo y Festivos;06:00;23:50
 E08;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:50
 E08;Diego Portales;Lunes a Viernes;05:54;23:55
-E08;Diego Portales;S√°bado;06:00;23:55
+E08;Diego Portales;S·bado;06:00;23:55
 E08;Diego Portales;Domingo y Festivos;06:30;23:55
 E09;(M) Santa Rosa;Lunes a Viernes;05:30;00:30
 E09;(M) Santa Rosa;Domingo y Festivos;06:00;00:30
-E09;(M) Santa Rosa;S√°bado;05:30;00:30
+E09;(M) Santa Rosa;S·bado;05:30;00:30
 E09;(M) Elisa Correa;Lunes a Viernes;05:30;00:30
 E09;(M) Elisa Correa;Domingo y Festivos;06:00;00:30
-E09;(M) Elisa Correa;S√°bado;05:30;00:30
+E09;(M) Elisa Correa;S·bado;05:30;00:30
 E10;Santa Rosa P21;Domingo y Festivos;05:45;23:40
 E10;Santa Rosa P21;Lunes a Viernes;05:30;23:40
-E10;Santa Rosa P21;S√°bado;05:30;23:40
+E10;Santa Rosa P21;S·bado;05:30;23:40
 E10;El Hualle;Domingo y Festivos;05:45;23:40
-E10;El Hualle;S√°bado;05:30;23:40
+E10;El Hualle;S·bado;05:30;23:40
 E10;El Hualle;Lunes a Viernes;05:30;23:40
 E11;(M) Santa Rosa;Lunes a Viernes;05:00;00:30
-E11;(M) Santa Rosa;S√°bado;05:00;00:30
+E11;(M) Santa Rosa;S·bado;05:00;00:30
 E11;(M) Santa Rosa;Domingo y Festivos;05:00;00:30
 E11;Diego Portales;Domingo y Festivos;05:00;00:30
 E11;Diego Portales;Lunes a Viernes;05:00;00:30
-E11;Diego Portales;S√°bado;05:00;00:30
+E11;Diego Portales;S·bado;05:00;00:30
 E12;SANTA ROSA P18;Lunes a Viernes;05:00;00:30
 E12;SANTA ROSA P18;Domingo y Festivos;05:00;00:30
-E12;SANTA ROSA P18;S√°bado;05:00;00:30
-E12;MARIA ELENA;S√°bado;05:50;01:20
+E12;SANTA ROSA P18;S·bado;05:00;00:30
+E12;MARIA ELENA;S·bado;05:50;01:20
 E12;MARIA ELENA;Lunes a Viernes;05:50;01:20
 E12;MARIA ELENA;Domingo y Festivos;05:50;01:20
-E13;(M) Bellavista De La Florida;S√°bado;05:30;23:50
+E13;(M) Bellavista De La Florida;S·bado;05:30;23:50
 E13;(M) Bellavista De La Florida;Domingo y Festivos;06:30;23:50
 E13;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:52
-E13;Gabriela;S√°bado;05:42;23:55
+E13;Gabriela;S·bado;05:42;23:55
 E13;Gabriela;Lunes a Viernes;05:42;23:55
 E13;Gabriela;Domingo y Festivos;06:34;23:55
-E14;(M) Bellavista De La Florida;S√°bado;05:45;23:50
+E14;(M) Bellavista De La Florida;S·bado;05:45;23:50
 E14;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:50
 E14;(M) Bellavista De La Florida;Domingo y Festivos;06:30;23:50
-E14;San Jose De La Estrella;S√°bado;06:00;23:50
+E14;San Jose De La Estrella;S·bado;06:00;23:50
 E14;San Jose De La Estrella;Domingo y Festivos;06:45;23:50
 E14;San Jose De La Estrella;Lunes a Viernes;05:45;23:50
-E15;Froilan Lagos;S√°bado;05:30;00:30
+E15;Froilan Lagos;S·bado;05:30;00:30
 E15;Froilan Lagos;Lunes a Viernes;05:30;00:30
 E15;Froilan Lagos;Domingo y Festivos;05:30;00:30
-E15;Gabriela;S√°bado;05:45;00:30
+E15;Gabriela;S·bado;05:45;00:30
 E15;Gabriela;Domingo y Festivos;05:57;00:30
 E15;Gabriela;Lunes a Viernes;05:45;00:30
 E15c;(M) Bellavista De La Florida;Lunes a Viernes;05:36;22:38
-E15c;(M) Bellavista De La Florida;S√°bado;06:38;22:41
+E15c;(M) Bellavista De La Florida;S·bado;06:38;22:41
 E15c;(M) Bellavista De La Florida;Domingo y Festivos;09:30;22:49
 E15c;Gabriela;Domingo y Festivos;09:30;22:49
 E15c;Gabriela;Lunes a Viernes;05:52;22:40
-E15c;Gabriela;S√°bado;06:39;22:50
+E15c;Gabriela;S·bado;06:39;22:50
 E16;(M) Santa Rosa;Lunes a Viernes;05:30;23:30
-E16;(M) Santa Rosa;S√°bado;05:30;23:30
+E16;(M) Santa Rosa;S·bado;05:30;23:30
 E16;(M) Santa Rosa;Domingo y Festivos;06:00;23:30
 E16;Gabriela;Domingo y Festivos;06:00;23:30
-E16;Gabriela;S√°bado;05:30;23:30
+E16;Gabriela;S·bado;05:30;23:30
 E16;Gabriela;Lunes a Viernes;05:30;23:30
 E17;Las Perdices;Lunes a Viernes;05:42;23:55
 E17;Las Perdices;Domingo y Festivos;06:45;23:54
-E17;Las Perdices;S√°bado;05:45;23:54
+E17;Las Perdices;S·bado;05:45;23:54
 E17;(M) Bellavista De La Florida;Domingo y Festivos;06:30;23:45
-E17;(M) Bellavista De La Florida;S√°bado;05:30;23:45
+E17;(M) Bellavista De La Florida;S·bado;05:30;23:45
 E17;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:54
 E18;(M) Bellavista De La Florida;Lunes a Viernes;05:30;23:30
 E18;(M) Bellavista De La Florida;Domingo y Festivos;06:45;23:30
-E18;(M) Bellavista De La Florida;S√°bado;05:45;23:30
-E18;Hospital Padre Hurtado;S√°bado;06:00;23:40
+E18;(M) Bellavista De La Florida;S·bado;05:45;23:30
+E18;Hospital Padre Hurtado;S·bado;06:00;23:40
 E18;Hospital Padre Hurtado;Lunes a Viernes;05:45;23:40
 E18;Hospital Padre Hurtado;Domingo y Festivos;07:00;23:30
 F01;Casas Viejas;Lunes a Viernes;05:00;00:30
-F01;Casas Viejas;S√°bado;05:30;00:30
+F01;Casas Viejas;S·bado;05:30;00:30
 F01;Casas Viejas;Domingo y Festivos;05:30;00:30
-F01;Villa Padre Hurtado;S√°bado;05:30;00:30
+F01;Villa Padre Hurtado;S·bado;05:30;00:30
 F01;Villa Padre Hurtado;Domingo y Festivos;05:30;00:30
 F01;Villa Padre Hurtado;Lunes a Viernes;05:00;00:30
 F01c;Casas Viejas;Lunes a Viernes;05:30;09:26
 F01c;Casas Viejas;Lunes a Viernes;17:30;22:52
 F01c;(M) Plaza Puente Alto;Lunes a Viernes;17:30;22:51
 F01c;(M) Plaza Puente Alto;Lunes a Viernes;05:00;09:27
-F02;San Ger√≥nimo;S√°bado;05:30;00:30
-F02;San Ger√≥nimo;Domingo y Festivos;06:30;00:30
-F02;San Ger√≥nimo;Lunes a Viernes;05:30;00:36
-F02;Pie Andino;S√°bado;05:30;00:30
+F02;San GerÛnimo;S·bado;05:30;00:30
+F02;San GerÛnimo;Domingo y Festivos;06:30;00:30
+F02;San GerÛnimo;Lunes a Viernes;05:30;00:36
+F02;Pie Andino;S·bado;05:30;00:30
 F02;Pie Andino;Domingo y Festivos;06:30;00:32
 F02;Pie Andino;Lunes a Viernes;05:30;00:56
-F03;Plaza San Bernardo;S√°bado;05:30;00:30
+F03;Plaza San Bernardo;S·bado;05:30;00:30
 F03;Plaza San Bernardo;Domingo y Festivos;05:30;00:30
 F03;Plaza San Bernardo;Lunes a Viernes;05:18;00:36
-F03;(M) Plaza Puente Alto;S√°bado;05:30;00:30
+F03;(M) Plaza Puente Alto;S·bado;05:30;00:30
 F03;(M) Plaza Puente Alto;Domingo y Festivos;05:30;00:30
 F03;(M) Plaza Puente Alto;Lunes a Viernes;05:20;00:54
-F03c;Villa Las Mami√±as;Lunes a Viernes;05:32;21:24
+F03c;Villa Las MamiÒas;Lunes a Viernes;05:32;21:24
 F03c;Pie Andino;Lunes a Viernes;05:30;21:23
-F05;Pie Andino;S√°bado;05:30;00:30
+F05;Pie Andino;S·bado;05:30;00:30
 F05;Pie Andino;Lunes a Viernes;05:36;00:32
 F05;Pie Andino;Domingo y Festivos;05:30;00:30
-F05;(M) La Cisterna;S√°bado;05:30;00:30
+F05;(M) La Cisterna;S·bado;05:30;00:30
 F05;(M) La Cisterna;Lunes a Viernes;05:26;00:30
 F05;(M) La Cisterna;Domingo y Festivos;05:30;00:30
 F06;Pie Andino;Lunes a Viernes;00:00;23:59
 F06;Pie Andino;Domingo y Festivos;00:00;23:59
-F06;Pie Andino;S√°bado;00:00;23:59
+F06;Pie Andino;S·bado;00:00;23:59
 F06;(M) La Cisterna;Domingo y Festivos;00:00;23:59
-F06;(M) La Cisterna;S√°bado;00:00;23:59
+F06;(M) La Cisterna;S·bado;00:00;23:59
 F06;(M) La Cisterna;Lunes a Viernes;00:00;23:59
 F07;Villa Padre Hurtado;Lunes a Viernes;05:00;00:30
-F07;Villa Padre Hurtado;S√°bado;05:30;01:00
+F07;Villa Padre Hurtado;S·bado;05:30;01:00
 F07;Villa Padre Hurtado;Domingo y Festivos;05:30;01:00
-F07;Mall Plaza Tobalaba;S√°bado;05:30;01:00
+F07;Mall Plaza Tobalaba;S·bado;05:30;01:00
 F07;Mall Plaza Tobalaba;Lunes a Viernes;05:00;00:30
 F07;Mall Plaza Tobalaba;Domingo y Festivos;05:30;01:00
 F08;Diego Portales;Domingo y Festivos;05:30;01:00
 F08;Diego Portales;Lunes a Viernes;05:00;00:30
-F08;Diego Portales;S√°bado;05:30;01:00
+F08;Diego Portales;S·bado;05:30;01:00
 F08;Villa Padre Hurtado;Domingo y Festivos;05:30;01:00
-F08;Villa Padre Hurtado;S√°bado;05:30;01:00
+F08;Villa Padre Hurtado;S·bado;05:30;01:00
 F08;Villa Padre Hurtado;Lunes a Viernes;05:00;00:30
-F09;(M) Elisa Correa;S√°bado;00:00;23:59
+F09;(M) Elisa Correa;S·bado;00:00;23:59
 F09;(M) Elisa Correa;Domingo y Festivos;00:00;23:59
 F09;(M) Elisa Correa;Lunes a Viernes;00:00;23:59
 F09;Pie Andino;Domingo y Festivos;00:00;23:59
-F09;Pie Andino;S√°bado;00:00;23:59
+F09;Pie Andino;S·bado;00:00;23:59
 F09;Pie Andino;Lunes a Viernes;00:00;23:59
 F10;Mall Plaza Tobalaba;Lunes a Viernes;05:20;00:52
-F10;Mall Plaza Tobalaba;S√°bado;05:30;00:30
+F10;Mall Plaza Tobalaba;S·bado;05:30;00:30
 F10;Mall Plaza Tobalaba;Domingo y Festivos;05:30;00:30
 F10;San Guillermo;Lunes a Viernes;05:36;00:56
 F10;San Guillermo;Domingo y Festivos;05:30;00:30
-F10;San Guillermo;S√°bado;05:30;00:30
+F10;San Guillermo;S·bado;05:30;00:30
 F11;Pie Andino;Domingo y Festivos;05:30;23:33
 F11;Pie Andino;Lunes a Viernes;05:38;23:50
-F11;Pie Andino;S√°bado;05:30;23:30
+F11;Pie Andino;S·bado;05:30;23:30
 F11;Las Vizcachas;Lunes a Viernes;05:36;23:43
-F11;Las Vizcachas;S√°bado;05:30;23:31
+F11;Las Vizcachas;S·bado;05:30;23:31
 F11;Las Vizcachas;Domingo y Festivos;05:30;23:33
-F12;(M) Plaza Puente Alto;S√°bado;05:30;01:00
+F12;(M) Plaza Puente Alto;S·bado;05:30;01:00
 F12;(M) Plaza Puente Alto;Lunes a Viernes;05:00;00:00
 F12;(M) Plaza Puente Alto;Domingo y Festivos;05:30;01:00
-F12;Bajos De Mena;S√°bado;05:30;00:31
+F12;Bajos De Mena;S·bado;05:30;00:31
 F12;Bajos De Mena;Domingo y Festivos;05:30;00:31
 F12;Bajos De Mena;Lunes a Viernes;05:30;00:30
 F12c;(M) Plaza Puente Alto;Lunes a Viernes;05:30;09:24
 F12c;(M) Plaza Puente Alto;Lunes a Viernes;17:30;21:09
 F12c;Av. Juanita;Lunes a Viernes;06:34;09:00
 F12c;Av. Juanita;Lunes a Viernes;17:36;21:28
-F13;Mall Plaza Tobalaba;S√°bado;05:30;00:31
+F13;Mall Plaza Tobalaba;S·bado;05:30;00:31
 F13;Mall Plaza Tobalaba;Lunes a Viernes;05:30;00:52
 F13;Mall Plaza Tobalaba;Domingo y Festivos;05:30;00:40
 F13;Bajos De Mena;Lunes a Viernes;05:30;00:55
 F13;Bajos De Mena;Domingo y Festivos;05:30;00:40
-F13;Bajos De Mena;S√°bado;05:30;00:31
+F13;Bajos De Mena;S·bado;05:30;00:31
 F13c;(M) Plaza Puente Alto;Lunes a Viernes;17:42;20:24
 F13c;(M) Plaza Puente Alto;Lunes a Viernes;05:30;09:28
 F13c;Bajos De Mena;Lunes a Viernes;07:00;09:28
 F13c;Bajos De Mena;Lunes a Viernes;17:32;20:28
 F14;(M) Plaza Puente Alto;Domingo y Festivos;05:30;00:30
-F14;(M) Plaza Puente Alto;S√°bado;05:30;00:30
+F14;(M) Plaza Puente Alto;S·bado;05:30;00:30
 F14;(M) Plaza Puente Alto;Lunes a Viernes;05:30;00:30
 F14;Villa Padre Hurtado;Lunes a Viernes;05:30;00:30
 F14;Villa Padre Hurtado;Domingo y Festivos;05:30;00:30
-F14;Villa Padre Hurtado;S√°bado;05:30;00:30
-F15;(M) Elisa Correa;S√°bado;05:30;00:30
+F14;Villa Padre Hurtado;S·bado;05:30;00:30
+F15;(M) Elisa Correa;S·bado;05:30;00:30
 F15;(M) Elisa Correa;Domingo y Festivos;05:30;00:30
 F15;(M) Elisa Correa;Lunes a Viernes;05:02;00:28
 F15;Bajos De Mena;Lunes a Viernes;05:40;00:50
-F15;Bajos De Mena;S√°bado;05:30;00:30
+F15;Bajos De Mena;S·bado;05:30;00:30
 F15;Bajos De Mena;Domingo y Festivos;05:30;00:30
-F16;Rivera Rio Maipo;S√°bado;05:30;00:30
+F16;Rivera Rio Maipo;S·bado;05:30;00:30
 F16;Rivera Rio Maipo;Lunes a Viernes;05:30;00:30
 F16;Rivera Rio Maipo;Domingo y Festivos;05:30;00:30
 F16;Villa Padre Hurtado;Domingo y Festivos;05:30;00:30
-F16;Villa Padre Hurtado;S√°bado;05:30;00:30
+F16;Villa Padre Hurtado;S·bado;05:30;00:30
 F16;Villa Padre Hurtado;Lunes a Viernes;05:30;00:30
 F17;Casas Viejas;Lunes a Viernes;05:30;23:15
-F17;Casas Viejas;S√°bado;05:30;23:16
+F17;Casas Viejas;S·bado;05:30;23:16
 F17;Casas Viejas;Domingo y Festivos;05:30;23:31
 F17;(M) Plaza Puente Alto;Lunes a Viernes;05:30;23:15
 F17;(M) Plaza Puente Alto;Domingo y Festivos;05:30;23:31
-F17;(M) Plaza Puente Alto;S√°bado;05:30;23:16
+F17;(M) Plaza Puente Alto;S·bado;05:30;23:16
 F18;(M) Plaza Puente Alto;Domingo y Festivos;05:30;00:30
 F18;(M) Plaza Puente Alto;Lunes a Viernes;04:50;00:32
-F18;(M) Plaza Puente Alto;S√°bado;05:30;00:30
-F18;Villa Chilo√©;Lunes a Viernes;05:30;00:56
-F18;Villa Chilo√©;S√°bado;05:30;00:30
-F18;Villa Chilo√©;Domingo y Festivos;05:30;00:30
+F18;(M) Plaza Puente Alto;S·bado;05:30;00:30
+F18;Villa ChiloÈ;Lunes a Viernes;05:30;00:56
+F18;Villa ChiloÈ;S·bado;05:30;00:30
+F18;Villa ChiloÈ;Domingo y Festivos;05:30;00:30
 F19;Mall Plaza Tobalaba;Lunes a Viernes;05:36;00:30
 F19;Mall Plaza Tobalaba;Domingo y Festivos;05:30;00:30
-F19;Mall Plaza Tobalaba;S√°bado;05:30;00:30
+F19;Mall Plaza Tobalaba;S·bado;05:30;00:30
 F19;Pie Andino;Lunes a Viernes;05:32;00:30
 F19;Pie Andino;Domingo y Festivos;05:30;00:30
-F19;Pie Andino;S√°bado;05:30;00:30
+F19;Pie Andino;S·bado;05:30;00:30
 F20;Pie Andino;Domingo y Festivos;06:30;00:30
-F20;Pie Andino;S√°bado;05:30;00:30
+F20;Pie Andino;S·bado;05:30;00:30
 F20;Pie Andino;Lunes a Viernes;05:40;00:56
 F20;(M) La Cisterna;Domingo y Festivos;06:30;00:30
 F20;(M) La Cisterna;Lunes a Viernes;05:38;00:32
-F20;(M) La Cisterna;S√°bado;05:30;00:30
+F20;(M) La Cisterna;S·bado;05:30;00:30
 F21;Villa La Primavera;Domingo y Festivos;05:30;00:30
-F21;Villa La Primavera;S√°bado;05:30;00:30
+F21;Villa La Primavera;S·bado;05:30;00:30
 F21;Villa La Primavera;Lunes a Viernes;05:38;00:32
-F21;Pie Andino;S√°bado;05:30;00:30
+F21;Pie Andino;S·bado;05:30;00:30
 F21;Pie Andino;Domingo y Festivos;05:30;00:30
 F21;Pie Andino;Lunes a Viernes;05:38;00:52
 F22;El Tranque;Domingo y Festivos;06:30;23:31
-F22;El Tranque;S√°bado;05:30;23:50
+F22;El Tranque;S·bado;05:30;23:50
 F22;El Tranque;Lunes a Viernes;05:30;23:46
 F22;Pie Andino;Domingo y Festivos;06:30;23:32
 F22;Pie Andino;Lunes a Viernes;05:36;23:46
-F22;Pie Andino;S√°bado;05:30;23:50
+F22;Pie Andino;S·bado;05:30;23:50
 F23;Mall Plaza Tobalaba;Domingo y Festivos;06:30;23:31
-F23;Mall Plaza Tobalaba;S√°bado;06:30;23:47
+F23;Mall Plaza Tobalaba;S·bado;06:30;23:47
 F23;Mall Plaza Tobalaba;Lunes a Viernes;05:00;23:49
 F23;Villa Padre Hurtado;Lunes a Viernes;05:00;23:47
 F23;Villa Padre Hurtado;Domingo y Festivos;06:30;23:31
-F23;Villa Padre Hurtado;S√°bado;06:30;23:46
+F23;Villa Padre Hurtado;S·bado;06:30;23:46
 F24;(M) Elisa Correa;Lunes a Viernes;05:30;23:31
-F24;(M) Elisa Correa;S√°bado;05:30;23:32
+F24;(M) Elisa Correa;S·bado;05:30;23:32
 F24;(M) Elisa Correa;Domingo y Festivos;05:30;23:30
 F24;Casas Viejas;Lunes a Viernes;05:30;23:30
-F24;Casas Viejas;S√°bado;05:30;23:31
+F24;Casas Viejas;S·bado;05:30;23:31
 F24;Casas Viejas;Domingo y Festivos;05:30;23:30
 F25;(M) Bellavista De La Florida;Domingo y Festivos;05:30;00:30
 F25;(M) Bellavista De La Florida;Lunes a Viernes;05:10;23:48
-F25;(M) Bellavista De La Florida;S√°bado;05:30;00:30
-F25;Bajos De Mena;S√°bado;06:00;00:30
+F25;(M) Bellavista De La Florida;S·bado;05:30;00:30
+F25;Bajos De Mena;S·bado;06:00;00:30
 F25;Bajos De Mena;Domingo y Festivos;06:30;00:30
 F25;Bajos De Mena;Lunes a Viernes;05:40;23:49
 F25e;(M) Bellavista De La Florida;Lunes a Viernes;05:34;09:24
@@ -1553,21 +1553,21 @@ F27;Villa Portezuelo Oriente;Lunes a Viernes;17:30;21:19
 F27;Villa Padre Hurtado;Lunes a Viernes;06:30;09:18
 F27;Villa Padre Hurtado;Lunes a Viernes;17:30;21:30
 F28N;Diego Portales;Domingo y Festivos;01:00;04:56
-F28N;Diego Portales;S√°bado;01:00;04:56
+F28N;Diego Portales;S·bado;01:00;04:56
 F28N;Diego Portales;Lunes a Viernes;01:00;04:56
 F28N;La Primavera;Domingo y Festivos;01:00;04:56
 F28N;La Primavera;Lunes a Viernes;01:00;04:56
-F28N;La Primavera;S√°bado;01:00;04:56
-F30N;La Moneda;S√°bado;01:00;05:00
+F28N;La Primavera;S·bado;01:00;04:56
+F30N;La Moneda;S·bado;01:00;05:00
 F30N;La Moneda;Lunes a Viernes;01:00;05:00
 F30N;La Moneda;Domingo y Festivos;01:00;05:00
 F30N;Bajos De Mena;Domingo y Festivos;01:00;05:00
 F30N;Bajos De Mena;Lunes a Viernes;01:00;05:00
-F30N;Bajos De Mena;S√°bado;01:00;05:00
-G01;Santo Tom√°s;S√°bado;05:30;00:30
-G01;Santo Tom√°s;Lunes a Viernes;05:30;00:30
-G01;Santo Tom√°s;Domingo y Festivos;05:30;00:30
-G01;Villa 4 De Septiembre;S√°bado;05:30;00:30
+F30N;Bajos De Mena;S·bado;01:00;05:00
+G01;Santo Tom·s;S·bado;05:30;00:30
+G01;Santo Tom·s;Lunes a Viernes;05:30;00:30
+G01;Santo Tom·s;Domingo y Festivos;05:30;00:30
+G01;Villa 4 De Septiembre;S·bado;05:30;00:30
 G01;Villa 4 De Septiembre;Lunes a Viernes;05:30;00:30
 G01;Villa 4 De Septiembre;Domingo y Festivos;05:30;00:30
 G01c;Santa Rosa P. 21;Lunes a Viernes;17:30;20:18
@@ -1576,230 +1576,230 @@ G01c;Villa 4 De Septiembre;Lunes a Viernes;17:30;20:18
 G01c;Villa 4 De Septiembre;Lunes a Viernes;06:30;08:18
 G02;Puente Los Morros;Lunes a Viernes;05:30;23:40
 G02;Puente Los Morros;Domingo y Festivos;05:30;23:30
-G02;Puente Los Morros;S√°bado;05:30;23:40
-G02;Plaza San Bernardo;S√°bado;05:30;23:40
+G02;Puente Los Morros;S·bado;05:30;23:40
+G02;Plaza San Bernardo;S·bado;05:30;23:40
 G02;Plaza San Bernardo;Domingo y Festivos;05:30;23:30
 G02;Plaza San Bernardo;Lunes a Viernes;05:30;23:40
-G04;Santo Tom√°s;Domingo y Festivos;05:30;00:40
-G04;Santo Tom√°s;Lunes a Viernes;05:30;00:40
-G04;Santo Tom√°s;S√°bado;05:30;00:40
+G04;Santo Tom·s;Domingo y Festivos;05:30;00:40
+G04;Santo Tom·s;Lunes a Viernes;05:30;00:40
+G04;Santo Tom·s;S·bado;05:30;00:40
 G04;(M) La Cisterna;Domingo y Festivos;05:30;00:40
 G04;(M) La Cisterna;Lunes a Viernes;04:00;00:40
-G04;(M) La Cisterna;S√°bado;05:30;00:40
-G05;(M) La Cisterna;S√°bado;00:00;23:59
+G04;(M) La Cisterna;S·bado;05:30;00:40
+G05;(M) La Cisterna;S·bado;00:00;23:59
 G05;(M) La Cisterna;Domingo y Festivos;00:00;23:59
 G05;(M) La Cisterna;Lunes a Viernes;00:00;23:59
 G05;El Castillo;Domingo y Festivos;00:00;23:59
-G05;El Castillo;S√°bado;00:00;23:59
+G05;El Castillo;S·bado;00:00;23:59
 G05;El Castillo;Lunes a Viernes;00:00;23:59
 G07;Lo Herrera;Domingo y Festivos;05:30;23:30
-G07;Lo Herrera;S√°bado;05:30;23:40
+G07;Lo Herrera;S·bado;05:30;23:40
 G07;Lo Herrera;Lunes a Viernes;05:30;23:40
-G07;San Francisco;S√°bado;05:30;23:40
+G07;San Francisco;S·bado;05:30;23:40
 G07;San Francisco;Domingo y Festivos;05:30;23:30
 G07;San Francisco;Lunes a Viernes;05:30;23:40
-G08;(M) La Cisterna;S√°bado;00:00;23:59
+G08;(M) La Cisterna;S·bado;00:00;23:59
 G08;(M) La Cisterna;Domingo y Festivos;00:00;23:59
 G08;(M) La Cisterna;Lunes a Viernes;00:00;23:59
-G08;Poblaci√≥n La Selva;Lunes a Viernes;00:00;23:59
-G08;Poblaci√≥n La Selva;S√°bado;00:00;23:59
-G08;Poblaci√≥n La Selva;Domingo y Festivos;00:00;23:59
+G08;PoblaciÛn La Selva;Lunes a Viernes;00:00;23:59
+G08;PoblaciÛn La Selva;S·bado;00:00;23:59
+G08;PoblaciÛn La Selva;Domingo y Festivos;00:00;23:59
 G08v;(M) La Cisterna;Lunes a Viernes;05:30;23:55
 G08v;(M) La Cisterna;Domingo y Festivos;05:30;23:55
-G08v;(M) La Cisterna;S√°bado;05:30;23:55
-G08v;Nos;S√°bado;05:30;23:55
+G08v;(M) La Cisterna;S·bado;05:30;23:55
+G08v;Nos;S·bado;05:30;23:55
 G08v;Nos;Domingo y Festivos;05:30;23:55
 G08v;Nos;Lunes a Viernes;05:30;23:55
 G09;Santa Margarita;Lunes a Viernes;05:00;00:30
-G09;Santa Margarita;S√°bado;05:00;00:30
+G09;Santa Margarita;S·bado;05:00;00:30
 G09;Santa Margarita;Domingo y Festivos;05:00;00:30
 G09;Lo Blanco;Lunes a Viernes;05:00;00:30
-G09;Lo Blanco;S√°bado;05:00;00:30
+G09;Lo Blanco;S·bado;05:00;00:30
 G09;Lo Blanco;Domingo y Festivos;05:00;00:30
 G11;(M) Lo Ovalle;Lunes a Viernes;05:30;00:30
 G11;(M) Lo Ovalle;Domingo y Festivos;05:30;00:30
-G11;(M) Lo Ovalle;S√°bado;05:30;00:30
+G11;(M) Lo Ovalle;S·bado;05:30;00:30
 G11;Lo Blanco;Lunes a Viernes;05:30;00:30
 G11;Lo Blanco;Domingo y Festivos;05:30;00:30
-G11;Lo Blanco;S√°bado;05:30;00:30
+G11;Lo Blanco;S·bado;05:30;00:30
 G12;Cementerio Metropolitano;Domingo y Festivos;05:30;23:40
 G12;Cementerio Metropolitano;Lunes a Viernes;05:30;23:40
-G12;Cementerio Metropolitano;S√°bado;05:30;23:40
+G12;Cementerio Metropolitano;S·bado;05:30;23:40
 G12;(M) Lo Ovalle;Lunes a Viernes;05:30;23:40
-G12;(M) Lo Ovalle;S√°bado;05:30;23:40
+G12;(M) Lo Ovalle;S·bado;05:30;23:40
 G12;(M) Lo Ovalle;Domingo y Festivos;05:30;23:40
-G13;El Castillo;S√°bado;05:30;23:55
+G13;El Castillo;S·bado;05:30;23:55
 G13;El Castillo;Domingo y Festivos;05:30;23:55
 G13;El Castillo;Lunes a Viernes;05:30;23:55
 G13;(M) La Cisterna;Domingo y Festivos;05:30;23:55
 G13;(M) La Cisterna;Lunes a Viernes;05:30;23:55
-G13;(M) La Cisterna;S√°bado;05:30;23:55
-G14;Poblaci√≥n Valle Nevado;S√°bado;05:30;23:40
-G14;Poblaci√≥n Valle Nevado;Domingo y Festivos;05:30;23:30
-G14;Poblaci√≥n Valle Nevado;Lunes a Viernes;05:30;23:40
+G13;(M) La Cisterna;S·bado;05:30;23:55
+G14;PoblaciÛn Valle Nevado;S·bado;05:30;23:40
+G14;PoblaciÛn Valle Nevado;Domingo y Festivos;05:30;23:30
+G14;PoblaciÛn Valle Nevado;Lunes a Viernes;05:30;23:40
 G14;Lo Blanco;Lunes a Viernes;05:30;23:40
-G14;Lo Blanco;S√°bado;05:30;23:40
+G14;Lo Blanco;S·bado;05:30;23:40
 G14;Lo Blanco;Domingo y Festivos;05:30;23:30
-G15;Santo Tom√°s;S√°bado;00:00;23:59
-G15;Santo Tom√°s;Lunes a Viernes;00:00;23:59
-G15;Santo Tom√°s;Domingo y Festivos;00:00;23:59
+G15;Santo Tom·s;S·bado;00:00;23:59
+G15;Santo Tom·s;Lunes a Viernes;00:00;23:59
+G15;Santo Tom·s;Domingo y Festivos;00:00;23:59
 G15;(M) La Cisterna;Domingo y Festivos;00:00;23:59
-G15;(M) La Cisterna;S√°bado;00:00;23:59
+G15;(M) La Cisterna;S·bado;00:00;23:59
 G15;(M) La Cisterna;Lunes a Viernes;00:00;23:59
 G16;Lo Blanco;Lunes a Viernes;05:30;00:30
-G16;Lo Blanco;S√°bado;05:30;00:30
+G16;Lo Blanco;S·bado;05:30;00:30
 G16;Lo Blanco;Domingo y Festivos;05:30;00:30
 G16;(M) La Cisterna;Lunes a Viernes;05:30;00:30
 G16;(M) La Cisterna;Domingo y Festivos;05:30;00:30
-G16;(M) La Cisterna;S√°bado;05:30;00:30
-G18;(M) Lo Ovalle;S√°bado;05:30;23:45
+G16;(M) La Cisterna;S·bado;05:30;00:30
+G18;(M) Lo Ovalle;S·bado;05:30;23:45
 G18;(M) Lo Ovalle;Lunes a Viernes;05:30;23:45
 G18;(M) Lo Ovalle;Domingo y Festivos;05:30;23:40
 G18;Santo Tomas;Lunes a Viernes;05:30;23:45
-G18;Santo Tomas;S√°bado;05:30;23:45
+G18;Santo Tomas;S·bado;05:30;23:45
 G18;Santo Tomas;Domingo y Festivos;05:30;23:40
-G22;(M) La Cisterna;S√°bado;00:00;23:59
+G22;(M) La Cisterna;S·bado;00:00;23:59
 G22;(M) La Cisterna;Lunes a Viernes;00:00;23:59
 G22;(M) La Cisterna;Domingo y Festivos;00:00;23:59
-G22;Villa Espa√±a;Domingo y Festivos;00:00;23:59
-G22;Villa Espa√±a;Lunes a Viernes;00:00;23:59
-G22;Villa Espa√±a;S√°bado;00:00;23:59
+G22;Villa EspaÒa;Domingo y Festivos;00:00;23:59
+G22;Villa EspaÒa;Lunes a Viernes;00:00;23:59
+G22;Villa EspaÒa;S·bado;00:00;23:59
 H02;(M) Lo Vial;Domingo y Festivos;06:30;00:30
 H02;(M) Lo Vial;Lunes a Viernes;05:30;00:30
-H02;(M) Lo Vial;S√°bado;05:30;00:30
+H02;(M) Lo Vial;S·bado;05:30;00:30
 H02;(M) Carlos Valdovinos;Lunes a Viernes;05:30;00:30
-H02;(M) Carlos Valdovinos;S√°bado;05:30;00:30
+H02;(M) Carlos Valdovinos;S·bado;05:30;00:30
 H02;(M) Carlos Valdovinos;Domingo y Festivos;06:30;00:30
 H03;Mall Plaza Oeste;Lunes a Viernes;05:30;00:30
 H03;Mall Plaza Oeste;Domingo y Festivos;05:30;00:30
-H03;Mall Plaza Oeste;S√°bado;05:30;00:30
+H03;Mall Plaza Oeste;S·bado;05:30;00:30
 H03;(M) Lo Ovalle;Domingo y Festivos;05:30;00:30
 H03;(M) Lo Ovalle;Lunes a Viernes;05:30;00:30
-H03;(M) Lo Ovalle;S√°bado;05:30;00:30
+H03;(M) Lo Ovalle;S·bado;05:30;00:30
 H04;La Victoria;Lunes a Viernes;05:30;00:30
-H04;La Victoria;S√°bado;05:30;00:30
+H04;La Victoria;S·bado;05:30;00:30
 H04;La Victoria;Domingo y Festivos;06:30;00:30
 H04;(M) Carlos Valdovinos;Lunes a Viernes;05:30;00:30
-H04;(M) Carlos Valdovinos;S√°bado;05:30;00:30
+H04;(M) Carlos Valdovinos;S·bado;05:30;00:30
 H04;(M) Carlos Valdovinos;Domingo y Festivos;06:00;00:30
 H05;Pobl. Davila;Domingo y Festivos;05:30;00:30
 H05;Pobl. Davila;Lunes a Viernes;05:30;00:30
-H05;Pobl. Davila;S√°bado;05:30;00:30
+H05;Pobl. Davila;S·bado;05:30;00:30
 H05;(M) Carlos Valdovinos;Lunes a Viernes;05:30;00:30
 H05;(M) Carlos Valdovinos;Domingo y Festivos;06:00;00:30
-H05;(M) Carlos Valdovinos;S√°bado;05:30;00:30
+H05;(M) Carlos Valdovinos;S·bado;05:30;00:30
 H05c;(M) Departamental;Domingo y Festivos;05:30;23:30
 H05c;(M) Departamental;Lunes a Viernes;05:30;23:30
-H05c;(M) Departamental;S√°bado;05:30;23:30
+H05c;(M) Departamental;S·bado;05:30;23:30
 H05c;Pobl. Davila;Domingo y Festivos;05:30;23:30
 H05c;Pobl. Davila;Lunes a Viernes;05:30;23:30
-H05c;Pobl. Davila;S√°bado;05:30;23:30
+H05c;Pobl. Davila;S·bado;05:30;23:30
 H06;Av. Matta;Domingo y Festivos;06:00;00:30
-H06;Av. Matta;S√°bado;05:30;00:30
+H06;Av. Matta;S·bado;05:30;00:30
 H06;Av. Matta;Lunes a Viernes;05:30;00:30
 H06;Pobl. Las Turbinas;Domingo y Festivos;06:00;00:30
 H06;Pobl. Las Turbinas;Lunes a Viernes;05:30;00:30
-H06;Pobl. Las Turbinas;S√°bado;05:30;00:30
-H07;(M) Lo Ovalle;S√°bado;05:45;23:45
+H06;Pobl. Las Turbinas;S·bado;05:30;00:30
+H07;(M) Lo Ovalle;S·bado;05:45;23:45
 H07;(M) Lo Ovalle;Lunes a Viernes;05:42;23:45
 H07;(M) Lo Ovalle;Domingo y Festivos;06:30;23:45
-H07;(M) √ëuble;S√°bado;05:30;23:40
-H07;(M) √ëuble;Lunes a Viernes;05:30;23:40
-H07;(M) √ëuble;Domingo y Festivos;06:00;23:30
-H08;(M) Lo Ovalle;S√°bado;05:30;23:30
+H07;(M) —uble;S·bado;05:30;23:40
+H07;(M) —uble;Lunes a Viernes;05:30;23:40
+H07;(M) —uble;Domingo y Festivos;06:00;23:30
+H08;(M) Lo Ovalle;S·bado;05:30;23:30
 H08;(M) Lo Ovalle;Domingo y Festivos;06:00;23:30
 H08;(M) Lo Ovalle;Lunes a Viernes;05:30;23:30
 H08;Pobl. Las Turbinas;Domingo y Festivos;06:00;23:40
-H08;Pobl. Las Turbinas;S√°bado;05:30;23:40
+H08;Pobl. Las Turbinas;S·bado;05:30;23:40
 H08;Pobl. Las Turbinas;Lunes a Viernes;05:42;23:45
 H09;(M) Carlos Valdovinos;Domingo y Festivos;06:00;00:30
-H09;(M) Carlos Valdovinos;S√°bado;05:30;00:30
+H09;(M) Carlos Valdovinos;S·bado;05:30;00:30
 H09;(M) Carlos Valdovinos;Lunes a Viernes;05:30;00:30
 H09;Pobl. Davila;Lunes a Viernes;05:30;00:30
-H09;Pobl. Davila;S√°bado;05:30;00:30
+H09;Pobl. Davila;S·bado;05:30;00:30
 H09;Pobl. Davila;Domingo y Festivos;06:00;00:30
 H12;(M) Franklin;Lunes a Viernes;05:30;00:30
-H12;(M) Franklin;S√°bado;05:30;00:30
+H12;(M) Franklin;S·bado;05:30;00:30
 H12;(M) Franklin;Domingo y Festivos;05:30;00:30
 H12;Lo Espejo;Domingo y Festivos;06:00;00:30
 H12;Lo Espejo;Lunes a Viernes;05:30;00:30
-H12;Lo Espejo;S√°bado;05:30;00:30
+H12;Lo Espejo;S·bado;05:30;00:30
 H13;Posta Central;Lunes a Viernes;05:30;00:30
 H13;Posta Central;Domingo y Festivos;05:30;00:30
-H13;Posta Central;S√°bado;05:30;00:30
-H13;Santa Olga;S√°bado;05:30;00:30
+H13;Posta Central;S·bado;05:30;00:30
+H13;Santa Olga;S·bado;05:30;00:30
 H13;Santa Olga;Domingo y Festivos;06:00;00:30
 H13;Santa Olga;Lunes a Viernes;05:30;00:30
 H14;(M) Franklin;Lunes a Viernes;05:30;00:30
-H14;(M) Franklin;S√°bado;05:30;00:30
+H14;(M) Franklin;S·bado;05:30;00:30
 H14;(M) Franklin;Domingo y Festivos;06:30;00:30
-H14;Mall Florida Center;S√°bado;05:30;00:30
+H14;Mall Florida Center;S·bado;05:30;00:30
 H14;Mall Florida Center;Domingo y Festivos;07:00;00:30
 H14;Mall Florida Center;Lunes a Viernes;05:30;00:30
-I01;Hospital Borja Arriar√°n;S√°bado;05:00;00:30
-I01;Hospital Borja Arriar√°n;Domingo y Festivos;05:30;00:30
-I01;Hospital Borja Arriar√°n;Lunes a Viernes;05:00;00:30
+I01;Hospital Borja Arriar·n;S·bado;05:00;00:30
+I01;Hospital Borja Arriar·n;Domingo y Festivos;05:30;00:30
+I01;Hospital Borja Arriar·n;Lunes a Viernes;05:00;00:30
 I01;Villa Los Heroes;Lunes a Viernes;05:50;00:30
 I01;Villa Los Heroes;Domingo y Festivos;05:45;00:30
-I01;Villa Los Heroes;S√°bado;05:42;00:30
+I01;Villa Los Heroes;S·bado;05:42;00:30
 I02;(M) Laguna Sur;Domingo y Festivos;05:40;23:30
-I02;(M) Laguna Sur;S√°bado;05:30;23:30
+I02;(M) Laguna Sur;S·bado;05:30;23:30
 I02;(M) Laguna Sur;Lunes a Viernes;05:15;23:30
 I02;Rinconada;Domingo y Festivos;05:50;23:30
 I02;Rinconada;Lunes a Viernes;05:30;23:30
-I02;Rinconada;S√°bado;05:45;23:30
-I03;(M) Las Rejas;S√°bado;05:30;00:30
+I02;Rinconada;S·bado;05:45;23:30
+I03;(M) Las Rejas;S·bado;05:30;00:30
 I03;(M) Las Rejas;Domingo y Festivos;05:30;00:30
 I03;(M) Las Rejas;Lunes a Viernes;05:00;00:40
-I03;Villa Los Heroes;S√°bado;05:30;01:00
+I03;Villa Los Heroes;S·bado;05:30;01:00
 I03;Villa Los Heroes;Domingo y Festivos;06:00;01:00
 I03;Villa Los Heroes;Lunes a Viernes;05:30;01:30
 I03c;(M) San Alberto Hurtado;Lunes a Viernes;06:30;08:18
 I03c;Valle Verde;Lunes a Viernes;17:30;20:15
 I04;(M) San Alberto Hurtado;Lunes a Viernes;05:00;00:40
-I04;(M) San Alberto Hurtado;S√°bado;05:30;00:30
+I04;(M) San Alberto Hurtado;S·bado;05:30;00:30
 I04;(M) San Alberto Hurtado;Domingo y Festivos;05:30;00:30
-I04;Villa El Abrazo;S√°bado;05:40;00:30
+I04;Villa El Abrazo;S·bado;05:40;00:30
 I04;Villa El Abrazo;Lunes a Viernes;05:30;00:40
 I04;Villa El Abrazo;Domingo y Festivos;05:45;00:30
-I04c;(M) Plaza Maipu;S√°bado;01:00;05:00
+I04c;(M) Plaza Maipu;S·bado;01:00;05:00
 I04c;(M) Plaza Maipu;Lunes a Viernes;01:00;04:30
 I04c;(M) Plaza Maipu;Domingo y Festivos;01:00;05:00
 I04c;(M) Plaza Maipu;Lunes a Viernes;06:30;08:22
 I04c;Villa El Abrazo;Lunes a Viernes;06:30;08:20
 I04c;Villa El Abrazo;Domingo y Festivos;01:00;05:00
 I04c;Villa El Abrazo;Lunes a Viernes;01:00;05:00
-I04c;Villa El Abrazo;S√°bado;01:00;05:00
+I04c;Villa El Abrazo;S·bado;01:00;05:00
 I05;(M) Lo Ovalle;Lunes a Viernes;05:00;00:30
-I05;(M) Lo Ovalle;S√°bado;05:00;00:30
+I05;(M) Lo Ovalle;S·bado;05:00;00:30
 I05;(M) Lo Ovalle;Domingo y Festivos;05:00;00:30
 I05;Rinconada;Domingo y Festivos;06:00;00:30
 I05;Rinconada;Lunes a Viernes;05:42;00:30
-I05;Rinconada;S√°bado;05:45;00:30
+I05;Rinconada;S·bado;05:45;00:30
 I07;Mall Arauco Maipu;Domingo y Festivos;05:30;23:30
-I07;Mall Arauco Maipu;S√°bado;05:30;23:30
+I07;Mall Arauco Maipu;S·bado;05:30;23:30
 I07;Mall Arauco Maipu;Lunes a Viernes;05:30;23:30
-I07;Rinconada;S√°bado;05:50;23:30
+I07;Rinconada;S·bado;05:50;23:30
 I07;Rinconada;Domingo y Festivos;05:54;23:30
 I07;Rinconada;Lunes a Viernes;05:30;23:30
-I08;(M) San Alberto Hurtado;S√°bado;05:30;00:40
+I08;(M) San Alberto Hurtado;S·bado;05:30;00:40
 I08;(M) San Alberto Hurtado;Domingo y Festivos;05:30;00:40
 I08;(M) San Alberto Hurtado;Lunes a Viernes;05:30;00:40
-I08;Mall Arauco Maip√∫;Domingo y Festivos;05:30;00:40
-I08;Mall Arauco Maip√∫;Lunes a Viernes;05:30;00:40
-I08;Mall Arauco Maip√∫;S√°bado;05:30;00:40
-I08N;Alameda;S√°bado;01:00;05:15
+I08;Mall Arauco Maip˙;Domingo y Festivos;05:30;00:40
+I08;Mall Arauco Maip˙;Lunes a Viernes;05:30;00:40
+I08;Mall Arauco Maip˙;S·bado;05:30;00:40
+I08N;Alameda;S·bado;01:00;05:15
 I08N;Alameda;Lunes a Viernes;01:00;05:15
 I08N;Alameda;Domingo y Festivos;01:00;05:15
-I08N;La Farfana;S√°bado;01:00;05:15
+I08N;La Farfana;S·bado;01:00;05:15
 I08N;La Farfana;Lunes a Viernes;01:00;05:15
 I08N;La Farfana;Domingo y Festivos;01:00;05:15
 I09;(M) Ula;Lunes a Viernes;04:30;01:00
-I09;(M) Ula;S√°bado;05:00;00:48
+I09;(M) Ula;S·bado;05:00;00:48
 I09;(M) Ula;Domingo y Festivos;05:00;00:48
 I09;Rinconada;Domingo y Festivos;05:36;00:48
 I09;Rinconada;Lunes a Viernes;05:36;01:30
-I09;Rinconada;S√°bado;05:40;00:48
+I09;Rinconada;S·bado;05:40;00:48
 I09c;(M) Las Rejas;Lunes a Viernes;17:30;20:17
 I09c;Rinconada;Lunes a Viernes;17:30;20:17
 I09e;(M) Ula;Lunes a Viernes;06:30;08:22
@@ -1808,181 +1808,181 @@ I09e;Rinconada;Lunes a Viernes;06:30;08:16
 I09e;Rinconada;Lunes a Viernes;17:37;20:22
 I10;Usach;Lunes a Viernes;05:30;00:40
 I10;Usach;Domingo y Festivos;05:30;00:30
-I10;Usach;S√°bado;05:30;00:40
-I10;Villa Los H√©roes;Domingo y Festivos;05:30;00:50
-I10;Villa Los H√©roes;S√°bado;05:30;00:50
-I10;Villa Los H√©roes;Lunes a Viernes;05:30;00:50
+I10;Usach;S·bado;05:30;00:40
+I10;Villa Los HÈroes;Domingo y Festivos;05:30;00:50
+I10;Villa Los HÈroes;S·bado;05:30;00:50
+I10;Villa Los HÈroes;Lunes a Viernes;05:30;00:50
 I10N;Alameda;Lunes a Viernes;01:00;05:15
-I10N;Alameda;S√°bado;01:00;05:15
+I10N;Alameda;S·bado;01:00;05:15
 I10N;Alameda;Domingo y Festivos;01:00;05:15
 I10N;Villa Los Heroes;Lunes a Viernes;01:15;05:15
-I10N;Villa Los Heroes;S√°bado;01:15;05:15
+I10N;Villa Los Heroes;S·bado;01:15;05:15
 I10N;Villa Los Heroes;Domingo y Festivos;01:15;05:15
-I11;(M) Plaza Maipu;S√°bado;00:00;23:59
+I11;(M) Plaza Maipu;S·bado;00:00;23:59
 I11;(M) Plaza Maipu;Lunes a Viernes;00:00;23:59
 I11;(M) Plaza Maipu;Domingo y Festivos;00:00;23:59
 I11;Ciudad Satelite;Lunes a Viernes;00:00;23:59
-I11;Ciudad Satelite;S√°bado;00:00;23:59
+I11;Ciudad Satelite;S·bado;00:00;23:59
 I11;Ciudad Satelite;Domingo y Festivos;00:00;23:59
 I12;Mall Florida Center;Lunes a Viernes;05:00;00:30
 I12;Mall Florida Center;Domingo y Festivos;05:30;00:30
-I12;Mall Florida Center;S√°bado;05:30;00:30
-I12;Pueblito La Farfana;S√°bado;05:54;00:30
+I12;Mall Florida Center;S·bado;05:30;00:30
+I12;Pueblito La Farfana;S·bado;05:54;00:30
 I12;Pueblito La Farfana;Domingo y Festivos;06:00;00:30
 I12;Pueblito La Farfana;Lunes a Viernes;05:54;00:30
 I13;(M) San Alberto Hurtado;Lunes a Viernes;05:00;00:30
 I13;(M) San Alberto Hurtado;Domingo y Festivos;05:30;00:30
-I13;(M) San Alberto Hurtado;S√°bado;05:15;00:30
+I13;(M) San Alberto Hurtado;S·bado;05:15;00:30
 I13;Villa Los Presidentes;Domingo y Festivos;06:00;00:30
-I13;Villa Los Presidentes;S√°bado;06:00;00:30
+I13;Villa Los Presidentes;S·bado;06:00;00:30
 I13;Villa Los Presidentes;Lunes a Viernes;05:54;00:30
-I14;Estaci√≥n Central;S√°bado;05:30;00:30
-I14;Estaci√≥n Central;Domingo y Festivos;05:30;00:30
-I14;Estaci√≥n Central;Lunes a Viernes;05:30;00:30
+I14;EstaciÛn Central;S·bado;05:30;00:30
+I14;EstaciÛn Central;Domingo y Festivos;05:30;00:30
+I14;EstaciÛn Central;Lunes a Viernes;05:30;00:30
 I14;Mall Plaza Oeste;Lunes a Viernes;05:30;00:30
 I14;Mall Plaza Oeste;Domingo y Festivos;05:30;00:30
-I14;Mall Plaza Oeste;S√°bado;05:30;00:30
-I16;Ferrocarril;S√°bado;05:30;00:00
+I14;Mall Plaza Oeste;S·bado;05:30;00:30
+I16;Ferrocarril;S·bado;05:30;00:00
 I16;Ferrocarril;Lunes a Viernes;05:00;00:00
 I16;Ferrocarril;Domingo y Festivos;05:30;00:30
 I16;Poblacion Santiago;Domingo y Festivos;05:50;00:30
-I16;Poblacion Santiago;S√°bado;05:45;00:30
+I16;Poblacion Santiago;S·bado;05:45;00:30
 I16;Poblacion Santiago;Lunes a Viernes;05:30;00:30
 I17;Hospital San Juan De Dios;Lunes a Viernes;05:30;00:30
-I17;Hospital San Juan De Dios;S√°bado;05:30;00:00
+I17;Hospital San Juan De Dios;S·bado;05:30;00:00
 I17;Hospital San Juan De Dios;Domingo y Festivos;05:30;00:30
 I17;Villa Francia;Domingo y Festivos;05:46;00:30
-I17;Villa Francia;S√°bado;05:50;00:30
+I17;Villa Francia;S·bado;05:50;00:30
 I17;Villa Francia;Lunes a Viernes;05:45;00:30
-I18;(M) Ula;S√°bado;05:30;00:30
+I18;(M) Ula;S·bado;05:30;00:30
 I18;(M) Ula;Domingo y Festivos;05:30;00:30
 I18;(M) Ula;Lunes a Viernes;05:30;00:30
 I18;Rinconada;Lunes a Viernes;05:30;00:30
-I18;Rinconada;S√°bado;05:30;00:30
+I18;Rinconada;S·bado;05:30;00:30
 I18;Rinconada;Domingo y Festivos;05:30;00:30
 I20;Marta Ossa Ruiz;Lunes a Viernes;05:30;23:40
 I20;Marta Ossa Ruiz;Domingo y Festivos;05:30;23:30
-I20;Marta Ossa Ruiz;S√°bado;05:30;23:45
+I20;Marta Ossa Ruiz;S·bado;05:30;23:45
 I20;Valle Verde;Lunes a Viernes;05:30;23:40
 I20;Valle Verde;Domingo y Festivos;05:30;23:30
-I20;Valle Verde;S√°bado;05:30;23:45
+I20;Valle Verde;S·bado;05:30;23:45
 I21;(M) Plaza Maipu;Domingo y Festivos;06:15;23:40
-I21;(M) Plaza Maipu;S√°bado;05:45;23:40
+I21;(M) Plaza Maipu;S·bado;05:45;23:40
 I21;(M) Plaza Maipu;Lunes a Viernes;05:30;23:40
-I21;Villa Hernan D√≠az;Lunes a Viernes;05:40;23:40
-I21;Villa Hernan D√≠az;S√°bado;06:15;23:40
-I21;Villa Hernan D√≠az;Domingo y Festivos;06:45;23:45
+I21;Villa Hernan DÌaz;Lunes a Viernes;05:40;23:40
+I21;Villa Hernan DÌaz;S·bado;06:15;23:40
+I21;Villa Hernan DÌaz;Domingo y Festivos;06:45;23:45
 I22;(M) Del Sol;Lunes a Viernes;05:30;23:40
 I22;(M) Del Sol;Domingo y Festivos;05:30;23:40
-I22;(M) Del Sol;S√°bado;05:30;23:40
+I22;(M) Del Sol;S·bado;05:30;23:40
 I22;La Farfana;Lunes a Viernes;05:30;23:40
-I22;La Farfana;S√°bado;05:30;23:40
+I22;La Farfana;S·bado;05:30;23:40
 I22;La Farfana;Domingo y Festivos;05:30;23:40
 I24;Plaza Oeste;Lunes a Viernes;05:30;23:45
-I24;Plaza Oeste;S√°bado;05:30;23:40
+I24;Plaza Oeste;S·bado;05:30;23:40
 I24;Plaza Oeste;Domingo y Festivos;05:50;23:40
 I24;Villa Los Maitenes;Domingo y Festivos;05:50;23:40
-I24;Villa Los Maitenes;S√°bado;05:45;23:40
+I24;Villa Los Maitenes;S·bado;05:45;23:40
 I24;Villa Los Maitenes;Lunes a Viernes;05:30;23:45
 J01;(M) Quinta Normal;Lunes a Viernes;05:00;23:40
 J01;(M) Quinta Normal;Domingo y Festivos;05:30;23:40
-J01;(M) Quinta Normal;S√°bado;05:30;23:40
+J01;(M) Quinta Normal;S·bado;05:30;23:40
 J01;Pudahuel Sur;Lunes a Viernes;05:30;00:25
 J01;Pudahuel Sur;Domingo y Festivos;05:30;00:25
-J01;Pudahuel Sur;S√°bado;05:30;00:25
-J02;(M) U.L.A.;S√°bado;05:30;23:53
+J01;Pudahuel Sur;S·bado;05:30;00:25
+J02;(M) U.L.A.;S·bado;05:30;23:53
 J02;(M) U.L.A.;Lunes a Viernes;05:30;23:54
 J02;(M) U.L.A.;Domingo y Festivos;05:30;23:55
 J02;Enea;Domingo y Festivos;05:57;00:30
-J02;Enea;S√°bado;06:01;00:30
+J02;Enea;S·bado;06:01;00:30
 J02;Enea;Lunes a Viernes;06:05;00:30
 J03;(M) Republica;Lunes a Viernes;05:30;23:40
 J03;(M) Republica;Domingo y Festivos;05:30;23:45
-J03;(M) Republica;S√°bado;05:30;23:45
-J03;Costanera Sur;S√°bado;07:30;01:40
+J03;(M) Republica;S·bado;05:30;23:45
+J03;Costanera Sur;S·bado;07:30;01:40
 J03;Costanera Sur;Lunes a Viernes;07:30;01:40
 J03;Costanera Sur;Domingo y Festivos;07:30;01:40
 J04;La Alianza;Lunes a Viernes;06:00;23:45
-J04;La Alianza;S√°bado;06:00;23:54
+J04;La Alianza;S·bado;06:00;23:54
 J04;La Alianza;Domingo y Festivos;05:50;23:45
 J04;(M) Neptuno;Domingo y Festivos;05:30;23:59
-J04;(M) Neptuno;S√°bado;05:40;23:59
+J04;(M) Neptuno;S·bado;05:40;23:59
 J04;(M) Neptuno;Lunes a Viernes;05:30;23:53
 J06;(M) Pajaritos;Lunes a Viernes;05:55;23:55
 J06;(M) Pajaritos;Domingo y Festivos;06:00;23:55
-J06;(M) Pajaritos;S√°bado;05:55;23:55
+J06;(M) Pajaritos;S·bado;05:55;23:55
 J06;(M) Pudahuel;Lunes a Viernes;05:30;23:30
-J06;(M) Pudahuel;S√°bado;05:30;23:30
+J06;(M) Pudahuel;S·bado;05:30;23:30
 J06;(M) Pudahuel;Domingo y Festivos;05:30;23:30
 J08;Hospital Felix Bulnes;Domingo y Festivos;00:00;23:59
-J08;Hospital Felix Bulnes;S√°bado;00:00;23:59
+J08;Hospital Felix Bulnes;S·bado;00:00;23:59
 J08;Hospital Felix Bulnes;Lunes a Viernes;00:00;23:59
-J08;Pudahuel Sur;S√°bado;00:00;23:59
+J08;Pudahuel Sur;S·bado;00:00;23:59
 J08;Pudahuel Sur;Domingo y Festivos;00:00;23:59
 J08;Pudahuel Sur;Lunes a Viernes;00:00;23:59
-J10;Parque De Los Reyes;S√°bado;05:30;23:30
+J10;Parque De Los Reyes;S·bado;05:30;23:30
 J10;Parque De Los Reyes;Lunes a Viernes;05:30;23:30
 J10;Parque De Los Reyes;Domingo y Festivos;05:30;23:28
 J10;San Daniel;Domingo y Festivos;05:52;23:42
-J10;San Daniel;S√°bado;05:48;23:47
+J10;San Daniel;S·bado;05:48;23:47
 J10;San Daniel;Lunes a Viernes;05:45;23:40
 J11;(M) Pajaritos;Lunes a Viernes;05:37;23:35
-J11;(M) Pajaritos;S√°bado;05:30;23:51
+J11;(M) Pajaritos;S·bado;05:30;23:51
 J11;(M) Pajaritos;Domingo y Festivos;05:30;23:30
 J11;Lomas De Lo Aguirre;Lunes a Viernes;05:57;23:30
 J11;Lomas De Lo Aguirre;Domingo y Festivos;05:53;23:55
-J11;Lomas De Lo Aguirre;S√°bado;05:56;23:50
-J12;Ciudad De Los Valles;S√°bado;06:00;23:41
+J11;Lomas De Lo Aguirre;S·bado;05:56;23:50
+J12;Ciudad De Los Valles;S·bado;06:00;23:41
 J12;Ciudad De Los Valles;Domingo y Festivos;05:53;23:55
 J12;Ciudad De Los Valles;Lunes a Viernes;06:00;23:46
 J12;(M) Pajaritos;Lunes a Viernes;05:30;23:21
 J12;(M) Pajaritos;Domingo y Festivos;05:30;23:30
-J12;(M) Pajaritos;S√°bado;05:30;23:40
-J13;Costanera Sur;S√°bado;05:50;00:35
+J12;(M) Pajaritos;S·bado;05:30;23:40
+J13;Costanera Sur;S·bado;05:50;00:35
 J13;Costanera Sur;Domingo y Festivos;05:57;00:35
 J13;Costanera Sur;Lunes a Viernes;06:05;00:35
-J13;(M) Estaci√≥n Central;S√°bado;05:30;23:58
-J13;(M) Estaci√≥n Central;Domingo y Festivos;05:30;23:59
-J13;(M) Estaci√≥n Central;Lunes a Viernes;05:30;23:59
+J13;(M) EstaciÛn Central;S·bado;05:30;23:58
+J13;(M) EstaciÛn Central;Domingo y Festivos;05:30;23:59
+J13;(M) EstaciÛn Central;Lunes a Viernes;05:30;23:59
 J13c;Costanera Sur;Lunes a Viernes;06:00;23:40
 J13c;(M) San Pablo;Lunes a Viernes;05:30;22:59
-J14c;Pudahuel Sur;S√°bado;05:50;23:48
+J14c;Pudahuel Sur;S·bado;05:50;23:48
 J14c;Pudahuel Sur;Domingo y Festivos;05:45;23:49
 J14c;Pudahuel Sur;Lunes a Viernes;05:50;23:45
 J14c;Villa Roosevelt;Domingo y Festivos;05:30;23:40
 J14c;Villa Roosevelt;Lunes a Viernes;05:30;23:42
-J14c;Villa Roosevelt;S√°bado;05:30;23:40
+J14c;Villa Roosevelt;S·bado;05:30;23:40
 J15c;(M) Neptuno;Lunes a Viernes;05:30;23:25
 J15c;La Alianza;Lunes a Viernes;05:50;23:42
-J16;(M) Estaci√≥n Central;Lunes a Viernes;05:30;23:32
-J16;(M) Estaci√≥n Central;S√°bado;05:30;23:34
-J16;(M) Estaci√≥n Central;Domingo y Festivos;05:30;23:30
+J16;(M) EstaciÛn Central;Lunes a Viernes;05:30;23:32
+J16;(M) EstaciÛn Central;S·bado;05:30;23:34
+J16;(M) EstaciÛn Central;Domingo y Festivos;05:30;23:30
 J16;Costanera Sur;Domingo y Festivos;06:02;23:48
 J16;Costanera Sur;Lunes a Viernes;06:03;23:44
-J16;Costanera Sur;S√°bado;06:00;23:51
+J16;Costanera Sur;S·bado;06:00;23:51
 J17;Puerto Santiago;Lunes a Viernes;06:30;23:30
-J17;Puerto Santiago;S√°bado;06:30;22:34
+J17;Puerto Santiago;S·bado;06:30;22:34
 J17;Puerto Santiago;Domingo y Festivos;07:47;22:49
-J17;(M) Pajaritos;S√°bado;06:35;22:35
+J17;(M) Pajaritos;S·bado;06:35;22:35
 J17;(M) Pajaritos;Domingo y Festivos;07:30;22:30
 J17;(M) Pajaritos;Lunes a Viernes;06:38;23:38
 J18;(M) San Pablo;Domingo y Festivos;05:30;23:30
 J18;(M) San Pablo;Lunes a Viernes;05:20;23:30
-J18;(M) San Pablo;S√°bado;05:30;23:30
+J18;(M) San Pablo;S·bado;05:30;23:30
 J18;Enea;Domingo y Festivos;05:46;23:57
 J18;Enea;Lunes a Viernes;05:41;23:53
-J18;Enea;S√°bado;05:47;23:57
+J18;Enea;S·bado;05:47;23:57
 J18c;(M) San Pablo;Lunes a Viernes;06:30;08:54
 J18c;El Tranque;Lunes a Viernes;17:30;21:06
 J19;(M) Santa Ana;Lunes a Viernes;05:30;23:54
-J19;(M) Santa Ana;S√°bado;05:30;23:54
+J19;(M) Santa Ana;S·bado;05:30;23:54
 J19;(M) Santa Ana;Domingo y Festivos;05:30;23:54
 J19;Pudahuel Sur;Lunes a Viernes;06:00;00:30
 J19;Pudahuel Sur;Domingo y Festivos;05:58;00:38
-J19;Pudahuel Sur;S√°bado;06:00;00:30
-J20;(M) Pudahuel;S√°bado;05:30;22:59
+J19;Pudahuel Sur;S·bado;06:00;00:30
+J20;(M) Pudahuel;S·bado;05:30;22:59
 J20;(M) Pudahuel;Domingo y Festivos;05:30;22:59
 J20;(M) Pudahuel;Lunes a Viernes;05:30;22:55
-J20;El Montijo;S√°bado;06:05;23:41
+J20;El Montijo;S·bado;06:05;23:41
 J20;El Montijo;Lunes a Viernes;06:04;23:31
 J20;El Montijo;Domingo y Festivos;06:03;23:35

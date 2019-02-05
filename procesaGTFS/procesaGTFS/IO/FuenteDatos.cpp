@@ -853,7 +853,7 @@ void FuenteDatos::leeHorarios()
 			for (std::string::size_type i = 0; i < cur[1].length(); ++i)
 				str[i] = std::toupper(cur[1][i], loc);
 
-			//cout << (*iser).second.destino << "|" << str << endl;
+			cout << cur.at(0) << "|" << (*iser).second.destino << "|" << str << endl;
 			if((*iser).second.destino.compare(str)==0)
 				(*iser).second.horarioI.append(cur.at(2) + "-" + cur.at(3) + "-" + cur.at(4) + "/");
 			else
