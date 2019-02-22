@@ -18,6 +18,7 @@
 #include <vector>
 #include <string>
 #include <locale>
+#include <algorithm>
 #include "Parametros.h"
 #include "ReporteFuenteDatos.h"
 #include "../Utilidades/StringFunctions.h"
@@ -87,6 +88,20 @@ class FuenteDatos{
 
 	///Grilla para ordenar informacion geograficamente
 	Grid grid;
+
+	///StopsTimes
+	struct Secuencia
+	{
+		map<int, string> paradas;
+		string hora_ini = string("-");
+		string hora_fin = string("-");
+		string nombre = string("-");
+		string version = string("-");
+		string codigo = string("-");
+	};
+
+	map<string, Secuencia > secuencias;
+	map<string, Secuencia >::iterator isec;
 
 	///Instancia de clase para manejo de tiempo
 	TimeStampHandler tsh;

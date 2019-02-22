@@ -330,6 +330,17 @@ void FuenteDatos::leeRedDeParadas()
 		ConvertCoordinate::LLtoUTM(23, atof(cur[3].c_str()), atof(cur[4].c_str()), y, x, UTMZone);
 
 		//stop_id,stop_code,stop_name,stop_lat,stop_lon
+		///estandarizacion del nombre
+		//Quitar el código de paradero(ya hecho)
+		//Quitar los slash(/ )
+		//Quitar el punto de la palabra "Esq." y que la "E" sea minúscula.Resultado: "Esq." -> "esq"
+		//Quitar "@"
+		string nombre = cur[2];
+		nombre.erase(std::remove(nombre.begin(), nombre.end(), '/'), nombre.end());
+		nombre.erase(std::remove(nombre.begin(), nombre.end(), '.'), nombre.end());
+		nombre.erase(std::remove(nombre.begin(), nombre.end(), '@'), nombre.end());
+
+
 		Paradero par = Paradero(atof(cur[3].c_str()), atof(cur[4].c_str()),(int)x, (int)y, cur[0], cur[2]);
 
 		redParaderos.red[par.codigo] = par;
@@ -592,19 +603,8 @@ void FuenteDatos::readStopTimes()
 	}
 
 	/*****************************/
+	cout << "FLAG 0" << endl;
 
-	struct Secuencia
-	{
-		map<int, string> paradas;
-		string hora_ini = string("-");
-		string hora_fin = string("-");
-		string nombre = string("-");
-		string version = string("-");
-		string codigo = string("-");
-	};
-
-	map<string, Secuencia > secuencias;
-	map<string, Secuencia >::iterator isec;
 
 	///Archivo de entrada Principal
 	ifstream archivoParaderos;
@@ -668,7 +668,7 @@ void FuenteDatos::readStopTimes()
 			(*isec).second.paradas[atoi(cur[4].c_str())] = cur[3];
 		}
 	}
-
+	cout << "FLAG 1" << endl;
 	///DEBUG
 	ofstream fout;
 	fout.open("Android_busstops_sequences" + parametros->version + ".csv");
@@ -687,19 +687,21 @@ void FuenteDatos::readStopTimes()
 	
 		if (isec == secuencias.begin())
 		{
+			cout << "FLIG 0 : " << endl;
 			int ihora_ini = tsh.Time2Seconds((*isec).second.hora_ini);
 			int ihora_fin = tsh.Time2Seconds((*isec).second.hora_fin);
-
+			cout << "FLIG 1 : " << endl;
 			if (ihora_ini <= min_hora_ini) min_hora_ini = ihora_ini;
 			if (ihora_fin >= max_hora_fin) max_hora_fin = ihora_fin;
 		}
-		if (isec_ant != secuencias.end())
+		else 
+		//if (isec_ant != secuencias.end())
 		{
-			vector<string> cod = StringFunctions::Explode((*isec_ant).second.codigo, '-');
+			vector<string> cod_ant = StringFunctions::Explode((*isec_ant).second.codigo, '-');
 
-			string servicio = cod[0];
-			string sentido = cod[1];
-			string tipoDia = cod[2];
+			string servicio = cod_ant[0];
+			string sentido = cod_ant[1];
+			string tipoDia = cod_ant[2];
 
 			//chequeo igualdad
 			bool sonIguales = true;
@@ -721,12 +723,13 @@ void FuenteDatos::readStopTimes()
 			///codigo anterior igual, se fusionan horarios
 			if ((*isec).second.codigo.compare((*isec_ant).second.codigo) == 0 && sonIguales)
 			{
+				cout << "FLIG 2 : " << (*isec).second.codigo << "|" << (*isec_ant).second.codigo << "|" << (*isec_ant).second.hora_ini << "|" << (*isec_ant).second.hora_fin << endl;
 				int ihora_ini_ant = tsh.Time2Seconds((*isec_ant).second.hora_ini);
 				int ihora_fin_ant = tsh.Time2Seconds((*isec_ant).second.hora_fin);
-
+				cout << "FLIG 3 : " << endl;
 				int ihora_ini = tsh.Time2Seconds((*isec).second.hora_ini);
 				int ihora_fin = tsh.Time2Seconds((*isec).second.hora_fin);
-
+				cout << "FLIG 4 : " << endl;
 				if (ihora_ini_ant <= min_hora_ini) min_hora_ini = ihora_ini_ant;
 				if (ihora_ini <= min_hora_ini) min_hora_ini = ihora_ini;
 
@@ -748,6 +751,7 @@ void FuenteDatos::readStopTimes()
 
 				if (min_hora_ini == 999999 || max_hora_fin == -1)
 				{
+					cout << "FLIG 5 : " << endl;
 					//fout << (*isec_ant).first << ";";
 					fout << servicio << ";";
 					fout << sentido << ";";
@@ -755,9 +759,9 @@ void FuenteDatos::readStopTimes()
 					fout << (*isec_ant).second.hora_ini << ";";
 					fout << (*isec_ant).second.hora_fin << ";";
 					fout << nombre << ";";
-					for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
+					for (map<int, string>::iterator ipar = (*isec_ant).second.paradas.begin(); ipar != (*isec_ant).second.paradas.end(); ipar++)
 					{
-						if (ipar == (*isec).second.paradas.begin())
+						if (ipar == (*isec_ant).second.paradas.begin())
 							fout << (*ipar).second;
 						else
 							fout << "-" << (*ipar).second;
@@ -766,16 +770,24 @@ void FuenteDatos::readStopTimes()
 				}
 				else
 				{
+					cout << "FLIG 6 : " << endl;
 					//fout << (*isec_ant).first << ";";
 					fout << servicio << ";";
 					fout << sentido << ";";
 					fout << tipoDia << ";";
 					fout << tsh.Seconds2TimeStampInDay(min_hora_ini) << ";";
-					fout << tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
-					fout << nombre << ";";
-					for (map<int, string>::iterator ipar = (*isec).second.paradas.begin(); ipar != (*isec).second.paradas.end(); ipar++)
+					cout << "FLIG 7 : " << endl;
+					if (max_hora_fin == 86400)
 					{
-						if (ipar == (*isec).second.paradas.begin())
+						fout << tsh.Seconds2TimeStampInDay(max_hora_fin - 1) << ";";
+					}
+					else
+						fout << tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
+
+					fout << nombre << ";";
+					for (map<int, string>::iterator ipar = (*isec_ant).second.paradas.begin(); ipar != (*isec_ant).second.paradas.end(); ipar++)
+					{
+						if (ipar == (*isec_ant).second.paradas.begin())
 							fout << (*ipar).second;
 						else
 							fout << "-" << (*ipar).second;
@@ -792,6 +804,7 @@ void FuenteDatos::readStopTimes()
 
 	}
 	fout.close();
+	cout << "FLAG 10" << endl;
 
 	///Variables para reporte
 	reporte->tParadas = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
@@ -853,7 +866,7 @@ void FuenteDatos::leeHorarios()
 			for (std::string::size_type i = 0; i < cur[1].length(); ++i)
 				str[i] = std::toupper(cur[1][i], loc);
 
-			cout << cur.at(0) << "|" << (*iser).second.destino << "|" << str << endl;
+			//cout << cur.at(0) << "|" << (*iser).second.destino << "|" << str << endl;
 			if((*iser).second.destino.compare(str)==0)
 				(*iser).second.horarioI.append(cur.at(2) + "-" + cur.at(3) + "-" + cur.at(4) + "/");
 			else

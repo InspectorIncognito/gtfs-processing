@@ -223,73 +223,70 @@
 101cR;9544;PI438;PI438-Parada 1 / (M) Ecuador
 101cR;10059;PI1793;PI1793-General Amengual / Esq. Coronel Souper
 101cR;10370;PI1794;PI1794-General Amengual / Esq. Av. 5 De Abril
-102I;179;PI1330;PI1330-General Amengual / Esq. Padre V. Irarrázaval
-102I;685;PI1201;PI1201-Santa Teresa / Esq. Arica
-102I;938;PI549;PI549-Avenida 5 De Abril / Esq. Con Con
-102I;1271;PI909;PI909-Concón / Esq. Manuel Thompson
-102I;1443;PI910;PI910-Parada 6 / Concón
-102I;1991;PI1079;PI1079-Avenida Ecuador / Esq. Benedicto Xv
-102I;2228;PI1080;PI1080-Avenida Ecuador / Esq. Radal
-102I;2472;PI1081;PI1081-Avenida Ecuador / Esq. Santa Petronila
-102I;2775;PJ18;PJ18-Parada 11 / (M) Las Rejas
-102I;3209;PI1;PI1-Avenida Las Rejas / Esq. Agustín López
-102I;3588;PI2;PI2-Parada 1 / 5 De Abril - Las Rejas
-102I;3935;PI49;PI49-Avenida Las Rejas / Esq. Quitralco
-102I;4385;PI50;PI50-Avenida Las Rejas / Esq. Colu
-102I;4881;PI51;PI51-Avenida Las Rejas / Esq. Mailef
-102I;5874;PI53;PI53-Suiza / Esq. Cam. Melipilla
-102I;6159;PI1375;PI1375-Parada 3 / (M) Cerrillos
-102I;6453;PI55;PI55-Av. Departamental / Esq. Avenida 7
-102I;6774;PI56;PI56-Av. Departamental / Esq. Av. Gral. Velásquez
-102I;7299;PH2;PH2-Av. Departamental / Esq. Haití
-102I;7854;PH3;PH3-Av. Departamental / Esq. Ranquil
-102I;8262;PH4;PH4-Av. Departamental / Esq. Av. Clotario Blest
-102I;8613;PH5;PH5-Av. Departamental / Esq. Félix Mendelssohn
-102I;8855;PH6;PH6-Av. Departamental / Esq. Club Hípico 
-102I;9144;PH1454;PH1454-Av. Departamental / Esq. Alcibiades
-102I;9429;PH7;PH7-Av. Departamental / Esq. Av. J. J. Prieto Vial
-102I;9676;PH8;PH8-Av. Departamental / Esq. Pasaje 1
-102I;10049;PH9;PH9-Av. Departamental / Esq. 3ª Transversal
-102I;10299;PH10;PH10-Av. Departamental / Esq. 1ª Transversal
-102I;10538;PH11;PH11-Parada 4 / (M) Departamental
-102I;10957;PH12;PH12-Av. Departamental / Esq. Departamental Int.
-102I;11230;PH13;PH13-Av. Departamental / Esq. Miguel Luis Cerda
-102I;11537;PH14;PH14-Av. Departamental / Esq. San Mauricio
-102I;11944;PH15;PH15-Av. Departamental / Esq. Río De Janeiro
-102I;12102;PH16;PH16-Parada 6 / Departamental - Santa Rosa
-102I;12469;PH17;PH17-Parada / Infocap
-102I;12645;PH18;PH18-Av. Departamental / Esq. Juan Planas
-102I;13065;PH19;PH19-Av. Departamental / Esq. Benozzo Gozzoli
-102I;13289;PH1456;PH1456-Av. Departamental / Esq. Av. Las Industrias
-102I;13607;PH1491;PH1491-Av. Departamental / Esq. Vecinal -Norte
-102I;13795;PH21;PH21-Av. Departamental / Esq. Avenida Haydn
-102I;14059;PH22;PH22-Parada / Persa Dapartamental
-102I;14729;PE1500;PE1500-Parada 9 / (M) Pedrero
-102I;15083;PE2;PE2-Av. Departamental / Esq. E. Fernández
-102I;15727;PE3;PE3-Av. Departamental / Esq. Buenaventura 
-102I;16121;PE4;PE4-Av. Departamental / Esq. Nueva 1
-102I;16450;PE5;PE5-Av. Departamental / Esq. Av. A. Vespucio
-102I;16811;PE1292;PE1292-Av. Departamental / Esq. Avenida La Florida
-102I;17385;PE7;PE7-Parada / Centro De Salud La Florida
-102I;17657;PE8;PE8-Parada / Liceo Técnico La Florida
-102I;17889;PE9;PE9-Avenida La Florida / Esq. Real Pontevera
-102I;18423;PE10;PE10-Parada 1 / Paradero 14 Av. La Florida
-102I;18844;PE11;PE11-Parada / Paradero 15 Av. La Florida
-102I;19198;PE12;PE12-Parada / Paradero 16 Av. La Florida
-102I;19612;PE13;PE13-Parada / Paradero 17 Av. La Florida
-102I;20004;PE14;PE14-Parada 1 / Paradero 18 Av. La Florida
-102I;20480;PE15;PE15-Parada 1 / Paradero 19 Av. La Florida
-102I;20955;PE16;PE16-Parada / Boston College La Florida
-102I;21398;PE17;PE17-Parada 1 / Paradero 21 Av. La Florida
-102I;21771;PE18;PE18-Parada / Paradero 22 Av. La Florida
-102I;22044;PE19;PE19-Parada 1 / Paradero 23 Av. La Florida
-102I;22436;PE20;PE20-Parada / Cementerio Parque El Prado
-102I;22639;PE21;PE21-Parada / Paradero 25 Av. La Florida
-102I;22980;PE22;PE22-Parada 1 / Paradero 26 Av. La Florida
-102I;23353;PF1;PF1-Parada / Colegio Mayor
-102I;23669;PF2;PF2-Parada / Liceo Juan Mackenna
-102I;24253;PF3;PF3-Parada 1 / Mall Plaza Tobalaba
-102I;24797;PF4;PF4-Av. Camilo Henríquez / Esq. Av. Gabriela Oriente
+102I;812;PI909;PI909-Concón / Esq. Manuel Thompson
+102I;984;PI910;PI910-Parada 6 / Concón
+102I;1532;PI1079;PI1079-Avenida Ecuador / Esq. Benedicto Xv
+102I;1769;PI1080;PI1080-Avenida Ecuador / Esq. Radal
+102I;2013;PI1081;PI1081-Avenida Ecuador / Esq. Santa Petronila
+102I;2315;PJ18;PJ18-Parada 11 / (M) Las Rejas
+102I;2750;PI1;PI1-Avenida Las Rejas / Esq. Agustín López
+102I;3129;PI2;PI2-Parada 1 / 5 De Abril - Las Rejas
+102I;3475;PI49;PI49-Avenida Las Rejas / Esq. Quitralco
+102I;3926;PI50;PI50-Avenida Las Rejas / Esq. Colu
+102I;4422;PI51;PI51-Avenida Las Rejas / Esq. Mailef
+102I;5415;PI53;PI53-Suiza / Esq. Cam. Melipilla
+102I;5700;PI1375;PI1375-Parada 3 / (M) Cerrillos
+102I;5993;PI55;PI55-Av. Departamental / Esq. Avenida 7
+102I;6315;PI56;PI56-Av. Departamental / Esq. Av. Gral. Velásquez
+102I;6839;PH2;PH2-Av. Departamental / Esq. Haití
+102I;7395;PH3;PH3-Av. Departamental / Esq. Ranquil
+102I;7803;PH4;PH4-Av. Departamental / Esq. Av. Clotario Blest
+102I;8154;PH5;PH5-Av. Departamental / Esq. Félix Mendelssohn
+102I;8396;PH6;PH6-Av. Departamental / Esq. Club Hípico 
+102I;8685;PH1454;PH1454-Av. Departamental / Esq. Alcibiades
+102I;8969;PH7;PH7-Av. Departamental / Esq. Av. J. J. Prieto Vial
+102I;9217;PH8;PH8-Av. Departamental / Esq. Pasaje 1
+102I;9590;PH9;PH9-Av. Departamental / Esq. 3ª Transversal
+102I;9840;PH10;PH10-Av. Departamental / Esq. 1ª Transversal
+102I;10079;PH11;PH11-Parada 4 / (M) Departamental
+102I;10498;PH12;PH12-Av. Departamental / Esq. Departamental Int.
+102I;10771;PH13;PH13-Av. Departamental / Esq. Miguel Luis Cerda
+102I;11078;PH14;PH14-Av. Departamental / Esq. San Mauricio
+102I;11485;PH15;PH15-Av. Departamental / Esq. Río De Janeiro
+102I;11643;PH16;PH16-Parada 6 / Departamental - Santa Rosa
+102I;12010;PH17;PH17-Parada / Infocap
+102I;12185;PH18;PH18-Av. Departamental / Esq. Juan Planas
+102I;12606;PH19;PH19-Av. Departamental / Esq. Benozzo Gozzoli
+102I;12830;PH1456;PH1456-Av. Departamental / Esq. Av. Las Industrias
+102I;13148;PH1491;PH1491-Av. Departamental / Esq. Vecinal -Norte
+102I;13336;PH21;PH21-Av. Departamental / Esq. Avenida Haydn
+102I;13600;PH22;PH22-Parada / Persa Dapartamental
+102I;14270;PE1500;PE1500-Parada 9 / (M) Pedrero
+102I;14624;PE2;PE2-Av. Departamental / Esq. E. Fernández
+102I;15268;PE3;PE3-Av. Departamental / Esq. Buenaventura 
+102I;15662;PE4;PE4-Av. Departamental / Esq. Nueva 1
+102I;15991;PE5;PE5-Av. Departamental / Esq. Av. A. Vespucio
+102I;16352;PE1292;PE1292-Av. Departamental / Esq. Avenida La Florida
+102I;16925;PE7;PE7-Parada / Centro De Salud La Florida
+102I;17198;PE8;PE8-Parada / Liceo Técnico La Florida
+102I;17430;PE9;PE9-Avenida La Florida / Esq. Real Pontevera
+102I;17964;PE10;PE10-Parada 1 / Paradero 14 Av. La Florida
+102I;18385;PE11;PE11-Parada / Paradero 15 Av. La Florida
+102I;18739;PE12;PE12-Parada / Paradero 16 Av. La Florida
+102I;19153;PE13;PE13-Parada / Paradero 17 Av. La Florida
+102I;19545;PE14;PE14-Parada 1 / Paradero 18 Av. La Florida
+102I;20021;PE15;PE15-Parada 1 / Paradero 19 Av. La Florida
+102I;20496;PE16;PE16-Parada / Boston College La Florida
+102I;20939;PE17;PE17-Parada 1 / Paradero 21 Av. La Florida
+102I;21312;PE18;PE18-Parada / Paradero 22 Av. La Florida
+102I;21585;PE19;PE19-Parada 1 / Paradero 23 Av. La Florida
+102I;21977;PE20;PE20-Parada / Cementerio Parque El Prado
+102I;22180;PE21;PE21-Parada / Paradero 25 Av. La Florida
+102I;22520;PE22;PE22-Parada 1 / Paradero 26 Av. La Florida
+102I;22894;PF1;PF1-Parada / Colegio Mayor
+102I;23210;PF2;PF2-Parada / Liceo Juan Mackenna
+102I;23794;PF3;PF3-Parada 1 / Mall Plaza Tobalaba
+102I;24338;PF4;PF4-Av. Camilo Henríquez / Esq. Av. Gabriela Oriente
 102R;103;PF5;PF5-Parada 2 / Hospital El Peral
 102R;414;PF829;PF829-Av. Camilo Henríquez / Esq. Dr. Carlos Laison
 102R;631;PF6;PF6-Av. Camilo Henríquez / Esq. Av. Gabriela Oriente
@@ -1943,138 +1940,6 @@
 111R;21855;PI752;PI752-Av. Gral. Oscar Bonilla / Esq. Gral. J. Buendía
 111R;22743;PI753;PI753-Parada / Casa De La Cultura Lo Prado
 111R;23082;PI755;PI755-Parada 1 / (M) Pajaritos
-112NI;5;PF7;PF7-Parada 2 / Mall Plaza Tobalaba
-112NI;554;PF8;PF8-Parada / Liceo Juan Mackenna
-112NI;857;PF9;PF9-Parada / Colegio Mayor
-112NI;1177;PF10;PF10-Parada 2 / Paradero 26 Av. La Florida
-112NI;1453;PF11;PF11-Parada / Paradero 25 Av. La Florida
-112NI;1750;PF12;PF12-Parada / Cementerio Parque El Prado
-112NI;2153;PF13;PF13-Parada 2 / Paradero 23 Av. La Florida
-112NI;2763;PF15;PF15-Parada 2 / Paradero 21 Av. La Florida
-112NI;3240;PE23;PE23-Parada / Boston College La Florida
-112NI;3696;PE24;PE24-Parada 2 / Paradero 19 Av. La Florida
-112NI;4186;PE25;PE25-Parada 2 / Paradero 18 Av. La Florida
-112NI;4721;PE26;PE26-Parada / Paradero 17 Av. La Florida
-112NI;5022;PE27;PE27-Parada / Paradero 16 Av. La Florida
-112NI;5403;PE28;PE28-Parada / Paradero 15 Av. La Florida
-112NI;5719;PE29;PE29-Parada 2 / Paradero 14 Av. La Florida
-112NI;5948;PE1287;PE1287-Avenida La Florida / Esq. Manzanillones
-112NI;6136;PE1383;PE1383-Avenida La Florida / Esq. Los Cardenales
-112NI;6315;PE30;PE30-Avenida La Florida / Esq. Los Aralios
-112NI;6566;PE31;PE31-Parada / Liceo Técnico La Florida
-112NI;6894;PE32;PE32-Parada / Centro De Salud La Florida
-112NI;7569;PD85;PD85-Parada 2 / (M) Macul
-112NI;7779;PD273;PD273-Av. Américo Vespucio / Esq. Av. Sn. Luis De Macul
-112NI;8156;PD274;PD274-Av. Américo Vespucio / Esq. Chillán
-112NI;8490;PD173;PD173-Parada 2 / (M) Las Torres
-112NI;8880;PD275;PD275-Av. Américo Vespucio / Esq. Pque. Vespucio -Sur
-112NI;9050;PD276;PD276-Av. Américo Vespucio / Esq. Pque. Vespucio-Norte
-112NI;9298;PD277;PD277-Av. Américo Vespucio / Esq. Llaima
-112NI;9474;PD278;PD278-Av. Américo Vespucio / Esq. Los Maitenes
-112NI;9823;PD174;PD174-Parada / Rotonda Quilín
-112NI;10064;PD1356;PD1356-Parada 2 / (M) Quilín
-112NI;10462;PD279;PD279-Parada / Paseo Quilín
-112NI;10634;PD283;PD283-Av. Américo Vespucio / Esq. Mar Tirreno
-112NI;11150;PD175;PD175-Parada 2 / (M) Los Presidentes
-112NI;11580;PD280;PD280-Av. Américo Vespucio / Esq. Avenida El Valle
-112NI;11769;PD281;PD281-Av. Américo Vespucio / Esq. El Litoral
-112NI;11965;PD282;PD282-Av. Américo Vespucio / Esq. El Lago
-112NI;12130;PD176;PD176-Parada 3 / (M) Grecia
-112NI;12552;PD284;PD284-Av. Américo Vespucio / Esq. Nueva
-112NI;12770;PD285;PD285-Av. Américo Vespucio / Esq. Alonso De Berríos
-112NI;13053;PD177;PD177-Parada 2 / (M) Los Orientales
-112NI;13367;PD218;PD218-Av. Américo Vespucio / Esq. Dublé Almeyda
-112NI;13489;PD219;PD219-Av. Américo Vespucio / Esq. Av. José Arrieta
-112NI;13894;PD220;PD220-Av. Américo Vespucio / Esq. Blest Gana
-112NI;14214;PD178;PD178-Parada 1 / (M) Plaza Egaña
-112NI;14591;PD221;PD221-Avenida Ossa / Esq. Dr. G. Benavides
-112NI;14911;PD222;PD222-Avenida Ossa / Esq. Guillermo Tell
-112NI;15036;PD180;PD180-Parada 2 / (M) Simón Bolívar
-112NI;15211;PD223;PD223-Avenida Ossa / Esq. Sn. Vicente De Paul
-112NI;15488;PD179;PD179-Parada 4 / (M) Príncipe De Gales
-112NI;15656;PD1116;PD1116-Parada 2 / (M) Príncipe De Gales
-112NI;16260;PD181;PD181-Av. Américo Vespucio / Esq. Los Grillos
-112NI;16617;PD182;PD182-Av. Américo Vespucio / Esq. Av. Francisco Bilbao
-112NI;16889;PC52;PC52-Av. Américo Vespucio / Esq. Manuel Barrios
-112NI;17241;PC53;PC53-Av. Américo Vespucio / Esq. Av.Isabel La Católica
-112NI;17614;PC54;PC54-Av. Américo Vespucio / Esq. Av. Cristóbal Colón
-112NI;17837;PC55;PC55-Av. Américo Vespucio / Esq. Martín De Zamora
-112NI;18244;PC56;PC56-Av. Américo Vespucio / Esq. Del Inca
-112NI;18830;PC57;PC57-Parada 8 / (M) Escuela Militar
-112NI;19221;PC58;PC58-Av. Américo Vespucio / Esq. Av. Pdte. Riesco
-112NI;19495;PC59;PC59-Av. Américo Vespucio / Esq. Los Talaveras
-112NI;19815;PC60;PC60-Av. Américo Vespucio / Esq. Av. Pdte. Kennedy
-112NI;20187;PC61;PC61-Av. Américo Vespucio / Esq. Psje. Las Hualtatas
-112NI;20554;PC62;PC62-Av. Américo Vespucio / Esq. Avenida Vitacura
-112NI;20912;PC1073;PC1073-Av. Américo Vespucio / Esq. C. Goyenechea
-112NI;21117;PC64;PC64-Av. Américo Vespucio / Esq. C. Goyenechea
-112NI;21431;PC65;PC65-Av. Américo Vespucio / Esq. Francisco De Aguirre
-112NI;25103;PB116;PB116-Parada 2 / Palacio Riesco
-112NI;25610;PB117;PB117-Av. Américo Vespucio / Esq. Av. Recoleta
-112NI;26005;PB118;PB118-Av. Américo Vespucio / Esq. María Del Pilar
-112NI;26638;PB119;PB119-Av. Américo Vespucio / Esq. Alfredo Rosende
-112NI;26942;PB120;PB120-Av. Américo Vespucio / Esq. Av. Recoleta
-112NR;436;PB129;PB129-Av. Américo Vespucio / Esq. Alfredo Rosende
-112NR;1054;PB130;PB130-Av. Américo Vespucio / Esq. Héroe P. González 
-112NR;1424;PB131;PB131-Av. Américo Vespucio / Esq. Héroe Zenón Ortiz
-112NR;1784;PB132;PB132-Parada 1 / Palacio Riesco
-112NR;5594;PC66;PC66-Av. Américo Vespucio / Esq. Francisco De Aguirre
-112NR;5896;PC67;PC67-Av. Américo Vespucio / Esq. C. Goyenechea
-112NR;6223;PC68;PC68-Av. Américo Vespucio / Esq. Espoz
-112NR;6425;PC69;PC69-Av. Américo Vespucio / Esq. Avenida Vitacura
-112NR;6786;PC70;PC70-Av. Américo Vespucio / Esq. Psje. Las Hualtatas
-112NR;7177;PC71;PC71-Av. Américo Vespucio / Esq. Cerro Colorado
-112NR;7552;PC72;PC72-Av. Américo Vespucio / Esq. Av. Pdte. Riesco
-112NR;7929;PC73;PC73-Av. Américo Vespucio / Esq. Hamlet
-112NR;8290;PC74;PC74-Parada 6 / (M) Escuela Militar
-112NR;8717;PC75;PC75-Av. Américo Vespucio / Esq. Av. Pdte. Errázuriz
-112NR;9153;PC76;PC76-Av. Américo Vespucio / Esq. Martín De Zamora
-112NR;9370;PC77;PC77-Av. Américo Vespucio / Esq. Av. Cristóbal Colón
-112NR;9727;PC78;PC78-Av. Américo Vespucio / Esq. Av.Isabel La Católica
-112NR;10014;PC79;PC79-Av. Américo Vespucio / Esq. Latadía
-112NR;10329;PC80;PC80-Av. Américo Vespucio / Esq. Av. Francisco Bilbao
-112NR;10720;PD183;PD183-Av. Américo Vespucio / Esq. Los Grillos
-112NR;11054;PD184;PD184-Parada 3 / (M) Príncipe De Gales
-112NR;11269;PD185;PD185-Parada 1 / (M) Príncipe De Gales
-112NR;11515;PD226;PD226-Avenida Ossa / Esq. Emilia Téllez
-112NR;11814;PD227;PD227-Avenida Ossa / Esq. Avenida Pucara
-112NR;12026;PD186;PD186-Parada 1 / (M) Simón Bolívar
-112NR;12242;PD228;PD228-Avenida Ossa / Esq. Av. Simón Bolivar
-112NR;12521;PD229;PD229-Avenida Ossa / Esq. Estrella Solitaria
-112NR;12830;PD187;PD187-Parada 6 / (M) Plaza Egaña
-112NR;13250;PD230;PD230-Av. Américo Vespucio / Esq. Nuncio Laghi
-112NR;13485;PD231;PD231-Av. Américo Vespucio / Esq. Av. Diagonal -Oriente
-112NR;13897;PD188;PD188-Parada 1 / (M) Los Orientales
-112NR;14658;PD189;PD189-Parada 1 / (M) Grecia
-112NR;15180;PD265;PD265-Av. Américo Vespucio / Esq. Psje. Alejandro Ríos
-112NR;15474;PD266;PD266-Av. Américo Vespucio / Esq. Psje.Amanda Labarca
-112NR;15954;PD190;PD190-Parada 1 / (M) Los Presidentes
-112NR;16265;PD267;PD267-Av. Américo Vespucio / Esq. Las Madreselvas
-112NR;16823;PD191;PD191-Parada 1 / (M) Quilín
-112NR;17432;PD268;PD268-Av. Américo Vespucio / Esq. Pasaje Peatones 3
-112NR;17857;PD269;PD269-Av. Américo Vespucio / Esq. Sta. T. De Los Andes
-112NR;18290;PD192;PD192-Parada 1 / (M) Las Torres
-112NR;18975;PD270;PD270-Av. Américo Vespucio / Esq. Armando Pesantes
-112NR;19428;PD75;PD75-Parada 1 / (M) Macul
-112NR;20206;PE7;PE7-Parada / Centro De Salud La Florida
-112NR;20478;PE8;PE8-Parada / Liceo Técnico La Florida
-112NR;20710;PE9;PE9-Avenida La Florida / Esq. Real Pontevera
-112NR;21244;PE10;PE10-Parada 1 / Paradero 14 Av. La Florida
-112NR;21665;PE11;PE11-Parada / Paradero 15 Av. La Florida
-112NR;22019;PE12;PE12-Parada / Paradero 16 Av. La Florida
-112NR;22433;PE13;PE13-Parada / Paradero 17 Av. La Florida
-112NR;22825;PE14;PE14-Parada 1 / Paradero 18 Av. La Florida
-112NR;23301;PE15;PE15-Parada 1 / Paradero 19 Av. La Florida
-112NR;23776;PE16;PE16-Parada / Boston College La Florida
-112NR;24219;PE17;PE17-Parada 1 / Paradero 21 Av. La Florida
-112NR;24592;PE18;PE18-Parada / Paradero 22 Av. La Florida
-112NR;24865;PE19;PE19-Parada 1 / Paradero 23 Av. La Florida
-112NR;25257;PE20;PE20-Parada / Cementerio Parque El Prado
-112NR;25460;PE21;PE21-Parada / Paradero 25 Av. La Florida
-112NR;25801;PE22;PE22-Parada 1 / Paradero 26 Av. La Florida
-112NR;26174;PF1;PF1-Parada / Colegio Mayor
-112NR;26491;PF2;PF2-Parada / Liceo Juan Mackenna
-112NR;27074;PF3;PF3-Parada 1 / Mall Plaza Tobalaba
 113I;0;PI1599;PI1599-Parada 3 / Colegio Los Alpes
 113I;239;PI265;PI265-Central Oriente / Esq. Lago Albano
 113I;626;PI266;PI266-Central Oriente / Esq. Lago De Lugano
@@ -2286,48 +2151,49 @@
 113eR;25326;PI311;PI311-Central Poniente / Esq. Eucaliptus
 113eR;25484;PI312;PI312-Central Poniente / Esq. Lago Albano
 113eR;25720;PI1599;PI1599-Parada 3 / Colegio Los Alpes
-114I;7;PD350;PD350-Dublé Almeyda Esq. / Av. Pedro De Valdivia
-114I;274;PD9;PD9-Av. Pedro De Valdivia / Esq. Av. Castillo Velasco
-114I;714;PD10;PD10-Parada 5 / (M) Est.Nacional
-114I;1006;PD11;PD11-Parada / Liceo Diego Portales
-114I;1430;PD12;PD12-Parada / Liceo Pedro De Valdivia
-114I;1589;PD13;PD13-Parada / Velódromo
-114I;2032;PD14;PD14-Av. Pedro De Valdivia / Esq. Av. Rodrigo De Araya
-114I;2345;PD15;PD15-Av. Pedro De Valdivia / Esq. Los Espinos
-114I;2617;PD16;PD16-Av. Pedro De Valdivia / Esq. Los Olmos
-114I;2915;PD17;PD17-Av. Pedro De Valdivia / Esq. Los Plátanos
-114I;3250;PD18;PD18-Av. Pedro De Valdivia / Esq. Avenida Quilín
-114I;3693;PD19;PD19-Av. Pedro De Valdivia / Esq. Coipué
-114I;4054;PD20;PD20-Av. Escuela Agrícola / Esq. Vía Láctea
-114I;4328;PD21;PD21-Av. Escuela Agrícola / Esq. Exequiel Fernández
-114I;4486;PD1306;PD1306-Av. Escuela Agrícola / Esq. Concejo De Mieres
-114I;4866;PD70;PD70-Avenida Macul / Esq. Victor Dgo. Silva
-114I;5273;PD71;PD71-Avenida Macul / Esq. Los Cisnes
-114I;5591;PD72;PD72-Avenida Macul / Esq. Ramón Toro Ibáñez
-114I;5859;PD73;PD73-Parada / Plaza Pinto Durán
-114I;6106;PD1417;PD1417-Avenida Macul / Esq. Juan Xxiii
-114I;6469;PD74;PD74-Parada / Liceo Camilo Ortúzar
-114I;6830;PD75;PD75-Parada 1 / (M) Macul
-114I;7608;PE7;PE7-Parada / Centro De Salud La Florida
-114I;7880;PE8;PE8-Parada / Liceo Técnico La Florida
-114I;8112;PE9;PE9-Avenida La Florida / Esq. Real Pontevera
-114I;8646;PE10;PE10-Parada 1 / Paradero 14 Av. La Florida
-114I;9067;PE11;PE11-Parada / Paradero 15 Av. La Florida
-114I;9422;PE12;PE12-Parada / Paradero 16 Av. La Florida
-114I;9835;PE13;PE13-Parada / Paradero 17 Av. La Florida
-114I;10228;PE14;PE14-Parada 1 / Paradero 18 Av. La Florida
-114I;10703;PE15;PE15-Parada 1 / Paradero 19 Av. La Florida
-114I;11178;PE16;PE16-Parada / Boston College La Florida
-114I;11621;PE17;PE17-Parada 1 / Paradero 21 Av. La Florida
-114I;11994;PE18;PE18-Parada / Paradero 22 Av. La Florida
-114I;12267;PE19;PE19-Parada 1 / Paradero 23 Av. La Florida
-114I;12660;PE20;PE20-Parada / Cementerio Parque El Prado
-114I;12862;PE21;PE21-Parada / Paradero 25 Av. La Florida
-114I;13203;PE22;PE22-Parada 1 / Paradero 26 Av. La Florida
-114I;13576;PF1;PF1-Parada / Colegio Mayor
-114I;13893;PF2;PF2-Parada / Liceo Juan Mackenna
-114I;14476;PF3;PF3-Parada 1 / Mall Plaza Tobalaba
-114I;15020;PF4;PF4-Av. Camilo Henríquez / Esq. Av. Gabriela Oriente
+114I;240;PD164;PD164-Campos De Deportes / Esq. Av. Castillo Velasco
+114I;903;PD350;PD350-Dublé Almeyda Esq. / Av. Pedro De Valdivia
+114I;1205;PD9;PD9-Av. Pedro De Valdivia / Esq. Av. Castillo Velasco
+114I;1645;PD10;PD10-Parada 5 / (M) Est.Nacional
+114I;1937;PD11;PD11-Parada / Liceo Diego Portales
+114I;2361;PD12;PD12-Parada / Liceo Pedro De Valdivia
+114I;2521;PD13;PD13-Parada / Velódromo
+114I;2964;PD14;PD14-Av. Pedro De Valdivia / Esq. Av. Rodrigo De Araya
+114I;3276;PD15;PD15-Av. Pedro De Valdivia / Esq. Los Espinos
+114I;3548;PD16;PD16-Av. Pedro De Valdivia / Esq. Los Olmos
+114I;3846;PD17;PD17-Av. Pedro De Valdivia / Esq. Los Plátanos
+114I;4182;PD18;PD18-Av. Pedro De Valdivia / Esq. Avenida Quilín
+114I;4624;PD19;PD19-Av. Pedro De Valdivia / Esq. Coipué
+114I;4985;PD20;PD20-Av. Escuela Agrícola / Esq. Vía Láctea
+114I;5259;PD21;PD21-Av. Escuela Agrícola / Esq. Exequiel Fernández
+114I;5417;PD1306;PD1306-Av. Escuela Agrícola / Esq. Concejo De Mieres
+114I;5797;PD70;PD70-Avenida Macul / Esq. Victor Dgo. Silva
+114I;6204;PD71;PD71-Avenida Macul / Esq. Los Cisnes
+114I;6522;PD72;PD72-Avenida Macul / Esq. Ramón Toro Ibáñez
+114I;6790;PD73;PD73-Parada / Plaza Pinto Durán
+114I;7037;PD1417;PD1417-Avenida Macul / Esq. Juan Xxiii
+114I;7400;PD74;PD74-Parada / Liceo Camilo Ortúzar
+114I;7761;PD75;PD75-Parada 1 / (M) Macul
+114I;8539;PE7;PE7-Parada / Centro De Salud La Florida
+114I;8812;PE8;PE8-Parada / Liceo Técnico La Florida
+114I;9043;PE9;PE9-Avenida La Florida / Esq. Real Pontevera
+114I;9578;PE10;PE10-Parada 1 / Paradero 14 Av. La Florida
+114I;9998;PE11;PE11-Parada / Paradero 15 Av. La Florida
+114I;10353;PE12;PE12-Parada / Paradero 16 Av. La Florida
+114I;10766;PE13;PE13-Parada / Paradero 17 Av. La Florida
+114I;11159;PE14;PE14-Parada 1 / Paradero 18 Av. La Florida
+114I;11634;PE15;PE15-Parada 1 / Paradero 19 Av. La Florida
+114I;12109;PE16;PE16-Parada / Boston College La Florida
+114I;12552;PE17;PE17-Parada 1 / Paradero 21 Av. La Florida
+114I;12925;PE18;PE18-Parada / Paradero 22 Av. La Florida
+114I;13198;PE19;PE19-Parada 1 / Paradero 23 Av. La Florida
+114I;13591;PE20;PE20-Parada / Cementerio Parque El Prado
+114I;13793;PE21;PE21-Parada / Paradero 25 Av. La Florida
+114I;14134;PE22;PE22-Parada 1 / Paradero 26 Av. La Florida
+114I;14507;PF1;PF1-Parada / Colegio Mayor
+114I;14824;PF2;PF2-Parada / Liceo Juan Mackenna
+114I;15407;PF3;PF3-Parada 1 / Mall Plaza Tobalaba
+114I;15951;PF4;PF4-Av. Camilo Henríquez / Esq. Av. Gabriela Oriente
 114R;103;PF5;PF5-Parada 2 / Hospital El Peral
 114R;414;PF829;PF829-Av. Camilo Henríquez / Esq. Dr. Carlos Laison
 114R;631;PF6;PF6-Av. Camilo Henríquez / Esq. Av. Gabriela Oriente
@@ -2358,7 +2224,6 @@
 114R;10106;PD149;PD149-Avenida Macul / Esq. Dr. A. Neghme 
 114R;10362;PD88;PD88-Avenida Macul / Esq. Jorge González B.
 114R;10765;PD89;PD89-Avenida Macul / Esq. Victor Dgo. Silva
-114R;11075;PD1428;PD1428-Avenida Macul / Esq. Nicanor Molinare
 114R;11295;PD1305;PD1305-Av. Escuela Agrícola / Esq. Exequiel Fernández
 114R;11541;PD37;PD37-Av. Escuela Agrícola / Esq. Psje Salar De Tara
 114R;11919;PD38;PD38-Av. Pedro De Valdivia / Esq. Coipué
@@ -2373,6 +2238,12 @@
 114R;14898;PD47;PD47-Parada 8 / (M) Est.Nacional
 114R;15358;PD48;PD48-Av. Pedro De Valdivia / Esq. Av. Castillo Velasco
 114R;15608;PD1626;PD1626-Av. Pedro De Valdivia / Esq. Dublé Almeyda
+114R;15867;PD431;PD431-Dublé Almeyda / Esq. Los 3 Antonios
+114R;16155;PD351;PD351-Dublé Almeyda / Esq. Exequiel Fernández
+114R;16422;PD80;PD80-Exequiel Fernández / Esq. Av. Castillo Velasco
+114R;16762;PD81;PD81-Exequiel Fernández / Esq. Juan Gomez Millas
+114R;17063;PD82;PD82-Exequiel Fernández / Esq. Avenida Grecia
+114R;18151;PD163;PD163-Campos De Deportes / Esq. Los Pescadores
 115I;94;PI1547;PI1547-Judea / Esq. Altura Del 1500
 115I;329;PI1521;PI1521-Judea / Esq. Israel
 115I;556;PI336;PI336-Judea / Esq. Constantinopla
@@ -2954,60 +2825,56 @@
 119I;18637;PH803;PH803-Ferrari / Esq. Centenario
 119I;18804;PH237;PH237-Ferrari / Esq. Avenida Lo Espejo
 119I;19281;PG1635;PG1635-Parada / Santa Margarita Altura Del 2
-119I;19575;PG1707;PG1707-Santa Margarita / Esq. Lago Llanquihue
-119I;19884;PG1704;PG1704-Parada / Empresa Sargent
-119R;226;PG1703;PG1703-Parada / Empresa Sargent
-119R;518;PG1705;PG1705-Santa Margarita / Esq. Avenida Lo Espejo
-119R;985;PG1706;PG1706-Santa Margarita / Esq. Avenida Lo Espejo
-119R;1190;PG422;PG422-Avenida Lo Espejo / Esq. Ferrari
-119R;1545;PH315;PH315-Astaburuaga / Esq. Centenario
-119R;1740;PH316;PH316-Astaburuaga / Esq. Balmaceda
-119R;2100;PH317;PH317-Astaburuaga / Esq. Nueve De Enero
-119R;2284;PH1476;PH1476-Astaburuaga / Esq. Av. A. Vespucio
-119R;2862;PH287;PH287-Parada 1 / Cementerio Metropolitano
-119R;3925;PG268;PG268-Av. J. J. Prieto Vial / Esq. Italia
-119R;4288;PG269;PG269-Av. J. J. Prieto Vial / Esq. Isabel La Católica
-119R;4518;PG270;PG270-Av. J. J. Prieto Vial / Esq. Pdte. Adolfo López M
-119R;5267;PH318;PH318-Pdte. López Mateos / Esq. Paillanico
-119R;5528;PH319;PH319-Pdte. López Mateos / Esq. Sierra Madre
-119R;5905;PH320;PH320-Pdte. López Mateos / Esq. Tampico
-119R;6209;PH321;PH321-Clotario Blest / Esq. México
-119R;6501;PH322;PH322-Clotario Blest / Esq. Av.Pdte. S.Allende
-119R;6835;PH800;PH800-Parada 3 / Est. Lo Espejo
-119R;6971;PH323;PH323-Clotario Blest / Esq. La Calera
-119R;7368;PH324;PH324-Clotario Blest / Esq. Pasaje 46
-119R;7647;PH325;PH325-Clotario Blest / Esq. Avenida Lo Ovalle
-119R;8096;PH326;PH326-Parada 2 / Liceo Julio Chaná Cariola
-119R;8421;PH327;PH327-Clotario Blest / Esq. Pirihueico
-119R;8671;PH328;PH328-Clotario Blest / Esq. Vecinal
-119R;9110;PH329;PH329-Clotario Blest / Esq. Av. Departamental
-119R;9536;PH330;PH330-Clotario Blest / Esq. Avenida La Marina
-119R;9791;PH331;PH331-Clotario Blest / Esq. Ramona Parra
-119R;10133;PH332;PH332-Clotario Blest / Esq. Salesianos
-119R;10588;PH333;PH333-Clotario Blest / Esq. Tartini
-119R;10950;PH334;PH334-Clotario Blest / Esq. Av.Carlos Valdovinos
-119R;11323;PH335;PH335-Bascuñán Guerrero / Esq. El Carmelo
-119R;11810;PA287;PA287-Bascuñán Guerrero / Esq. Siria
-119R;12209;PA9;PA9-Parada 2 / Rondizzoni - Bascuñán
-119R;12541;PA10;PA10-Bascuñán Guerrero / Esq. Avenida El Mirador
-119R;12766;PA695;PA695-Bascuñán Guerrero / Esq. Espiñeira
-119R;13012;PA11;PA11-Bascuñán Guerrero / Esq. Fray De La Peña
-119R;13458;PA12;PA12-Bascuñán Guerrero / Esq. Av. Blanco Encalada
-119R;13587;PA289;PA289-Parada 1 / Molina - Blanco
-119R;14231;PA291;PA291-Avenida República / Esq. Gay
-119R;14597;PA292;PA292-Avenida República / Esq. Gorbea
-119R;14855;PA293;PA293-Avenida República / Esq. Sazié
-119R;15088;PA294;PA294-Parada 4 / (M) República
-119R;15478;PA817;PA817-Av. Ricardo Cumming / Esq. Romero
-119R;15759;PA295;PA295-Av. Ricardo Cumming / Esq. Moneda
-119R;16144;PA296;PA296-Av. Ricardo Cumming / Esq. Compañía De Jesús
-119R;16481;PA297;PA297-Parada 1 / Plaza Brasil
-119R;16981;PA726;PA726-Almirante Barroso / Esq. Santo Domingo
-119R;17275;PA425;PA425-Almirante Barroso / Esq. San Pablo
-119R;17640;PA352;PA352-Parada / Hospital Traumatológico
-119R;17940;PA601;PA601-San Pablo / Esq. Teatinos
-119R;18254;PA221;PA221-Parada 10 / Estación Mapocho
-119R;18843;PA353;PA353-Parada 4 / Mercado Central
+119R;403;PG1706;PG1706-Santa Margarita / Esq. Avenida Lo Espejo
+119R;608;PG422;PG422-Avenida Lo Espejo / Esq. Ferrari
+119R;963;PH315;PH315-Astaburuaga / Esq. Centenario
+119R;1158;PH316;PH316-Astaburuaga / Esq. Balmaceda
+119R;1518;PH317;PH317-Astaburuaga / Esq. Nueve De Enero
+119R;1703;PH1476;PH1476-Astaburuaga / Esq. Av. A. Vespucio
+119R;2280;PH287;PH287-Parada 1 / Cementerio Metropolitano
+119R;3343;PG268;PG268-Av. J. J. Prieto Vial / Esq. Italia
+119R;3707;PG269;PG269-Av. J. J. Prieto Vial / Esq. Isabel La Católica
+119R;3936;PG270;PG270-Av. J. J. Prieto Vial / Esq. Pdte. Adolfo López M
+119R;4685;PH318;PH318-Pdte. López Mateos / Esq. Paillanico
+119R;4946;PH319;PH319-Pdte. López Mateos / Esq. Sierra Madre
+119R;5323;PH320;PH320-Pdte. López Mateos / Esq. Tampico
+119R;5627;PH321;PH321-Clotario Blest / Esq. México
+119R;5920;PH322;PH322-Clotario Blest / Esq. Av.Pdte. S.Allende
+119R;6253;PH800;PH800-Parada 3 / Est. Lo Espejo
+119R;6389;PH323;PH323-Clotario Blest / Esq. La Calera
+119R;6786;PH324;PH324-Clotario Blest / Esq. Pasaje 46
+119R;7065;PH325;PH325-Clotario Blest / Esq. Avenida Lo Ovalle
+119R;7514;PH326;PH326-Parada 2 / Liceo Julio Chaná Cariola
+119R;7839;PH327;PH327-Clotario Blest / Esq. Pirihueico
+119R;8089;PH328;PH328-Clotario Blest / Esq. Vecinal
+119R;8528;PH329;PH329-Clotario Blest / Esq. Av. Departamental
+119R;8955;PH330;PH330-Clotario Blest / Esq. Avenida La Marina
+119R;9209;PH331;PH331-Clotario Blest / Esq. Ramona Parra
+119R;9551;PH332;PH332-Clotario Blest / Esq. Salesianos
+119R;10007;PH333;PH333-Clotario Blest / Esq. Tartini
+119R;10369;PH334;PH334-Clotario Blest / Esq. Av.Carlos Valdovinos
+119R;10741;PH335;PH335-Bascuñán Guerrero / Esq. El Carmelo
+119R;11228;PA287;PA287-Bascuñán Guerrero / Esq. Siria
+119R;11627;PA9;PA9-Parada 2 / Rondizzoni - Bascuñán
+119R;11959;PA10;PA10-Bascuñán Guerrero / Esq. Avenida El Mirador
+119R;12184;PA695;PA695-Bascuñán Guerrero / Esq. Espiñeira
+119R;12430;PA11;PA11-Bascuñán Guerrero / Esq. Fray De La Peña
+119R;12876;PA12;PA12-Bascuñán Guerrero / Esq. Av. Blanco Encalada
+119R;13005;PA289;PA289-Parada 1 / Molina - Blanco
+119R;13649;PA291;PA291-Avenida República / Esq. Gay
+119R;14015;PA292;PA292-Avenida República / Esq. Gorbea
+119R;14273;PA293;PA293-Avenida República / Esq. Sazié
+119R;14506;PA294;PA294-Parada 4 / (M) República
+119R;14897;PA817;PA817-Av. Ricardo Cumming / Esq. Romero
+119R;15177;PA295;PA295-Av. Ricardo Cumming / Esq. Moneda
+119R;15562;PA296;PA296-Av. Ricardo Cumming / Esq. Compañía De Jesús
+119R;15899;PA297;PA297-Parada 1 / Plaza Brasil
+119R;16400;PA726;PA726-Almirante Barroso / Esq. Santo Domingo
+119R;16693;PA425;PA425-Almirante Barroso / Esq. San Pablo
+119R;17058;PA352;PA352-Parada / Hospital Traumatológico
+119R;17358;PA601;PA601-San Pablo / Esq. Teatinos
+119R;17672;PA221;PA221-Parada 10 / Estación Mapocho
+119R;18261;PA353;PA353-Parada 4 / Mercado Central
 120I;71;PB60;PB60-Condell / Esq. Pasaje Ñuble
 120I;359;PB1066;PB1066-General Freire / Esq. Villarrica
 120I;657;PB1067;PB1067-Villarrica / Esq. Antofagasta
@@ -3190,71 +3057,67 @@
 121I;16799;PH358;PH358-Gabriela Mistral / Esq. Avenida Lo Espejo
 121I;16954;PG421;PG421-Avenida Lo Espejo / Esq. Pablo Neruda
 121I;17417;PG1635;PG1635-Parada / Santa Margarita Altura Del 2
-121I;17712;PG1707;PG1707-Santa Margarita / Esq. Lago Llanquihue
-121I;18020;PG1704;PG1704-Parada / Empresa Sargent
-121R;226;PG1703;PG1703-Parada / Empresa Sargent
-121R;518;PG1705;PG1705-Santa Margarita / Esq. Avenida Lo Espejo
-121R;985;PG1706;PG1706-Santa Margarita / Esq. Avenida Lo Espejo
-121R;1337;PH72;PH72-Avenida Lo Espejo / Esq. Gabriela Mistral
-121R;1628;PH1527;PH1527-Juan F. González / Esq. V. Pérez Rosales
-121R;1792;PH1487;PH1487-Juan F. González / Esq. Guillermo Labarca
-121R;2206;PH1488;PH1488-Presidente Balmaceda / Esq. Gabriela Mistral
-121R;2398;PH74;PH74-Gabriela Mistral / Esq. Pedro Prado
-121R;2546;PH75;PH75-Gabriela Mistral / Esq. 9 De Enero
-121R;2779;PH1513;PH1513-Gil De Castro / Esq. Avenida Central
-121R;3124;PH76;PH76-Card. Raúl Silva H. / Esq. Pegaso
-121R;3431;PH554;PH554-Saturno / Esq. Guadalupe
-121R;3637;PH361;PH361-Av. Diagonal Las Torres / Esq. Lebreles
-121R;3807;PH1631;PH1631-Av. Diagonal Las Torres / Esq. Av. Frei Montalva
-121R;4063;PH364;PH364-Av. Edo. Frei Montalva / Esq. Guadalupe
-121R;4258;PH704;PH704-Av. Edo. Frei Montalva / Esq. Avenida Central
-121R;4515;PH78;PH78-Card. Raúl Silva H. / Esq. Pasaje 23 Sur
-121R;4672;PH79;PH79-Card. Raúl Silva H. / Esq. Managua
-121R;4927;PH80;PH80-Card. Raúl Silva H. / Esq. Av.Pdte. S.Allende
-121R;5037;PH81;PH81-Card. Raúl Silva H. / Esq. Pasaje 14 Sur
-121R;5385;PH83;PH83-Card. Raúl Silva H. / Esq. Pasaje 7 Sur
-121R;5734;PH84;PH84-Card. Raúl Silva H. / Esq. Buenaventura
-121R;6315;PH365;PH365-Maipú / Esq. Juan Sierra Z.
-121R;6915;PH366;PH366-Avenida Lo Ovalle / Esq. Inés De Suárez
-121R;7137;PH367;PH367-Club Hípico / Esq. Calle A
-121R;7361;PH368;PH368-Club Hípico / Esq. Melinka
-121R;7699;PH369;PH369-Club Hípico / Esq. Palena
-121R;7930;PH370;PH370-Club Hípico / Esq. Avenida 3 Poniente
-121R;8092;PH371;PH371-Club Hípico / Esq. Vecinal
-121R;8371;PH372;PH372-Club Hípico / Esq. Departamental Ant
-121R;8661;PH373;PH373-Club Hípico / Esq. Avenida Lazo
-121R;8972;PH374;PH374-Club Hípico / Esq. Avenida La Marina
-121R;9217;PH375;PH375-Club Hípico / Esq. Angel Guarello
-121R;9550;PH376;PH376-Club Hípico / Esq. Salesianos
-121R;9767;PH377;PH377-Club Hípico / Esq. Lago Calafquén
-121R;9963;PH378;PH378-Club Hípico / Esq. Nueva 4
-121R;10242;PH379;PH379-Club Hípico / Esq. Enrique Matte
-121R;10432;PH380;PH380-Club Hípico / Esq. I. Valdés Valdés
-121R;10661;PH381;PH381-Parada 4 / (M) P. Aguirre Cerda
-121R;11080;PH107;PH107-Av. Alc. Carlos Valdovinos / Esq. Ramírez
-121R;11410;PH335;PH335-Bascuñán Guerrero / Esq. El Carmelo
-121R;11833;PA691;PA691-Centenario / Esq. Las Fucsias
-121R;12158;PA690;PA690-Florencio Bahamondes / Esq. Av. Pedro Montt
-121R;12448;PA673;PA673-Avenida Pedro Montt / Esq. Club Hípico
-121R;12957;PA318;PA318-Avenida Beaucheff / Esq. Av. Gral. Rondizzoni
-121R;13306;PA319;PA319-Avenida Beaucheff / Esq. Marsella
-121R;13733;PA320;PA320-Parada / Movistar Arena
-121R;14272;PA321;PA321-Parada / Fantasilandia
-121R;14549;PA322;PA322-Parada 2 / Escuela De Ingeniería
-121R;14780;PA291;PA291-Avenida República / Esq. Gay
-121R;15146;PA292;PA292-Avenida República / Esq. Gorbea
-121R;15404;PA293;PA293-Avenida República / Esq. Sazié
-121R;15637;PA294;PA294-Parada 4 / (M) República
-121R;16027;PA817;PA817-Av. Ricardo Cumming / Esq. Romero
-121R;16307;PA295;PA295-Av. Ricardo Cumming / Esq. Moneda
-121R;16692;PA296;PA296-Av. Ricardo Cumming / Esq. Compañía De Jesús
-121R;16954;PA323;PA323-Av. Ricardo Cumming / Esq. Santo Domingo
-121R;17298;PA324;PA324-Av. Ricardo Cumming / Esq. San Pablo
-121R;17664;PA600;PA600-San Pablo / Esq. Avenida Brasil
-121R;17818;PA226;PA226-San Pablo / Esq. Almirante Barroso
-121R;18520;PA601;PA601-San Pablo / Esq. Teatinos
-121R;18834;PA221;PA221-Parada 10 / Estación Mapocho
-121R;19424;PA353;PA353-Parada 4 / Mercado Central
+121R;403;PG1706;PG1706-Santa Margarita / Esq. Avenida Lo Espejo
+121R;755;PH72;PH72-Avenida Lo Espejo / Esq. Gabriela Mistral
+121R;1046;PH1527;PH1527-Juan F. González / Esq. V. Pérez Rosales
+121R;1211;PH1487;PH1487-Juan F. González / Esq. Guillermo Labarca
+121R;1624;PH1488;PH1488-Presidente Balmaceda / Esq. Gabriela Mistral
+121R;1816;PH74;PH74-Gabriela Mistral / Esq. Pedro Prado
+121R;1964;PH75;PH75-Gabriela Mistral / Esq. 9 De Enero
+121R;2197;PH1513;PH1513-Gil De Castro / Esq. Avenida Central
+121R;2542;PH76;PH76-Card. Raúl Silva H. / Esq. Pegaso
+121R;2850;PH554;PH554-Saturno / Esq. Guadalupe
+121R;3055;PH361;PH361-Av. Diagonal Las Torres / Esq. Lebreles
+121R;3225;PH1631;PH1631-Av. Diagonal Las Torres / Esq. Av. Frei Montalva
+121R;3481;PH364;PH364-Av. Edo. Frei Montalva / Esq. Guadalupe
+121R;3677;PH704;PH704-Av. Edo. Frei Montalva / Esq. Avenida Central
+121R;3933;PH78;PH78-Card. Raúl Silva H. / Esq. Pasaje 23 Sur
+121R;4090;PH79;PH79-Card. Raúl Silva H. / Esq. Managua
+121R;4346;PH80;PH80-Card. Raúl Silva H. / Esq. Av.Pdte. S.Allende
+121R;4456;PH81;PH81-Card. Raúl Silva H. / Esq. Pasaje 14 Sur
+121R;4803;PH83;PH83-Card. Raúl Silva H. / Esq. Pasaje 7 Sur
+121R;5152;PH84;PH84-Card. Raúl Silva H. / Esq. Buenaventura
+121R;5733;PH365;PH365-Maipú / Esq. Juan Sierra Z.
+121R;6333;PH366;PH366-Avenida Lo Ovalle / Esq. Inés De Suárez
+121R;6555;PH367;PH367-Club Hípico / Esq. Calle A
+121R;6779;PH368;PH368-Club Hípico / Esq. Melinka
+121R;7117;PH369;PH369-Club Hípico / Esq. Palena
+121R;7348;PH370;PH370-Club Hípico / Esq. Avenida 3 Poniente
+121R;7511;PH371;PH371-Club Hípico / Esq. Vecinal
+121R;7790;PH372;PH372-Club Hípico / Esq. Departamental Ant
+121R;8079;PH373;PH373-Club Hípico / Esq. Avenida Lazo
+121R;8390;PH374;PH374-Club Hípico / Esq. Avenida La Marina
+121R;8635;PH375;PH375-Club Hípico / Esq. Angel Guarello
+121R;8968;PH376;PH376-Club Hípico / Esq. Salesianos
+121R;9186;PH377;PH377-Club Hípico / Esq. Lago Calafquén
+121R;9381;PH378;PH378-Club Hípico / Esq. Nueva 4
+121R;9661;PH379;PH379-Club Hípico / Esq. Enrique Matte
+121R;9851;PH380;PH380-Club Hípico / Esq. I. Valdés Valdés
+121R;10080;PH381;PH381-Parada 4 / (M) P. Aguirre Cerda
+121R;10498;PH107;PH107-Av. Alc. Carlos Valdovinos / Esq. Ramírez
+121R;10828;PH335;PH335-Bascuñán Guerrero / Esq. El Carmelo
+121R;11251;PA691;PA691-Centenario / Esq. Las Fucsias
+121R;11576;PA690;PA690-Florencio Bahamondes / Esq. Av. Pedro Montt
+121R;11866;PA673;PA673-Avenida Pedro Montt / Esq. Club Hípico
+121R;12375;PA318;PA318-Avenida Beaucheff / Esq. Av. Gral. Rondizzoni
+121R;12724;PA319;PA319-Avenida Beaucheff / Esq. Marsella
+121R;13151;PA320;PA320-Parada / Movistar Arena
+121R;13690;PA321;PA321-Parada / Fantasilandia
+121R;13967;PA322;PA322-Parada 2 / Escuela De Ingeniería
+121R;14198;PA291;PA291-Avenida República / Esq. Gay
+121R;14564;PA292;PA292-Avenida República / Esq. Gorbea
+121R;14822;PA293;PA293-Avenida República / Esq. Sazié
+121R;15055;PA294;PA294-Parada 4 / (M) República
+121R;15445;PA817;PA817-Av. Ricardo Cumming / Esq. Romero
+121R;15726;PA295;PA295-Av. Ricardo Cumming / Esq. Moneda
+121R;16111;PA296;PA296-Av. Ricardo Cumming / Esq. Compañía De Jesús
+121R;16372;PA323;PA323-Av. Ricardo Cumming / Esq. Santo Domingo
+121R;16716;PA324;PA324-Av. Ricardo Cumming / Esq. San Pablo
+121R;17083;PA600;PA600-San Pablo / Esq. Avenida Brasil
+121R;17236;PA226;PA226-San Pablo / Esq. Almirante Barroso
+121R;17939;PA601;PA601-San Pablo / Esq. Teatinos
+121R;18253;PA221;PA221-Parada 10 / Estación Mapocho
+121R;18842;PA353;PA353-Parada 4 / Mercado Central
 125I;946;PA344;PA344-Parada 12 / (M) Santa Lucía
 125I;1182;PA345;PA345-Parada 4 / (M) Universidad De Chile
 125I;1732;PA184;PA184-Parada 4 / (M) La Moneda
@@ -3298,56 +3161,56 @@
 125I;15559;PH1479;PH1479-Gabriela Mistral / Esq. Ortiz De Zárate
 125I;15914;PG421;PG421-Avenida Lo Espejo / Esq. Pablo Neruda
 125I;16376;PG1635;PG1635-Parada / Santa Margarita Altura Del 2
-125I;16671;PG1707;PG1707-Santa Margarita / Esq. Lago Llanquihue
-125I;16980;PG1704;PG1704-Parada / Empresa Sargent
-125R;183;PG1634;PG1634-Santa Margarita / Esq. Calle Nueva
-125R;903;PG1632;PG1632-Parada / Outlet Flex
-125R;1632;PG1631;PG1631-Av. General Velásquez / Esq. Avenida Lo Espejo
-125R;1859;PH472;PH472-Avenida Lo Espejo / Esq. Juan Fco. González
-125R;2153;PH73;PH73-Gabriela Mistral / Esq. Pascual Ortega
-125R;2407;PH796;PH796-Gabriela Mistral / Esq. Balmaceda
-125R;2594;PH74;PH74-Gabriela Mistral / Esq. Pedro Prado
-125R;2742;PH75;PH75-Gabriela Mistral / Esq. 9 De Enero
-125R;2976;PH1513;PH1513-Gil De Castro / Esq. Avenida Central
-125R;3320;PH76;PH76-Card. Raúl Silva H. / Esq. Pegaso
-125R;3629;PH77;PH77-Card. Raúl Silva H. / Esq. Av. Frei Montalva
-125R;3881;PH78;PH78-Card. Raúl Silva H. / Esq. Pasaje 23 Sur
-125R;4038;PH79;PH79-Card. Raúl Silva H. / Esq. Managua
-125R;4294;PH80;PH80-Card. Raúl Silva H. / Esq. Av.Pdte. S.Allende
-125R;4404;PH81;PH81-Card. Raúl Silva H. / Esq. Pasaje 14 Sur
-125R;4552;PH82;PH82-Card. Raúl Silva H. / Esq. Pasaje 12 Sur
-125R;4751;PH83;PH83-Card. Raúl Silva H. / Esq. Pasaje 7 Sur
-125R;5100;PH84;PH84-Card. Raúl Silva H. / Esq. Buenaventura
-125R;5293;PH85;PH85-Buenaventura / Esq. El Riel
-125R;5694;PH86;PH86-Card. Raúl Silva H. / Esq. Avenida Lo Ovalle
-125R;6062;PH87;PH87-Raúl Silva Henríquez / Esq. Unión Ferroviaria
-125R;6404;PH88;PH88-Raúl Silva Henríquez / Esq. Isla De Pascua
-125R;6826;PH89;PH89-Raúl Silva Henríquez / Esq. Centro América
-125R;7048;PH90;PH90-Raúl Silva Henríquez / Esq. Gerardo Barrios
-125R;7436;PH91;PH91-Raúl Silva Henríquez / Esq. Cabo Cobo
-125R;7794;PH92;PH92-Avenida Cerrillos / Esq. Av. Departamental
-125R;8203;PH93;PH93-Parada / Mercado Lo Valledor
-125R;8887;PH94;PH94-Parada 1 / (M) Lo Valledor
-125R;9155;PH95;PH95-Av. Alc. Carlos Valdovinos / Esq. Central Nino García
-125R;9387;PH96;PH96-Av. Alc. Carlos Valdovinos / Esq. Valenzuela Llanos
-125R;9703;PH97;PH97-Av. Alc. Carlos Valdovinos / Esq. Belén
-125R;10094;PH1472;PH1472-Av. Alc. Carlos Valdovinos / Esq. Av. Clotario Blest
-125R;10495;PH98;PH98-Parada 1 / (M) P. Aguirre Cerda
-125R;10733;PH99;PH99-Av. Alc. Carlos Valdovinos / Esq. Panamericana 2
-125R;10889;PH100;PH100-Av. Alc. Carlos Valdovinos / Esq. Juan De Bastidas
-125R;11124;PH101;PH101-Av. Alc. Carlos Valdovinos / Esq. Los Talaveras
-125R;12102;PA17;PA17-Parada 2 / Centro De Justicia
-125R;12327;PA18;PA18-Parada 2 / (M) Rondizzoni
-125R;12705;PA235;PA235-Avenida Viel / Esq. Pedro Lagos
-125R;12961;PA236;PA236-Avenida Viel / Esq. Victoria
-125R;13180;PA237;PA237-Avenida Viel / Esq. Santiago
-125R;13405;PA238;PA238-Parada 2 / (M) Parque O'Higgins
-125R;13858;PA239;PA239-Parada / Museo Militar
-125R;14091;PA240;PA240-Manuel Rodríguez / Esq. Av. 10 De Julio
-125R;14456;PA80;PA80-Parada 2 / (M) Toesca
-125R;14944;PA675;PA675-Parada 13 / (M) Los Héroes
-125R;15310;PA166;PA166-Parada 8 / (M) La Moneda
-125R;16131;PA339;PA339-Parada 5 / (M) Universidad De Chile
+125R;80;PG1707;PG1707-Santa Margarita / Esq. Lago Llanquihue
+125R;389;PG1704;PG1704-Parada / Empresa Sargent
+125R;764;PG1634;PG1634-Santa Margarita / Esq. Calle Nueva
+125R;1485;PG1632;PG1632-Parada / Outlet Flex
+125R;2214;PG1631;PG1631-Av. General Velásquez / Esq. Avenida Lo Espejo
+125R;2441;PH472;PH472-Avenida Lo Espejo / Esq. Juan Fco. González
+125R;2734;PH73;PH73-Gabriela Mistral / Esq. Pascual Ortega
+125R;2989;PH796;PH796-Gabriela Mistral / Esq. Balmaceda
+125R;3176;PH74;PH74-Gabriela Mistral / Esq. Pedro Prado
+125R;3324;PH75;PH75-Gabriela Mistral / Esq. 9 De Enero
+125R;3557;PH1513;PH1513-Gil De Castro / Esq. Avenida Central
+125R;3902;PH76;PH76-Card. Raúl Silva H. / Esq. Pegaso
+125R;4210;PH77;PH77-Card. Raúl Silva H. / Esq. Av. Frei Montalva
+125R;4463;PH78;PH78-Card. Raúl Silva H. / Esq. Pasaje 23 Sur
+125R;4620;PH79;PH79-Card. Raúl Silva H. / Esq. Managua
+125R;4875;PH80;PH80-Card. Raúl Silva H. / Esq. Av.Pdte. S.Allende
+125R;4985;PH81;PH81-Card. Raúl Silva H. / Esq. Pasaje 14 Sur
+125R;5134;PH82;PH82-Card. Raúl Silva H. / Esq. Pasaje 12 Sur
+125R;5333;PH83;PH83-Card. Raúl Silva H. / Esq. Pasaje 7 Sur
+125R;5682;PH84;PH84-Card. Raúl Silva H. / Esq. Buenaventura
+125R;5875;PH85;PH85-Buenaventura / Esq. El Riel
+125R;6276;PH86;PH86-Card. Raúl Silva H. / Esq. Avenida Lo Ovalle
+125R;6644;PH87;PH87-Raúl Silva Henríquez / Esq. Unión Ferroviaria
+125R;6986;PH88;PH88-Raúl Silva Henríquez / Esq. Isla De Pascua
+125R;7408;PH89;PH89-Raúl Silva Henríquez / Esq. Centro América
+125R;7629;PH90;PH90-Raúl Silva Henríquez / Esq. Gerardo Barrios
+125R;8018;PH91;PH91-Raúl Silva Henríquez / Esq. Cabo Cobo
+125R;8376;PH92;PH92-Avenida Cerrillos / Esq. Av. Departamental
+125R;8785;PH93;PH93-Parada / Mercado Lo Valledor
+125R;9469;PH94;PH94-Parada 1 / (M) Lo Valledor
+125R;9737;PH95;PH95-Av. Alc. Carlos Valdovinos / Esq. Central Nino García
+125R;9969;PH96;PH96-Av. Alc. Carlos Valdovinos / Esq. Valenzuela Llanos
+125R;10285;PH97;PH97-Av. Alc. Carlos Valdovinos / Esq. Belén
+125R;10676;PH1472;PH1472-Av. Alc. Carlos Valdovinos / Esq. Av. Clotario Blest
+125R;11076;PH98;PH98-Parada 1 / (M) P. Aguirre Cerda
+125R;11315;PH99;PH99-Av. Alc. Carlos Valdovinos / Esq. Panamericana 2
+125R;11471;PH100;PH100-Av. Alc. Carlos Valdovinos / Esq. Juan De Bastidas
+125R;11706;PH101;PH101-Av. Alc. Carlos Valdovinos / Esq. Los Talaveras
+125R;12684;PA17;PA17-Parada 2 / Centro De Justicia
+125R;12909;PA18;PA18-Parada 2 / (M) Rondizzoni
+125R;13286;PA235;PA235-Avenida Viel / Esq. Pedro Lagos
+125R;13543;PA236;PA236-Avenida Viel / Esq. Victoria
+125R;13761;PA237;PA237-Avenida Viel / Esq. Santiago
+125R;13987;PA238;PA238-Parada 2 / (M) Parque O'Higgins
+125R;14440;PA239;PA239-Parada / Museo Militar
+125R;14672;PA240;PA240-Manuel Rodríguez / Esq. Av. 10 De Julio
+125R;15038;PA80;PA80-Parada 2 / (M) Toesca
+125R;15525;PA675;PA675-Parada 13 / (M) Los Héroes
+125R;15892;PA166;PA166-Parada 8 / (M) La Moneda
+125R;16713;PA339;PA339-Parada 5 / (M) Universidad De Chile
 126I;129;PC38;PC38-Parada 5 / (M) Manuel Montt
 126I;442;PC39;PC39-Manuel Montt / Esq. Av. Eliodoro Yáñez
 126I;792;PC40;PC40-Manuel Montt / Esq. Keller
@@ -3400,63 +3263,62 @@
 126I;14356;PE41;PE41-María Angélica / Esq. Los Maranjos
 126I;14669;PE503;PE503-María Angélica / Esq. Las Araucarias
 126I;15116;PE504;PE504-María Angélica / Esq. María Cristina
-126I;15402;PE505;PE505-Av. Las Perdices / Esq. Santa Berta
-126I;15824;PE506;PE506-Av. Las Perdices / Esq. San Francisco
-126R;6;PE506;PE506-Av. Las Perdices / Esq. San Francisco
-126R;145;PE507;PE507-San Francisco / Esq. María Cristina
-126R;324;PE508;PE508-San Francisco / Esq. Las Bellotas
-126R;502;PE1485;PE1485-San Francisco / Esq. Las Araucarias
-126R;807;PE1341;PE1341-San Francisco / Esq. Los Naranjos
-126R;1039;PE1339;PE1339-Paseo Los Naranjos / Esq. Los Perales
-126R;1348;PE42;PE42-Parada 2 / Terminal María Angélica
-126R;1787;PE52;PE52-Las Higueras / Esq. Pasaje Providencia
-126R;1974;PE53;PE53-Las Higueras / Esq. Volcán Huesqui
-126R;2112;PE54;PE54-Las Higueras / Esq. Las Taguas
-126R;2306;PE55;PE55-Las Higueras / Esq. Volcán Lastarria
-126R;2471;PE1265;PE1265-Las Higueras / Esq. Volcán Calbuco
-126R;2691;PE57;PE57-Las Higueras / Esq. V. Hornopirén
-126R;2873;PE58;PE58-Las Higueras / Esq. Volcán Llaima
-126R;3012;PE59;PE59-Las Higueras / Esq. Volcán Tolhuaca
-126R;3259;PE60;PE60-Las Higueras / Esq. Punitaqui
-126R;3479;PE841;PE841-Diag. Los Castaños / Esq. Los Castaños
-126R;3671;PE61;PE61-Diag. Los Castaños / Esq. Av. Departamental
-126R;3826;PE62;PE62-Diag. Los Castaños / Esq. Av. Departamental
-126R;4182;PD146;PD146-Av. Departamental / Esq. Embalse La Palma
-126R;4524;PD1374;PD1374-Av. Departamental / Esq. Las Tejas
-126R;4909;PD85;PD85-Parada 2 / (M) Macul
-126R;5333;PD147;PD147-Parada / Liceo Camilo Ortúzar
-126R;5760;PD87;PD87-Avenida Macul / Esq. El Líbano
-126R;5936;PD148;PD148-Parada / Plaza Pinto Durán
-126R;6246;PD149;PD149-Avenida Macul / Esq. Dr. A. Neghme 
-126R;6502;PD88;PD88-Avenida Macul / Esq. Jorge González B.
-126R;6905;PD89;PD89-Avenida Macul / Esq. Victor Dgo. Silva
-126R;7215;PD1428;PD1428-Avenida Macul / Esq. Nicanor Molinare
-126R;7550;PD90;PD90-Avenida Macul / Esq. Santa Cristina
-126R;7781;PD91;PD91-Parada 2 / Punta De Rieles
-126R;8142;PD92;PD92-Parada 2 / Municipalidad De Macul
-126R;8441;PD93;PD93-Avenida Macul / Esq. Los Olmos 
-126R;8747;PD94;PD94-Avenida Macul / Esq. Los Espinos
-126R;9076;PD95;PD95-Parada 2 / Colegio San Marcos
-126R;9394;PD96;PD96-Av. José P. Alessandri / Esq. Los Alerces
-126R;9607;PD97;PD97-Av. José P. Alessandri / Esq. Las Encinas
-126R;9854;PD98;PD98-Parada / Utem Macul
-126R;10574;PD161;PD161-Parada 4 / Los Tres Antonios
-126R;11118;PD162;PD162-Parada 6 / (M) Est.Nacional
-126R;11377;PD163;PD163-Campos De Deportes / Esq. Los Pescadores
-126R;11732;PD164;PD164-Campos De Deportes / Esq. Av. Castillo Velasco
-126R;12171;PD165;PD165-Campos De Deportes / Esq. Av. Irarrázaval
-126R;12487;PD166;PD166-Antonio Varas / Esq. Av. Simón Bolivar
-126R;12777;PD167;PD167-Antonio Varas / Esq. Avenida Sucre
-126R;12986;PD168;PD168-Antonio Varas / Esq. Diagonal -Oriente
-126R;13286;PC45;PC45-Av. Antonio Varas / Esq. Los Capitanes
-126R;13508;PC46;PC46-Av. Antonio Varas / Esq. Vasconia
-126R;13842;PC47;PC47-Av. Antonio Varas / Esq. Av. Francisco Bilbao
-126R;14127;PC48;PC48-Parada / Campvs College
-126R;14612;PC49;PC49-Av. Antonio Varas / Esq. Av. Eliodoro Yáñez
-126R;14946;PC50;PC50-Parada / Hospital Calvo Mackenna
-126R;15126;PC51;PC51-Parada 4 / Biblioteca De Providencia
-126R;15590;PC1221;PC1221-Manuel Montt / Esq. Nueva Providencia
-126R;15608;PC38;PC38-Parada 5 / (M) Manuel Montt
+126R;198;PE505;PE505-Av. Las Perdices / Esq. Santa Berta
+126R;621;PE506;PE506-Av. Las Perdices / Esq. San Francisco
+126R;794;PE507;PE507-San Francisco / Esq. María Cristina
+126R;974;PE508;PE508-San Francisco / Esq. Las Bellotas
+126R;1152;PE1485;PE1485-San Francisco / Esq. Las Araucarias
+126R;1457;PE1341;PE1341-San Francisco / Esq. Los Naranjos
+126R;1689;PE1339;PE1339-Paseo Los Naranjos / Esq. Los Perales
+126R;1998;PE42;PE42-Parada 2 / Terminal María Angélica
+126R;2436;PE52;PE52-Las Higueras / Esq. Pasaje Providencia
+126R;2624;PE53;PE53-Las Higueras / Esq. Volcán Huesqui
+126R;2762;PE54;PE54-Las Higueras / Esq. Las Taguas
+126R;2956;PE55;PE55-Las Higueras / Esq. Volcán Lastarria
+126R;3121;PE1265;PE1265-Las Higueras / Esq. Volcán Calbuco
+126R;3341;PE57;PE57-Las Higueras / Esq. V. Hornopirén
+126R;3523;PE58;PE58-Las Higueras / Esq. Volcán Llaima
+126R;3662;PE59;PE59-Las Higueras / Esq. Volcán Tolhuaca
+126R;3909;PE60;PE60-Las Higueras / Esq. Punitaqui
+126R;4129;PE841;PE841-Diag. Los Castaños / Esq. Los Castaños
+126R;4321;PE61;PE61-Diag. Los Castaños / Esq. Av. Departamental
+126R;4476;PE62;PE62-Diag. Los Castaños / Esq. Av. Departamental
+126R;4832;PD146;PD146-Av. Departamental / Esq. Embalse La Palma
+126R;5174;PD1374;PD1374-Av. Departamental / Esq. Las Tejas
+126R;5559;PD85;PD85-Parada 2 / (M) Macul
+126R;5983;PD147;PD147-Parada / Liceo Camilo Ortúzar
+126R;6410;PD87;PD87-Avenida Macul / Esq. El Líbano
+126R;6585;PD148;PD148-Parada / Plaza Pinto Durán
+126R;6896;PD149;PD149-Avenida Macul / Esq. Dr. A. Neghme 
+126R;7152;PD88;PD88-Avenida Macul / Esq. Jorge González B.
+126R;7555;PD89;PD89-Avenida Macul / Esq. Victor Dgo. Silva
+126R;7865;PD1428;PD1428-Avenida Macul / Esq. Nicanor Molinare
+126R;8200;PD90;PD90-Avenida Macul / Esq. Santa Cristina
+126R;8431;PD91;PD91-Parada 2 / Punta De Rieles
+126R;8792;PD92;PD92-Parada 2 / Municipalidad De Macul
+126R;9091;PD93;PD93-Avenida Macul / Esq. Los Olmos 
+126R;9397;PD94;PD94-Avenida Macul / Esq. Los Espinos
+126R;9725;PD95;PD95-Parada 2 / Colegio San Marcos
+126R;10043;PD96;PD96-Av. José P. Alessandri / Esq. Los Alerces
+126R;10257;PD97;PD97-Av. José P. Alessandri / Esq. Las Encinas
+126R;10504;PD98;PD98-Parada / Utem Macul
+126R;11224;PD161;PD161-Parada 4 / Los Tres Antonios
+126R;11768;PD162;PD162-Parada 6 / (M) Est.Nacional
+126R;12027;PD163;PD163-Campos De Deportes / Esq. Los Pescadores
+126R;12382;PD164;PD164-Campos De Deportes / Esq. Av. Castillo Velasco
+126R;12821;PD165;PD165-Campos De Deportes / Esq. Av. Irarrázaval
+126R;13136;PD166;PD166-Antonio Varas / Esq. Av. Simón Bolivar
+126R;13427;PD167;PD167-Antonio Varas / Esq. Avenida Sucre
+126R;13636;PD168;PD168-Antonio Varas / Esq. Diagonal -Oriente
+126R;13935;PC45;PC45-Av. Antonio Varas / Esq. Los Capitanes
+126R;14158;PC46;PC46-Av. Antonio Varas / Esq. Vasconia
+126R;14492;PC47;PC47-Av. Antonio Varas / Esq. Av. Francisco Bilbao
+126R;14777;PC48;PC48-Parada / Campvs College
+126R;15262;PC49;PC49-Av. Antonio Varas / Esq. Av. Eliodoro Yáñez
+126R;15596;PC50;PC50-Parada / Hospital Calvo Mackenna
+126R;15776;PC51;PC51-Parada 4 / Biblioteca De Providencia
+126R;16240;PC1221;PC1221-Manuel Montt / Esq. Nueva Providencia
+126R;16258;PC38;PC38-Parada 5 / (M) Manuel Montt
 201I;77;PB241;PB241-Parada / Mall Plaza Norte - Los Libertadores
 201I;388;PB184;PB184-Los Libertadores / Esq. Av. A. Vespucio
 201I;898;PB185;PB185-Parada / Pasarela Albany
@@ -18060,6 +17922,200 @@
 712I;48195;PB107;PB107-El Salto / Esq. Santa Mónica
 712I;48732;PB48;PB48-Reina De Chile / Esq. Pasaje Progreso
 712I;48992;PB49;PB49-Reina De Chile / Esq. Marqués De Montepío
+712NI;398;PF195;PF195-27 De Septiembre / Esq. Los Maquis
+712NI;737;PF196;PF196-27 De Septiembre / Esq. El Mirador
+712NI;1101;PF197;PF197-27 De Septiembre / Esq. 17 De Marzo
+712NI;1433;PF198;PF198-27 De Septiembre / Esq. Los Alamos
+712NI;1764;PF199;PF199-27 De Septiembre / Esq. Los Espinos
+712NI;2112;PF200;PF200-27 De Septiembre / Esq. Av. Eyzaguirre
+712NI;2503;PF201;PF201-Avenida Eyzaguirre / Esq. Cerro San Esteban
+712NI;2677;PF202;PF202-Parada / Lomas De Eyzaguirre
+712NI;3176;PF203;PF203-Avenida Eyzaguirre / Esq. Cerro San Esteban
+712NI;3682;PF204;PF204-Avenida Eyzaguirre / Esq. Luis Moreno Paz
+712NI;4054;PF691;PF691-Tomé / Esq. Los Loros
+712NI;4621;PF502;PF502-Av. Paseo Pie Andino / Esq. Manuel Campos G.
+712NI;4898;PF503;PF503-Av. Circunvalación / Esq. Hector Salamanca
+712NI;5287;PF504;PF504-Av. Circunvalación / Esq. M. Toledo -Poniente
+712NI;5478;PF505;PF505-Av. Circunvalación / Esq. Tomé
+712NI;6248;PF978;PF978-Av. Circunvalación / Esq. Nonato Coo
+712NI;6556;PF979;PF979-Av. Circunvalación / Esq. Central
+712NI;6701;PF980;PF980-Av. Circunvalación / Esq. G. Ebbinghauss
+712NI;7006;PF509;PF509-Sargento Menadier / Esq. C. Aguirres Luco
+712NI;7207;PF510;PF510-Sargento Menadier / Esq. V. Pérez Rosales
+712NI;7438;PF511;PF511-Sargento Menadier / Esq. Augusto D'Halmar
+712NI;7654;PF92;PF92-Av. Concha Y Toro / Esq. Genaro Salinas
+712NI;7947;PF93;PF93-Balmaceda / Esq. Av. Eyzaguirre
+712NI;8398;PF512;PF512-Parada 2 / (M) Plaza De Puente Alto
+712NI;8636;PF213;PF213-Santa Elena / Esq. José M. Irarrázaval
+712NI;8864;PF214;PF214-Santa Elena / Esq. Av. Eduardo Cordero
+712NI;9200;PF887;PF887-Santa Elena / Esq. Domingo Tocornal
+712NI;9476;PF463;PF463-Domingo Tocornal / Esq. Nemesio Vicuña
+712NI;9763;PF464;PF464-Domingo Tocornal / Esq. Ignacio Domeyko
+712NI;10292;PF156;PF156-Nonato Coo / Esq. El Octante
+712NI;10542;PF157;PF157-Nonato Coo / Esq. Av. San Carlos
+712NI;10769;PF19;PF19-Nonato Coo / Esq. Caleta Barquito
+712NI;11015;PF20;PF20-Nonato Coo / Esq. Las Nieves -Oriente
+712NI;11219;PF21;PF21-Nonato Coo / Esq. San Hugo
+712NI;11497;PF22;PF22-Nonato Coo / Esq. Ángel Pimentel
+712NI;11850;PF23;PF23-Nonato Coo / Esq. Av. L. Matte Larraín
+712NI;12195;PF24;PF24-Nonato Coo / Esq. Maestro Palomo
+712NI;12447;PF25;PF25-Nonato Coo / Esq. Avenida El Peñón
+712NI;12846;PF475;PF475-Nonato Coo / Esq. Avenida Gabriela
+712NI;13090;PF27;PF27-Av. Gabriela Oriente / Esq. Los Azahares
+712NI;13359;PF28;PF28-Av. Gabriela Oriente / Esq. Avenida México
+712NI;13691;PF29;PF29-Av. Gabriela Oriente / Esq. Psje.Carlos Pomar M.
+712NI;13804;PF30;PF30-Av. Gabriela Oriente / Esq. Nieves Oriente
+712NI;14057;PF31;PF31-Av. Gabriela Oriente / Esq. San Fernando
+712NI;14321;PF32;PF32-Av. Gabriela Oriente / Esq. Av.Camilo Henríquez
+712NI;14927;PF7;PF7-Parada 2 / Mall Plaza Tobalaba
+712NI;15476;PF8;PF8-Parada / Liceo Juan Mackenna
+712NI;15779;PF9;PF9-Parada / Colegio Mayor
+712NI;16099;PF10;PF10-Parada 2 / Paradero 26 Av. La Florida
+712NI;16375;PF11;PF11-Parada / Paradero 25 Av. La Florida
+712NI;16672;PF12;PF12-Parada / Cementerio Parque El Prado
+712NI;17075;PF13;PF13-Parada 2 / Paradero 23 Av. La Florida
+712NI;17685;PF15;PF15-Parada 2 / Paradero 21 Av. La Florida
+712NI;18162;PE23;PE23-Parada / Boston College La Florida
+712NI;18618;PE24;PE24-Parada 2 / Paradero 19 Av. La Florida
+712NI;19108;PE25;PE25-Parada 2 / Paradero 18 Av. La Florida
+712NI;19643;PE26;PE26-Parada / Paradero 17 Av. La Florida
+712NI;19944;PE27;PE27-Parada / Paradero 16 Av. La Florida
+712NI;20325;PE28;PE28-Parada / Paradero 15 Av. La Florida
+712NI;20641;PE29;PE29-Parada 2 / Paradero 14 Av. La Florida
+712NI;20870;PE1287;PE1287-Avenida La Florida / Esq. Manzanillones
+712NI;21058;PE1383;PE1383-Avenida La Florida / Esq. Los Cardenales
+712NI;21237;PE30;PE30-Avenida La Florida / Esq. Los Aralios
+712NI;21488;PE31;PE31-Parada / Liceo Técnico La Florida
+712NI;21816;PE32;PE32-Parada / Centro De Salud La Florida
+712NI;22491;PD85;PD85-Parada 2 / (M) Macul
+712NI;22701;PD273;PD273-Av. Américo Vespucio / Esq. Av. Sn. Luis De Macul
+712NI;23078;PD274;PD274-Av. Américo Vespucio / Esq. Chillán
+712NI;23412;PD173;PD173-Parada 2 / (M) Las Torres
+712NI;23802;PD275;PD275-Av. Américo Vespucio / Esq. Pque. Vespucio -Sur
+712NI;23973;PD276;PD276-Av. Américo Vespucio / Esq. Pque. Vespucio-Norte
+712NI;24220;PD277;PD277-Av. Américo Vespucio / Esq. Llaima
+712NI;24396;PD278;PD278-Av. Américo Vespucio / Esq. Los Maitenes
+712NI;24745;PD174;PD174-Parada / Rotonda Quilín
+712NI;24986;PD1356;PD1356-Parada 2 / (M) Quilín
+712NI;25384;PD279;PD279-Parada / Paseo Quilín
+712NI;25557;PD283;PD283-Av. Américo Vespucio / Esq. Mar Tirreno
+712NI;26072;PD175;PD175-Parada 2 / (M) Los Presidentes
+712NI;26502;PD280;PD280-Av. Américo Vespucio / Esq. Avenida El Valle
+712NI;26691;PD281;PD281-Av. Américo Vespucio / Esq. El Litoral
+712NI;26887;PD282;PD282-Av. Américo Vespucio / Esq. El Lago
+712NI;27053;PD176;PD176-Parada 3 / (M) Grecia
+712NI;27474;PD284;PD284-Av. Américo Vespucio / Esq. Nueva
+712NI;27692;PD285;PD285-Av. Américo Vespucio / Esq. Alonso De Berríos
+712NI;27975;PD177;PD177-Parada 2 / (M) Los Orientales
+712NI;28289;PD218;PD218-Av. Américo Vespucio / Esq. Dublé Almeyda
+712NI;28411;PD219;PD219-Av. Américo Vespucio / Esq. Av. José Arrieta
+712NI;28816;PD220;PD220-Av. Américo Vespucio / Esq. Blest Gana
+712NI;29136;PD178;PD178-Parada 1 / (M) Plaza Egaña
+712NI;29513;PD221;PD221-Avenida Ossa / Esq. Dr. G. Benavides
+712NI;29833;PD222;PD222-Avenida Ossa / Esq. Guillermo Tell
+712NI;29958;PD180;PD180-Parada 2 / (M) Simón Bolívar
+712NI;30133;PD223;PD223-Avenida Ossa / Esq. Sn. Vicente De Paul
+712NI;30410;PD179;PD179-Parada 4 / (M) Príncipe De Gales
+712NI;30578;PD1116;PD1116-Parada 2 / (M) Príncipe De Gales
+712NI;31182;PD181;PD181-Av. Américo Vespucio / Esq. Los Grillos
+712NI;31539;PD182;PD182-Av. Américo Vespucio / Esq. Av. Francisco Bilbao
+712NI;31811;PC52;PC52-Av. Américo Vespucio / Esq. Manuel Barrios
+712NI;32163;PC53;PC53-Av. Américo Vespucio / Esq. Av.Isabel La Católica
+712NI;32536;PC54;PC54-Av. Américo Vespucio / Esq. Av. Cristóbal Colón
+712NI;32759;PC55;PC55-Av. Américo Vespucio / Esq. Martín De Zamora
+712NI;33166;PC56;PC56-Av. Américo Vespucio / Esq. Del Inca
+712NI;33752;PC57;PC57-Parada 8 / (M) Escuela Militar
+712NR;84;PC74;PC74-Parada 6 / (M) Escuela Militar
+712NR;511;PC75;PC75-Av. Américo Vespucio / Esq. Av. Pdte. Errázuriz
+712NR;947;PC76;PC76-Av. Américo Vespucio / Esq. Martín De Zamora
+712NR;1164;PC77;PC77-Av. Américo Vespucio / Esq. Av. Cristóbal Colón
+712NR;1521;PC78;PC78-Av. Américo Vespucio / Esq. Av.Isabel La Católica
+712NR;1808;PC79;PC79-Av. Américo Vespucio / Esq. Latadía
+712NR;2123;PC80;PC80-Av. Américo Vespucio / Esq. Av. Francisco Bilbao
+712NR;2514;PD183;PD183-Av. Américo Vespucio / Esq. Los Grillos
+712NR;2848;PD184;PD184-Parada 3 / (M) Príncipe De Gales
+712NR;3063;PD185;PD185-Parada 1 / (M) Príncipe De Gales
+712NR;3309;PD226;PD226-Avenida Ossa / Esq. Emilia Téllez
+712NR;3608;PD227;PD227-Avenida Ossa / Esq. Avenida Pucara
+712NR;3820;PD186;PD186-Parada 1 / (M) Simón Bolívar
+712NR;4036;PD228;PD228-Avenida Ossa / Esq. Av. Simón Bolivar
+712NR;4315;PD229;PD229-Avenida Ossa / Esq. Estrella Solitaria
+712NR;4623;PD187;PD187-Parada 6 / (M) Plaza Egaña
+712NR;5044;PD230;PD230-Av. Américo Vespucio / Esq. Nuncio Laghi
+712NR;5279;PD231;PD231-Av. Américo Vespucio / Esq. Av. Diagonal -Oriente
+712NR;5691;PD188;PD188-Parada 1 / (M) Los Orientales
+712NR;6452;PD189;PD189-Parada 1 / (M) Grecia
+712NR;6974;PD265;PD265-Av. Américo Vespucio / Esq. Psje. Alejandro Ríos
+712NR;7267;PD266;PD266-Av. Américo Vespucio / Esq. Psje.Amanda Labarca
+712NR;7748;PD190;PD190-Parada 1 / (M) Los Presidentes
+712NR;8058;PD267;PD267-Av. Américo Vespucio / Esq. Las Madreselvas
+712NR;8617;PD191;PD191-Parada 1 / (M) Quilín
+712NR;9226;PD268;PD268-Av. Américo Vespucio / Esq. Pasaje Peatones 3
+712NR;9651;PD269;PD269-Av. Américo Vespucio / Esq. Sta. T. De Los Andes
+712NR;10083;PD192;PD192-Parada 1 / (M) Las Torres
+712NR;10769;PD270;PD270-Av. Américo Vespucio / Esq. Armando Pesantes
+712NR;11222;PD75;PD75-Parada 1 / (M) Macul
+712NR;12000;PE7;PE7-Parada / Centro De Salud La Florida
+712NR;12272;PE8;PE8-Parada / Liceo Técnico La Florida
+712NR;12504;PE9;PE9-Avenida La Florida / Esq. Real Pontevera
+712NR;13038;PE10;PE10-Parada 1 / Paradero 14 Av. La Florida
+712NR;13459;PE11;PE11-Parada / Paradero 15 Av. La Florida
+712NR;13813;PE12;PE12-Parada / Paradero 16 Av. La Florida
+712NR;14227;PE13;PE13-Parada / Paradero 17 Av. La Florida
+712NR;14619;PE14;PE14-Parada 1 / Paradero 18 Av. La Florida
+712NR;15095;PE15;PE15-Parada 1 / Paradero 19 Av. La Florida
+712NR;15570;PE16;PE16-Parada / Boston College La Florida
+712NR;16013;PE17;PE17-Parada 1 / Paradero 21 Av. La Florida
+712NR;16386;PE18;PE18-Parada / Paradero 22 Av. La Florida
+712NR;16659;PE19;PE19-Parada 1 / Paradero 23 Av. La Florida
+712NR;17051;PE20;PE20-Parada / Cementerio Parque El Prado
+712NR;17254;PE21;PE21-Parada / Paradero 25 Av. La Florida
+712NR;17594;PE22;PE22-Parada 1 / Paradero 26 Av. La Florida
+712NR;17968;PF1;PF1-Parada / Colegio Mayor
+712NR;18284;PF2;PF2-Parada / Liceo Juan Mackenna
+712NR;18868;PF3;PF3-Parada 1 / Mall Plaza Tobalaba
+712NR;19412;PF4;PF4-Av. Camilo Henríquez / Esq. Av. Gabriela Oriente
+712NR;19485;PF33;PF33-Av. Gabriela Oriente / Esq. San Gabriel
+712NR;19737;PF34;PF34-Av. Gabriela Oriente / Esq. Nev. Ojos Del Salado
+712NR;19938;PF35;PF35-Av. Gabriela Oriente / Esq. Las Nieves -Oriente
+712NR;20133;PF36;PF36-Av. Gabriela Oriente / Esq. Anakena
+712NR;20372;PF37;PF37-Av. Gabriela Oriente / Esq. Avenida México
+712NR;20582;PF38;PF38-Av. Gabriela Oriente / Esq. Los Azahares
+712NR;20893;PF39;PF39-Av. Gabriela Oriente / Esq. Nonato Coo
+712NR;21276;PF40;PF40-Nonato Coo / Esq. Avenida El Peñón
+712NR;21545;PF41;PF41-Nonato Coo / Esq. Maestro Palomo
+712NR;21890;PF42;PF42-Nonato Coo / Esq. Av. L. Matte Larraín
+712NR;22227;PF43;PF43-Nonato Coo / Esq. Ángel Pimentel
+712NR;22517;PF44;PF44-Nonato Coo / Esq. San Hugo
+712NR;22707;PF45;PF45-Nonato Coo / Esq. Las Nieves -Oriente
+712NR;22982;PF46;PF46-Nonato Coo / Esq. Abogado
+712NR;23195;PF47;PF47-Nonato Coo / Esq. Av. San Carlos
+712NR;23461;PF48;PF48-Nonato Coo / Esq. El Octante
+712NR;23680;PF147;PF147-Nonato Coo / Esq. Domingo Tocornal
+712NR;23982;PF420;PF420-Domingo Tocornal / Esq. Ignacio Domeyko
+712NR;24261;PF811;PF811-Domingo Tocornal / Esq. Nemesio Vicuña
+712NR;25044;PF175;PF175-Parada 4 / Paradero 39 Av.Vicuña Mackenna
+712NR;25571;PF176;PF176-Parada 3 / (M) Plaza De Puente Alto
+712NR;26654;PF177;PF177-Avenida Eyzaguirre / Esq. Carlos Aguirre Luco
+712NR;27048;PF516;PF516-Carlos Aguirre Luco / Esq. Sargento Menadier
+712NR;27567;PF983;PF983-Av. Circunvalación / Esq. Laja
+712NR;27807;PF982;PF982-Av. Circunvalación / Esq. Nonato Coo
+712NR;28231;PF981;PF981-Av. Circunvalación / Esq. Holanda
+712NR;28574;PF520;PF520-Av. Circunvalación / Esq. Tomé
+712NR;28839;PF521;PF521-Av. Circunvalación / Esq. M. Toledo -Oriente
+712NR;29273;PF522;PF522-Luis Moreno Paz / Esq. Bombero De Pte. Alto 
+712NR;29475;PF523;PF523-Luis Moreno Paz / Esq. Av. Eyzaguirre
+712NR;29991;PF185;PF185-Avenida Eyzaguirre / Esq. Cerro San Esteban
+712NR;30504;PF186;PF186-Parada / Lomas De Eyzaguirre
+712NR;30781;PF187;PF187-Avenida Eyzaguirre / Esq. Los Acacios
+712NR;31120;PF188;PF188-27 De Septiembre / Esq. El Nogal
+712NR;31389;PF189;PF189-27 De Septiembre / Esq. Los Espinos
+712NR;31721;PF190;PF190-27 De Septiembre / Esq. Los Alamos
+712NR;32044;PF191;PF191-27 De Septiembre / Esq. 17 De Marzo
+712NR;32373;PF192;PF192-27 De Septiembre / Esq. Los Cerezos
+712NR;32715;PF985;PF985-Los Pinos / Esq. El Volcán
+712NR;32901;PF997;PF997-El Volcán / Esq. El Bambú
+712NR;33119;PF194;PF194-El Volcán / Esq. Las Higueras
 712R;1363;PB110;PB110-Parada 2 / Plaza El Salto
 712R;1440;PB676;PB676-Parada 4 / Plaza El Salto
 712R;1731;PB677;PB677-Av. Los Zapadores / Esq. San José
@@ -18120,6 +18176,7 @@
 712R;24988;PD75;PD75-Parada 1 / (M) Macul
 712R;25766;PE7;PE7-Parada / Centro De Salud La Florida
 712R;26039;PE8;PE8-Parada / Liceo Técnico La Florida
+712R;26275;PE9;PE9-Avenida La Florida / Esq. Real Pontevera
 712R;26805;PE10;PE10-Parada 1 / Paradero 14 Av. La Florida
 712R;27226;PE11;PE11-Parada / Paradero 15 Av. La Florida
 712R;27581;PE12;PE12-Parada / Paradero 16 Av. La Florida
@@ -18298,10 +18355,7 @@ B02I;9590;PB148;PB148-El Salto / Esq. Doctor Ostornol
 B02I;9868;PB149;PB149-El Salto / Esq. Arz. Valdivieso
 B02I;10098;PB754;PB754-Arzobispo Valdivieso / Esq. Orleans
 B02I;10475;PB755;PB755-Parada 1 / (M) Cementerios
-B02I;10632;PB313;PB313-Avenida Recoleta / Esq. Urrutia
 B02I;11108;PB1323;PB1323-Profesor A. Zañartu / Esq. Monserrat
-B02I;11112;PB756;PB756-Parada 4 / (M) Cerro Blanco
-B02I;11269;PB757;PB757-Santos Dumont / Esq. Avenida La Paz
 B02I;11526;PB1324;PB1324-Parada / Hospital San José
 B02I;11849;PB1325;PB1325-Parada  4 / Hospitales
 B02I;12156;PB207;PB207-Av. Independencia / Esq. Gamero
@@ -35305,7 +35359,7 @@ J20I;13345;PJ1943;PJ1943-Serrano Esq. / La Capilla
 J20I;13477;PJ257;PJ257-La Capilla / Esq. Fraternidad
 J20I;13687;PJ258;PJ258-La Capilla / Esq. Federico Errázuriz
 J20I;14035;PJ259;PJ259-La Capilla / Esq. El Arrollo
-L1I;-1;91;San Pablo
+L1I;-1;91;San Pablo (L1-L5)
 L1R;-1;40;Los Dominicos
 L2I;-1;5;Vespucio Norte
 L2R;-1;39;La Cisterna
@@ -35313,21 +35367,23 @@ L2RI;-1;5;Vespucio Norte
 L2RR;-1;39;La Cisterna
 L2VI;-1;5;Vespucio Norte
 L2VR;-1;39;La Cisterna
-L4AI;-1;99;Vicuña Mackenna
+L3I;-1;108;Los Libertadores
+L3R;-1;120;Fernando Castillo Velasco
+L4AI;-1;99;Vicuña Mackenna (L4-L4A)
 L4AR;-1;39;La Cisterna
-L4I;-1;93;Tobalaba
+L4I;-1;93;Tobalaba (L1-L4)
 L4R;-1;69;Plaza de Puente Alto
-L4RI;-1;93;Tobalaba
+L4RI;-1;93;Tobalaba (L1-L4)
 L4RR;-1;69;Plaza de Puente Alto
-L4VI;-1;93;Tobalaba
+L4VI;-1;93;Tobalaba (L1-L4)
 L4VR;-1;69;Plaza de Puente Alto
 L5I;-1;68;Plaza de Maipú
-L5R;-1;98;Vicente Valdés
+L5R;-1;98;Vicente Valdés (L4-L5)
 L5RI;-1;68;Plaza de Maipú
-L5RR;-1;98;Vicente Valdés
+L5RR;-1;98;Vicente Valdés (L4-L5)
 L5VI;-1;68;Plaza de Maipú
-L5VR;-1;98;Vicente Valdés
+L5VR;-1;98;Vicente Valdés (L4-L5)
 L6I;-1;101;Cerrillos
 L6R;-1;41;Los Leones
-MTI;-1;200;Alameda
-MTR;-1;209;Nos
+MTNI;-1;200;Alameda
+MTNR;-1;209;Nos
