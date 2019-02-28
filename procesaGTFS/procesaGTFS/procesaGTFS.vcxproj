@@ -154,6 +154,7 @@
     <ClCompile Include="IO\Tablas\TablaServiciosParaAndroid.cpp" />
     <ClCompile Include="IO\Tablas\TablaServiciosPorParada.cpp" />
     <ClCompile Include="IO\Tablas\TablaServiciosPorParadaParaAndriod.cpp" />
+    <ClCompile Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.cpp" />
     <ClCompile Include="IO\Visualizacion\ColorScale.cpp" />
     <ClCompile Include="IO\Visualizacion\CreaKML.cpp" />
     <ClCompile Include="IO\Visualizacion\Visualizaciones.cpp" />
@@ -195,6 +196,7 @@
     <ClInclude Include="IO\Tablas\TablaServiciosParaAndroid.h" />
     <ClInclude Include="IO\Tablas\TablaServiciosPorParada.h" />
     <ClInclude Include="IO\Tablas\TablaServiciosPorParadaParaAndriod.h" />
+    <ClInclude Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.h" />
     <ClInclude Include="IO\Visualizacion\ColorScale.h" />
     <ClInclude Include="IO\Visualizacion\CreaKML.h" />
     <ClInclude Include="IO\Visualizacion\Visualizaciones.h" />

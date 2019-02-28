@@ -89,6 +89,9 @@ class FuenteDatos{
 	///Grilla para ordenar informacion geograficamente
 	Grid grid;
 
+	///Archivo para parametros variados de salida
+	ofstream outParameters;
+
 	///StopsTimes
 	struct Secuencia
 	{

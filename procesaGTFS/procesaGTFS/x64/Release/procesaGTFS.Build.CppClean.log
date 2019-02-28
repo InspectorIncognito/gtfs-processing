@@ -1,10 +1,10 @@
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\vc141.pdb
-c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\diccionarioservicios.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\puntobip.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\procesagtfs.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\visualizaciones.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\creakml.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\colorscale.obj
+c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\tablaserviciosporparadasporsecuencia.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\tablaserviciosporparadaparaandriod.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\tablaserviciosporparada.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\tablaserviciosparaandroid.obj
@@ -37,6 +37,7 @@ c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\paradero.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\gridprocess.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\grid.obj
 c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\cell.obj
+c:\workspace\gtfsprocessing\procesagtfs\procesagtfs\x64\release\diccionarioservicios.obj
 c:\workspace\gtfsprocessing\procesagtfs\x64\release\procesagtfs.exe
 c:\workspace\gtfsprocessing\procesagtfs\x64\release\procesagtfs.pdb
 c:\workspace\gtfsprocessing\procesagtfs\x64\release\procesagtfs.ipdb

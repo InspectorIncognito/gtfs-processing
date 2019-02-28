@@ -166,6 +166,9 @@
     <ClCompile Include="IO\Tablas\TablaPuntoCarga.cpp">
       <Filter>IO\Tablas</Filter>
     </ClCompile>
+    <ClCompile Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.cpp">
+      <Filter>IO\Tablas</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Utilidades\ConvertCoordinate.h">
@@ -283,6 +286,9 @@
       <Filter>Transporte\PuntoBip</Filter>
     </ClInclude>
     <ClInclude Include="IO\Tablas\TablaPuntoCarga.h">
+      <Filter>IO\Tablas</Filter>
+    </ClInclude>
+    <ClInclude Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.h">
       <Filter>IO\Tablas</Filter>
     </ClInclude>
   </ItemGroup>

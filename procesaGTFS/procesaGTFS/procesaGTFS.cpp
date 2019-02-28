@@ -28,6 +28,7 @@
 #include "IO/Tablas/TablaRutasSimplificadas.h"
 #include "IO/Tablas/TablaServiciosPorParadaParaAndriod.h"
 #include "IO/Tablas/TablaServiciosParaAndroid.h"
+#include "IO/Tablas/TablaServiciosPorParadasPorSecuencia.h"
 #include "IO/Tablas/TablaGrilla.h"
 
 
@@ -88,10 +89,14 @@ int main(int argc, const char* argv[])
 	///Tabla de grilla
 	TablaGrilla *tGrilla = new TablaGrilla(fdd);
 
+	///Tabla de secuencias, con variantes
+	TablaServiciosPorParadasPorSecuencia *tSpPpS = new TablaServiciosPorParadasPorSecuencia(fdd);
+
 	/////Construccion de visualizacion
 	Visualizaciones *visual = new Visualizaciones(fdd);
 	visual->DibujaGoogleEarth();
 
+	fdd->outParameters.close();
 
 	cout << "Tiempo Total: " << Cronometro::GetMilliSpan( nTimeStart )/60000.0 << "(min)" << endl;
 
