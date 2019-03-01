@@ -65,8 +65,8 @@ void GridProcess::ConstruyeGrilla()
 
 	fdd_->outParameters << "GridMinLatitude;" << fdd_->grid.minLat << endl;
 	fdd_->outParameters << "GridMinLongitude;" << fdd_->grid.minLon << endl;
-	fdd_->outParameters << "GridDLatitud;" << fdd_->grid.ddLat << endl;
-	fdd_->outParameters << "GridDLongitude;" << fdd_->grid.ddLon << endl;
+	fdd_->outParameters << "GridDistLatitude;" << fdd_->grid.ddLat << endl;
+	fdd_->outParameters << "GridDistLongitude;" << fdd_->grid.ddLon << endl;
 
 	cout << "Min : " << fdd_->grid.minLat << " | " << fdd_->grid.minLon << endl;
 	cout << "Max : " << fdd_->grid.maxLat << " | " << fdd_->grid.maxLon << endl;

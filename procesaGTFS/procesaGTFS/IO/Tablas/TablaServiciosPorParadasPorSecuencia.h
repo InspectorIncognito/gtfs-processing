@@ -55,4 +55,6 @@ class TablaServiciosPorParadasPorSecuencia{
 		void Crear();
 
 		string EliminaCadenasBlancos(string in);
+
+		string toCamelCase(string in);
 };

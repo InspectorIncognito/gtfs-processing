@@ -45,7 +45,6 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 
 
 	///Construyendo estrucutura de secuencias por servicio-horario
-	/*
 	map< string, busStopSequence> secuenciasPorHorario;
 	map< string, busStopSequence>::iterator itseq;
 	int min_hora_ini = 999999;
@@ -53,12 +52,11 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 	for (isec = fdd_->secuencias.begin(); isec != fdd_->secuencias.end(); isec++)
 	{
 		map<string, FuenteDatos::Secuencia >::iterator isec_ant;
-		map<string, FuenteDatos::Secuencia >::iterator isec_sgt;
 		isec_ant = isec;
 		isec_ant--;
-		isec_sgt = isec;
-		isec_sgt++;
 
+		if ((*isec).second.hora_ini.compare("-") == 0 || (*isec).second.hora_fin.compare("-") == 0 || (*isec_ant).second.hora_ini.compare("-") == 0 || (*isec_ant).second.hora_fin.compare("-") == 0)
+			continue;
 
 		if (isec == fdd_->secuencias.begin())
 		{
@@ -120,7 +118,6 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 						nombre = (*iserv).second.origen;
 				}
 
-
 				if (min_hora_ini == 999999 || max_hora_fin == -1)
 				{
 					string color;
@@ -129,7 +126,7 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 						color = (*iiit).second;
 					else
 					{
-						cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
+						//cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
 						color = "0";
 					}
 					string secParadas;
@@ -141,35 +138,55 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 							secParadas += "-" + (*ipar).second;
 					}
 
-					cout << "WTF : " << nombre << endl;
+					string horario = (*isec_ant).second.hora_ini + "-" + (*isec_ant).second.hora_fin;
+
+					busStopSequence bss;
+					bss.servicio = servicio;
+					bss.sentido = sentido;
+					bss.tipodia = tipoDia;
+					bss.color = color;
+					bss.horario = horario;
+					bss.nombre = nombre;
+					bss.paradas = secParadas;
+
+
+					string key = servicio + ";" + sentido + ";" + tipoDia + ";" + secParadas;
+					//cout << "FLAG 0 : " << key << endl;
+					itseq = secuenciasPorHorario.find(key);
+					if (itseq == secuenciasPorHorario.end())
+					{
+						//cout << "FLAG 1 : " << key << endl;
+						secuenciasPorHorario[key] = bss;
+					}
+					else
+					{
+						//cout << "FLAG 2 : " << key << endl;
+						(*itseq).second.horario += "/" + horario;
+					}
 				}
 				else
 				{
-					//fout << servicio << ";";
-					//fout << sentido << ";";
-					//fout << tipoDia << ";";
-
-					string nombre;
+					string color;
 					map<string, string>::iterator iiit = fdd_->dicSS.colores.find((*iserv).first);
 					if (iiit != fdd_->dicSS.colores.end())
-						nombre = (*iiit).second;
+						color = (*iiit).second;
 					else
 					{
-						cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
-						nombre = "0" ;
+						//cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
+						color = "0" ;
 					}
 
 					//fout << fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini) << ";";
 					string horario = fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini);
 					if (max_hora_fin == 86400)
 					{
-						horario = "-" + fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin - 1);
+						horario += "-" + fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin - 1);
 						//fout << fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin - 1) << ";";
 						//fout << nombre << " " << tipoDia << " (" << fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini) << " - " << fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin - 1) << ")" << ";";
 					}
 					else
 					{
-						horario = "-" + fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin);
+						horario += "-" + fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin);
 						//fout << fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
 						//fout << nombre << " " << tipoDia << " (" << fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini) << " - " << fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin) << ")" << ";";
 					}
@@ -185,23 +202,57 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 					}
 					//fout << endl;
 
-					string key = servicio + sentido + tipoDia + horario;
+					busStopSequence bss;
+					bss.servicio = servicio;
+					bss.sentido = sentido;
+					bss.tipodia = tipoDia;
+					bss.color = color;
+					bss.horario = horario;
+					bss.nombre = nombre;
+					bss.paradas = secParadas;
 
+					
+					string key = servicio + ";" + sentido + ";" + tipoDia + ";" + secParadas;
+					//cout << "FLAG 0 : " << key << endl;
 					itseq = secuenciasPorHorario.find(key);
-
+					if (itseq == secuenciasPorHorario.end())
+					{
+						//cout << "FLAG 1 : " << key << endl;
+						secuenciasPorHorario[key] = bss;
+					}
+					else
+					{
+						//cout << "FLAG 2 : " << key << endl;
+						(*itseq).second.horario += "/" + horario;
+					}
 				}
 
 				min_hora_ini = 999999;
 				max_hora_fin = -1;
 			}
 		}
+		//cout << "FLAG -2" << endl;
+	}
 
 
+	ofstream fout;
+	fout.open("Android_busstops_sequences" + fdd_->parametros->version + ".csv");
+	fout << "servicio;sentido;tipodia;color_id;horario;direccion;paradas" << endl;
+	for (itseq = secuenciasPorHorario.begin(); itseq != secuenciasPorHorario.end(); itseq++)
+	{
+		vector<string> tmp = StringFunctions::Explode((*itseq).first, ';');
+
+		fout << tmp[0] << ";";
+		fout << tmp[1] << ";";
+		fout << tmp[2] << ";";
+		fout << (*itseq).second.color << ";";
+		fout << (*itseq).second.horario << ";";
+		fout << toCamelCase(string((*itseq).second.nombre+" "+tmp[2]+" ("+(*itseq).second.horario+");"));
+		fout << tmp[3] << endl;
 	}
 	fout.close();
-	*/
 
-	
+	/*
 	///DEBUG
 	ofstream fout;
 	fout.open("Android_busstops_sequences" + fdd_->parametros->version + ".csv");
@@ -352,11 +403,9 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 				max_hora_fin = -1;
 			}
 		}
-
-
 	}
 	fout.close();
-	
+	*/
 
 
 	cout << Cronometro::GetMilliSpan( nTimeStart )/60000.0 << "(min)" << endl;
@@ -381,3 +430,28 @@ string TablaServiciosPorParadasPorSecuencia::EliminaCadenasBlancos(string in)
 	return out;
 	//return in;
 }	
+
+string TablaServiciosPorParadasPorSecuencia::toCamelCase(string in)
+{
+	string out;
+	std::locale loc;
+
+	for (int i = 0; i < in.size(); i++)
+	{
+		if (i == 0)
+		{
+			out.push_back(std::toupper(in.at(i), loc));
+		}
+		else
+		{
+			int ant = i - 1;
+			if (in.at(ant) == ' ' || in.at(ant) == '(')
+				out.push_back(std::toupper(in.at(i), loc));
+			else
+				out.push_back(std::tolower(in.at(i), loc));
+
+		}
+	}
+
+	return out;
+}

@@ -34,6 +34,7 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 	///
 	outParameters.open("parameters" + parametros->version + ".csv");
 	outParameters.precision(10);
+	outParameters << "key;value" << endl;
 
 	///Inicializacion de reporte
 	this->reporte = new ReporteFuenteDatos(parametros->carpetaReportes);
