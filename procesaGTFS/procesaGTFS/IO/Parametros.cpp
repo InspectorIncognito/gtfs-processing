@@ -39,6 +39,8 @@ Parametros::Parametros(const char *file)
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreCarpetaGTFS = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoHorarios = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoPuntosCargaBip = columnas[0];
+	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoConsolidadoDeParadas = columnas[0];
+
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaKmls = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaReportes = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->distanciaTramado = atof(columnas[0].c_str());

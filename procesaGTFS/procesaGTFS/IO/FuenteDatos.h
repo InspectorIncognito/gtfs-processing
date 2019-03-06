@@ -32,6 +32,7 @@
 #include "../Transporte/CargaBip/PuntoBip.h"
 #include "../Transporte/Diccionarios/DiccionarioServicios.h"
 
+
 using namespace std;
 
 /**
@@ -79,6 +80,9 @@ class FuenteDatos{
 
 	///Estructura de secuencia de paraderos
 	SecuenciaParaderos secParaderosTODOS;
+
+	///Estructura de secuencia de paraderos
+	SecuenciaParaderos secParaderosDTPM;
 
 	///Estructura de servicios
 	map<string, Servicio> servicios;
@@ -133,6 +137,7 @@ class FuenteDatos{
 	* @return referencia a objeto con el conjunto de paraderos del sistema
 	*/
 	void leeSecuenciaDeParadas();
+	void leeSecuenciaDeParadasDTPM();
 	void readStopTimes();
 
 	/**
@@ -154,6 +159,5 @@ class FuenteDatos{
 	*/
 	bool estaEnSantiago(int x_, int y_);
 
-
-
+	string toCamelCase(string in);
 };
