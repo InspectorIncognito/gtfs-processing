@@ -50,4 +50,6 @@ class TablaParadas{
 		* @param transacciones referencia al conjunto de transacciones del sistema con subida estimada
 		*/
 		void Crear();
+        
+        string toCamelCase(string in);
 };

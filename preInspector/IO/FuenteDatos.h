@@ -25,10 +25,10 @@
 #include "../Utilidades/ConvertCoordinate.h"
 #include "../Utilidades/Cronometro.h"
 #include "../Transporte/Servicios/Servicio.h"
-// #include "../Transporte/Paraderos/SecuenciaParaderos.h"
-// #include "../Transporte/Paraderos/RedParadas.h"
-// #include "../Transporte/Rutas/Rutas.h"
-// #include "../Transporte/Grid/Grid.h"
+#include "../Transporte/Paraderos/SecuenciaParaderos.h"
+#include "../Transporte/Paraderos/RedParadas.h"
+#include "../Transporte/Rutas/Rutas.h"
+#include "../Transporte/Grid/Grid.h"
 // #include "../Transporte/CargaBip/PuntoBip.h"
 #include "../Transporte/Diccionarios/DiccionarioServicios.h"
 
@@ -66,18 +66,18 @@ class FuenteDatos{
 	///Estructura de diccionario de codigos servicio-sentido
 	DiccionarioServicios dicSS;
 
-// 	///Estructura  de las rutas
-// 	Rutas rutas;
-// 
-// 	///Estructura con la red de paraderos
-// 	RedParadas redParaderos;
-// 
-// 	///Estructura de secuencia de paraderos
-// 	SecuenciaParaderos secParaderos;
-// 
+	///Estructura  de las rutas
+	Rutas rutas;
+
+	///Estructura con la red de paraderos
+	RedParadas redParaderos;
+
+	///Estructura de secuencia de paraderos
+	SecuenciaParaderos secParaderos;
+
 // 	///Estructura de secuencia de paraderos
 // 	SecuenciaParaderos secParaderosTODOS;
-// 
+
 // 	///Estructura de secuencia de paraderos
 // 	SecuenciaParaderos secParaderosDTPM;
 
@@ -87,11 +87,11 @@ class FuenteDatos{
 // 	///Estructura con la red de puntos de carga bip
 // 	map<int, PuntoBip> puntosDeCargaBip;
 // 
-// 	///Grilla para ordenar informacion geograficamente
-// 	Grid grid;
-// 
-// 	///Archivo para parametros variados de salida
-// 	ofstream outParameters;
+	///Grilla para ordenar informacion geograficamente
+	Grid grid;
+
+	///Archivo para parametros variados de salida
+	ofstream outParameters;
 
 // 	///StopsTimes
 // 	struct Secuencia
@@ -112,13 +112,13 @@ class FuenteDatos{
 
 	void leeDiccionarioServicios();
 
-// 	void leeRutas();
-// 
-// 	void leeRedDeParadas();
-// 	void CorrigeParadasMismaPosicion();
-// 
-// 	void leeSecuenciaDeParadas();
-// 	void leeSecuenciaDeParadasDTPM();
+	void leeRutas();
+
+	void leeRedDeParadas();
+	void CorrigeParadasMismaPosicion();
+
+	void leeSecuenciaDeParadas();
+	void leeSecuenciaDeParadasDTPM();
 // 	void readStopTimes();
 
 // 	void leeHorarios();
@@ -126,6 +126,6 @@ class FuenteDatos{
 // 	void leePuntosDeCargaBip();
 // 
 // 	bool estaEnSantiago(int x_, int y_);
-// 
-// 	string toCamelCase(string in);
+
+	string toCamelCase(string in);
 };

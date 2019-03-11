@@ -177,9 +177,225 @@ CMakeFiles/preinspector.dir/Transporte/Servicios/Servicio.cpp.o.provides: CMakeF
 CMakeFiles/preinspector.dir/Transporte/Servicios/Servicio.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Servicios/Servicio.cpp.o
 
 
+CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o: ../Transporte/Rutas/Rutas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.cpp
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.cpp > CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.i
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.cpp -o CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.s
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o.provides: CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o
+
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o: ../Transporte/Rutas/Ruta.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.cpp
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.cpp > CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.i
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.cpp -o CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.s
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o.provides: CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o
+
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o: ../Transporte/Paraderos/Paradero.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.cpp
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.cpp > CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.i
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.cpp -o CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.s
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o.provides: CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o
+
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o: ../Transporte/Paraderos/RedParadas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.cpp
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.cpp > CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.i
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.cpp -o CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.s
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o.provides: CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o
+
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o: ../Transporte/Paraderos/SecuenciaParaderos.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.cpp
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.cpp > CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.i
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.cpp -o CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.s
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o.provides: CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o
+
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o: ../Transporte/Paraderos/ProcesaParadas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/ProcesaParadas.cpp
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/ProcesaParadas.cpp > CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.i
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/ProcesaParadas.cpp -o CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.s
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o.provides: CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o
+
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o: ../Transporte/Grid/Cell.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.cpp
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.cpp > CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.i
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.cpp -o CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.s
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o.provides: CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o
+
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o: ../Transporte/Grid/Grid.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.cpp
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.cpp > CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.i
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.cpp -o CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.s
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o.provides: CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o
+
+
+CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o: ../Transporte/Grid/GridProcess.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/GridProcess.cpp
+
+CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/GridProcess.cpp > CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.i
+
+CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/GridProcess.cpp -o CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.s
+
+CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o.provides: CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o.provides.build: CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o
+
+
 CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o: CMakeFiles/preinspector.dir/flags.make
 CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o: ../Utilidades/Cronometro.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.cpp
 
 CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.i: cmake_force
@@ -203,7 +419,7 @@ CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o: CMakeFiles/preinspector.dir/flags.make
 CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o: ../Utilidades/StringFunctions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.cpp
 
 CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.i: cmake_force
@@ -227,7 +443,7 @@ CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o.provides.build: CMa
 
 CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o: CMakeFiles/preinspector.dir/flags.make
 CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o: ../Utilidades/ConvertCoordinate.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/ConvertCoordinate.cpp
 
 CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.i: cmake_force
@@ -251,7 +467,7 @@ CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o.provides.build: C
 
 CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o: CMakeFiles/preinspector.dir/flags.make
 CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o: ../Utilidades/TimeStampHandler.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/TimeStampHandler.cpp
 
 CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.i: cmake_force
@@ -273,6 +489,78 @@ CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o.provides: CMakeFil
 CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o.provides.build: CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o
 
 
+CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o: ../Utilidades/Geometry2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.cpp
+
+CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.cpp > CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.i
+
+CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.cpp -o CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.s
+
+CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.requires
+
+CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.provides: CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.provides
+
+CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.provides.build: CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o
+
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o: ../IO/Tablas/TablaParadas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.cpp
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.cpp > CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.i
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.cpp -o CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.s
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.requires
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.provides: CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.provides
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.provides.build: CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o
+
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o: ../IO/Tablas/TablaGrilla.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaGrilla.cpp
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaGrilla.cpp > CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.i
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaGrilla.cpp -o CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.s
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o.requires:
+
+.PHONY : CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o.requires
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o.provides: CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o.provides
+
+CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o.provides.build: CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o
+
+
 # Object files for target preinspector
 preinspector_OBJECTS = \
 "CMakeFiles/preinspector.dir/main.cpp.o" \
@@ -280,10 +568,22 @@ preinspector_OBJECTS = \
 "CMakeFiles/preinspector.dir/IO/FuenteDatos.cpp.o" \
 "CMakeFiles/preinspector.dir/Transporte/Diccionarios/DiccionarioServicios.cpp.o" \
 "CMakeFiles/preinspector.dir/Transporte/Servicios/Servicio.cpp.o" \
+"CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o" \
+"CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o" \
+"CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o" \
+"CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o" \
+"CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o" \
+"CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o" \
+"CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o" \
+"CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o" \
+"CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o" \
 "CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o" \
 "CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o" \
 "CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o" \
-"CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o"
+"CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o" \
+"CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o" \
+"CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o" \
+"CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o"
 
 # External object files for target preinspector
 preinspector_EXTERNAL_OBJECTS =
@@ -293,13 +593,25 @@ preinspector: CMakeFiles/preinspector.dir/IO/Parametros.cpp.o
 preinspector: CMakeFiles/preinspector.dir/IO/FuenteDatos.cpp.o
 preinspector: CMakeFiles/preinspector.dir/Transporte/Diccionarios/DiccionarioServicios.cpp.o
 preinspector: CMakeFiles/preinspector.dir/Transporte/Servicios/Servicio.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o
 preinspector: CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o
 preinspector: CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o
 preinspector: CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o
 preinspector: CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o
+preinspector: CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o
+preinspector: CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o
+preinspector: CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o
 preinspector: CMakeFiles/preinspector.dir/build.make
 preinspector: CMakeFiles/preinspector.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable preinspector"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable preinspector"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/preinspector.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -312,10 +624,22 @@ CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/IO/Parametros.
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/IO/FuenteDatos.cpp.o.requires
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Diccionarios/DiccionarioServicios.cpp.o.requires
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Servicios/Servicio.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o.requires
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o.requires
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o.requires
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o.requires
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o.requires
 
 .PHONY : CMakeFiles/preinspector.dir/requires
 

@@ -48,6 +48,6 @@ public:
 	void ConstruyeGrillaFija();
 	void IngresaParaderosAGrilla();
 	void IngresaRutasAGrilla();
-	void IngresaPuntosBipsAGrilla();
+// 	void IngresaPuntosBipsAGrilla();
 	void InsertaRutaACelda(int iLat, int iLon, string ruta);
 };

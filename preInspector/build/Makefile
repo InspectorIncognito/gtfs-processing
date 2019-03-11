@@ -223,6 +223,60 @@ IO/Parametros.cpp.s:
 	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Parametros.cpp.s
 .PHONY : IO/Parametros.cpp.s
 
+IO/Tablas/TablaGrilla.o: IO/Tablas/TablaGrilla.cpp.o
+
+.PHONY : IO/Tablas/TablaGrilla.o
+
+# target to build an object file
+IO/Tablas/TablaGrilla.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o
+.PHONY : IO/Tablas/TablaGrilla.cpp.o
+
+IO/Tablas/TablaGrilla.i: IO/Tablas/TablaGrilla.cpp.i
+
+.PHONY : IO/Tablas/TablaGrilla.i
+
+# target to preprocess a source file
+IO/Tablas/TablaGrilla.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.i
+.PHONY : IO/Tablas/TablaGrilla.cpp.i
+
+IO/Tablas/TablaGrilla.s: IO/Tablas/TablaGrilla.cpp.s
+
+.PHONY : IO/Tablas/TablaGrilla.s
+
+# target to generate assembly for a file
+IO/Tablas/TablaGrilla.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.s
+.PHONY : IO/Tablas/TablaGrilla.cpp.s
+
+IO/Tablas/TablaParadas.o: IO/Tablas/TablaParadas.cpp.o
+
+.PHONY : IO/Tablas/TablaParadas.o
+
+# target to build an object file
+IO/Tablas/TablaParadas.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o
+.PHONY : IO/Tablas/TablaParadas.cpp.o
+
+IO/Tablas/TablaParadas.i: IO/Tablas/TablaParadas.cpp.i
+
+.PHONY : IO/Tablas/TablaParadas.i
+
+# target to preprocess a source file
+IO/Tablas/TablaParadas.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.i
+.PHONY : IO/Tablas/TablaParadas.cpp.i
+
+IO/Tablas/TablaParadas.s: IO/Tablas/TablaParadas.cpp.s
+
+.PHONY : IO/Tablas/TablaParadas.s
+
+# target to generate assembly for a file
+IO/Tablas/TablaParadas.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.s
+.PHONY : IO/Tablas/TablaParadas.cpp.s
+
 Transporte/Diccionarios/DiccionarioServicios.o: Transporte/Diccionarios/DiccionarioServicios.cpp.o
 
 .PHONY : Transporte/Diccionarios/DiccionarioServicios.o
@@ -249,6 +303,249 @@ Transporte/Diccionarios/DiccionarioServicios.s: Transporte/Diccionarios/Dicciona
 Transporte/Diccionarios/DiccionarioServicios.cpp.s:
 	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Diccionarios/DiccionarioServicios.cpp.s
 .PHONY : Transporte/Diccionarios/DiccionarioServicios.cpp.s
+
+Transporte/Grid/Cell.o: Transporte/Grid/Cell.cpp.o
+
+.PHONY : Transporte/Grid/Cell.o
+
+# target to build an object file
+Transporte/Grid/Cell.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o
+.PHONY : Transporte/Grid/Cell.cpp.o
+
+Transporte/Grid/Cell.i: Transporte/Grid/Cell.cpp.i
+
+.PHONY : Transporte/Grid/Cell.i
+
+# target to preprocess a source file
+Transporte/Grid/Cell.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.i
+.PHONY : Transporte/Grid/Cell.cpp.i
+
+Transporte/Grid/Cell.s: Transporte/Grid/Cell.cpp.s
+
+.PHONY : Transporte/Grid/Cell.s
+
+# target to generate assembly for a file
+Transporte/Grid/Cell.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.s
+.PHONY : Transporte/Grid/Cell.cpp.s
+
+Transporte/Grid/Grid.o: Transporte/Grid/Grid.cpp.o
+
+.PHONY : Transporte/Grid/Grid.o
+
+# target to build an object file
+Transporte/Grid/Grid.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o
+.PHONY : Transporte/Grid/Grid.cpp.o
+
+Transporte/Grid/Grid.i: Transporte/Grid/Grid.cpp.i
+
+.PHONY : Transporte/Grid/Grid.i
+
+# target to preprocess a source file
+Transporte/Grid/Grid.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.i
+.PHONY : Transporte/Grid/Grid.cpp.i
+
+Transporte/Grid/Grid.s: Transporte/Grid/Grid.cpp.s
+
+.PHONY : Transporte/Grid/Grid.s
+
+# target to generate assembly for a file
+Transporte/Grid/Grid.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.s
+.PHONY : Transporte/Grid/Grid.cpp.s
+
+Transporte/Grid/GridProcess.o: Transporte/Grid/GridProcess.cpp.o
+
+.PHONY : Transporte/Grid/GridProcess.o
+
+# target to build an object file
+Transporte/Grid/GridProcess.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o
+.PHONY : Transporte/Grid/GridProcess.cpp.o
+
+Transporte/Grid/GridProcess.i: Transporte/Grid/GridProcess.cpp.i
+
+.PHONY : Transporte/Grid/GridProcess.i
+
+# target to preprocess a source file
+Transporte/Grid/GridProcess.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.i
+.PHONY : Transporte/Grid/GridProcess.cpp.i
+
+Transporte/Grid/GridProcess.s: Transporte/Grid/GridProcess.cpp.s
+
+.PHONY : Transporte/Grid/GridProcess.s
+
+# target to generate assembly for a file
+Transporte/Grid/GridProcess.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.s
+.PHONY : Transporte/Grid/GridProcess.cpp.s
+
+Transporte/Paraderos/Paradero.o: Transporte/Paraderos/Paradero.cpp.o
+
+.PHONY : Transporte/Paraderos/Paradero.o
+
+# target to build an object file
+Transporte/Paraderos/Paradero.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o
+.PHONY : Transporte/Paraderos/Paradero.cpp.o
+
+Transporte/Paraderos/Paradero.i: Transporte/Paraderos/Paradero.cpp.i
+
+.PHONY : Transporte/Paraderos/Paradero.i
+
+# target to preprocess a source file
+Transporte/Paraderos/Paradero.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.i
+.PHONY : Transporte/Paraderos/Paradero.cpp.i
+
+Transporte/Paraderos/Paradero.s: Transporte/Paraderos/Paradero.cpp.s
+
+.PHONY : Transporte/Paraderos/Paradero.s
+
+# target to generate assembly for a file
+Transporte/Paraderos/Paradero.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.s
+.PHONY : Transporte/Paraderos/Paradero.cpp.s
+
+Transporte/Paraderos/ProcesaParadas.o: Transporte/Paraderos/ProcesaParadas.cpp.o
+
+.PHONY : Transporte/Paraderos/ProcesaParadas.o
+
+# target to build an object file
+Transporte/Paraderos/ProcesaParadas.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o
+.PHONY : Transporte/Paraderos/ProcesaParadas.cpp.o
+
+Transporte/Paraderos/ProcesaParadas.i: Transporte/Paraderos/ProcesaParadas.cpp.i
+
+.PHONY : Transporte/Paraderos/ProcesaParadas.i
+
+# target to preprocess a source file
+Transporte/Paraderos/ProcesaParadas.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.i
+.PHONY : Transporte/Paraderos/ProcesaParadas.cpp.i
+
+Transporte/Paraderos/ProcesaParadas.s: Transporte/Paraderos/ProcesaParadas.cpp.s
+
+.PHONY : Transporte/Paraderos/ProcesaParadas.s
+
+# target to generate assembly for a file
+Transporte/Paraderos/ProcesaParadas.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.s
+.PHONY : Transporte/Paraderos/ProcesaParadas.cpp.s
+
+Transporte/Paraderos/RedParadas.o: Transporte/Paraderos/RedParadas.cpp.o
+
+.PHONY : Transporte/Paraderos/RedParadas.o
+
+# target to build an object file
+Transporte/Paraderos/RedParadas.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o
+.PHONY : Transporte/Paraderos/RedParadas.cpp.o
+
+Transporte/Paraderos/RedParadas.i: Transporte/Paraderos/RedParadas.cpp.i
+
+.PHONY : Transporte/Paraderos/RedParadas.i
+
+# target to preprocess a source file
+Transporte/Paraderos/RedParadas.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.i
+.PHONY : Transporte/Paraderos/RedParadas.cpp.i
+
+Transporte/Paraderos/RedParadas.s: Transporte/Paraderos/RedParadas.cpp.s
+
+.PHONY : Transporte/Paraderos/RedParadas.s
+
+# target to generate assembly for a file
+Transporte/Paraderos/RedParadas.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.s
+.PHONY : Transporte/Paraderos/RedParadas.cpp.s
+
+Transporte/Paraderos/SecuenciaParaderos.o: Transporte/Paraderos/SecuenciaParaderos.cpp.o
+
+.PHONY : Transporte/Paraderos/SecuenciaParaderos.o
+
+# target to build an object file
+Transporte/Paraderos/SecuenciaParaderos.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o
+.PHONY : Transporte/Paraderos/SecuenciaParaderos.cpp.o
+
+Transporte/Paraderos/SecuenciaParaderos.i: Transporte/Paraderos/SecuenciaParaderos.cpp.i
+
+.PHONY : Transporte/Paraderos/SecuenciaParaderos.i
+
+# target to preprocess a source file
+Transporte/Paraderos/SecuenciaParaderos.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.i
+.PHONY : Transporte/Paraderos/SecuenciaParaderos.cpp.i
+
+Transporte/Paraderos/SecuenciaParaderos.s: Transporte/Paraderos/SecuenciaParaderos.cpp.s
+
+.PHONY : Transporte/Paraderos/SecuenciaParaderos.s
+
+# target to generate assembly for a file
+Transporte/Paraderos/SecuenciaParaderos.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.s
+.PHONY : Transporte/Paraderos/SecuenciaParaderos.cpp.s
+
+Transporte/Rutas/Ruta.o: Transporte/Rutas/Ruta.cpp.o
+
+.PHONY : Transporte/Rutas/Ruta.o
+
+# target to build an object file
+Transporte/Rutas/Ruta.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o
+.PHONY : Transporte/Rutas/Ruta.cpp.o
+
+Transporte/Rutas/Ruta.i: Transporte/Rutas/Ruta.cpp.i
+
+.PHONY : Transporte/Rutas/Ruta.i
+
+# target to preprocess a source file
+Transporte/Rutas/Ruta.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.i
+.PHONY : Transporte/Rutas/Ruta.cpp.i
+
+Transporte/Rutas/Ruta.s: Transporte/Rutas/Ruta.cpp.s
+
+.PHONY : Transporte/Rutas/Ruta.s
+
+# target to generate assembly for a file
+Transporte/Rutas/Ruta.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.s
+.PHONY : Transporte/Rutas/Ruta.cpp.s
+
+Transporte/Rutas/Rutas.o: Transporte/Rutas/Rutas.cpp.o
+
+.PHONY : Transporte/Rutas/Rutas.o
+
+# target to build an object file
+Transporte/Rutas/Rutas.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o
+.PHONY : Transporte/Rutas/Rutas.cpp.o
+
+Transporte/Rutas/Rutas.i: Transporte/Rutas/Rutas.cpp.i
+
+.PHONY : Transporte/Rutas/Rutas.i
+
+# target to preprocess a source file
+Transporte/Rutas/Rutas.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.i
+.PHONY : Transporte/Rutas/Rutas.cpp.i
+
+Transporte/Rutas/Rutas.s: Transporte/Rutas/Rutas.cpp.s
+
+.PHONY : Transporte/Rutas/Rutas.s
+
+# target to generate assembly for a file
+Transporte/Rutas/Rutas.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.s
+.PHONY : Transporte/Rutas/Rutas.cpp.s
 
 Transporte/Servicios/Servicio.o: Transporte/Servicios/Servicio.cpp.o
 
@@ -330,6 +627,33 @@ Utilidades/Cronometro.s: Utilidades/Cronometro.cpp.s
 Utilidades/Cronometro.cpp.s:
 	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.s
 .PHONY : Utilidades/Cronometro.cpp.s
+
+Utilidades/Geometry2.o: Utilidades/Geometry2.cpp.o
+
+.PHONY : Utilidades/Geometry2.o
+
+# target to build an object file
+Utilidades/Geometry2.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o
+.PHONY : Utilidades/Geometry2.cpp.o
+
+Utilidades/Geometry2.i: Utilidades/Geometry2.cpp.i
+
+.PHONY : Utilidades/Geometry2.i
+
+# target to preprocess a source file
+Utilidades/Geometry2.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.i
+.PHONY : Utilidades/Geometry2.cpp.i
+
+Utilidades/Geometry2.s: Utilidades/Geometry2.cpp.s
+
+.PHONY : Utilidades/Geometry2.s
+
+# target to generate assembly for a file
+Utilidades/Geometry2.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.s
+.PHONY : Utilidades/Geometry2.cpp.s
 
 Utilidades/StringFunctions.o: Utilidades/StringFunctions.cpp.o
 
@@ -431,9 +755,42 @@ help:
 	@echo "... IO/Parametros.o"
 	@echo "... IO/Parametros.i"
 	@echo "... IO/Parametros.s"
+	@echo "... IO/Tablas/TablaGrilla.o"
+	@echo "... IO/Tablas/TablaGrilla.i"
+	@echo "... IO/Tablas/TablaGrilla.s"
+	@echo "... IO/Tablas/TablaParadas.o"
+	@echo "... IO/Tablas/TablaParadas.i"
+	@echo "... IO/Tablas/TablaParadas.s"
 	@echo "... Transporte/Diccionarios/DiccionarioServicios.o"
 	@echo "... Transporte/Diccionarios/DiccionarioServicios.i"
 	@echo "... Transporte/Diccionarios/DiccionarioServicios.s"
+	@echo "... Transporte/Grid/Cell.o"
+	@echo "... Transporte/Grid/Cell.i"
+	@echo "... Transporte/Grid/Cell.s"
+	@echo "... Transporte/Grid/Grid.o"
+	@echo "... Transporte/Grid/Grid.i"
+	@echo "... Transporte/Grid/Grid.s"
+	@echo "... Transporte/Grid/GridProcess.o"
+	@echo "... Transporte/Grid/GridProcess.i"
+	@echo "... Transporte/Grid/GridProcess.s"
+	@echo "... Transporte/Paraderos/Paradero.o"
+	@echo "... Transporte/Paraderos/Paradero.i"
+	@echo "... Transporte/Paraderos/Paradero.s"
+	@echo "... Transporte/Paraderos/ProcesaParadas.o"
+	@echo "... Transporte/Paraderos/ProcesaParadas.i"
+	@echo "... Transporte/Paraderos/ProcesaParadas.s"
+	@echo "... Transporte/Paraderos/RedParadas.o"
+	@echo "... Transporte/Paraderos/RedParadas.i"
+	@echo "... Transporte/Paraderos/RedParadas.s"
+	@echo "... Transporte/Paraderos/SecuenciaParaderos.o"
+	@echo "... Transporte/Paraderos/SecuenciaParaderos.i"
+	@echo "... Transporte/Paraderos/SecuenciaParaderos.s"
+	@echo "... Transporte/Rutas/Ruta.o"
+	@echo "... Transporte/Rutas/Ruta.i"
+	@echo "... Transporte/Rutas/Ruta.s"
+	@echo "... Transporte/Rutas/Rutas.o"
+	@echo "... Transporte/Rutas/Rutas.i"
+	@echo "... Transporte/Rutas/Rutas.s"
 	@echo "... Transporte/Servicios/Servicio.o"
 	@echo "... Transporte/Servicios/Servicio.i"
 	@echo "... Transporte/Servicios/Servicio.s"
@@ -443,6 +800,9 @@ help:
 	@echo "... Utilidades/Cronometro.o"
 	@echo "... Utilidades/Cronometro.i"
 	@echo "... Utilidades/Cronometro.s"
+	@echo "... Utilidades/Geometry2.o"
+	@echo "... Utilidades/Geometry2.i"
+	@echo "... Utilidades/Geometry2.s"
 	@echo "... Utilidades/StringFunctions.o"
 	@echo "... Utilidades/StringFunctions.i"
 	@echo "... Utilidades/StringFunctions.s"

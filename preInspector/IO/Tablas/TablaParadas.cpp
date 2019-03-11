@@ -54,7 +54,7 @@ void TablaParadas::Crear()
 		string strlon = StringFunctions::Double2String(lon, 10);
 
 		fileout << (*ired).second.codigo << ";";
-		fileout << (*ired).second.nombre << ";";
+		fileout << toCamelCase((*ired).second.nombre) << ";";
 		fileout << strlat << ";";
 		fileout << strlon << endl;
 		
@@ -65,4 +65,29 @@ void TablaParadas::Crear()
 
 
 	cout << Cronometro::GetMilliSpan( nTimeStart )/60000.0 << "(min)" << endl;
+}
+
+string TablaParadas::toCamelCase(string in)
+{
+	string out;
+	std::locale loc;
+
+	for (int i = 0; i < in.size(); i++)
+	{
+		if (i == 0)
+		{
+			out.push_back(std::toupper(in.at(i), loc));
+		}
+		else
+		{
+			int ant = i - 1;
+			if (in.at(ant) == ' ' || in.at(ant) == '(')
+				out.push_back(std::toupper(in.at(i), loc));
+			else
+				out.push_back(std::tolower(in.at(i), loc));
+
+		}
+	}
+
+	return out;
 }

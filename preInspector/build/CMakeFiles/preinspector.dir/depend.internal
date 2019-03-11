@@ -6,9 +6,17 @@ CMakeFiles/preinspector.dir/IO/FuenteDatos.cpp.o
  /home/mauricio/workspace/GTFSProcessing/preInspector/IO/FuenteDatos.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Parametros.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Diccionarios/DiccionarioServicios.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Servicios/Servicio.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/ConvertCoordinate.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/TimeStampHandler.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
@@ -17,10 +25,124 @@ CMakeFiles/preinspector.dir/IO/Parametros.cpp.o
  /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Parametros.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
+CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/FuenteDatos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Parametros.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaGrilla.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaGrilla.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Diccionarios/DiccionarioServicios.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Servicios/Servicio.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/ConvertCoordinate.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/TimeStampHandler.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
+CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/FuenteDatos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Parametros.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Diccionarios/DiccionarioServicios.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Servicios/Servicio.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/ConvertCoordinate.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/TimeStampHandler.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
 CMakeFiles/preinspector.dir/Transporte/Diccionarios/DiccionarioServicios.cpp.o
  /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Diccionarios/DiccionarioServicios.cpp
  /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Diccionarios/DiccionarioServicios.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
+CMakeFiles/preinspector.dir/Transporte/Grid/Cell.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.h
+CMakeFiles/preinspector.dir/Transporte/Grid/Grid.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.h
+CMakeFiles/preinspector.dir/Transporte/Grid/GridProcess.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/FuenteDatos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Parametros.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Diccionarios/DiccionarioServicios.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/GridProcess.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/GridProcess.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Servicios/Servicio.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/ConvertCoordinate.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/TimeStampHandler.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
+CMakeFiles/preinspector.dir/Transporte/Paraderos/Paradero.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
+CMakeFiles/preinspector.dir/Transporte/Paraderos/ProcesaParadas.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/FuenteDatos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Parametros.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Diccionarios/DiccionarioServicios.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/ProcesaParadas.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/ProcesaParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Servicios/Servicio.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/ConvertCoordinate.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/TimeStampHandler.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
+CMakeFiles/preinspector.dir/Transporte/Paraderos/RedParadas.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/ConvertCoordinate.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
+CMakeFiles/preinspector.dir/Transporte/Paraderos/SecuenciaParaderos.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
+CMakeFiles/preinspector.dir/Transporte/Rutas/Ruta.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.h
+CMakeFiles/preinspector.dir/Transporte/Rutas/Rutas.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.h
 CMakeFiles/preinspector.dir/Transporte/Servicios/Servicio.cpp.o
  /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Servicios/Servicio.cpp
  /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Servicios/Servicio.h
@@ -31,6 +153,9 @@ CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o
 CMakeFiles/preinspector.dir/Utilidades/Cronometro.cpp.o
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.cpp
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.h
+CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.cpp
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.h
 CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.cpp
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
@@ -41,10 +166,23 @@ CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o
 CMakeFiles/preinspector.dir/main.cpp.o
  /home/mauricio/workspace/GTFSProcessing/preInspector/IO/FuenteDatos.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Parametros.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaGrilla.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaServiciosPorParadasPorSecuencia.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Diccionarios/DiccionarioServicios.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Cell.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/Grid.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/GridProcess.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/Paradero.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/ProcesaParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/RedParadas.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/SecuenciaParaderos.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Ruta.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Rutas/Rutas.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Servicios/Servicio.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/ConvertCoordinate.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Cronometro.h
+ /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Geometry2.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/StringFunctions.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/TimeStampHandler.h
  /home/mauricio/workspace/GTFSProcessing/preInspector/Utilidades/Types.h
