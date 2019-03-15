@@ -41,6 +41,8 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 		string horario;
 		string nombre;
 		string paradas;
+
+		string shape_id;
 	};
 
 
@@ -73,6 +75,8 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 			string servicio = cod_ant[0];
 			string sentido = cod_ant[1];
 			string tipoDia = cod_ant[2];
+
+			string shape_id = (*isec_ant).second.shape_id;
 
 			//chequeo igualdad
 			bool sonIguales = true;
@@ -148,7 +152,7 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 					bss.horario = horario;
 					bss.nombre = nombre;
 					bss.paradas = secParadas;
-
+					bss.shape_id = shape_id;
 
 					string key = servicio + ";" + sentido + ";" + tipoDia + ";" + secParadas;
 					//cout << "FLAG 0 : " << key << endl;
@@ -210,6 +214,7 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 					bss.horario = horario;
 					bss.nombre = nombre;
 					bss.paradas = secParadas;
+					bss.shape_id = shape_id;
 
 					
 					string key = servicio + ";" + sentido + ";" + tipoDia + ";" + secParadas;
@@ -235,9 +240,45 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 	}
 
 
+
+	ofstream fout;
+	fout.open("Android_busstops_sequences_" + fdd_->parametros->version + ".csv");
+	fout << "servicio;sentido;variante;tipodia;shape_id;horario;color_id;direccion;paradas" << endl;
+	for (itseq = secuenciasPorHorario.begin(); itseq != secuenciasPorHorario.end(); itseq++)
+	{
+		vector<string> tmp = StringFunctions::Explode((*itseq).first, ';');
+
+		vector<string> shape_id = StringFunctions::Explode((*itseq).second.shape_id, '_');
+		vector<string> variante1 = StringFunctions::Explode(shape_id[0], 'I');
+		vector<string> variante2 = StringFunctions::Explode(shape_id[0], 'R');
+
+		fout << tmp[0] << ";";
+		fout << tmp[1] << ";";
+
+		if(variante1.size()==2)
+			fout << variante1[1] << ";";
+		else if (variante2.size() == 2)
+			fout << variante2[1] << ";";
+		else if (variante1.size() == 3)
+			fout << variante1[1] << "I" << variante1[2] << ";";
+		else if (variante2.size() == 3)
+			fout << variante2[1] << "R" << variante2[2] << ";";
+		else
+			fout << "-" << ";";
+
+		fout << tmp[2] << ";";
+		fout << shape_id[0] << ";";
+		fout << (*itseq).second.horario << ";";
+		fout << (*itseq).second.color << ";";
+		fout << toCamelCase(string((*itseq).second.nombre+";"));
+		fout << tmp[3] << endl;
+	}
+	fout.close();
+
+	/*
 	ofstream fout;
 	fout.open("Android_busstops_sequences" + fdd_->parametros->version + ".csv");
-	fout << "servicio;sentido;tipodia;color_id;horario;direccion;paradas" << endl;
+	fout << "servicio;sentido;tipodia;color_id;horario;destino;direccion;codigo_ruta;paradas" << endl;
 	for (itseq = secuenciasPorHorario.begin(); itseq != secuenciasPorHorario.end(); itseq++)
 	{
 		vector<string> tmp = StringFunctions::Explode((*itseq).first, ';');
@@ -247,10 +288,13 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 		fout << tmp[2] << ";";
 		fout << (*itseq).second.color << ";";
 		fout << (*itseq).second.horario << ";";
-		fout << toCamelCase(string((*itseq).second.nombre+" "+tmp[2]+" ("+(*itseq).second.horario+");"));
+		fout << toCamelCase(string((*itseq).second.nombre + ";"));
+		fout << toCamelCase(string((*itseq).second.nombre + " " + tmp[2] + " (" + (*itseq).second.horario + ");"));
+		fout << "-" << ";";
 		fout << tmp[3] << endl;
 	}
 	fout.close();
+	*/
 
 	/*
 	///DEBUG

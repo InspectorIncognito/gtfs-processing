@@ -75,6 +75,9 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 	{
 		map< string, Paradero >::iterator ired = fdd_->redParaderos.red.find((*it).first);
 
+		if ((*ired).second.codigo.at(0) != 'P')
+			continue;
+
 		if (ired != fdd_->redParaderos.red.end())
 		{
 			double lat, lon;

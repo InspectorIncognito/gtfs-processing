@@ -81,10 +81,10 @@ int main(int argc, const char* argv[])
 	TablaServiciosPorParadaParaAndriod *tParadasParaAndriod = new TablaServiciosPorParadaParaAndriod(fdd);
 
 	///Tabla de servicios para Android
-	//TablaServiciosParaAndroid *tServiciosParaAndroid = new TablaServiciosParaAndroid(fdd);
+	TablaServiciosParaAndroid *tServiciosParaAndroid = new TablaServiciosParaAndroid(fdd);
 
 	///Tabla de puntos de carga
-	TablaPuntoCarga *tPuntosDecarga = new TablaPuntoCarga(fdd);
+	//TablaPuntoCarga *tPuntosDecarga = new TablaPuntoCarga(fdd);
 
 	///Tabla de grilla
 	TablaGrilla *tGrilla = new TablaGrilla(fdd);

@@ -88,6 +88,9 @@ void TablaServiciosPorParada::Crear()
 
 	for (it = output.begin(); it != output.end(); it++)
 	{
+		if ((*it).first.at(0) != 'P')
+			continue;
+
 		fileout << (*it).first << ";";
 		for (is = (*it).second.begin(); is != (*it).second.end(); is++)
 		{

@@ -58,7 +58,7 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 	readStopTimes();
 
 	///
-	leeSecuenciaDeParadasDTPM();
+	//leeSecuenciaDeParadasDTPM();
 
 	///Lectura de puntos de carga
 	leePuntosDeCargaBip();
@@ -142,11 +142,11 @@ void FuenteDatos::leeDiccionarioServicios()
 
 
 	///DEBUG
-	ofstream fout;
-	fout.open("dicSS.txt");
-	for (map<string, string>::iterator it = dicSS.servicios.begin(); it != dicSS.servicios.end(); it++)
-		fout << (*it).first << ";" << (*it).second << endl;
-	fout.close();
+//	ofstream fout;
+//	fout.open("dicSS.txt");
+//	for (map<string, string>::iterator it = dicSS.servicios.begin(); it != dicSS.servicios.end(); it++)
+//		fout << (*it).first << ";" << (*it).second << endl;
+//	fout.close();
 
 	reporte->tDiccionario = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
 
@@ -357,19 +357,19 @@ void FuenteDatos::leeRedDeParadas()
 	CorrigeParadasMismaPosicion();
 
 	///DEBUG
-	ofstream fout;
-	fout.open("redParadas.txt");
-	for(map< string , Paradero >::iterator it=redParaderos.red.begin();it!=redParaderos.red.end();it++)
-	{
-		fout << (*it).second.codigo << "|";
-		fout << (*it).second.nombre << "|";
-		fout << (*it).second.x << "|";
-		fout << (*it).second.y << "|";
-		fout << (*it).second.lat << "|";
-		fout << (*it).second.lon << "|";
-		fout << endl;
-	}
-	fout.close();
+//	ofstream fout;
+//	fout.open("redParadas.txt");
+//	for(map< string , Paradero >::iterator it=redParaderos.red.begin();it!=redParaderos.red.end();it++)
+//	{
+//		fout << (*it).second.codigo << "|";
+//		fout << (*it).second.nombre << "|";
+//		fout << (*it).second.x << "|";
+//		fout << (*it).second.y << "|";
+//		fout << (*it).second.lat << "|";
+//		fout << (*it).second.lon << "|";
+//		fout << endl;
+//	}
+//	fout.close();
 
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
@@ -427,158 +427,6 @@ void FuenteDatos::CorrigeParadasMismaPosicion()
 	}
 
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
-}
-
-void FuenteDatos::leeSecuenciaDeParadasDTPM()
-{
-	int nTimeStart = Cronometro::GetMilliCount();
-
-	struct SecParadas {
-		string servicio;
-		string sentido;
-		string nombre;
-		string color;
-		string secuencia;
-	};
-
-	map<string, SecParadas> secuenciaDTPM;
-	map<string, SecParadas>::iterator isec;
-
-	///Archivo de entrada Principal
-	ifstream archivoParaderos;
-	archivoParaderos.open(parametros->nombreArchivoConsolidadoDeParadas.c_str());
-
-	///Chequeo de archivo
-	if (!archivoParaderos.good())
-		cout << "No se encuentra el archivo " << parametros->nombreArchivoConsolidadoDeParadas << "!" << endl;
-	else
-		cout << "Cargando datos de Secuencia de Paraderos (" << parametros->nombreArchivoConsolidadoDeParadas << ")... " << endl;
-
-
-	///Vector contenedor de la linea actual del archivo
-	vector<string> cur;
-
-	int nlineas = 0;
-
-	///Lectura del header
-	cur = StringFunctions::ExplodeF(';', &archivoParaderos);
-	 
-	int iParCodigo = 6;
-	int iParCodigoVariante = 4;
-	int iParCodigoServicio = 2;
-	int iParCodigoSentido = 3;
-	int iParX = 12;
-	int iParY = 13;
-	int iParNombre = 11;
-	int iParCodigoUsuario = 7;
-	int iParComuna = 8;
-	int iParSecuencia = 0;
-
-	///Lectura archivo primario
-	while (archivoParaderos.good())
-	{
-		nlineas++;
-
-		///Lectura de linea del archivo
-		cur = StringFunctions::ExplodeF(';', &archivoParaderos);
-
-		///Condicion de salida, a veces no es suficiente solo la condicion del ciclo
-		if (cur.size() == 0 || cur[0].compare("") == 0)
-			continue;
-
-		if (cur[iParCodigo].compare("POR DEFINIR") == 0 || cur[iParCodigo].compare("POR DEFINIR ") == 0)
-			continue;
-
-		map < string, Paradero >::iterator ired;
-		ired = redParaderos.red.find(cur[iParCodigoUsuario]);
-		if (ired == redParaderos.red.end())
-		{
-			cout << "PARADERO NO ENCONTRADO EN GTFS : " << cur[iParCodigoUsuario] << endl;
-		}
-
-		///Generacion del codigo servicio-sentido concatenando las 3 columnas servicio-sentido-variante
-		string codigoServicioSentido;
-
-		if (cur[iParCodigoVariante].compare("-") == 0 || cur[iParCodigoVariante].compare("") == 0)
-			codigoServicioSentido = string(cur[iParCodigoServicio] + cur[iParCodigoSentido]);
-		else
-			codigoServicioSentido = string(cur[iParCodigoServicio] + cur[iParCodigoSentido] + cur[iParCodigoVariante]);
-
-		isec = secuenciaDTPM.find(codigoServicioSentido);
-
-
-		string color;
-		map<string, string>::iterator iiit = dicSS.colores.find(cur[iParCodigoServicio]);
-		if (iiit != dicSS.colores.end())
-			color = (*iiit).second;
-		else
-		{
-			//cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
-			color = "0";
-		}
-
-		if (isec == secuenciaDTPM.end())
-		{
-			SecParadas sec;
-
-			sec.servicio = cur[iParCodigoServicio];
-			
-			if(cur[iParCodigoSentido].compare("Ida")==0)
-				sec.sentido = "I";
-			else
-				sec.sentido = "R";
-
-			sec.color = color;
-			sec.secuencia += cur[iParCodigoUsuario];
-
-			map< string, Servicio >::iterator iserv = servicios.find(sec.servicio);
-			if (iserv != servicios.end())
-			{
-				if (sec.sentido.compare("I") == 0)
-					sec.nombre = toCamelCase((*iserv).second.destino);
-				else
-					sec.nombre = toCamelCase((*iserv).second.origen);
-			}
-
-			if (cur[iParCodigoVariante].compare("-") != 0 && cur[iParCodigoVariante].compare("") != 0)
-				sec.nombre += " (" + cur[iParCodigoVariante] + ")";
-
-			secuenciaDTPM[codigoServicioSentido] = sec;
-
-		}
-		else
-		{
-			(*isec).second.secuencia += "-" + cur[iParCodigoUsuario];
-		}
-	}
-
-	///TEST
-	/*
-	for (map<string, Secuencia >::iterator isec = secuencias.begin(); isec != secuencias.end(); isec++)
-	{
-		cout << (*isec).first << "|";
-		cout << (*isec).second.codigo << "|";
-		cout << (*isec).second.nombre << endl;
-	}
-	*/
-
-	///DEBUG
-	ofstream fout;
-	fout.open("Android_busstops_sequences_dtpm" + parametros->version + ".csv");
-	fout << "servicio;sentido;color_id;direccion;paradas" << endl;
-	for (isec = secuenciaDTPM.begin(); isec != secuenciaDTPM.end(); isec++)
-	{
-		fout << (*isec).second.servicio << ";";
-		fout << (*isec).second.sentido << ";";
-		fout << (*isec).second.color << ";";
-		//fout << toCamelCase((*isec).second.nombre) << ";";
-		fout << (*isec).second.nombre << ";";
-		fout << (*isec).second.secuencia << endl;
-		
-	}
-	fout.close();
-
-	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << endl;
 }
 
 string FuenteDatos::toCamelCase(string in)
@@ -721,19 +569,19 @@ void FuenteDatos::leeSecuenciaDeParadas()
 	}
 
 	///DEBUG
-	ofstream fout;
-	fout.open("secParadas.txt");
-	for (iserv = secParaderos.secuencias.begin(); iserv != secParaderos.secuencias.end(); iserv++)
-	{
-		for (map<int, Paradero>::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
-		{
-			fout << (*iserv).first << ";";
-			fout << (*ipar).first << ";";
-			fout << (*ipar).second.codigo << ";";
-			fout << (*ipar).second.nombre << endl;
-		}
-	}
-	fout.close();
+//	ofstream fout;
+//	fout.open("secParadas.txt");
+//	for (iserv = secParaderos.secuencias.begin(); iserv != secParaderos.secuencias.end(); iserv++)
+//	{
+//		for (map<int, Paradero>::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
+//		{
+//			fout << (*iserv).first << ";";
+//			fout << (*ipar).first << ";";
+//			fout << (*ipar).second.codigo << ";";
+//			fout << (*ipar).second.nombre << endl;
+//		}
+//	}
+//	fout.close();
 
 	///Variables para reporte
 	reporte->tParadas = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
@@ -742,19 +590,60 @@ void FuenteDatos::leeSecuenciaDeParadas()
 
 void FuenteDatos::readStopTimes()
 {
-	/****TODO
-	* 1. agregar columna servicio
-	* 2. separador de servicios con guion
-	* 3. agregar nombre de servicio (cambiar sentido en caso contrario)
-	* 4. identificar secuencias no unicas en el dia y armar archivo para diccionario
-	*/
 	int nTimeStart = Cronometro::GetMilliCount();
+
+	/*****************************/
+	struct Trip{
+		string route_id;
+		string service_id;
+		string trip_id;
+		string trip_headsign;
+		string direction_id;
+		string shape_id;
+	};
+	map< string, Trip > trips;
+	map< string, Trip >::iterator itrip;
+
+	///Archivo de entrada Principal
+	ifstream archivoTrips;
+	archivoTrips.open(parametros->nombreCarpetaGTFS + parametros->slash + "trips.txt");
+
+	///Chequeo de archivo 
+	if (!archivoTrips.good())
+		cout << "Error : No se encuentra el archivo " << parametros->nombreCarpetaGTFS + parametros->slash + "trips.txt" << "!" << endl;
+	else
+		cout << "Cargando datos de trips (" << parametros->nombreCarpetaGTFS + parametros->slash + "trips.txt" << ")... " << endl;
+
+	vector<string> cur0;
+	cur0 = StringFunctions::ExplodeF(',', &archivoTrips);
+
+	///Lectura archivo primario
+	while (archivoTrips.good())
+	{
+		cur0 = StringFunctions::ExplodeF(',', &archivoTrips);
+		if (cur0.size() == 0 || cur0[0].compare("") == 0)
+			continue;
+
+		Trip trip;
+		trip.route_id = cur0[0];
+		trip.service_id = cur0[1];
+		trip.trip_id = cur0[2];
+		trip.trip_headsign = cur0[3];
+		trip.direction_id = cur0[4];
+		trip.shape_id = cur0[5];
+
+		trips[cur0[2]] = trip;
+	}
+
+	/*****************************/
 
 	/*****************************/
 	struct frecuencia
 	{
 		string hora_ini;
 		string hora_fin;
+		string trip_id = string("-");
+		int headways = -1;
 	};
 
 	map< string, frecuencia > frecuencias;
@@ -783,6 +672,8 @@ void FuenteDatos::readStopTimes()
 		frecuencia frec;
 		frec.hora_ini = cur1[1];
 		frec.hora_fin = cur1[2];
+		frec.headways = atoi(cur1[3].c_str());
+		frec.trip_id = cur1[0];
 
 		frecuencias[cur1[0]] = frec;
 	}
@@ -825,9 +716,9 @@ void FuenteDatos::readStopTimes()
 		vector<string> horario = StringFunctions::Explode(cod[1], '-');
 
 		//string sec = string(cod_serv[0] + "-" + cod_serv[1] + "-" + horario[1]);
-		string sec = cur[0];
+		string trip_id = cur[0];
 
-		isec = secuencias.find(sec);
+		isec = secuencias.find(trip_id);
 		if (isec == secuencias.end())
 		{
 			map<int, string> tmp;
@@ -838,14 +729,21 @@ void FuenteDatos::readStopTimes()
 			secu.version = cod[1];
 			secu.paradas = tmp;
 
-			ifrec = frecuencias.find(sec);
+			ifrec = frecuencias.find(trip_id);
 			if (ifrec != frecuencias.end())
 			{
 				secu.hora_ini = (*ifrec).second.hora_ini;
 				secu.hora_fin = (*ifrec).second.hora_fin;
 			}
 
-			secuencias[sec] = secu;
+			itrip = trips.find(trip_id);
+			if (itrip != trips.end())
+			{
+				secu.shape_id = (*itrip).second.shape_id;
+				secu.headway = (*ifrec).second.headways;
+			}
+
+			secuencias[trip_id] = secu;
 		}
 		else
 		{
@@ -922,6 +820,7 @@ void FuenteDatos::leeHorarios()
 	}
 
 
+	/*
 	///DEBUG
 	ofstream fout;
 	fout.open("servicios_horario.txt");
@@ -957,6 +856,7 @@ void FuenteDatos::leeHorarios()
 		fout << endl;
 	}
 	fout.close();
+	*/
 
 	reporte->tDiccionario = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
 

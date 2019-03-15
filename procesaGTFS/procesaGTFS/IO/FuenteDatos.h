@@ -105,6 +105,8 @@ class FuenteDatos{
 		string nombre = string("-");
 		string version = string("-");
 		string codigo = string("-");
+		int headway = -1;
+		string shape_id = string("-");
 	};
 
 	map<string, Secuencia > secuencias;
