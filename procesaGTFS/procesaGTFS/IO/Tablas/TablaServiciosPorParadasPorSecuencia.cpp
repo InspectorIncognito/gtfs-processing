@@ -242,7 +242,7 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 
 
 	ofstream fout;
-	fout.open("Android_busstops_sequences_" + fdd_->parametros->version + ".csv");
+	fout.open("Android_busstops_sequences" + fdd_->parametros->version + ".csv");
 	fout << "servicio;sentido;variante;tipodia;shape_id;horario;color_id;direccion;paradas" << endl;
 	for (itseq = secuenciasPorHorario.begin(); itseq != secuenciasPorHorario.end(); itseq++)
 	{
@@ -251,6 +251,10 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 		vector<string> shape_id = StringFunctions::Explode((*itseq).second.shape_id, '_');
 		vector<string> variante1 = StringFunctions::Explode(shape_id[0], 'I');
 		vector<string> variante2 = StringFunctions::Explode(shape_id[0], 'R');
+
+		map< string, Ruta >::iterator iruta = fdd_->rutas.mapeo->find(shape_id[0]);
+		if (iruta == fdd_->rutas.mapeo->end())
+			cout << "WTF : " << shape_id[0] << endl;
 
 		fout << tmp[0] << ";";
 		fout << tmp[1] << ";";
