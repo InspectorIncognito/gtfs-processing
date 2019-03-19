@@ -2,9 +2,9 @@ Parametros Asignacion Paradero a validacion
 ------------------------
 
 GTFS_Transantiago_2019_02_28					* Nombre Archivo de salida de validaciones procesadas
-2019-03-01_consolidado_anexo4_(Circunvalacion)_anual.csv				* Nombre de archivo consolidado de paradas
+ConsolidadoParadas.csv				* Nombre de archivo consolidado de paradas
 20.0								* Distancia para el tramado de la ruta
-v0.1								* version
+v0.2								* version
 7									* colores
 ED1C24 1					
 F58220 2				
