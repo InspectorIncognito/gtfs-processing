@@ -250,32 +250,32 @@ IO/Tablas/TablaGrilla.cpp.s:
 	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.s
 .PHONY : IO/Tablas/TablaGrilla.cpp.s
 
-IO/Tablas/TablaParadas.o: IO/Tablas/TablaParadas.cpp.o
+IO/Tablas/TablaServiciosPorParadaParaAndriod.o: IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o
 
-.PHONY : IO/Tablas/TablaParadas.o
+.PHONY : IO/Tablas/TablaServiciosPorParadaParaAndriod.o
 
 # target to build an object file
-IO/Tablas/TablaParadas.cpp.o:
-	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o
-.PHONY : IO/Tablas/TablaParadas.cpp.o
+IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o
+.PHONY : IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o
 
-IO/Tablas/TablaParadas.i: IO/Tablas/TablaParadas.cpp.i
+IO/Tablas/TablaServiciosPorParadaParaAndriod.i: IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.i
 
-.PHONY : IO/Tablas/TablaParadas.i
+.PHONY : IO/Tablas/TablaServiciosPorParadaParaAndriod.i
 
 # target to preprocess a source file
-IO/Tablas/TablaParadas.cpp.i:
-	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.i
-.PHONY : IO/Tablas/TablaParadas.cpp.i
+IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.i:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.i
+.PHONY : IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.i
 
-IO/Tablas/TablaParadas.s: IO/Tablas/TablaParadas.cpp.s
+IO/Tablas/TablaServiciosPorParadaParaAndriod.s: IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.s
 
-.PHONY : IO/Tablas/TablaParadas.s
+.PHONY : IO/Tablas/TablaServiciosPorParadaParaAndriod.s
 
 # target to generate assembly for a file
-IO/Tablas/TablaParadas.cpp.s:
-	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.s
-.PHONY : IO/Tablas/TablaParadas.cpp.s
+IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.s:
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.s
+.PHONY : IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.s
 
 Transporte/Diccionarios/DiccionarioServicios.o: Transporte/Diccionarios/DiccionarioServicios.cpp.o
 
@@ -758,9 +758,9 @@ help:
 	@echo "... IO/Tablas/TablaGrilla.o"
 	@echo "... IO/Tablas/TablaGrilla.i"
 	@echo "... IO/Tablas/TablaGrilla.s"
-	@echo "... IO/Tablas/TablaParadas.o"
-	@echo "... IO/Tablas/TablaParadas.i"
-	@echo "... IO/Tablas/TablaParadas.s"
+	@echo "... IO/Tablas/TablaServiciosPorParadaParaAndriod.o"
+	@echo "... IO/Tablas/TablaServiciosPorParadaParaAndriod.i"
+	@echo "... IO/Tablas/TablaServiciosPorParadaParaAndriod.s"
 	@echo "... Transporte/Diccionarios/DiccionarioServicios.o"
 	@echo "... Transporte/Diccionarios/DiccionarioServicios.i"
 	@echo "... Transporte/Diccionarios/DiccionarioServicios.s"

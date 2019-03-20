@@ -517,6 +517,33 @@ void FuenteDatos::leeSecuenciaDeParadasDTPM()
 		{
 			(*isec).second.secuencia += "-" + cur[iParCodigoUsuario];
 		}
+		
+		///Construccion de secuencia
+		///Busco paradero en red de paradas
+		Paradero par;
+		ired = redParaderos.red.find(cur[iParCodigoUsuario]);
+		if (ired != redParaderos.red.end())
+		{
+			par = (*ired).second;
+		}
+		else
+		{
+			cout << "ERROR : paradero " << cur[iParCodigoUsuario] << " de stops_times.txt no se encuentra en stops.txt!" << endl;
+			continue;
+		}
+		
+		map< string, map<int,Paradero> >::iterator iserv;
+		iserv = secParaderosTODOS.secuencias.find(codigoServicioSentido);
+		if (iserv == secParaderosTODOS.secuencias.end())
+		{
+			map<int, Paradero> tmp;
+			tmp[nlineas] = par;
+			secParaderosTODOS.secuencias[codigoServicioSentido] = tmp;
+		}
+		else
+		{
+			(*iserv).second[nlineas] = par;
+		}
 	}
 
 	///TEST

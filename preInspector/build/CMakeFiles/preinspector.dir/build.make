@@ -513,28 +513,28 @@ CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.provides: CMakeFiles/prei
 CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.provides.build: CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o
 
 
-CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o: CMakeFiles/preinspector.dir/flags.make
-CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o: ../IO/Tablas/TablaParadas.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.cpp
+CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o: CMakeFiles/preinspector.dir/flags.make
+CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o: ../IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/mauricio/workspace/GTFSProcessing/preInspector/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o -c /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp
 
-CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.cpp > CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.i
+CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp > CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.i
 
-CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.cpp -o CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.s
+CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp -o CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.s
 
-CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.requires:
+CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o.requires:
 
-.PHONY : CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.requires
+.PHONY : CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o.requires
 
-CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.provides: CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.requires
-	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.provides.build
-.PHONY : CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.provides
+CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o.provides: CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o.requires
+	$(MAKE) -f CMakeFiles/preinspector.dir/build.make CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o.provides.build
+.PHONY : CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o.provides
 
-CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.provides.build: CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o
+CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o.provides.build: CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o
 
 
 CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o: CMakeFiles/preinspector.dir/flags.make
@@ -582,7 +582,7 @@ preinspector_OBJECTS = \
 "CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o" \
 "CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o" \
 "CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o" \
-"CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o" \
+"CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o" \
 "CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o"
 
 # External object files for target preinspector
@@ -607,7 +607,7 @@ preinspector: CMakeFiles/preinspector.dir/Utilidades/StringFunctions.cpp.o
 preinspector: CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o
 preinspector: CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o
 preinspector: CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o
-preinspector: CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o
+preinspector: CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o
 preinspector: CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o
 preinspector: CMakeFiles/preinspector.dir/build.make
 preinspector: CMakeFiles/preinspector.dir/link.txt
@@ -638,7 +638,7 @@ CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Utilidades/Str
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o.requires
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o.requires
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o.requires
-CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o.requires
+CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o.requires
 CMakeFiles/preinspector.dir/requires: CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o.requires
 
 .PHONY : CMakeFiles/preinspector.dir/requires

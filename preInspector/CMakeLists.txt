@@ -23,7 +23,7 @@ set( preinspector_SRCS
   ${preinspector_SOURCE_DIR}/Utilidades/ConvertCoordinate.cpp
   ${preinspector_SOURCE_DIR}/Utilidades/TimeStampHandler.cpp
   ${preinspector_SOURCE_DIR}/Utilidades/Geometry2.cpp
-  ${preinspector_SOURCE_DIR}/IO/Tablas/TablaParadas.cpp
+  ${preinspector_SOURCE_DIR}/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp
   ${preinspector_SOURCE_DIR}/IO/Tablas/TablaGrilla.cpp
 
 )

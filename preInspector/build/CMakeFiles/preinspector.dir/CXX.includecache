@@ -86,11 +86,11 @@ limits
 ../FuenteDatos.h
 /home/mauricio/workspace/GTFSProcessing/preInspector/IO/FuenteDatos.h
 
-/home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.cpp
-TablaParadas.h
-/home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.h
+/home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp
+TablaServiciosPorParadaParaAndriod.h
+/home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaServiciosPorParadaParaAndriod.h
 
-/home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.h
+/home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaServiciosPorParadaParaAndriod.h
 map
 -
 cstdlib
@@ -381,8 +381,8 @@ Transporte/Paraderos/ProcesaParadas.h
 /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Paraderos/ProcesaParadas.h
 Transporte/Grid/GridProcess.h
 /home/mauricio/workspace/GTFSProcessing/preInspector/Transporte/Grid/GridProcess.h
-IO/Tablas/TablaParadas.h
-/home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaParadas.h
+IO/Tablas/TablaServiciosPorParadaParaAndriod.h
+/home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaServiciosPorParadaParaAndriod.h
 IO/Tablas/TablaServiciosPorParadasPorSecuencia.h
 /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Tablas/TablaServiciosPorParadasPorSecuencia.h
 IO/Tablas/TablaGrilla.h

@@ -21,12 +21,12 @@
 // #include "IO/Visualizacion/Visualizaciones.h"
 // #include "IO/Tablas/TablaDistanciaEnRutaParadas.h"
 // #include "IO/Tablas/TablaServicios.h"
-// #include "IO/Tablas/TablaServiciosPorParada.h"
-#include "IO/Tablas/TablaParadas.h"
+ //#include "IO/Tablas/TablaServiciosPorParada.h"
+//#include "IO/Tablas/TablaParadas.h"
 // #include "IO/Tablas/TablaRutasTramadas.h"
 // #include "IO/Tablas/TablaPuntoCarga.h"
 // #include "IO/Tablas/TablaRutasSimplificadas.h"
-// #include "IO/Tablas/TablaServiciosPorParadaParaAndriod.h"
+#include "IO/Tablas/TablaServiciosPorParadaParaAndriod.h"
 // #include "IO/Tablas/TablaServiciosParaAndroid.h"
 #include "IO/Tablas/TablaServiciosPorParadasPorSecuencia.h"
 #include "IO/Tablas/TablaGrilla.h"
@@ -47,14 +47,14 @@ int main(int argc, const char* argv[])
 	GridProcess *pg = new GridProcess(fdd);
 
 	///Tabla de paradas
-	TablaParadas *tparadas = new TablaParadas(fdd);
+//	TablaParadas *tparadas = new TablaParadas(fdd);
 
 // 	///Tabla de servicios
 // 	TablaServicios *tservicios = new TablaServicios(fdd);
-// 
-// 	///Tabla de servicios por parada
-// 	TablaServiciosPorParada *tserviciosPorParada = new TablaServiciosPorParada(fdd);
-// 
+
+	///Tabla de servicios por parada
+//	TablaServiciosPorParada *tserviciosPorParada = new TablaServiciosPorParada(fdd);
+
 // 	///Tabla de distancias de paradas en ruta
 // 	TablaDistanciaEnRutaParadas *tdistanciasParadas = new TablaDistanciaEnRutaParadas(fdd);
 
@@ -64,9 +64,9 @@ int main(int argc, const char* argv[])
 // 	///Tabla con las rutas simplificadas
 // 	TablaRutasSimplificadas *tRutasSimplificadas = new TablaRutasSimplificadas(fdd);
 // 
-// 	//Tabla de paradas para Android
-// 	TablaServiciosPorParadaParaAndriod *tParadasParaAndriod = new TablaServiciosPorParadaParaAndriod(fdd);
-// 
+	//Tabla de paradas para Android
+	TablaServiciosPorParadaParaAndriod *tParadasParaAndriod = new TablaServiciosPorParadaParaAndriod(fdd);
+
 // 	///Tabla de servicios para Android
 // 	//TablaServiciosParaAndroid *tServiciosParaAndroid = new TablaServiciosParaAndroid(fdd);
 // 

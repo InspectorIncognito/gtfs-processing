@@ -18,7 +18,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/preinspector.dir/Utilidades/ConvertCoordinate.cpp.o"
   "CMakeFiles/preinspector.dir/Utilidades/TimeStampHandler.cpp.o"
   "CMakeFiles/preinspector.dir/Utilidades/Geometry2.cpp.o"
-  "CMakeFiles/preinspector.dir/IO/Tablas/TablaParadas.cpp.o"
+  "CMakeFiles/preinspector.dir/IO/Tablas/TablaServiciosPorParadaParaAndriod.cpp.o"
   "CMakeFiles/preinspector.dir/IO/Tablas/TablaGrilla.cpp.o"
   "preinspector.pdb"
   "preinspector"
