@@ -250,7 +250,7 @@ void FuenteDatos::leeRedDeParadas()
 	int iParCodigoSentido = 3;
 	int iParX = 12;
 	int iParY = 13;
-	int iParNombre = 11;
+	int iParNombre = 14;
 	int iParCodigoUsuario = 7;
 	int iParComuna = 8;
 	int iParSecuencia = 0;
@@ -310,8 +310,50 @@ void FuenteDatos::leeRedDeParadas()
 		//Quitar "@"
 		string nombre = cur[iParNombre];
 		nombre.erase(std::remove(nombre.begin(), nombre.end(), '/'), nombre.end());
-		nombre.erase(std::remove(nombre.begin(), nombre.end(), '.'), nombre.end());
+		//nombre.erase(std::remove(nombre.begin(), nombre.end(), '.'), nombre.end());
+        nombre = std::regex_replace (nombre,regex("\\.")," ");
 		nombre.erase(std::remove(nombre.begin(), nombre.end(), '@'), nombre.end());
+        
+//         cout << nombre << endl;
+        
+        nombre = StringFunctions::EliminaCadenasBlancos(nombre);
+        nombre = std::regex_replace (nombre,regex("Esq"),"/");
+        nombre = std::regex_replace (nombre,regex("esq"),"/");
+        
+        nombre = std::regex_replace (nombre,regex("Parada 1 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 2 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 3 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 4 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 5 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 6 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 7 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 8 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 9 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 10 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 11 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 12 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 13 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 14 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada 15 "),"");
+        nombre = std::regex_replace (nombre,regex("Parada "),"");
+
+        nombre = std::regex_replace (nombre,regex("Avenida "),"Av ");
+        
+        nombre = std::regex_replace (nombre,regex("Av "),"");
+        
+        vector<string> invertir = StringFunctions::Explode(nombre,'/');
+        
+        if((int)invertir.size() == 2)
+            nombre = invertir[1] + " / " + invertir[0];
+        
+        nombre = StringFunctions::EliminaCadenasBlancos(nombre);
+        
+        
+        
+        
+//         cout << nombre << endl;
+//        size_t index = 0;
+//        index = nombre.find("Esq", index); if (index != std::string::npos){nombre.replace(index, 3, "-");}
 
         double lat, lon;
         ConvertCoordinate::UTMtoLL(23, y, x, UTMZone, lat, lon);
@@ -463,13 +505,19 @@ void FuenteDatos::leeSecuenciaDeParadasDTPM()
 			cout << "PARADERO NO ENCONTRADO EN GTFS : " << cur[iParCodigoUsuario] << endl;
 		}
 
+        string sentido;
+        if(cur[iParCodigoSentido].compare("Ida")==0)
+            sentido = "I";
+        else
+            sentido = "R";
+            
 		///Generacion del codigo servicio-sentido concatenando las 3 columnas servicio-sentido-variante
 		string codigoServicioSentido;
 
 		if (cur[iParCodigoVariante].compare("-") == 0 || cur[iParCodigoVariante].compare("") == 0)
-			codigoServicioSentido = string(cur[iParCodigoServicio] + cur[iParCodigoSentido]);
+			codigoServicioSentido = string(cur[iParCodigoServicio] + sentido);
 		else
-			codigoServicioSentido = string(cur[iParCodigoServicio] + cur[iParCodigoSentido] + cur[iParCodigoVariante]);
+			codigoServicioSentido = string(cur[iParCodigoServicio] + sentido + cur[iParCodigoVariante]);
 
 		isec = secuenciaDTPM.find(codigoServicioSentido);
 

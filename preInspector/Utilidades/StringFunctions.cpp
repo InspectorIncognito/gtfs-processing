@@ -22,6 +22,56 @@ StringFunctions::~StringFunctions()
 {
 }
 
+string StringFunctions::EliminaCadenasBlancos(string in)
+{
+	string out;
+	int nBlancos = 0;
+	for (int i = 0; i < in.size(); i++)
+	{
+        if( i == 0 && in.at(0) == ' ')
+            continue;
+        
+        if( i == (int)in.size() - 1 && in.at((int)in.size() - 1) == ' ')
+            continue;
+        
+		if (in.at(i) == ' ')
+			nBlancos++;
+		else
+			nBlancos = 0;
+
+		if (nBlancos < 2)
+			out.push_back(in.at(i));
+	}
+
+	return out;
+	//return in;
+}
+
+string StringFunctions::toCamelCase(string in)
+{
+	string out;
+	std::locale loc;
+
+	for (int i = 0; i < in.size(); i++)
+	{
+		if (i == 0)
+		{
+			out.push_back(std::toupper(in.at(i), loc));
+		}
+		else
+		{
+			int ant = i - 1;
+			if (in.at(ant) == ' ' || in.at(ant) == '(')
+				out.push_back(std::toupper(in.at(i), loc));
+			else
+				out.push_back(std::tolower(in.at(i), loc));
+
+		}
+	}
+
+	return out;
+}
+
 string StringFunctions::ReplaceChar(string str, char ch1, char ch2)
 {
   for (int i = 0; i < str.length(); ++i) {

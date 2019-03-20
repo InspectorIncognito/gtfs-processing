@@ -19,6 +19,7 @@
 #include <string>
 #include <locale>
 #include <algorithm>
+#include <regex>
 #include "Parametros.h"
 #include "../Utilidades/TimeStampHandler.h"
 #include "../Utilidades/StringFunctions.h"

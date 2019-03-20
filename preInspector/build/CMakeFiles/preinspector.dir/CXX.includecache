@@ -23,6 +23,8 @@ locale
 -
 algorithm
 -
+regex
+-
 Parametros.h
 /home/mauricio/workspace/GTFSProcessing/preInspector/IO/Parametros.h
 ../Utilidades/TimeStampHandler.h

@@ -109,6 +109,9 @@ public:
 	*	@return vector que contiene en cada elemento el contenido en una columna de datos
 	**/
 	static inline void ExplodeFN(char separator , ifstream *f, vector<string> *linea);
+    
+    static string toCamelCase(string in);
+    static string EliminaCadenasBlancos(string in);
 
 };
 

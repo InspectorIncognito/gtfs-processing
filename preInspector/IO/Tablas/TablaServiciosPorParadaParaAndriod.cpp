@@ -13,6 +13,7 @@
 */
 #include "TablaServiciosPorParadaParaAndriod.h"
 
+
 TablaServiciosPorParadaParaAndriod::TablaServiciosPorParadaParaAndriod(FuenteDatos *fdd)
 {
 	this->fdd_ = fdd;
@@ -37,6 +38,7 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 	map<string, string>::iterator iDicServ;
 	for (map< string, map < int, Paradero > >::iterator iserv = fdd_->secParaderosTODOS.secuencias.begin(); iserv != fdd_->secParaderosTODOS.secuencias.end(); iserv++)
 	{
+
 		for (map < int, Paradero >::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
 		{
 			iDicServ = fdd_->dicSS.servicios.find((*iserv).first);
@@ -85,15 +87,17 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 			string strlon = StringFunctions::Double2String(lon, 10);
 
 			fileout << (*ired).second.codigo<< ";";
+            
+            //fileout << StringFunctions::toCamelCase((*ired).second.nombre) << ";";
+            fileout << StringFunctions::toCamelCase(StringFunctions::EliminaCadenasBlancos((*ired).second.nombre)) << ";";
 
-			vector<string> nombre_ = StringFunctions::Explode((*ired).second.nombre, '-');
+// 			vector<string> nombre_ = StringFunctions::Explode((*ired).second.nombre, '-');
 
-			string nombre = string("");
-			///concatenacion de campos extras
-			for (int i = 1; i < nombre_.size(); i++)
-				nombre.append(nombre_.at(i));
+// 			string nombre = string("");
+// 			for (int i = 1; i < nombre_.size(); i++)
+// 				nombre.append(nombre_.at(i));
 
-			fileout << EliminaCadenasBlancos(nombre) << ";";
+// 			fileout << EliminaCadenasBlancos(nombre) << ";";
 			fileout << lat << ";";
 			fileout << lon << ";";
 		}
@@ -116,23 +120,3 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 
 	cout << Cronometro::GetMilliSpan( nTimeStart )/60000.0 << "(min)" << endl;
 }
-
-
-string TablaServiciosPorParadaParaAndriod::EliminaCadenasBlancos(string in)
-{
-	string out;
-	int nBlancos = 0;
-	for (int i = 0; i < in.size(); i++)
-	{
-		if (in.at(i) == ' ')
-			nBlancos++;
-		else
-			nBlancos = 0;
-
-		if (nBlancos < 2)
-			out.push_back(in.at(i));
-	}
-
-	return out;
-	//return in;
-}	

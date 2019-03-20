@@ -53,6 +53,4 @@ class TablaServiciosPorParadaParaAndriod{
 		* @param transacciones referencia al conjunto de transacciones del sistema con subida estimada
 		*/
 		void Crear();
-
-		string EliminaCadenasBlancos(string in);
 };
