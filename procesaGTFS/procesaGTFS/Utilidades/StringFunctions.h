@@ -150,23 +150,3 @@ inline void StringFunctions::ExplodeFN(char separator , ifstream *f, vector<stri
 //
 //	return result;
 //}
-
-inline vector<string> StringFunctions::Explode(string str, char separator )
-{
-	vector<string>  result;
-	size_t pos1 = 0;
-	size_t pos2 = 0;
-	while ( pos2 != str.npos )
-	{
-		pos2 = str.find(separator, pos1);
-		if ( pos2 != str.npos )
-		{
-			if ( pos2 > pos1 )
-				result.push_back( str.substr(pos1, pos2-pos1) );
-			pos1 = pos2+1;
-		}
-	}
-	result.push_back( str.substr(pos1, str.size()-pos1) );
-
-	return result;
-}

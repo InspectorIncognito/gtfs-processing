@@ -54,6 +54,11 @@ void Visualizaciones::DibujaGoogleEarth()
 
 		if (isec != fdd_->secParaderos.secuencias.end())
 			DibujaServicio((*iserv).second, (*isec).second,(*iserv).first, kml);
+		else
+		{
+			map<int, Paradero> tmp;
+			DibujaServicio((*iserv).second, tmp, (*iserv).first, kml);
+		}
 	}
 	kml->CierraFolder();
 
@@ -66,58 +71,8 @@ void Visualizaciones::DibujaGoogleEarth()
 void Visualizaciones::DibujaServicio(Ruta& ruta, map<int, Paradero>& secuencia, string serviciosentido, CreaKML *kml)
 {
 	kml->AbreFolder(serviciosentido.c_str());
-	//Dibujo ruta
-	//kml->AbreFolder("ruta");
-
 	map<int, Vector3D>::iterator fin = ruta.nodos->end();
 	map<int, Vector3D>::iterator fin2 = ruta.nodos->end();
-	//fin--;
-	//fin2 = fin;
-	//fin2--;
-	//for (map<int, Vector3D>::iterator inodo = ruta.nodos->begin(); inodo != fin; inodo++)
-	//{
-
-	//	double lat2, lon2;
-	//	double lat3, lon3;
-
-	//	map<int, Vector3D>::iterator inodo2 = inodo;
-	//	inodo2++;
-
-	//	ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat2, lon2);
-	//	ConvertCoordinate::UTMtoLL(23, (*inodo2).second.y, (*inodo2).second.x, UTMZONE, lat3, lon3);
-
-	//	string strlat2 = StringFunctions::Double2String(lat2, 20);
-	//	string strlon2 = StringFunctions::Double2String(lon2, 20);
-
-	//	string strlat3 = StringFunctions::Double2String(lat3, 20);
-	//	string strlon3 = StringFunctions::Double2String(lon3, 20);
-
-
-	//	string style("SheetColorAzul");
-	//	string style2("SheetColorNaranja");
-
-	//	if (inodo == ruta.nodos->begin() || inodo == fin2)
-	//	{
-	//		kml->InsertaSegmento("",
-	//			strlat2.c_str(),
-	//			strlon2.c_str(),
-	//			strlat3.c_str(),
-	//			strlon3.c_str(),
-	//			style2.c_str(),
-	//			0);
-	//	}
-	//	else
-	//	{
-	//		kml->InsertaSegmento("",
-	//			strlat2.c_str(),
-	//			strlon2.c_str(),
-	//			strlat3.c_str(),
-	//			strlon3.c_str(),
-	//			style.c_str(),
-	//			0);
-	//	}
-	//}
-	//kml->CierraFolder();
 
 	//Dibujo ruta simplificada
 	kml->AbreFolder("ruta_simplificada");
@@ -149,12 +104,12 @@ void Visualizaciones::DibujaServicio(Ruta& ruta, map<int, Paradero>& secuencia, 
 		string style("SheetColorAzul");
 		string style2("SheetColorNaranja");
 
-		kml->InsertaPunto(StringFunctions::Int2String((*inodo).first).c_str(),
-			"",
-			strlat2.c_str(),
-			strlon2.c_str(),
-			style.c_str(),
-			0);
+//		kml->InsertaPunto(StringFunctions::Int2String((*inodo).first).c_str(),
+//			"",
+//			strlat2.c_str(),
+//			strlon2.c_str(),
+//			style.c_str(),
+//			0);
 
 		if (inodo == ruta.nodosSimplificados->begin() || inodo == fin2)
 		{
@@ -192,7 +147,9 @@ void Visualizaciones::DibujaServicio(Ruta& ruta, map<int, Paradero>& secuencia, 
 
 		string style("SheetColorAmarillo");
 
-		kml->InsertaPunto((*inodo).second.codigo.c_str(),
+		string nombre = (*inodo).second.codigo;
+		nombre.erase(std::remove(nombre.begin(), nombre.end(), '&'), nombre.end());
+		kml->InsertaPunto(nombre.c_str(),
 			"",
 			strlat.c_str(),
 			strlon.c_str(),
@@ -202,37 +159,20 @@ void Visualizaciones::DibujaServicio(Ruta& ruta, map<int, Paradero>& secuencia, 
 	}
 	kml->CierraFolder();
 
-	//Dibujo ruta
-	//kml->AbreFolder("Tramado");
-	//for (map<float, Vector3D>::iterator inodo = ruta.tramado.begin(); inodo != ruta.tramado.end(); inodo++)
-	//{
-	//	double lat, lon;
-
-	//	ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
-
-	//	string strlat = StringFunctions::Double2String(lat, 20);
-	//	string strlon = StringFunctions::Double2String(lon, 20);
-
-	//	string style("SheetColorNaranja");
-
-	//	kml->InsertaPunto("",
-	//		"",
-	//		strlat.c_str(),
-	//		strlon.c_str(),
-	//		style.c_str(),
-	//		0);
-
-	//}
-	//kml->CierraFolder();
 
 	kml->CierraFolder();
 }
 
 void Visualizaciones::DibujaRedParadas(CreaKML *kml)
 {
+	string style("SheetColorAzul");
+	string style2("SheetColorNaranja");
+	string style3("SheetColorRojo");
+
 	//Dibujo trayectoria bus
 	kml->AbreFolder("Red de Paradas ");
 
+	kml->AbreFolder("METRO");
 	for (map<string, Paradero>::iterator ipar = fdd_->redParaderos.red.begin(); ipar != fdd_->redParaderos.red.end(); ipar++)
 	{
 		double lat, lon;
@@ -242,16 +182,79 @@ void Visualizaciones::DibujaRedParadas(CreaKML *kml)
 		string strlat = StringFunctions::Double2String(lat, 20);
 		string strlon = StringFunctions::Double2String(lon, 20);
 
-		string style("SheetColorAzul");
-		string style2("SheetColorNaranja");
+		string nombre = (*ipar).second.codigo;
+		nombre.erase(std::remove(nombre.begin(), nombre.end(), '&'), nombre.end());
 
-		kml->InsertaPunto((*ipar).second.codigo.c_str(),
-			"",
-			strlat.c_str(),
-			strlon.c_str(),
-			style.c_str(),
-			0);
+		if (atoi(nombre.c_str()) >= 1 && atoi(nombre.c_str()) <= 199)
+		{
+			kml->InsertaPunto(nombre.c_str(),
+				"",
+				strlat.c_str(),
+				strlon.c_str(),
+				style3.c_str(),
+				0);
+		}
 	}
+	kml->CierraFolder();
+
+	kml->AbreFolder("METRO-TREN");
+	for (map<string, Paradero>::iterator ipar = fdd_->redParaderos.red.begin(); ipar != fdd_->redParaderos.red.end(); ipar++)
+	{
+		double lat, lon;
+
+		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, UTMZONE, lat, lon);
+
+		string strlat = StringFunctions::Double2String(lat, 20);
+		string strlon = StringFunctions::Double2String(lon, 20);
+
+		string nombre = (*ipar).second.codigo;
+		nombre.erase(std::remove(nombre.begin(), nombre.end(), '&'), nombre.end());
+
+		if (atoi(nombre.c_str()) >= 200 && atoi(nombre.c_str()) <= 299)
+		{
+			kml->InsertaPunto(nombre.c_str(),
+				"",
+				strlat.c_str(),
+				strlon.c_str(),
+				style2.c_str(),
+				0);
+		}
+
+	}
+	kml->CierraFolder();
+
+	kml->AbreFolder("BUS");
+	for (map<string, Paradero>::iterator ipar = fdd_->redParaderos.red.begin(); ipar != fdd_->redParaderos.red.end(); ipar++)
+	{
+		double lat, lon;
+
+		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, UTMZONE, lat, lon);
+
+		string strlat = StringFunctions::Double2String(lat, 20);
+		string strlon = StringFunctions::Double2String(lon, 20);
+
+		string nombre = (*ipar).second.codigo;
+		nombre.erase(std::remove(nombre.begin(), nombre.end(), '&'), nombre.end());
+
+		if (atoi(nombre.c_str()) >= 1 && atoi(nombre.c_str()) <= 199)
+		{
+		}
+		else if (atoi(nombre.c_str()) >= 200 && atoi(nombre.c_str()) <= 299)
+		{
+
+		}
+		else
+		{
+			kml->InsertaPunto(nombre.c_str(),
+				"",
+				strlat.c_str(),
+				strlon.c_str(),
+				style.c_str(),
+				0);
+		}
+
+	}
+	kml->CierraFolder();
 
 	kml->CierraFolder();
 
@@ -273,8 +276,10 @@ void Visualizaciones::DibujaRedPuntosBips(CreaKML *kml)
 
 		string style("SheetColorRosado");
 
+		string nombre = (*ipar).second.nombre;
+		nombre.erase(std::remove(nombre.begin(), nombre.end(), '&'), nombre.end());
 
-		kml->InsertaPunto((*ipar).second.nombre.c_str(),
+		kml->InsertaPunto(nombre.c_str(),
 			"",
 			strlat.c_str(),
 			strlon.c_str(),

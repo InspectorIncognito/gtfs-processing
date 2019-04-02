@@ -252,9 +252,9 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 		vector<string> variante1 = StringFunctions::Explode(shape_id[0], 'I');
 		vector<string> variante2 = StringFunctions::Explode(shape_id[0], 'R');
 
-		map< string, Ruta >::iterator iruta = fdd_->rutas.mapeo->find(shape_id[0]);
-		if (iruta == fdd_->rutas.mapeo->end())
-			cout << "WTF : " << shape_id[0] << endl;
+//		map< string, Ruta >::iterator iruta = fdd_->rutas.mapeo->find(shape_id[0]);
+//		if (iruta == fdd_->rutas.mapeo->end())
+//			cout << "WTF : " << shape_id[0] << endl;
 
 		fout << tmp[0] << ";";
 		fout << tmp[1] << ";";

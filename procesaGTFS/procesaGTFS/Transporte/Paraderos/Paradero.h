@@ -64,4 +64,6 @@ public:
 
 	///Nombre del paradero
 	string nombre;
+
+	string mode;
 };

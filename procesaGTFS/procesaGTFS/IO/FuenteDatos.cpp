@@ -121,6 +121,15 @@ void FuenteDatos::leeDiccionarioServicios()
 		else
 			cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
 
+		if (cur.at(5).compare("1") == 0)
+			ser.tipo = "METRO";
+		else if (cur.at(5).compare("0") == 0)
+			ser.tipo = "METRO-TREN";
+		else if (cur.at(5).compare("3") == 0)
+			ser.tipo = "BUS";
+		else
+			ser.tipo = "-";
+
 		servicios[ser.nombre] = ser;
 
 		///Insercion en diccionario de servicios-sentidos global
@@ -142,11 +151,11 @@ void FuenteDatos::leeDiccionarioServicios()
 
 
 	///DEBUG
-//	ofstream fout;
-//	fout.open("dicSS.txt");
-//	for (map<string, string>::iterator it = dicSS.servicios.begin(); it != dicSS.servicios.end(); it++)
-//		fout << (*it).first << ";" << (*it).second << endl;
-//	fout.close();
+	ofstream fout;
+	fout.open("dicSS.txt");
+	for (map<string, string>::iterator it = dicSS.servicios.begin(); it != dicSS.servicios.end(); it++)
+		fout << (*it).first << ";" << (*it).second << endl;
+	fout.close();
 
 	reporte->tDiccionario = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
 
@@ -204,28 +213,33 @@ void FuenteDatos::leeRutas()
 		if (cod.size() != 2)
 			continue;
 
-		dicSS.servicios_rutas[cod.at(0)] = cod.at(0);
+		string servicio = cod.at(0);
+
+		if(servicio.at(0)=='L' || servicio.at(0) == 'M')
+			servicio.erase(std::remove(servicio.begin(), servicio.end(), '-'), servicio.end());
+
+		dicSS.servicios_rutas[servicio] = servicio;
 
 		///Transformacion de coordenadas
 		ConvertCoordinate::LLtoUTM(23, atof(cur[1].c_str()), atof(cur[2].c_str()), y, x, UTMZone);
 
 		
-		map< string, Ruta >::iterator iserv = rutas.mapeo->find(cod.at(0));
+		map< string, Ruta >::iterator iserv = rutas.mapeo->find(servicio);
 
 		if (iserv == rutas.mapeo->end())
 		{
-			Ruta ruta = Ruta(cod.at(0));
+			Ruta ruta = Ruta(servicio);
 
 			bool ok = ruta.AgregarNodo(Vector3D(x,y,0.0),atoi(cur[3].c_str()));
 
-			rutas.mapeo->insert(pair<string, Ruta >(cod.at(0), ruta));
+			rutas.mapeo->insert(pair<string, Ruta >(servicio, ruta));
 
 			///Variable para reporte
 			reporte->nRutas++;
 
 			///Chequeo del nodo respecto a una zona cuadrada que encierra la zona metropolitana de santiago
 			if (!estaEnSantiago(x, y) )
-				reporte->InsertaRutaError(cod.at(0), 0, 0, 1);
+				reporte->InsertaRutaError(servicio, 0, 0, 1);
 		}
 		else
 		{
@@ -233,34 +247,34 @@ void FuenteDatos::leeRutas()
 
 			///Chequeo del nodo respecto a una zona cuadrada que encierra la zona metropolitana de santiago
 			if (!estaEnSantiago(x, y))
-				reporte->InsertaRutaError(cod.at(0), 0, 0, 1);
+				reporte->InsertaRutaError(servicio, 0, 0, 1);
 
 			///Chequeo nodos repetidos
 			if (!ok)
-				reporte->InsertaRutaError(cod.at(0), 1, 0, 0);
+				reporte->InsertaRutaError(servicio, 1, 0, 0);
 		}
 
 		///Parche para usar el ultimo nodo (Nodo Fin)
 		if (unavez)
 		{
-			antServicio = cod.at(0);
-			iserv_ant = rutas.mapeo->find(cod.at(0));
+			antServicio = servicio;
+			iserv_ant = rutas.mapeo->find(servicio);
 			unavez = false;
 		}
 
-		if (antServicio.compare(cod.at(0)) != 0)
+		if (antServicio.compare(servicio) != 0)
 		{
-			antServicio = cod.at(0);
+			antServicio = servicio;
 			bool ok = (*iserv_ant).second.AgregarNodo(nodo_ant, corr_ant + 1);
-			iserv_ant = rutas.mapeo->find(cod.at(0));
+			iserv_ant = rutas.mapeo->find(servicio);
 
 			///Chequeo del nodo respecto a una zona cuadrada que encierra la zona metropolitana de santiago
 			if (!estaEnSantiago(int(nodo_ant.x), int(nodo_ant.y)))
-				reporte->InsertaRutaError(cod.at(0), 0, 0, 1);
+				reporte->InsertaRutaError(servicio, 0, 0, 1);
 
 			///Chequeo nodos repetidos
 			if (!ok)
-				reporte->InsertaRutaError(cod.at(0), 1, 0, 0);
+				reporte->InsertaRutaError(servicio, 1, 0, 0);
 		}
 
 		nodo_ant = Vector3D(x, y, 0.0);
@@ -337,19 +351,34 @@ void FuenteDatos::leeRedDeParadas()
 
 		ConvertCoordinate::LLtoUTM(23, atof(cur[3].c_str()), atof(cur[4].c_str()), y, x, UTMZone);
 
+		string nombre = cur[2];
+		string mode = string("-");
+		///agrego el modo
+		if (cur[0].at(0) == 'P')
+		{
+			nombre.erase(std::remove(nombre.begin(), nombre.end(), '/'), nombre.end());
+			nombre.erase(std::remove(nombre.begin(), nombre.end(), '.'), nombre.end());
+			nombre.erase(std::remove(nombre.begin(), nombre.end(), '@'), nombre.end());
+			mode = "3";
+		}
+		else if (atoi(cur[0].c_str()) >= 1 && atoi(cur[0].c_str()) <= 199)
+		{
+			mode = "1";
+		}
+		else if (atoi(cur[0].c_str()) >= 200 && atoi(cur[0].c_str()) <= 299)
+		{
+			mode = "0";
+		}
+
 		//stop_id,stop_code,stop_name,stop_lat,stop_lon
 		///estandarizacion del nombre
 		//Quitar el código de paradero(ya hecho)
 		//Quitar los slash(/ )
 		//Quitar el punto de la palabra "Esq." y que la "E" sea minúscula.Resultado: "Esq." -> "esq"
 		//Quitar "@"
-		string nombre = cur[2];
-		nombre.erase(std::remove(nombre.begin(), nombre.end(), '/'), nombre.end());
-		nombre.erase(std::remove(nombre.begin(), nombre.end(), '.'), nombre.end());
-		nombre.erase(std::remove(nombre.begin(), nombre.end(), '@'), nombre.end());
-
 
 		Paradero par = Paradero(atof(cur[3].c_str()), atof(cur[4].c_str()),(int)x, (int)y, cur[0], cur[2]);
+		par.mode = mode;
 
 		redParaderos.red[par.codigo] = par;
 	}
@@ -502,17 +531,19 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		
 		string servicio = string(cod_serv[0] + cod_serv[1]);
 
-		//if (servicio.compare("D03I") == 0 && cur[3].compare("PD219")==0)
-		//	cout << "PAR1 : " << cur[3] << endl;
-
 		if (servicio.compare(servicio_ant) != 0)
 			activo = true;
 
-		if (servicio.compare(servicio_ant) == 0 && cur[4].compare("1") == 0)
-			activo = false;
-
-		//if (servicio.compare("I08I") == 0)
-		//	cout << "PAR2 : " << cur[3] << endl;
+		if (servicio.at(0) == 'L' || servicio.at(0) == 'M')
+		{
+			if (servicio.compare(servicio_ant) == 0 && cur[4].compare("0") == 0)
+				activo = false;
+		}
+		else
+		{
+			if (servicio.compare(servicio_ant) == 0 && cur[4].compare("1") == 0)
+				activo = false;
+		}
 
 		///Busco paradero en red de paradas
 		Paradero par;
@@ -533,7 +564,13 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		if (iRuta != rutas.mapeo->end())
 		{
 			distance = (*iRuta).second.GetDistanceOnRoute(&p);
-			//cout << distance << endl;
+
+			if(servicio.at(0)=='L')
+				cout << servicio << "|" << (*ired).second.nombre << " | " << distance << endl;
+		}
+		else
+		{
+			cout << "no pillo la ruta : " << servicio << endl;
 		}
 
 		if (activo)
@@ -569,19 +606,19 @@ void FuenteDatos::leeSecuenciaDeParadas()
 	}
 
 	///DEBUG
-//	ofstream fout;
-//	fout.open("secParadas.txt");
-//	for (iserv = secParaderos.secuencias.begin(); iserv != secParaderos.secuencias.end(); iserv++)
-//	{
-//		for (map<int, Paradero>::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
-//		{
-//			fout << (*iserv).first << ";";
-//			fout << (*ipar).first << ";";
-//			fout << (*ipar).second.codigo << ";";
-//			fout << (*ipar).second.nombre << endl;
-//		}
-//	}
-//	fout.close();
+	ofstream fout;
+	fout.open("secParadas.txt");
+	for (iserv = secParaderos.secuencias.begin(); iserv != secParaderos.secuencias.end(); iserv++)
+	{
+		for (map<int, Paradero>::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
+		{
+			fout << (*iserv).first << ";";
+			fout << (*ipar).first << ";";
+			fout << (*ipar).second.codigo << ";";
+			fout << (*ipar).second.nombre << endl;
+		}
+	}
+	fout.close();
 
 	///Variables para reporte
 	reporte->tParadas = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;

@@ -63,6 +63,7 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 	///Impresion de la tabla
 	ofstream fileout;
 	fileout.open("Android_busstops" + fdd_->parametros->version + ".csv");
+	fileout << "mode;";
 	fileout << "code;";
 	fileout << "name;";
 	fileout << "latitude;";
@@ -75,9 +76,6 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 	{
 		map< string, Paradero >::iterator ired = fdd_->redParaderos.red.find((*it).first);
 
-		if ((*ired).second.codigo.at(0) != 'P')
-			continue;
-
 		if (ired != fdd_->redParaderos.red.end())
 		{
 			double lat, lon;
@@ -87,14 +85,19 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 			string strlat = StringFunctions::Double2String(lat, 10);
 			string strlon = StringFunctions::Double2String(lon, 10);
 
+
+			fileout << (*ired).second.mode << ";";
 			fileout << (*ired).second.codigo<< ";";
 
-			vector<string> nombre_ = StringFunctions::Explode((*ired).second.nombre, '-');
-
-			string nombre = string("");
-			///concatenacion de campos extras
-			for (int i = 1; i < nombre_.size(); i++)
-				nombre.append(nombre_.at(i));
+			string nombre = (*ired).second.nombre;
+			if ((*ired).second.mode.compare("3") == 0)
+			{
+				nombre = string("");
+				vector<string> nombre_ = StringFunctions::Explode((*ired).second.nombre, '-');
+				///concatenacion de campos extras
+				for (int i = 1; i < nombre_.size(); i++)
+					nombre.append(nombre_.at(i));
+			}
 
 			fileout << EliminaCadenasBlancos(nombre) << ";";
 			fileout << lat << ";";
