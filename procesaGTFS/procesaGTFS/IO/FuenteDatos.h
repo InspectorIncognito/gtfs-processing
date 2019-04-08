@@ -157,6 +157,11 @@ class FuenteDatos{
 	void leePuntosDeCargaBip();
 
 	/**
+	*
+	*/
+	//void readScheduleMetro();
+
+	/**
 	* Metodo que chequea si un par coordenada esta fuera de la zona de Santiago
 	*/
 	bool estaEnSantiago(int x_, int y_);

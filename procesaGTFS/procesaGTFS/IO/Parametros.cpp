@@ -38,6 +38,7 @@ Parametros::Parametros(const char *file)
 	///Lectura de Parametros
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreCarpetaGTFS = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoHorarios = columnas[0];
+	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoHorariosMetro = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoPuntosCargaBip = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoConsolidadoDeParadas = columnas[0];
 
@@ -48,14 +49,13 @@ Parametros::Parametros(const char *file)
 	
 	
 	///Lectura de Colores
-	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nColores = atoi(columnas[0].c_str());
+	//columnas = StringFunctions::ExplodeF('\t', &ap);	this->nColores = atoi(columnas[0].c_str());
 
-	for (int i = 0; i < nColores ; i++)
-	{
-		columnas = StringFunctions::ExplodeF('\t', &ap); columnas1 = StringFunctions::Explode(columnas[0], ' ');
-		mapeoColores[columnas1.at(0)] = columnas1.at(1);
-
-	}
+	//for (int i = 0; i < nColores ; i++)
+	//{
+	//	columnas = StringFunctions::ExplodeF('\t', &ap); columnas1 = StringFunctions::Explode(columnas[0], ' ');
+	//	mapeoColores[columnas1.at(0)] = columnas1.at(1);
+	//}
 
 	///debug
 	//for (map<string, string>::iterator it = mapeoColores.begin(); it != mapeoColores.end(); it++)

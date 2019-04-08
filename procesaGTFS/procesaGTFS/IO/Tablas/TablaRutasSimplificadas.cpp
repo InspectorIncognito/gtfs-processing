@@ -34,7 +34,6 @@ void TablaRutasSimplificadas::Crear()
 	///Impresion de la tabla
 	ofstream fileout;
 	fileout.open("Android_routes" + fdd_->parametros->version + ".csv");
-	fileout << "mode;";
 	fileout << "id;";
 	fileout << "latitud;";
 	fileout << "longitud;";
@@ -119,12 +118,12 @@ void TablaRutasSimplificadas::Crear()
 				string strlat = StringFunctions::Double2String(lat, 10);
 				string strlon = StringFunctions::Double2String(lon, 10);
 
-				if ((*iruta).first.at(0) == 'L')
-					fileout << 1 << ";";
-				else if ((*iruta).first.at(0) == 'M')
-					fileout << 0 << ";";
-				else
-					fileout << 3 << ";";
+//				if ((*iruta).first.at(0) == 'L')
+//					fileout << 1 << ";";
+//				else if ((*iruta).first.at(0) == 'M')
+//					fileout << 0 << ";";
+//				else
+//					fileout << 3 << ";";
 				fileout << (*iruta).first << ";";
 				fileout << strlat << ";";
 				fileout << strlon << ";";

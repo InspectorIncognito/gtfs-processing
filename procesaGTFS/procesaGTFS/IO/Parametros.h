@@ -57,6 +57,9 @@ public:
 	///Nombre de archivo con horarios del funcionamiento de servicios
 	string nombreArchivoHorarios;
 
+	///Nombre de archivo con horarios del funcionamiento de servicios
+	string nombreArchivoHorariosMetro;
+
 	///Nombre de archivo con datos de puntos de carga bip
 	string nombreArchivoPuntosCargaBip;
 
@@ -73,8 +76,8 @@ public:
 	float distanciaTramado;
 
 	///Mapeo colores hexadecimales a decimales
-	int nColores;
-	map<string, string> mapeoColores;
+	//int nColores;
+	//map<string, string> mapeoColores;
 	
 	///Caracter separador para path
 	string slash;

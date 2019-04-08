@@ -65,5 +65,9 @@ public:
 	///Nombre del paradero
 	string nombre;
 
+	///
 	string mode;
+
+	///JSON with all kind of addicional information
+	string additionalInf;
 };

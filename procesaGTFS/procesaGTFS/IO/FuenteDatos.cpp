@@ -47,6 +47,7 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 
 	///Lectura de la red de paraderos
 	leeRedDeParadas();
+	//readScheduleMetro();
 
 	///Instancia de lectura de secuencia de paraderos
 	leeSecuenciaDeParadas();
@@ -121,32 +122,13 @@ void FuenteDatos::leeDiccionarioServicios()
 		else
 			cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
 
-		if (cur.at(5).compare("1") == 0)
-			ser.tipo = "METRO";
-		else if (cur.at(5).compare("0") == 0)
-			ser.tipo = "METRO-TREN";
-		else if (cur.at(5).compare("3") == 0)
-			ser.tipo = "BUS";
-		else
-			ser.tipo = "-";
+		ser.tipo = cur.at(5);
 
 		servicios[ser.nombre] = ser;
 
 		///Insercion en diccionario de servicios-sentidos global
 		dicSS.servicios[string(cur[0] + "I")] = cur[0];
 		dicSS.servicios[string(cur[0] + "R")] = cur[0];
-
-		///identificacion de colores
-		map<string, string>::iterator icolor = parametros->mapeoColores.find(cur[7]);
-
-		if (icolor != parametros->mapeoColores.end())
-		{
-			dicSS.colores[cur[0]] = (*icolor).second;
-
-		}
-			
-		
-
 	}
 
 
@@ -565,8 +547,8 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		{
 			distance = (*iRuta).second.GetDistanceOnRoute(&p);
 
-			if(servicio.at(0)=='L')
-				cout << servicio << "|" << (*ired).second.nombre << " | " << distance << endl;
+//			if(servicio.at(0)=='L')
+//				cout << servicio << "|" << (*ired).second.nombre << " | " << distance << endl;
 		}
 		else
 		{

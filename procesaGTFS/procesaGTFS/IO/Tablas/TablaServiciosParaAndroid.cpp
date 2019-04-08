@@ -70,15 +70,24 @@ void TablaServiciosParaAndroid::Crear()
 		}
 		fileout << ";";
 
-		map<string, string>::iterator it = fdd_->dicSS.colores.find((*iserv).first);
-
-		if (it != fdd_->dicSS.colores.end())
-			fileout << (*it).second << ";";
-		else
+		//string color_ser = string("-");
+		//string modo = string("-");
+		map< string, Servicio >::iterator is = fdd_->servicios.find((*iserv).first);
+		if (is != fdd_->servicios.end())
 		{
-			cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
-			fileout << "0" << ";";
+			//color_ser = (*iserv).second.color;
+			fileout << (*is).second.color << ";";
+			//modo = (*iserv).second.tipo;
 		}
+
+//		map<string, string>::iterator it = fdd_->dicSS.colores.find((*iserv).first);
+//		if (it != fdd_->dicSS.colores.end())
+//			fileout << (*it).second << ";";
+//		else
+//		{
+//			cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
+//			fileout << "0" << ";";
+//		}
 
 
 		map< string, map < int, Paradero > >::iterator isI = fdd_->secParaderos.secuencias.find((*iserv).first + "I");

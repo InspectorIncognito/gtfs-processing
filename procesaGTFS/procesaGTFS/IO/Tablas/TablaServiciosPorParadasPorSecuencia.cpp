@@ -43,6 +43,7 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 		string paradas;
 
 		string shape_id;
+		string modo; 
 	};
 
 
@@ -113,9 +114,14 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 			else
 			{
 				string nombre = string("-");
+				string color_ser = string("-");
+				string modo = string("-");
 				map< string, Servicio >::iterator iserv = fdd_->servicios.find(servicio);
 				if (iserv != fdd_->servicios.end())
 				{
+					color_ser = (*iserv).second.color;
+					modo = (*iserv).second.tipo;
+
 					if (sentido.compare("I") == 0)
 						nombre = (*iserv).second.destino;
 					else
@@ -124,15 +130,6 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 
 				if (min_hora_ini == 999999 || max_hora_fin == -1)
 				{
-					string color;
-					map<string, string>::iterator iiit = fdd_->dicSS.colores.find((*iserv).first);
-					if (iiit != fdd_->dicSS.colores.end())
-						color = (*iiit).second;
-					else
-					{
-						//cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
-						color = "0";
-					}
 					string secParadas;
 					for (map<int, string>::iterator ipar = (*isec_ant).second.paradas.begin(); ipar != (*isec_ant).second.paradas.end(); ipar++)
 					{
@@ -148,11 +145,12 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 					bss.servicio = servicio;
 					bss.sentido = sentido;
 					bss.tipodia = tipoDia;
-					bss.color = color;
+					bss.color = color_ser;
 					bss.horario = horario;
 					bss.nombre = nombre;
 					bss.paradas = secParadas;
 					bss.shape_id = shape_id;
+					bss.modo = modo;
 
 					string key = servicio + ";" + sentido + ";" + tipoDia + ";" + secParadas;
 					//cout << "FLAG 0 : " << key << endl;
@@ -170,14 +168,13 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 				}
 				else
 				{
-					string color;
-					map<string, string>::iterator iiit = fdd_->dicSS.colores.find((*iserv).first);
-					if (iiit != fdd_->dicSS.colores.end())
-						color = (*iiit).second;
-					else
+					string color_ser = string("-");
+					string modo = string("-");
+					map< string, Servicio >::iterator iserv = fdd_->servicios.find(servicio);
+					if (iserv != fdd_->servicios.end())
 					{
-						//cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
-						color = "0" ;
+						color_ser = (*iserv).second.color;
+						modo = (*iserv).second.tipo;
 					}
 
 					//fout << fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini) << ";";
@@ -210,11 +207,12 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 					bss.servicio = servicio;
 					bss.sentido = sentido;
 					bss.tipodia = tipoDia;
-					bss.color = color;
+					bss.color = color_ser;
 					bss.horario = horario;
 					bss.nombre = nombre;
 					bss.paradas = secParadas;
 					bss.shape_id = shape_id;
+					bss.modo = modo;
 
 					
 					string key = servicio + ";" + sentido + ";" + tipoDia + ";" + secParadas;
@@ -243,7 +241,7 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 
 	ofstream fout;
 	fout.open("Android_busstops_sequences" + fdd_->parametros->version + ".csv");
-	fout << "servicio;sentido;variante;tipodia;shape_id;horario;color_id;direccion;paradas" << endl;
+	fout << "modo;servicio;sentido;variante;tipodia;shape_id;horario;color_id;direccion;paradas" << endl;
 	for (itseq = secuenciasPorHorario.begin(); itseq != secuenciasPorHorario.end(); itseq++)
 	{
 		vector<string> tmp = StringFunctions::Explode((*itseq).first, ';');
@@ -256,6 +254,7 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 //		if (iruta == fdd_->rutas.mapeo->end())
 //			cout << "WTF : " << shape_id[0] << endl;
 
+		fout << (*itseq).second.modo << ";";
 		fout << tmp[0] << ";";
 		fout << tmp[1] << ";";
 
