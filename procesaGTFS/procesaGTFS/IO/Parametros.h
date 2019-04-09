@@ -58,13 +58,13 @@ public:
 	string nombreArchivoHorarios;
 
 	///Nombre de archivo con horarios del funcionamiento de servicios
-	string nombreArchivoHorariosMetro;
+	//string nombreArchivoHorariosMetro;
 
 	///Nombre de archivo con datos de puntos de carga bip
 	string nombreArchivoPuntosCargaBip;
 
 	///Nombre de archivo con los datos de secuencias de paradas de dtpm
-	string nombreArchivoConsolidadoDeParadas;
+	//string nombreArchivoConsolidadoDeParadas;
 
 	///Nombre carpeta para guardar los kmls
 	string carpetaKmls;

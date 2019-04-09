@@ -3,9 +3,7 @@ Parametros Asignacion Paradero a validacion
 
 GTFS_Transantiago_2019_02_28					* Nombre Archivo de salida de validaciones procesadas
 horarios.csv						* Nombre de archivo con horario de servicios (opcional)
-horariosMetro.csv						* Nombre de archivo con horario de servicios (opcional)
 fairpoints.csv						* Nombre de archivo con puntos de carga bip
-2019-03-01_consolidado_anexo4_(Circunvalacion)_anual.csv				* Nombre de archivo consolidado de paradas
 GTFS_Transantiago_kmls\				* carpeta para kmls
 GTFS_Transantiago_reportes\			* carpeta para reportes
 20.0								* Distancia para el tramado de la ruta

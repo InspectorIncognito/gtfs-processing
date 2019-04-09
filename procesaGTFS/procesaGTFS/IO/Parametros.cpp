@@ -38,9 +38,9 @@ Parametros::Parametros(const char *file)
 	///Lectura de Parametros
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreCarpetaGTFS = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoHorarios = columnas[0];
-	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoHorariosMetro = columnas[0];
+	//columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoHorariosMetro = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoPuntosCargaBip = columnas[0];
-	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoConsolidadoDeParadas = columnas[0];
+	//columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoConsolidadoDeParadas = columnas[0];
 
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaKmls = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaReportes = columnas[0];

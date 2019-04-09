@@ -37,8 +37,8 @@ void TablaServicios::Crear()
 	fileout << "service;";
 	fileout << "origin;";
 	fileout << "destiny;";
-	fileout << "color;";
-	fileout << "color_id";
+	fileout << "color";
+//	fileout << "color_id";
 	fileout << endl;
 
 	for (map< string, Servicio >::iterator iserv = fdd_->servicios.begin(); iserv != fdd_->servicios.end(); iserv++)
@@ -46,17 +46,17 @@ void TablaServicios::Crear()
 		fileout << (*iserv).first << ";";
 		fileout << (*iserv).second.origen << ";";
 		fileout << (*iserv).second.destino << ";";
-		fileout << (*iserv).second.color << ";";
+		fileout << (*iserv).second.color << endl;
 
-		map<string, string>::iterator it = fdd_->dicSS.colores.find((*iserv).first);
+//		map<string, string>::iterator it = fdd_->dicSS.colores.find((*iserv).first);
 
-		if (it != fdd_->dicSS.colores.end())
-			fileout << (*it).second << endl;
-		else
-		{
-			cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
-			fileout << "0" << endl;
-		}
+//		if (it != fdd_->dicSS.colores.end())
+//			fileout << (*it).second << endl;
+//		else
+//		{
+//			cout << "ERROR : No se encontro el servicio " << (*iserv).first << " en la tabla de colores." << endl;
+//			fileout << "0" << endl;
+//		}
 
 		//fileout << 1 << endl;
 	}

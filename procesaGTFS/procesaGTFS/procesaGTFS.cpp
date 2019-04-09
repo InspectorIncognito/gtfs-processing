@@ -20,7 +20,7 @@
 #include "Transporte/Grid/GridProcess.h"
 #include "IO/Visualizacion/Visualizaciones.h"
 #include "IO/Tablas/TablaDistanciaEnRutaParadas.h"
-//#include "IO/Tablas/TablaServicios.h"
+#include "IO/Tablas/TablaServicios.h"
 #include "IO/Tablas/TablaServiciosPorParada.h"
 #include "IO/Tablas/TablaParadas.h"
 #include "IO/Tablas/TablaRutasTramadas.h"
@@ -63,7 +63,7 @@ int main(int argc, const char* argv[])
 	TablaParadas *tparadas = new TablaParadas(fdd);
 
 	///Tabla de servicios
-//	TablaServicios *tservicios = new TablaServicios(fdd);
+	TablaServicios *tservicios = new TablaServicios(fdd);
 
 	///Tabla de servicios por parada
 	TablaServiciosPorParada *tserviciosPorParada = new TablaServiciosPorParada(fdd);
