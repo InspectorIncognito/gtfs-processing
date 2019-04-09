@@ -121,4 +121,4 @@ Codigo;Abreviacion;Nombre;Linea;Agustin;Agustin 2
 29;FRA;Franklin;L6;41;112
 107;IS;Ines de Suarez;L6;117;
 102;LVA;Lo Valledor;L6;110;
-202;MT-PAC;Pedro Aguirre Cerda;L6;111;
+103;PG;Pdte. Pedro Aguirre Cerda;L6;111;
