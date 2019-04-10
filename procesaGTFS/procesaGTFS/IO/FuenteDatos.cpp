@@ -112,17 +112,45 @@ void FuenteDatos::leeDiccionarioServicios()
 		for (std::string::size_type i = 0; i < cur[3].length(); ++i)
 			str[i] = std::toupper(cur[3][i], loc);
 
-		vector<string> od = StringFunctions::Explode(str, '-');
+		
 
 		Servicio ser;
-		if (od.size() == 2)
-			ser = Servicio(cur[0], od[0].substr(0,od[0].length()-1), od[1].substr(1, od[1].length()), cur[7]);
-		else if (od.size() == 1)
-			ser = Servicio(cur[0], od[0].substr(0, od[0].length() - 1), "", cur[7]);
-		else
-			cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
+		if (cur.at(0).at(0) == 'L')
+		{
+			vector<string> prev = StringFunctions::Explode(str, '(');
 
-		ser.tipo = cur.at(5);
+			if (prev.size() != 2)
+				cout << "Error : formato de nombre origen-destino servicio linea de metro : " << str << endl;
+
+			vector<string> od = StringFunctions::Explode(prev[1], '-');
+
+			string origen = od.at(0); origen.pop_back();
+			string destino = "";
+			for (int j = 1; j < od.at(1).size()-2; j++)
+				destino.push_back(od.at(1).at(j));
+
+			if (od.size() == 2)
+				ser = Servicio(cur[0], origen, destino, cur[7]);
+			else if (od.size() == 1)
+				ser = Servicio(cur[0], prev[1], "", cur[7]);
+			else
+				cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
+
+			ser.tipo = cur.at(5);
+		}
+		else
+		{
+			vector<string> od = StringFunctions::Explode(str, '-');
+
+			if (od.size() == 2)
+				ser = Servicio(cur[0], od[0].substr(0, od[0].length() - 1), od[1].substr(1, od[1].length()), cur[7]);
+			else if (od.size() == 1)
+				ser = Servicio(cur[0], od[0].substr(0, od[0].length() - 1), "", cur[7]);
+			else
+				cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
+
+			ser.tipo = cur.at(5);
+		}
 
 		servicios[ser.nombre] = ser;
 
