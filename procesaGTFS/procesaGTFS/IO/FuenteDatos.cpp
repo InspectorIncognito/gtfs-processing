@@ -107,12 +107,30 @@ void FuenteDatos::leeDiccionarioServicios()
 		///Informacion para el reporte
 		reporte->nRegistrosDiccionario++;
 
+		///nombre
 		std::locale loc;
 		std::string str = cur[3];
 		for (std::string::size_type i = 0; i < cur[3].length(); ++i)
 			str[i] = std::toupper(cur[3][i], loc);
 
-		
+		///color
+		string color;
+		if (cur.at(7).compare("00D9A3") == 0)
+			color = string("#00929E");
+		else if (cur.at(7).compare("ED1C24") == 0)
+			color = string("#ED1C24");
+		else if (cur.at(7).compare("00B33C") == 0)
+			color = string("#00A77E");
+		else if (cur.at(7).compare("0067AC") == 0)
+			color = string("#0951BC");
+		else if (cur.at(7).compare("FFD400") == 0)
+			color = string("#FFC107");
+		else if (cur.at(7).compare("00D5FF") == 0)
+			color = string("#00A7FF");
+		else if (cur.at(7).compare("F58220") == 0)
+			color = string("#F58220");
+		else
+			color = string("#" + cur.at(7));
 
 		Servicio ser;
 		if (cur.at(0).at(0) == 'L')
@@ -130,9 +148,9 @@ void FuenteDatos::leeDiccionarioServicios()
 				destino.push_back(od.at(1).at(j));
 
 			if (od.size() == 2)
-				ser = Servicio(cur[0], origen, destino, cur[7]);
+				ser = Servicio(cur[0], origen, destino, color);
 			else if (od.size() == 1)
-				ser = Servicio(cur[0], prev[1], "", cur[7]);
+				ser = Servicio(cur[0], prev[1], "", color);
 			else
 				cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
 
@@ -143,9 +161,9 @@ void FuenteDatos::leeDiccionarioServicios()
 			vector<string> od = StringFunctions::Explode(str, '-');
 
 			if (od.size() == 2)
-				ser = Servicio(cur[0], od[0].substr(0, od[0].length() - 1), od[1].substr(1, od[1].length()), cur[7]);
+				ser = Servicio(cur[0], od[0].substr(0, od[0].length() - 1), od[1].substr(1, od[1].length()), color);
 			else if (od.size() == 1)
-				ser = Servicio(cur[0], od[0].substr(0, od[0].length() - 1), "", cur[7]);
+				ser = Servicio(cur[0], od[0].substr(0, od[0].length() - 1), "", color);
 			else
 				cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
 

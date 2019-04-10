@@ -1,5 +1,5 @@
 Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre boleteria;Cierre Estacion;Destino 1;Primer Tren D1;Ultimo tren D1;Destino 2;Primer Tren D2;Ultimo tren D2;Expreso
-91;SO;San Pablo;L1;Lunes a Viernes;5:35;6:00;23:00;23:35;San Pablo;-;-;Los Dominicos;5:36;23:05;VERDE/ROJA
+91;SO;San Pablo;L1;Lunes a Viernes;5:35;6:00;23:00;23:35;San Pablo;;;Los Dominicos;5:36;23:05;VERDE/ROJA
 60;NP;Neptuno;L1;Lunes a Viernes;5:35;6:00;23:00;23:35;San Pablo;5:44;23:46;Los Dominicos;5:37;23:06;
 67;PJ;Pajaritos;L1;Lunes a Viernes;5:35;6:00;23:00;23:35;San Pablo;5:42;23:44;Los Dominicos;5:36;23:07;
 50;LR;Las Rejas;L1;Lunes a Viernes;5:35;6:00;23:00;23:32;San Pablo;5:40;23:42;Los Dominicos;5:37;23:09;
@@ -25,8 +25,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 27;EM;Escuela Militar;L1;Lunes a Viernes;5:50;6:00;23:00;23:35;San Pablo;5:52;23:15;Los Dominicos;5:51;23:35;
 58;MQ;Manquehue;L1;Lunes a Viernes;5:50;6:00;23:00;23:35;San Pablo;5:50;23:13;Los Dominicos;5:50;23:37;
 33;HM;Hernando de Magallanes;L1;Lunes a Viernes;5:50;6:00;23:00;23:35;San Pablo;5:52;23:11;Los Dominicos;5:52;23:39;
-40;LD;Los Dominicos;L1;Lunes a Viernes;5:50;6:00;23:00;23:40;San Pablo;5:50;23:10;Los Dominicos;-;-;
-91;SO;San Pablo;L1;Sábado;6:30;6:30;23:00;23:45;San Pablo;-;-;Los Dominicos;6:33;23:05;VERDE/ROJA
+40;LD;Los Dominicos;L1;Lunes a Viernes;5:50;6:00;23:00;23:40;San Pablo;5:50;23:10;Los Dominicos;;;
+91;SO;San Pablo;L1;Sábado;6:30;6:30;23:00;23:45;San Pablo;;;Los Dominicos;6:33;23:05;VERDE/ROJA
 60;NP;Neptuno;L1;Sábado;6:30;6:30;23:00;23:45;San Pablo;6:43;23:51;Los Dominicos;6:31;23:06;
 67;PJ;Pajaritos;L1;Sábado;6:30;6:30;23:00;23:40;San Pablo;6:41;23:49;Los Dominicos;6:32;23:07;
 50;LR;Las Rejas;L1;Sábado;6:30;6:30;23:00;23:40;San Pablo;6:39;23:48;Los Dominicos;6:30;23:09;
@@ -52,8 +52,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 27;EM;Escuela Militar;L1;Sábado;6:30;6:30;23:00;23:30;San Pablo;6:34;23:22;Los Dominicos;6:31;23:35;
 58;MQ;Manquehue;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:32;23:20;Los Dominicos;6:33;23:37;
 33;HM;Hernando de Magallanes;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:30;23:18;Los Dominicos;6:34;23:39;
-40;LD;Los Dominicos;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:35;23:16;Los Dominicos;-;-;
-91;SO;San Pablo;L1;Domingo;8:00;8:00;22:30;23:23;San Pablo;-;-;Los Dominicos;8:04;22:46;VERDE/ROJA
+40;LD;Los Dominicos;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:35;23:16;Los Dominicos;;;
+91;SO;San Pablo;L1;Domingo;8:00;8:00;22:30;23:23;San Pablo;;;Los Dominicos;8:04;22:46;VERDE/ROJA
 60;NP;Neptuno;L1;Domingo;8:00;8:00;22:30;23:21;San Pablo;8:08;23:32;Los Dominicos;8:05;22:47;
 67;PJ;Pajaritos;L1;Domingo;8:00;8:00;22:30;23:19;San Pablo;8:06;23:30;Los Dominicos;8:01;22:49;
 50;LR;Las Rejas;L1;Domingo;8:00;8:00;22:30;23:18;San Pablo;8:05;23:29;Los Dominicos;8:02;22:50;
@@ -79,8 +79,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 27;EM;Escuela Militar;L1;Domingo;8:00;8:00;22:30;23:08;San Pablo;8:03;23:03;Los Dominicos;8:04;23:16;
 58;MQ;Manquehue;L1;Domingo;8:00;8:00;22:30;23:10;San Pablo;8:01;23:01;Los Dominicos;8:00;23:18;
 33;HM;Hernando de Magallanes;L1;Domingo;8:00;8:00;22:30;23:12;San Pablo;8:05;22:59;Los Dominicos;8:02;23:20;
-40;LD;Los Dominicos;L1;Domingo;8:00;8:00;22:30;23:14;San Pablo;8:04;22:58;Los Dominicos;-;-;
-39;LC;La Cisterna;L2;Lunes a Viernes;5:40;6:00;23:00;23:33;La Cisterna;-;-;Vespucio Norte;5:41;23:05;VERDE/ROJA
+40;LD;Los Dominicos;L1;Domingo;8:00;8:00;22:30;23:14;San Pablo;8:04;22:58;Los Dominicos;;;
+39;LC;La Cisterna;L2;Lunes a Viernes;5:40;6:00;23:00;23:33;La Cisterna;;;Vespucio Norte;5:41;23:05;VERDE/ROJA
 28;EP;El Parrón;L2;Lunes a Viernes;5:40;6:00;23:00;23:31;La Cisterna;5:57;23:36;Vespucio Norte;5:43;23:06;VERDE
 47;LO;Lo Ovalle;L2;Lunes a Viernes;5:40;6:00;23:00;23:29;La Cisterna;5:55;23:34;Vespucio Norte;5:41;23:08;VERDE/ROJA
 16;CN;Ciudad del Niño;L2;Lunes a Viernes;5:40;6:00;23:00;23:28;La Cisterna;5:53;23:33;Vespucio Norte;5:42;23:09;ROJA
@@ -101,8 +101,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 25;EI;Einstein;L2;Lunes a Viernes;6:00;6:00;23:00;23:27;La Cisterna;6:02;23:09;Vespucio Norte;6:02;23:32;VERDE
 20;DO;Dorsal;L2;Lunes a Viernes;6:00;6:00;23:00;23:29;La Cisterna;6:00;23:08;Vespucio Norte;6:00;23:34;ROJA
 100;ZA;Zapadores;L2;Lunes a Viernes;6:00;6:00;23:00;23:30;La Cisterna;6:04;23:06;Vespucio Norte;6:01;23:35;VERDE/ROJA
-5;AV;Vespucio Norte;L2;Lunes a Viernes;6:00;6:00;23:00;23:33;La Cisterna;6:02;23:05;Vespucio Norte;-;-;VERDE/ROJA
-39;LC;La Cisterna;L2;Sábado;6:30;6:30;23:00;23:33;La Cisterna;-;-;Vespucio Norte;6:35;23:05;VERDE/ROJA
+5;AV;Vespucio Norte;L2;Lunes a Viernes;6:00;6:00;23:00;23:33;La Cisterna;6:02;23:05;Vespucio Norte;;;VERDE/ROJA
+39;LC;La Cisterna;L2;Sábado;6:30;6:30;23:00;23:33;La Cisterna;;;Vespucio Norte;6:35;23:05;VERDE/ROJA
 28;EP;El Parrón;L2;Sábado;6:30;6:30;23:00;23:31;La Cisterna;6:45;23:36;Vespucio Norte;6:30;23:07;VERDE
 47;LO;Lo Ovalle;L2;Sábado;6:30;6:30;23:00;23:29;La Cisterna;6:43;23:34;Vespucio Norte;6:31;23:08;VERDE/ROJA
 16;CN;Ciudad del Niño;L2;Sábado;6:30;6:30;23:00;23:28;La Cisterna;6:42;23:33;Vespucio Norte;6:33;23:10;ROJA
@@ -123,8 +123,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 25;EI;Einstein;L2;Sábado;6:30;6:30;23:00;23:28;La Cisterna;6:33;23:10;Vespucio Norte;6:34;23:33;VERDE
 20;DO;Dorsal;L2;Sábado;6:30;6:30;23:00;23:29;La Cisterna;6:32;23:08;Vespucio Norte;6:35;23:34;ROJA
 100;ZA;Zapadores;L2;Sábado;6:30;6:30;23:00;23:31;La Cisterna;6:31;23:07;Vespucio Norte;6:36;23:36;VERDE/ROJA
-5;AV;Vespucio Norte;L2;Sábado;6:30;6:30;23:00;23:33;La Cisterna;6:36;23:05;Vespucio Norte;-;-;VERDE/ROJA
-39;LC;La Cisterna;L2;Domingo;8:00;8:00;22:30;23:19;La Cisterna;-;-;Vespucio Norte;8:04;22:48;VERDE/ROJA
+5;AV;Vespucio Norte;L2;Sábado;6:30;6:30;23:00;23:33;La Cisterna;6:36;23:05;Vespucio Norte;;;VERDE/ROJA
+39;LC;La Cisterna;L2;Domingo;8:00;8:00;22:30;23:19;La Cisterna;;;Vespucio Norte;8:04;22:48;VERDE/ROJA
 28;EP;El Parrón;L2;Domingo;8:00;8:00;22:30;23:17;La Cisterna;8:07;23:21;Vespucio Norte;8:06;22:49;VERDE
 47;LO;Lo Ovalle;L2;Domingo;8:00;8:00;22:30;23:15;La Cisterna;8:06;23:20;Vespucio Norte;8:00;22:51;VERDE/ROJA
 16;CN;Ciudad del Niño;L2;Domingo;8:00;8:00;22:30;23:14;La Cisterna;8:04;23:18;Vespucio Norte;8:01;22:52;ROJA
@@ -145,8 +145,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 25;EI;Einstein;L2;Domingo;8:00;8:00;22:30;23:11;La Cisterna;8:06;22:55;Vespucio Norte;8:15;23:15;VERDE
 20;DO;Dorsal;L2;Domingo;8:00;8:00;22:30;23:12;La Cisterna;8:05;22:54;Vespucio Norte;8:17;23:17;ROJA
 100;ZA;Zapadores;L2;Domingo;8:00;8:00;22:30;23:14;La Cisterna;8:03;22:52;Vespucio Norte;8:18;23:18;VERDE/ROJA
-5;AV;Vespucio Norte;L2;Domingo;8:00;8:00;22:30;23:16;La Cisterna;8:01;22:51;Vespucio Norte;-;-;VERDE/ROJA
-93;TB;Tobalaba;L4;Lunes a Viernes;6:00;6:00;23:00;23:30;Plaza Puente Alto;6:02;23:15;Tobalaba;-;-;VERDE/ROJA
+5;AV;Vespucio Norte;L2;Domingo;8:00;8:00;22:30;23:16;La Cisterna;8:01;22:51;Vespucio Norte;;;VERDE/ROJA
+93;TB;Tobalaba;L4;Lunes a Viernes;6:00;6:00;23:00;23:30;Plaza Puente Alto;6:02;23:15;Tobalaba;;;VERDE/ROJA
 17;CO;Cristobal Colón;L4;Lunes a Viernes;5:55;6:00;23:00;23:35;Plaza Puente Alto;5:55;23:16;Tobalaba;6:20;23:41;VERDE
 8;BI;Francisco Bilbao;L4;Lunes a Viernes;6:00;6:00;23:00;23:30;Plaza Puente Alto;6:01;23:18;Tobalaba;6:19;23:39;VERDE/ROJA
 30;GA;P. de Gales;L4;Lunes a Viernes;6:00;6:00;23:00;23:30;Plaza Puente Alto;6:03;23:20;Tobalaba;6:16;23:37;ROJA
@@ -168,8 +168,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 34;HS;H. Sotero del Río;L4;Lunes a Viernes;5:45;6:00;23:00;23:40;Plaza Puente Alto;6:15;23:48;Tobalaba;5:50;23:10;VERDE/ROJA
 66;PI;P. de La Infancia;L4;Lunes a Viernes;5:45;6:00;23:00;23:40;Plaza Puente Alto;6:17;23:50;Tobalaba;5:48;23:08;VERDE
 56;ME;Las Mercedes;L4;Lunes a Viernes;5:40;6:00;23:00;23:45;Plaza Puente Alto;6:18;23:52;Tobalaba;5:46;23:06;ROJA
-69;PPA;Plaza de P. Alto;L4;Lunes a Viernes;5:40;6:00;23:00;23:45;Plaza Puente Alto;-;-;Tobalaba;5:45;23:05;VERDE/ROJA
-93;TB;Tobalaba;L4;Sábado;6:30;6:30;23:00;23:25;Plaza Puente Alto;6:30;23:15;Tobalaba;-;-;VERDE/ROJA
+69;PPA;Plaza de P. Alto;L4;Lunes a Viernes;5:40;6:00;23:00;23:45;Plaza Puente Alto;;;Tobalaba;5:45;23:05;VERDE/ROJA
+93;TB;Tobalaba;L4;Sábado;6:30;6:30;23:00;23:25;Plaza Puente Alto;6:30;23:15;Tobalaba;;;VERDE/ROJA
 17;CO;Cristobal Colón;L4;Sábado;6:30;6:30;23:00;23:35;Plaza Puente Alto;6:32;23:16;Tobalaba;6:35;23:41;VERDE
 8;BI;Francisco Bilbao;L4;Sábado;6:30;6:30;23:00;23:35;Plaza Puente Alto;6:33;23:18;Tobalaba;6:33;23:40;VERDE/ROJA
 30;GA;P. de Gales;L4;Sábado;6:30;6:30;23:00;23:30;Plaza Puente Alto;6:35;23:20;Tobalaba;6:31;23:37;ROJA
@@ -191,8 +191,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 34;HS;H. Sotero del Río;L4;Sábado;6:30;6:30;23:00;23:40;Plaza Puente Alto;6:51;23:48;Tobalaba;6:33;23:10;VERDE/ROJA
 66;PI;P. de La Infancia;L4;Sábado;6:30;6:30;23:00;23:45;Plaza Puente Alto;6:53;23:50;Tobalaba;6:31;23:08;VERDE
 56;ME;Las Mercedes;L4;Sábado;6:30;6:30;23:00;23:45;Plaza Puente Alto;6:55;23:52;Tobalaba;6:30;23:06;ROJA
-69;PPA;Plaza de P. Alto;L4;Sábado;6:30;6:30;23:00;23:50;Plaza Puente Alto;-;-;Tobalaba;6:34;23:05;VERDE/ROJA
-93;TB;Tobalaba;L4;Domingo;8:00;8:00;22:30;23:20;Plaza Puente Alto;8:06;23:15;Tobalaba;-;-;VERDE/ROJA
+69;PPA;Plaza de P. Alto;L4;Sábado;6:30;6:30;23:00;23:50;Plaza Puente Alto;;;Tobalaba;6:34;23:05;VERDE/ROJA
+93;TB;Tobalaba;L4;Domingo;8:00;8:00;22:30;23:20;Plaza Puente Alto;8:06;23:15;Tobalaba;;;VERDE/ROJA
 17;CO;Cristobal Colón;L4;Domingo;8:00;8:00;22:30;23:20;Plaza Puente Alto;8:00;23:16;Tobalaba;8:18;23:26;VERDE
 8;BI;Francisco Bilbao;L4;Domingo;8:00;8:00;22:30;23:15;Plaza Puente Alto;8:01;23:18;Tobalaba;8:17;23:25;VERDE/ROJA
 30;GA;P. de Gales;L4;Domingo;8:00;8:00;22:30;23:15;Plaza Puente Alto;8:03;23:20;Tobalaba;8:14;23:22;ROJA
@@ -214,26 +214,26 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 34;HS;H. Sotero del Río;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;8:23;23:48;Tobalaba;8:03;22:55;VERDE/ROJA
 66;PI;P. de La Infancia;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;8:25;23:50;Tobalaba;8:01;22:53;VERDE
 56;ME;Las Mercedes;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;8:27;23:52;Tobalaba;8:07;22:51;ROJA
-69;PPA;Plaza de P. Alto;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;-;-;Tobalaba;8:06;22:50;VERDE/ROJA
-99;VMI;Vicuña Mackenna;L4A;Lunes a Viernes;5:55;6:00;23:00;23:50;La Cisterna;5:59;23:57;Vicuña Mackenna;-;-;VERDE/ROJA
+69;PPA;Plaza de P. Alto;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;;;Tobalaba;8:06;22:50;VERDE/ROJA
+99;VMI;Vicuña Mackenna;L4A;Lunes a Viernes;5:55;6:00;23:00;23:50;La Cisterna;5:59;23:57;Vicuña Mackenna;;;VERDE/ROJA
 37;JU;Santa Julia;L4A;Lunes a Viernes;5:50;6:00;23:00;23:55;La Cisterna;5:57;23:59;Vicuña Mackenna;5:55;23:53;
 43;LG;La Granja;L4A;Lunes a Viernes;5:50;6:00;23:00;23:55;La Cisterna;5:59;0:01;Vicuña Mackenna;5:53;23:51;
 92;SR;Santa Rosa;L4A;Lunes a Viernes;5:45;6:00;23:00;23:55;La Cisterna;6:01;0:03;Vicuña Mackenna;5:51;23:49;
 81;RN;San Ramón;L4A;Lunes a Viernes;5:50;6:00;23:00;23:55;La Cisterna;6:03;0:05;Vicuña Mackenna;5:53;23:47;
-39;LC;La Cisterna;L4A;Lunes a Viernes;5:40;6:00;23:00;0:08;La Cisterna;-;-;Vicuña Mackenna;5:46;23:44;VERDE/ROJA
-99;VMI;Vicuña Mackenna;L4A;Sábado;6:30;6:30;23:00;23:50;La Cisterna;6:32;23:57;Vicuña Mackenna;-;-;VERDE/ROJA
+39;LC;La Cisterna;L4A;Lunes a Viernes;5:40;6:00;23:00;0:08;La Cisterna;;;Vicuña Mackenna;5:46;23:44;VERDE/ROJA
+99;VMI;Vicuña Mackenna;L4A;Sábado;6:30;6:30;23:00;23:50;La Cisterna;6:32;23:57;Vicuña Mackenna;;;VERDE/ROJA
 37;JU;Santa Julia;L4A;Sábado;6:30;6:30;23:00;23:55;La Cisterna;6:34;23:59;Vicuña Mackenna;6:34;23:53;
 43;LG;La Granja;L4A;Sábado;6:30;6:30;23:00;23:55;La Cisterna;6:36;0:01;Vicuña Mackenna;6:32;23:51;
 92;SR;Santa Rosa;L4A;Sábado;6:30;6:30;23:00;23:55;La Cisterna;6:38;0:03;Vicuña Mackenna;6:30;23:49;
 81;RN;San Ramón;L4A;Sábado;6:30;6:30;23:00;23:55;La Cisterna;6:40;0:05;Vicuña Mackenna;6:34;23:47;
-39;LC;La Cisterna;L4A;Sábado;6:30;6:30;23:00;0:08;La Cisterna;-;-;Vicuña Mackenna;6:32;23:45;VERDE/ROJA
-99;VMI;Vicuña Mackenna;L4A;Domingo;8:00;8:00;22:30;23:35;La Cisterna;8:02;23:38;Vicuña Mackenna;-;-;VERDE/ROJA
+39;LC;La Cisterna;L4A;Sábado;6:30;6:30;23:00;0:08;La Cisterna;;;Vicuña Mackenna;6:32;23:45;VERDE/ROJA
+99;VMI;Vicuña Mackenna;L4A;Domingo;8:00;8:00;22:30;23:35;La Cisterna;8:02;23:38;Vicuña Mackenna;;;VERDE/ROJA
 37;JU;Santa Julia;L4A;Domingo;8:00;8:00;22:30;23:30;La Cisterna;8:04;23:40;Vicuña Mackenna;8:04;23:34;
 43;LG;La Granja;L4A;Domingo;8:00;8:00;22:30;23:35;La Cisterna;8:06;23:42;Vicuña Mackenna;8:02;23:32;
 92;SR;Santa Rosa;L4A;Domingo;8:00;8:00;22:30;23:40;La Cisterna;8:01;23:44;Vicuña Mackenna;8:00;23:30;
 81;RN;San Ramón;L4A;Domingo;8:00;8:00;22:30;23:40;La Cisterna;8:03;23:46;Vicuña Mackenna;8:04;23:28;
-39;LC;La Cisterna;L4A;Domingo;8:00;8:00;22:30;23:48;La Cisterna;-;-;Vicuña Mackenna;8:02;23:26;VERDE/ROJA
-68;PM;Plaza de Maipú;L5;Lunes a Viernes;5:55;6:00;23:00;23:45;Vicente Valdés;5:58;23:05;Plaza Maipú;-;-;VERDE/ROJA
+39;LC;La Cisterna;L4A;Domingo;8:00;8:00;22:30;23:48;La Cisterna;;;Vicuña Mackenna;8:02;23:26;VERDE/ROJA
+68;PM;Plaza de Maipú;L5;Lunes a Viernes;5:55;6:00;23:00;23:45;Vicente Valdés;5:58;23:05;Plaza Maipú;;;VERDE/ROJA
 11;BU;Santiago Bueras;L5;Lunes a Viernes;5:55;6:00;23:00;23:43;Vicente Valdés;5:55;23:07;Plaza Maipú;6:00;23:51;ROJA
 21;DS;Del Sol;L5;Lunes a Viernes;5:55;6:00;23:00;23:42;Vicente Valdés;5:57;23:08;Plaza Maipú;5:59;23:50;VERDE
 59;MT;Monte Tabor;L5;Lunes a Viernes;5:55;6:00;23:00;23:40;Vicente Valdés;5:58;23:10;Plaza Maipú;5:57;23:48;ROJA
@@ -262,8 +262,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 65;PE;Pedrero;L5;Lunes a Viernes;5:45;6:00;23:00;23:44;Vicente Valdés;6:05;23:50;Plaza Maipú;5:47;23:09;VERDE
 54;MA;Mirador;L5;Lunes a Viernes;5:40;6:00;23:00;23:45;Vicente Valdés;6:07;23:51;Plaza Maipú;5:40;23:08;ROJA
 42;LF;Bellavista de La Florida;L5;Lunes a Viernes;5:40;6:00;23:00;23:47;Vicente Valdés;6:08;23:53;Plaza Maipú;5:41;23:06;VERDE/ROJA
-98;VV;Vicente Valdés;L5;Lunes a Viernes;5:40;6:00;23:00;23:49;Vicente Valdés;-;-;Plaza Maipú;5:40;23:05;VERDE/ROJA
-68;PM;Plaza de Maipú;L5;Sábado;6:30;6:30;23:00;23:47;Vicente Valdés;6:33;23:05;Plaza Maipú;-;-;VERDE/ROJA
+98;VV;Vicente Valdés;L5;Lunes a Viernes;5:40;6:00;23:00;23:49;Vicente Valdés;;;Plaza Maipú;5:40;23:05;VERDE/ROJA
+68;PM;Plaza de Maipú;L5;Sábado;6:30;6:30;23:00;23:47;Vicente Valdés;6:33;23:05;Plaza Maipú;;;VERDE/ROJA
 11;BU;Santiago Bueras;L5;Sábado;6:30;6:30;23:00;23:45;Vicente Valdés;6:35;23:07;Plaza Maipú;6:53;23:51;ROJA
 21;DS;Del Sol;L5;Sábado;6:30;6:30;23:00;23:43;Vicente Valdés;6:31;23:08;Plaza Maipú;6:52;23:50;VERDE
 59;MT;Monte Tabor;L5;Sábado;6:30;6:30;23:00;23:42;Vicente Valdés;6:32;23:10;Plaza Maipú;6:50;23:48;ROJA
@@ -292,8 +292,8 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 65;PE;Pedrero;L5;Sábado;6:30;6:30;23:00;23:44;Vicente Valdés;6:58;23:49;Plaza Maipú;6:34;23:09;VERDE
 54;MA;Mirador;L5;Sábado;6:30;6:30;23:00;23:46;Vicente Valdés;7:00;23:51;Plaza Maipú;6:32;23:08;ROJA
 42;LF;Bellavista de La Florida;L5;Sábado;6:30;6:30;23:00;23:47;Vicente Valdés;7:01;23:53;Plaza Maipú;6:31;23:06;VERDE/ROJA
-98;VV;Vicente Valdés;L5;Sábado;6:30;6:30;23:00;23:49;Vicente Valdés;-;-;Plaza Maipú;6:36;23:05;VERDE/ROJA
-68;PM;Plaza de Maipú;L5;Domingo;8:00;8:00;22:30;23:41;Vicente Valdés;8:01;22:58;Plaza Maipú;-;-;VERDE/ROJA
+98;VV;Vicente Valdés;L5;Sábado;6:30;6:30;23:00;23:49;Vicente Valdés;;;Plaza Maipú;6:36;23:05;VERDE/ROJA
+68;PM;Plaza de Maipú;L5;Domingo;8:00;8:00;22:30;23:41;Vicente Valdés;8:01;22:58;Plaza Maipú;;;VERDE/ROJA
 11;BU;Santiago Bueras;L5;Domingo;8:00;8:00;22:30;23:39;Vicente Valdés;8:03;23:00;Plaza Maipú;8:17;23:45;ROJA
 21;DS;Del Sol;L5;Domingo;8:00;8:00;22:30;23:37;Vicente Valdés;8:04;23:01;Plaza Maipú;8:16;23:44;VERDE
 59;MT;Monte Tabor;L5;Domingo;8:00;8:00;22:30;23:36;Vicente Valdés;8:06;23:03;Plaza Maipú;8:14;23:42;ROJA
@@ -322,88 +322,88 @@ Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre
 65;PE;Pedrero;L5;Domingo;8:00;8:00;22:30;23:37;Vicente Valdés;8:19;23:42;Plaza Maipú;8:01;23:03;VERDE
 54;MA;Mirador;L5;Domingo;8:00;8:00;22:30;23:38;Vicente Valdés;8:21;23:44;Plaza Maipú;8:00;23:02;ROJA
 42;LF;Bellavista de La Florida;L5;Domingo;8:00;8:00;22:30;23:40;Vicente Valdés;8:23;23:46;Plaza Maipú;8:04;23:00;VERDE/ROJA
-98;VV;Vicente Valdés;L5;Domingo;8:00;8:00;22:30;23:42;Vicente Valdés;-;-;Plaza Maipú;8:03;22:59;VERDE/ROJA
-101;CS;Cerrillos;L6;Lunes a Viernes;5:35;-;-;23:40;Los Leones;5:38;23:20;Cerrillos;-;-;
-102;LVA;Lo Valledor;L6;Lunes a Viernes;5:40;-;-;23:40;Los Leones;5:40;23:22;Cerrillos;6:02;23:47;
-202;MT-PAC;Pedro Aguirre Cerda;L6;Lunes a Viernes;5:40;-;-;23:40;Los Leones;5:42;23:24;Cerrillos;6:00;23:45;
-29;FRA;Franklin;L6;Lunes a Viernes;5:40;-;-;23:40;Los Leones;5:40;23:26;Cerrillos;5:57;23:42;VERDE/ROJA
-104;BB;Bio Bio;L6;Lunes a Viernes;5:40;-;-;23:40;Los Leones;5:41;23:27;Cerrillos;5:56;23:41;
-61;NUB;Ñuble;L6;Lunes a Viernes;5:40;-;-;23:35;Los Leones;5:40;23:30;Cerrillos;5:54;23:39;VERDE/ROJA
-105;EN;Estadio Nacional;L6;Lunes a Viernes;5:40;-;-;23:35;Los Leones;5:43;23:33;Cerrillos;5:51;23:36;
-106;NUN;Ñuñoa;L6;Lunes a Viernes;5:40;-;-;23:30;Los Leones;5:44;23:34;Cerrillos;5:50;23:35;
-107;IS;Ines de Suarez;L6;Lunes a Viernes;5:40;-;-;23:30;Los Leones;5:46;23:36;Cerrillos;5:47;23:32;
-41;LEN;Los Leones;L6;Lunes a Viernes;5:40;-;-;23:28;Los Leones;-;-;Cerrillos;5:45;23:30;
-101;CS;Cerrillos;L6;Sábado;6:30;-;-;23:40;Los Leones;6:35;23:26;Cerrillos;-;-;
-102;LVA;Lo Valledor;L6;Sábado;6:30;-;-;23:40;Los Leones;6:32;23:29;Cerrillos;6:47;23:55;
-202;MT-PAC;Pedro Aguirre Cerda;L6;Sábado;6:30;-;-;23:40;Los Leones;6:34;23:31;Cerrillos;6:45;23:53;
-29;FRA;Franklin;L6;Sábado;6:30;-;-;23:40;Los Leones;6:30;23:33;Cerrillos;6:42;23:51;VERDE/ROJA
-104;BB;Bio Bio;L6;Sábado;6:30;-;-;23:40;Los Leones;6:31;23:34;Cerrillos;6:41;23:50;
-61;NUB;Ñuble;L6;Sábado;6:30;-;-;23:35;Los Leones;6:34;23:37;Cerrillos;6:39;23:47;VERDE/ROJA
-105;EN;Estadio Nacional;L6;Sábado;6:30;-;-;23:35;Los Leones;6:37;23:39;Cerrillos;6:36;23:45;
-106;NUN;Ñuñoa;L6;Sábado;6:30;-;-;23:30;Los Leones;6:38;23:41;Cerrillos;6:35;23:43;
-107;IS;Ines de Suarez;L6;Sábado;6:30;-;-;23:30;Los Leones;6:40;23:43;Cerrillos;6:32;23:41;
-41;LEN;Los Leones;L6;Sábado;6:30;-;-;23:25;Los Leones;-;-;Cerrillos;6:30;23:38;
-101;CS;Cerrillos;L6;Domingo;8:00;-;-;23:05;Los Leones;8:05;23:26;Cerrillos;-;-;
-102;LVA;Lo Valledor;L6;Domingo;8:00;-;-;23:05;Los Leones;8:02;23:28;Cerrillos;8:14;23:52;
-202;MT-PAC;Pedro Aguirre Cerda;L6;Domingo;8:00;-;-;23:10;Los Leones;8:04;23:30;Cerrillos;8:12;23:50;
-29;FRA;Franklin;L6;Domingo;8:00;-;-;23:07;Los Leones;8:00;23:32;Cerrillos;8:10;23:48;VERDE/ROJA
-104;BB;Bio Bio;L6;Domingo;8:00;-;-;23:10;Los Leones;8:01;23:34;Cerrillos;8:09;23:46;
-61;NUB;Ñuble;L6;Domingo;8:00;-;-;23:10;Los Leones;8:04;23:36;Cerrillos;8:06;23:44;VERDE/ROJA
-105;EN;Estadio Nacional;L6;Domingo;8:00;-;-;23:10;Los Leones;8:07;23:39;Cerrillos;8:04;23:41;
-106;NUN;Ñuñoa;L6;Domingo;8:00;-;-;23:10;Los Leones;8:08;23:40;Cerrillos;8:02;23:40;
-107;IS;Ines de Suarez;L6;Domingo;8:00;-;-;23:05;Los Leones;8:10;23:43;Cerrillos;8:00;23:38;
-41;LEN;Los Leones;L6;Domingo;8:00;-;-;23:05;Los Leones;-;-;Cerrillos;8:06;23:35;
-108;LIB;Los Libertadores;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-109;CAR;Cardenal Caro;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-110;VIV;Vivaceta;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-111;CCH;Conchalí;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-112;PZC;Plaza Chacabuco;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-113;HOS;Hospitales;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-12;CA;Puente Cal y Canto;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-114;PZA;Plaza de Armas_L3;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-15;CH;Universidad de Chile;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-115;PAL;Parque Almagro;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-116;MAT;Avenida Matta;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-35;IRA;Irarrázaval;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-117;MEY;Mons. Eyzaguirre;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-106;NUN;Ñuñoa;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-118;ESP;Chile-España;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-119;VFR;Villa Frei;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-24;PZE;Plaza Egaña;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-120;FCV;Fernando Castillo Velasco;L3;Lunes a Viernes;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-108;LIB;Los Libertadores;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-109;CAR;Cardenal Caro;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-110;VIV;Vivaceta;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-111;CCH;Conchalí;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-112;PZC;Plaza Chacabuco;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-113;HOS;Hospitales;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-12;CA;Puente Cal y Canto;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-114;PZA;Plaza de Armas_L3;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-15;CH;Universidad de Chile;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-115;PAL;Parque Almagro;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-116;MAT;Avenida Matta;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-35;IRA;Irarrázaval;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-117;MEY;Mons. Eyzaguirre;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-106;NUN;Ñuñoa;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-118;ESP;Chile-España;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-119;VFR;Villa Frei;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-24;PZE;Plaza Egaña;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-120;FCV;Fernando Castillo Velasco;L3;Sábado;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-108;LIB;Los Libertadores;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-109;CAR;Cardenal Caro;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-110;VIV;Vivaceta;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-111;CCH;Conchalí;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-112;PZC;Plaza Chacabuco;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-113;HOS;Hospitales;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-12;CA;Puente Cal y Canto;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-114;PZA;Plaza de Armas_L3;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-15;CH;Universidad de Chile;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-115;PAL;Parque Almagro;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-116;MAT;Avenida Matta;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-35;IRA;Irarrázaval;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-117;MEY;Mons. Eyzaguirre;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-106;NUN;Ñuñoa;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-118;ESP;Chile-España;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-119;VFR;Villa Frei;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
-24;PZE;Plaza Egaña;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;VERDE/ROJA
-120;FCV;Fernando Castillo Velasco;L3;Domingo;-;-;-;-;Los Libertadores;-;-;Fernando Castillo Velasco;-;-;
+98;VV;Vicente Valdés;L5;Domingo;8:00;8:00;22:30;23:42;Vicente Valdés;;;Plaza Maipú;8:03;22:59;VERDE/ROJA
+101;CS;Cerrillos;L6;Lunes a Viernes;5:35;;;23:40;Los Leones;5:38;23:20;Cerrillos;;;
+102;LVA;Lo Valledor;L6;Lunes a Viernes;5:40;;;23:40;Los Leones;5:40;23:22;Cerrillos;6:02;23:47;
+202;MT-PAC;Pedro Aguirre Cerda;L6;Lunes a Viernes;5:40;;;23:40;Los Leones;5:42;23:24;Cerrillos;6:00;23:45;
+29;FRA;Franklin;L6;Lunes a Viernes;5:40;;;23:40;Los Leones;5:40;23:26;Cerrillos;5:57;23:42;VERDE/ROJA
+104;BB;Bio Bio;L6;Lunes a Viernes;5:40;;;23:40;Los Leones;5:41;23:27;Cerrillos;5:56;23:41;
+61;NUB;Ñuble;L6;Lunes a Viernes;5:40;;;23:35;Los Leones;5:40;23:30;Cerrillos;5:54;23:39;VERDE/ROJA
+105;EN;Estadio Nacional;L6;Lunes a Viernes;5:40;;;23:35;Los Leones;5:43;23:33;Cerrillos;5:51;23:36;
+106;NUN;Ñuñoa;L6;Lunes a Viernes;5:40;;;23:30;Los Leones;5:44;23:34;Cerrillos;5:50;23:35;
+107;IS;Ines de Suarez;L6;Lunes a Viernes;5:40;;;23:30;Los Leones;5:46;23:36;Cerrillos;5:47;23:32;
+41;LEN;Los Leones;L6;Lunes a Viernes;5:40;;;23:28;Los Leones;;;Cerrillos;5:45;23:30;
+101;CS;Cerrillos;L6;Sábado;6:30;;;23:40;Los Leones;6:35;23:26;Cerrillos;;;
+102;LVA;Lo Valledor;L6;Sábado;6:30;;;23:40;Los Leones;6:32;23:29;Cerrillos;6:47;23:55;
+202;MT-PAC;Pedro Aguirre Cerda;L6;Sábado;6:30;;;23:40;Los Leones;6:34;23:31;Cerrillos;6:45;23:53;
+29;FRA;Franklin;L6;Sábado;6:30;;;23:40;Los Leones;6:30;23:33;Cerrillos;6:42;23:51;VERDE/ROJA
+104;BB;Bio Bio;L6;Sábado;6:30;;;23:40;Los Leones;6:31;23:34;Cerrillos;6:41;23:50;
+61;NUB;Ñuble;L6;Sábado;6:30;;;23:35;Los Leones;6:34;23:37;Cerrillos;6:39;23:47;VERDE/ROJA
+105;EN;Estadio Nacional;L6;Sábado;6:30;;;23:35;Los Leones;6:37;23:39;Cerrillos;6:36;23:45;
+106;NUN;Ñuñoa;L6;Sábado;6:30;;;23:30;Los Leones;6:38;23:41;Cerrillos;6:35;23:43;
+107;IS;Ines de Suarez;L6;Sábado;6:30;;;23:30;Los Leones;6:40;23:43;Cerrillos;6:32;23:41;
+41;LEN;Los Leones;L6;Sábado;6:30;;;23:25;Los Leones;;;Cerrillos;6:30;23:38;
+101;CS;Cerrillos;L6;Domingo;8:00;;;23:05;Los Leones;8:05;23:26;Cerrillos;;;
+102;LVA;Lo Valledor;L6;Domingo;8:00;;;23:05;Los Leones;8:02;23:28;Cerrillos;8:14;23:52;
+202;MT-PAC;Pedro Aguirre Cerda;L6;Domingo;8:00;;;23:10;Los Leones;8:04;23:30;Cerrillos;8:12;23:50;
+29;FRA;Franklin;L6;Domingo;8:00;;;23:07;Los Leones;8:00;23:32;Cerrillos;8:10;23:48;VERDE/ROJA
+104;BB;Bio Bio;L6;Domingo;8:00;;;23:10;Los Leones;8:01;23:34;Cerrillos;8:09;23:46;
+61;NUB;Ñuble;L6;Domingo;8:00;;;23:10;Los Leones;8:04;23:36;Cerrillos;8:06;23:44;VERDE/ROJA
+105;EN;Estadio Nacional;L6;Domingo;8:00;;;23:10;Los Leones;8:07;23:39;Cerrillos;8:04;23:41;
+106;NUN;Ñuñoa;L6;Domingo;8:00;;;23:10;Los Leones;8:08;23:40;Cerrillos;8:02;23:40;
+107;IS;Ines de Suarez;L6;Domingo;8:00;;;23:05;Los Leones;8:10;23:43;Cerrillos;8:00;23:38;
+41;LEN;Los Leones;L6;Domingo;8:00;;;23:05;Los Leones;;;Cerrillos;8:06;23:35;
+108;LIB;Los Libertadores;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+109;CAR;Cardenal Caro;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+110;VIV;Vivaceta;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+111;CCH;Conchalí;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+112;PZC;Plaza Chacabuco;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+113;HOS;Hospitales;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+12;CA;Puente Cal y Canto;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+114;PZA;Plaza de Armas_L3;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+15;CH;Universidad de Chile;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+115;PAL;Parque Almagro;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+116;MAT;Avenida Matta;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+35;IRA;Irarrázaval;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+117;MEY;Mons. Eyzaguirre;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+106;NUN;Ñuñoa;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+118;ESP;Chile-España;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+119;VFR;Villa Frei;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+24;PZE;Plaza Egaña;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+120;FCV;Fernando Castillo Velasco;L3;Lunes a Viernes;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+108;LIB;Los Libertadores;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+109;CAR;Cardenal Caro;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+110;VIV;Vivaceta;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+111;CCH;Conchalí;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+112;PZC;Plaza Chacabuco;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+113;HOS;Hospitales;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+12;CA;Puente Cal y Canto;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+114;PZA;Plaza de Armas_L3;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+15;CH;Universidad de Chile;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+115;PAL;Parque Almagro;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+116;MAT;Avenida Matta;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+35;IRA;Irarrázaval;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+117;MEY;Mons. Eyzaguirre;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+106;NUN;Ñuñoa;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+118;ESP;Chile-España;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+119;VFR;Villa Frei;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+24;PZE;Plaza Egaña;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+120;FCV;Fernando Castillo Velasco;L3;Sábado;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+108;LIB;Los Libertadores;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+109;CAR;Cardenal Caro;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+110;VIV;Vivaceta;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+111;CCH;Conchalí;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+112;PZC;Plaza Chacabuco;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+113;HOS;Hospitales;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+12;CA;Puente Cal y Canto;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+114;PZA;Plaza de Armas_L3;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+15;CH;Universidad de Chile;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+115;PAL;Parque Almagro;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+116;MAT;Avenida Matta;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+35;IRA;Irarrázaval;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+117;MEY;Mons. Eyzaguirre;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+106;NUN;Ñuñoa;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+118;ESP;Chile-España;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+119;VFR;Villa Frei;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
+24;PZE;Plaza Egaña;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;VERDE/ROJA
+120;FCV;Fernando Castillo Velasco;L3;Domingo;;;;;Los Libertadores;;;Fernando Castillo Velasco;;;
