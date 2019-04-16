@@ -1,0 +1,124 @@
+Codigo;Abreviacion;Nombre;Linea;Agustin;Agustin 2
+2;AH;San Alberto Hurtado;L1;6;
+3;AL;Alcántara;L1;23;
+6;BA;Baquedano;L1;16;96
+15;CH;Universidad de Chile;L1;13;127
+23;EC;Ecuador;L1;5;
+26;EL;Estación Central;L1;8;
+27;EM;Escuela Militar;L1;24;
+32;GO;El Golf;L1;22;
+33;HM;Hernando de Magallanes;L1;26;
+38;LA;Unión Latinoamericana;L1;9;
+40;LD;Los Dominicos;L1;27;
+41;LEN;Los Leones;L1;118;20
+44;LH;Los Héroes;L1;11;37
+46;LM;La Moneda;L1;12;
+50;LR;Las Rejas;L1;4;
+57;MM;Manuel Montt;L1;18;
+58;MQ;Manquehue;L1;25;
+60;NP;Neptuno;L1;2;
+67;PJ;Pajaritos;L1;3;
+74;PV;Pedro de Valdivia;L1;19;
+83;RP;República;L1;10;
+85;SA;Salvador;L1;17;
+89;SL;Santa Lucía;L1;14;
+91;SO;San Pablo;L1;87;1
+93;TB;Tobalaba;L1;50;21
+96;UC;Universidad Católica;L1;15;
+97;US;Universidad de Santiago;L1;7;
+14;CE;Cementerios;L2;32;
+13;CB;Cerro Blanco;L2;33;
+16;CN;Ciudad del Niño;L2;46;
+19;DE;Departamental;L2;45;
+20;DO;Dorsal;L2;30;
+25;EI;Einstein;L2;31;
+45;LN;El Llano;L2;42;
+28;EP;El Parrón;L2;48;
+29;FRA;Franklin;L2;41;
+39;LC;La Cisterna;L2;49;78
+47;LO;Lo Ovalle;L2;47;
+53;LV;Lo Vial;L2;44;
+70;PQ;Parque O`Higgins;L2;39;
+72;PT;Patronato;L2;34;
+12;CA;Puente Cal y canto;L2;35;125
+82;RO;Rondizzoni;L2;40;
+90;SM;San Miguel;L2;43;
+4;AN;Santa Ana;L2;36;93
+94;TO;Toesca;L2;38;
+5;AV;Vespucio Norte;L2;28;
+100;ZA;Zapadores;L2;29;
+116;MAT;Avenida Matta;L3;129;
+109;CAR;Cardenal Caro;L3;120;
+118;ESP;Chile-España;L3;133;
+111;CCH;Conchalí;L3;122;
+120;FCV;Fernando Castillo Velasco;L3;136;
+113;HOS;Hospitales;L3;124;
+35;IRA;Irarrázaval;L3;99;130
+108;LIB;Los Libertadores;L3;119;
+117;MEY;Mons. Eyzaguirre;L3;131;
+106;NUN;Ñuñoa;L3;116;132
+115;PAL;Parque Almagro;L3;128;
+112;PZC;Plaza Chacabuco;L3;123;
+24;PZE;Plaza Egaña;L3;55;135
+119;VFR;Villa Frei;L3;134;
+110;VIV;Vivaceta;L3;121;
+17;CO;Cristobal Colón;L4;51;
+22;EA;Elisa Correa;L4;68;
+8;BI;Francisco Bilbao;L4;52;
+79;RG;Grecia;L4;57;
+34;HS;H. Sotero del Río;L4;69;
+56;ME;Las Mercedes;L4;71;
+52;LT;Las Torres;L4;60;
+62;OR;Los Orientales;L4;56;
+48;LP;Los Presidentes;L4;58;
+49;LQ;Los Quillayes;L4;67;
+55;MC;Macúl;L4;61;
+30;GA;P. de Gales;L4;53;
+66;PI;P. de La Infancia;L4;70;
+69;PPA;Plaza de P. Alto;L4;72;
+24;PZE;Plaza Egaña;L4;55;
+84;RQ;Quilín;L4;59;
+80;RM;Rojas Magallanes;L4;64;
+36;JE;San José de la Estrella;L4;66;
+86;SB;Simón Bolívar;L4;54;
+95;TR;Trinidad;L4;65;
+98;VV;Vicente Valdés;L4;63;108
+99;VMI;Vicuña Mackenna;L4;62;73
+39;LC;La Cisterna;L4A;49;78
+43;LG;La Granja;L4A;75;
+81;RN;San Ramón;L4A;77;
+37;JU;Santa Julia;L4A;74;
+92;SR;Santa Rosa;L4A;76;
+10;BR;Barrancas;L5;85;
+7;BE;Bellas Artes;L5;95;
+42;LF;Bellavista de La Florida;L5;107;
+9;BL;Blanqueado;L5;89;
+1;AG;Camino Agrícola;L5;103;
+18;CV;Carlos Valdovinos;L5;102;
+78;RC;Cumming;L5;92;
+21;DS;Del Sol;L5;81;
+31;GL;Gruta de Lourdes;L5;90;
+51;LS;Laguna Sur;L5;84;
+63;PA;Las Parcelas;L5;83;
+71;PR;Lo Prado;L5;88;
+54;MA;Mirador;L5;106;
+59;MT;Monte Tabor;L5;82;
+61;NUB;Ñuble;L5;100;114
+64;PB;Parque Bustamante;L5;97;
+65;PE;Pedrero;L5;105;
+68;PM;Plaza de Maipú;L5;79;
+73;PU;Pudahuel;L5;86;
+76;QN;Quinta Normal;L5;91;
+77;RA;Rodrigo de Araya;L5;101;
+88;SJ;San Joaquín;L5;104;
+4;AN;Santa Ana;L5;36;93
+87;SI;Santa Isabel;L5;98;
+11;BU;Santiago Bueras;L5;80;
+75;PZ;Plaza de Armas;L5;94;126
+104;BB;Bio Bio;L6;113;
+101;CS;Cerrillos;L6;109;
+105;EN;Estadio Nacional;L6;115;
+29;FRA;Franklin;L6;41;112
+107;IS;Ines de Suarez;L6;117;
+102;LVA;Lo Valledor;L6;110;
+103;PG;Pdte. Pedro Aguirre Cerda;L6;111;
