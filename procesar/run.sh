@@ -16,3 +16,5 @@ sed -e "s/VERSION/${version}/g" ../inputs/procesaGTFS.par > ./procesaGTFS.par ;
 
 #Procesamiento de datos de horarios del metro
 cp ../inputs/metro/PhoneMetroSchedule.csv ../output/$version ;
+cp ../inputs/metro/PhoneMetroSantiagoPredictor.csv ../output/$version ;
+cp ../inputs/metro/PhoneStations.csv ../output/$version ;
