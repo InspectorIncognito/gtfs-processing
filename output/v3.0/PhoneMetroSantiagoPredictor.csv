@@ -3713,7 +3713,6 @@ id;carrier;id_station_measure
 1106720-Lte;Movistar;101-102
 1106725-Lte;Movistar;39-40
 110849-Lte;Claro;9-10
-110851-Lte;Claro;10-11
 1110303-Lte;Movistar;39-40
 111106-Lte;Claro;8-9-10
 111107-Lte;Claro;8-9
@@ -3838,11 +3837,9 @@ id;carrier;id_station_measure
 1195658-Wcdma;Movistar;83-84
 1196254-Wcdma;Movistar;83-84
 1196409-Wcdma;Movistar;82-83
-1196412-Wcdma;Movistar;82-83
 1196905-Wcdma;Movistar;82-83
 1197271-Wcdma;Movistar;83-84
 1197272-Wcdma;Movistar;83-84
-1198198-Wcdma;Movistar;82-83
 1198256-Wcdma;Movistar;84-85
 1198273-Wcdma;Movistar;83-84
 1198273-Wcdma;WOM;83-84
@@ -3902,7 +3899,6 @@ id;carrier;id_station_measure
 1224313-Wcdma;Movistar;82-83-84
 1224555-Wcdma;Movistar;83-84
 1224557-Wcdma;Movistar;83-84
-1224729-Wcdma;Movistar;82-83
 1224757-Wcdma;Movistar;84-85
 1224764-Wcdma;Movistar;83-84
 1225504-Lte;Movistar;75-76
@@ -4029,8 +4025,6 @@ id;carrier;id_station_measure
 1256735-Lte;Movistar;58-59
 1256737-Lte;Movistar;59-60
 1256741-Lte;Movistar;58-59
-1257247-Lte;Movistar;64-65
-1257248-Lte;Movistar;65-66
 1257493-Lte;Movistar;104-105
 1257969-Wcdma;Movistar;39-40
 1258065-Wcdma;Claro;61-62
@@ -4119,7 +4113,6 @@ id;carrier;id_station_measure
 1291807-Lte;Movistar;60-61
 1291808-Lte;Movistar;60-61-62
 1292319-Lte;Movistar;58-59
-1294368-Lte;Movistar;76-77
 1294369-Lte;Movistar;77-78
 1294756-Wcdma;Movistar;1-2-3
 1294757-Wcdma;Movistar;2-3
@@ -4187,7 +4180,6 @@ id;carrier;id_station_measure
 1302897-Wcdma;Movistar;38-39
 1302900-Wcdma;Movistar;38-39
 1302903-Wcdma;Movistar;39-40
-1302905-Wcdma;Movistar;38-39
 1304609-Lte;Movistar;105-106
 1304611-Lte;Movistar;104-105
 1304697-Wcdma;Claro;73-74
@@ -4281,7 +4273,6 @@ id;carrier;id_station_measure
 1317131-Wcdma;Claro;22-23
 1317131-Wcdma;WOM;21-22
 1317137-Wcdma;Claro;21-22
-1317201-Wcdma;Claro;50-51
 1317207-Wcdma;Claro;50-51-52
 1319455-Lte;Movistar;39-40
 1319456-Lte;Movistar;40-41
@@ -4588,9 +4579,7 @@ id;carrier;id_station_measure
 1413-Gsm;Entel;77-78
 14177026-Lte;Entel;1-2
 14177029-Lte;Entel;1-2
-1417759-Lte;Movistar;104-105
 1417760-Lte;Movistar;105-106
-1417765-Lte;Movistar;104-105
 14179329-Lte;Entel;12-13
 14179330-Lte;Entel;11-12
 1418783-Lte;Movistar;106-107
@@ -4744,7 +4733,6 @@ id;carrier;id_station_measure
 1577246-Gsm;Movistar;3-4
 1577246-Wcdma;Claro;3-4
 1577251-Wcdma;Claro;4-5
-1577252-Wcdma;Claro;3-4
 1577625-Wcdma;Claro;111-112-113
 1577626-Wcdma;Claro;110-111
 1577627-Wcdma;Claro;110-111
@@ -4864,7 +4852,6 @@ id;carrier;id_station_measure
 1636480-Wcdma;Claro;82-83
 1636480-Wcdma;WOM;82-83
 163841-Lte;Claro;23-24
-164097-Lte;Claro;21-22
 1647720-Wcdma;Movistar;127-128-129
 1647721-Wcdma;Movistar;128-129
 1647722-Wcdma;Movistar;127-128
@@ -4954,7 +4941,6 @@ id;carrier;id_station_measure
 1783678-Wcdma;Movistar;74-75
 1783679-Wcdma;Movistar;75-76
 1784133-Wcdma;Movistar;64-65
-1784134-Wcdma;Movistar;65-66
 1785525-Wcdma;Movistar;75-76
 1785918-Wcdma;Movistar;63-64
 1785919-Wcdma;Movistar;64-65
@@ -4971,7 +4957,6 @@ id;carrier;id_station_measure
 1787408-Wcdma;Movistar;77-78
 1787949-Wcdma;Movistar;75-76
 1788076-Wcdma;Movistar;64-65
-1788077-Wcdma;Movistar;65-66
 1791159-Wcdma;Movistar;75-76
 1791160-Wcdma;Movistar;76-77
 1791162-Wcdma;Movistar;75-76
@@ -5003,7 +4988,6 @@ id;carrier;id_station_measure
 1808797-Wcdma;Movistar;67-68
 1808800-Wcdma;Movistar;67-68
 1813423-Wcdma;Movistar;64-65-66
-1813922-Wcdma;Movistar;76-77
 1813923-Wcdma;Movistar;77-78
 1813971-Wcdma;Movistar;74-75
 1813973-Wcdma;Movistar;74-75
@@ -5105,9 +5089,7 @@ id;carrier;id_station_measure
 19412-Gsm;Movistar;12-13
 19415-Gsm;Movistar;12-13
 19416-Gsm;Movistar;11-12
-19479-Gsm;Claro;93-94
 19479-Gsm;Movistar;93-94
-19480-Gsm;Movistar;94-95
 19481-Gsm;Movistar;93-94-95
 19483-Gsm;Claro;95-96
 19483-Gsm;Movistar;95-96
@@ -5248,7 +5230,6 @@ id;carrier;id_station_measure
 217352-Lte;Claro;106-107
 22017-Gsm;Movistar;75-76
 22043-Gsm;Movistar;64-65
-22091-Gsm;Entel;1-2
 22130-Gsm;Movistar;65-66
 22259-Gsm;Movistar;67-68
 22262-Gsm;Movistar;67-68-69
@@ -5268,7 +5249,6 @@ id;carrier;id_station_measure
 2243655-Wcdma;Claro;79-80
 22483-Gsm;Movistar;68-69
 22525-Gsm;Claro;80-81
-22525-Gsm;Movistar;80-81
 22526-Gsm;Claro;80-81
 22526-Gsm;Entel;79-80-81
 22526-Gsm;Movistar;80-81
@@ -5402,7 +5382,6 @@ id;carrier;id_station_measure
 2361248-Wcdma;Claro;35-36
 2361250-Wcdma;Claro;35-36
 2361255-Wcdma;Claro;35-36
-2361637-Wcdma;Claro;17-18
 2361637-Wcdma;WOM;17-18
 2361638-Wcdma;Claro;16-17
 2361638-Wcdma;WOM;16-17
@@ -5443,7 +5422,6 @@ id;carrier;id_station_measure
 2377928-Wcdma;Claro;126-127
 2377929-Gsm;Movistar;126-127
 2377929-Wcdma;Claro;126-127
-2377933-Wcdma;Claro;126-127
 2377934-Gsm;Movistar;127-128
 2377934-Wcdma;Claro;127-128
 2377935-Wcdma;Claro;128-129
@@ -5574,7 +5552,6 @@ id;carrier;id_station_measure
 245253-Lte;Claro;77-78
 24612-Gsm;Movistar;23-24
 24616-Gsm;Movistar;23-24
-24617-Gsm;Claro;22-23
 24617-Gsm;Entel;22-23
 24617-Gsm;Movistar;22-23
 24621-Gsm;Movistar;22-23
@@ -5656,7 +5633,6 @@ id;carrier;id_station_measure
 25532-Gsm;Claro;31-32
 25532-Gsm;Entel;31-32-33
 25532-Gsm;Movistar;31-32
-25533-Gsm;Claro;32-33
 25533-Gsm;Entel;32-33
 25533-Gsm;Movistar;32-33
 25534-Gsm;Movistar;31-32
@@ -5681,13 +5657,11 @@ id;carrier;id_station_measure
 26892-Gsm;Entel;83-84
 271361-Gsm;Claro;85-86-87
 27650-Lte;Claro;36-37
-28042-Gsm;Entel;59-60
 29083-Gsm;Entel;73-74
 29122-Gsm;Entel;104-105
 29132-Gsm;Entel;61-62
 2952743-Wcdma;Movistar;22-23
 2952744-Wcdma;Movistar;21-22-23
-2952746-Wcdma;Movistar;22-23
 2952747-Wcdma;Movistar;21-22
 2952749-Wcdma;Movistar;16-17
 2952750-Wcdma;Movistar;15-16
@@ -5731,7 +5705,6 @@ id;carrier;id_station_measure
 2969077-Wcdma;Movistar;22-23
 2969079-Wcdma;Movistar;22-23
 2969082-Wcdma;Movistar;20-21-22
-2969084-Wcdma;Movistar;20-21
 2969085-Wcdma;Movistar;19-20
 2969086-Wcdma;Movistar;25-26
 2969087-Wcdma;Movistar;19-20
@@ -5935,7 +5908,6 @@ id;carrier;id_station_measure
 3096862-Wcdma;Movistar;106-107
 3096863-Wcdma;Movistar;106-107
 3097341-Wcdma;Movistar;60-61
-3097548-Wcdma;Movistar;103-104
 3097549-Wcdma;Movistar;102-103-104
 3097698-Wcdma;Movistar;104-105
 30977-Gsm;Claro;15-16-17
@@ -5943,7 +5915,6 @@ id;carrier;id_station_measure
 3097795-Wcdma;Movistar;56-57
 3097796-Wcdma;Movistar;57-58
 3097847-Wcdma;Movistar;100-101
-3097864-Wcdma;Movistar;103-104
 3097924-Wcdma;Movistar;106-107
 3097982-Wcdma;Movistar;99-100
 3097983-Wcdma;Movistar;99-100
@@ -5964,17 +5935,12 @@ id;carrier;id_station_measure
 3099660-Wcdma;Movistar;103-104-105
 3102752-Wcdma;Movistar;57-58
 3102753-Wcdma;Movistar;58-59
-3103703-Wcdma;Movistar;104-105
 3103704-Wcdma;Movistar;105-106
 3103707-Wcdma;Movistar;104-105
 3103709-Wcdma;Movistar;105-106
-3103712-Wcdma;Movistar;104-105
 3103713-Wcdma;Movistar;105-106
 3106496-Wcdma;Movistar;59-60
 3106918-Wcdma;Movistar;102-103
-3106919-Wcdma;Movistar;103-104
-3106920-Wcdma;Movistar;102-103
-3106921-Wcdma;Movistar;103-104
 3109974-Wcdma;Movistar;59-60
 3109976-Wcdma;Movistar;60-61
 3110300-Wcdma;Movistar;103-104
@@ -6157,10 +6123,8 @@ id;carrier;id_station_measure
 3182852-Lte;Entel;58-59
 3182854-Lte;Entel;58-59
 3206510-Wcdma;Movistar;24-25-26
-3206511-Wcdma;Movistar;24-25
 3206512-Wcdma;Movistar;24-25
 3206513-Wcdma;Movistar;24-25-26
-3206514-Wcdma;Movistar;24-25
 3206515-Wcdma;Movistar;25-26-27
 3206516-Wcdma;Movistar;26-27
 3206517-Wcdma;Movistar;25-26
@@ -7322,7 +7286,6 @@ id;carrier;id_station_measure
 476686-Lte;Claro;125-126-127
 476687-Lte;Claro;126-127
 476689-Lte;Claro;128-129
-476690-Lte;Claro;127-128
 477191-Lte;Claro;128-129
 477192-Lte;Claro;129-130
 477193-Lte;Claro;129-130
@@ -7333,7 +7296,6 @@ id;carrier;id_station_measure
 477197-Lte;Claro;132-133
 477703-Lte;Claro;132-133
 477705-Lte;Claro;133-134
-477706-Lte;Claro;134-135
 477707-Lte;Claro;135-136
 477708-Gsm;Claro;135-136
 477709-Lte;Claro;135-136
@@ -7520,7 +7482,6 @@ id;carrier;id_station_measure
 60284-Gsm;Claro;2-3-4
 60284-Gsm;Entel;2-3
 60284-Gsm;WOM;2-3-4
-60324-Gsm;Entel;15-16
 60419-Lte;Claro;18-19
 60424-Gsm;Claro;40-41-42
 60424-Gsm;WOM;40-41
@@ -7530,7 +7491,6 @@ id;carrier;id_station_measure
 60675-Lte;Claro;19-20
 610-Gsm;Claro;16-17
 610-Gsm;Entel;16-17
-620-Gsm;Entel;17-18
 6269441-Lte;Entel;24-25
 6269442-Lte;Entel;25-26
 6269443-Lte;Entel;24-25
@@ -7740,7 +7700,6 @@ id;carrier;id_station_measure
 8514-Gsm;Claro;66-67
 8514-Gsm;Movistar;66-67
 8515-Gsm;Movistar;67-68
-8516-Gsm;Movistar;67-68
 8604-Gsm;Movistar;64-65
 8621-Gsm;Movistar;103-104
 8622-Gsm;Movistar;104-105
@@ -7754,7 +7713,6 @@ id;carrier;id_station_measure
 86583116-Wcdma;Entel;24-25-26
 86617957-Wcdma;Entel;24-25
 86617958-Wcdma;Entel;23-24-25
-86617959-Wcdma;Entel;22-23
 86617960-Wcdma;Entel;24-25
 86617961-Wcdma;Entel;23-24
 86617962-Wcdma;Entel;22-23-24
@@ -7847,7 +7805,6 @@ id;carrier;id_station_measure
 86710322-Wcdma;Entel;36-37
 86714438-Wcdma;Entel;10-11
 86714448-Wcdma;Entel;10-11
-86714458-Wcdma;Entel;8-9
 86714468-Wcdma;Entel;10-11
 86714478-Wcdma;Entel;9-10
 86714488-Wcdma;Entel;9-10
@@ -7900,7 +7857,6 @@ id;carrier;id_station_measure
 86743178-Wcdma;Entel;129-130
 86743218-Wcdma;Entel;129-130
 86743278-Wcdma;Entel;130-131-132
-86743318-Wcdma;Entel;130-131
 86757999-Wcdma;Entel;7-8-9
 86758002-Wcdma;Entel;7-8
 86758469-Wcdma;Entel;33-34-35
@@ -7982,7 +7938,6 @@ id;carrier;id_station_measure
 86838381-Wcdma;Entel;99-100
 86838610-Wcdma;Entel;48-49
 86838620-Wcdma;Entel;47-48
-86838630-Wcdma;Entel;48-49
 86838650-Wcdma;Entel;47-48-49
 86838660-Wcdma;Entel;48-49
 86838811-Wcdma;Entel;99-100
@@ -8182,7 +8137,6 @@ id;carrier;id_station_measure
 86969512-Wcdma;Entel;107-108
 86969582-Wcdma;Entel;62-63
 86969592-Wcdma;Entel;61-62
-86969603-Wcdma;Entel;69-70
 86969604-Wcdma;Entel;70-71
 86969606-Wcdma;Entel;69-70
 86969607-Wcdma;Entel;70-71
@@ -8260,7 +8214,6 @@ id;carrier;id_station_measure
 86990374-Wcdma;Entel;67-68
 86990377-Wcdma;Entel;67-68
 86990446-Wcdma;Entel;70-71
-86990603-Wcdma;Entel;58-59
 86990604-Wcdma;Entel;59-60
 86990605-Wcdma;Entel;58-59
 86990606-Wcdma;Entel;58-59
