@@ -393,6 +393,33 @@ void FuenteDatos::leeRedDeParadas()
 		}
 		else if (atoi(cur[0].c_str()) >= 1 && atoi(cur[0].c_str()) <= 199)
 		{
+			nombre = std::regex_replace(nombre, regex(" (L2-L5)"), "");
+			nombre = std::regex_replace(nombre, regex(" (L1-L5)"), "");
+			nombre = std::regex_replace(nombre, regex(" (L2-L3)"), "");
+			nombre = std::regex_replace(nombre, regex(" (L3-L1)"), "");
+			nombre = std::regex_replace(nombre, regex(" (L4-L3)"), "");
+
+			nombre = std::regex_replace(nombre, regex("(L2-L6)"), "");
+			nombre = std::regex_replace(nombre, regex(" (L5-L3)"), "");
+			nombre = std::regex_replace(nombre, regex(" (L1-L5)"), "");
+			nombre = std::regex_replace(nombre, regex(" (L1-L4)"), "");
+
+			nombre = std::regex_replace(nombre, regex(" (L4-L5)"), "");
+			nombre = std::regex_replace(nombre, regex(" (L4-L4A)"), "");
+			nombre = std::regex_replace(nombre, regex(" (L3-L6)"), "");
+
+			nombre = std::regex_replace(nombre, regex(" L5"), "");
+
+			
+			string tmp = string("");
+			for (int i = 0; i < nombre.size(); i++)
+			{
+				if (nombre.at(i) == '(')
+					break;
+
+				tmp.push_back(nombre.at(i));
+			}
+			nombre = tmp;
 			mode = "1";
 		}
 		else if (atoi(cur[0].c_str()) >= 200 && atoi(cur[0].c_str()) <= 299)
@@ -407,7 +434,7 @@ void FuenteDatos::leeRedDeParadas()
 		//Quitar el punto de la palabra "Esq." y que la "E" sea minúscula.Resultado: "Esq." -> "esq"
 		//Quitar "@"
 
-		Paradero par = Paradero(atof(cur[3].c_str()), atof(cur[4].c_str()),(int)x, (int)y, cur[0], cur[2]);
+		Paradero par = Paradero(atof(cur[3].c_str()), atof(cur[4].c_str()),(int)x, (int)y, cur[0], nombre);
 		par.mode = mode;
 
 		redParaderos.red[par.codigo] = par;
@@ -498,6 +525,7 @@ void FuenteDatos::leePuntosDeCargaBip()
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 
 }
+
 void FuenteDatos::CorrigeParadasMismaPosicion()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
