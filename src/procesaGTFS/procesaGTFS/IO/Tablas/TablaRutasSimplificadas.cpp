@@ -34,7 +34,6 @@ void TablaRutasSimplificadas::Crear()
 	///Impresion de la tabla
 	ofstream fileout;
 	fileout.open(string(fdd_->parametros->carpetaOutput + "\\" + fdd_->parametros->version + "\\" + "PhoneRoutes.csv").c_str());
-	//fileout.open("Android_routes" + fdd_->parametros->version + ".csv");
 	fileout << "id;";
 	fileout << "latitud;";
 	fileout << "longitud;";
@@ -46,91 +45,19 @@ void TablaRutasSimplificadas::Crear()
 	map<string, string>::iterator iDicServ;
 	for (map<string, Ruta>::iterator iruta = fdd_->rutas.mapeo->begin(); iruta != fdd_->rutas.mapeo->end(); iruta++)
 	{
-		//iDicServ = fdd_->dicSS.servicios.find((*iruta).first);
-
-		//if (iDicServ == fdd_->dicSS.servicios.end())
-//			continue;
-/*
-		string id_route_metro="-";
-		vector<string> id_route = StringFunctions::Explode((*iruta).first,'-');
-		if ((int)id_route.size() == 2)
+		for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
 		{
-			///me quedo solo con sentidos Ida
-			if (id_route.at(1).compare("I") == 0)
-			{
-				id_route_metro = id_route.at(0);
+			double lat, lon;
+			ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
 
-				if (id_route_metro.at(0) == 'L')
-				{
-					///elimino las version rojo-verde
-					if (id_route_metro.back() == 'R' || id_route_metro.back() == 'V')
-					{
-						continue;
-					}
-					else
-					{
-						for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
-						{
-							double lat, lon;
+			string strlat = StringFunctions::Double2String(lat, 10);
+			string strlon = StringFunctions::Double2String(lon, 10);
 
-							ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
-
-							string strlat = StringFunctions::Double2String(lat, 10);
-							string strlon = StringFunctions::Double2String(lon, 10);
-
-							fileout << 1 << ";";
-							fileout << id_route_metro << ";";
-							fileout << strlat << ";";
-							fileout << strlon << ";";
-							fileout << (*inodo).first << endl;
-						}
-					}
-				}
-				else if (id_route_metro.at(0) == 'M')
-				{
-					for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
-					{
-						double lat, lon;
-
-						ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
-
-						string strlat = StringFunctions::Double2String(lat, 10);
-						string strlon = StringFunctions::Double2String(lon, 10);
-
-						fileout << 0 << ";";
-						fileout << id_route_metro << ";";
-						fileout << strlat << ";";
-						fileout << strlon << ";";
-						fileout << (*inodo).first << endl;
-					}
-				}
-			}
-			map<string, Servicio>::iterator iserv = fdd_->servicios.find(id_route_metro);
+			fileout << (*iruta).first << ";";
+			fileout << strlat << ";";
+			fileout << strlon << ";";
+			fileout << (*inodo).first << endl;
 		}
-		else
-		{
-*/
-			for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
-			{
-				double lat, lon;
-
-				ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
-
-				string strlat = StringFunctions::Double2String(lat, 10);
-				string strlon = StringFunctions::Double2String(lon, 10);
-
-//				if ((*iruta).first.at(0) == 'L')
-//					fileout << 1 << ";";
-//				else if ((*iruta).first.at(0) == 'M')
-//					fileout << 0 << ";";
-//				else
-//					fileout << 3 << ";";
-				fileout << (*iruta).first << ";";
-				fileout << strlat << ";";
-				fileout << strlon << ";";
-				fileout << (*inodo).first << endl;
-			}
-//		}
 	}
 
 	fileout.close();
