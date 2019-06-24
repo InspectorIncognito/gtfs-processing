@@ -238,12 +238,14 @@ void FuenteDatos::leeRutas()
 
 
 		///Generacion del codigo servicio-sentido concatenando las 3 columnas servicio-sentido-variante
-		vector<string> cod = StringFunctions::Explode(cur[0],'_');
+		//vector<string> cod = StringFunctions::Explode(cur[0],'_');
 
-		if (cod.size() != 2)
-			continue;
+		//if (cod.size() != 2)
+		//	continue;
 
-		string servicio = cod.at(0);
+		//string servicio = cod.at(0);
+		string servicio = cur[0];
+		
 
 		if(servicio.at(0)=='L' || servicio.at(0) == 'M')
 			servicio.erase(std::remove(servicio.begin(), servicio.end(), '-'), servicio.end());
@@ -649,8 +651,8 @@ void FuenteDatos::leeSecuenciaDeParadas()
 			continue;
 
 		///Generacion del codigo servicio-sentido concatenando las 3 columnas servicio-sentido-variante
-		vector<string> cod = StringFunctions::Explode(cur[0], '_');
-		vector<string> cod_serv = StringFunctions::Explode(cod[0], '-');
+		//vector<string> cod = StringFunctions::Explode(cur[0], '_');
+		vector<string> cod_serv = StringFunctions::Explode(cur[0], '-');
 		
 		string servicio = string(cod_serv[0] + cod_serv[1]);
 
@@ -871,9 +873,9 @@ void FuenteDatos::readStopTimes()
 			continue;
 
 		///Generacion del codigo servicio-sentido concatenando las 3 columnas servicio-sentido-variante
-		vector<string> cod = StringFunctions::Explode(cur[0], '_');
-		vector<string> cod_serv = StringFunctions::Explode(cod[0], '-');
-		vector<string> horario = StringFunctions::Explode(cod[1], '-');
+		//vector<string> cod = StringFunctions::Explode(cur[0], '_');
+		vector<string> cod_serv = StringFunctions::Explode(cur[0], '-');
+		//vector<string> horario = StringFunctions::Explode(cod[1], '-');
 
 		//string sec = string(cod_serv[0] + "-" + cod_serv[1] + "-" + horario[1]);
 		string trip_id = cur[0];
@@ -885,8 +887,8 @@ void FuenteDatos::readStopTimes()
 			tmp[atoi(cur[4].c_str())] = cur[3];
 
 			Secuencia secu;
-			secu.codigo = cod[0];
-			secu.version = cod[1];
+			secu.codigo = string(cod_serv[0]+"-"+ cod_serv[1]+"-"+ cod_serv[2]);
+			secu.version = string(cod_serv[3]);
 			secu.paradas = tmp;
 
 			ifrec = frecuencias.find(trip_id);

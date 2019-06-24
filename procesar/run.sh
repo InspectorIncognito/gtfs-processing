@@ -1,6 +1,6 @@
 #!/bin/bash
 
-version=v3.0
+version=v3.1
 
 mkdir ../output/$version ;
 

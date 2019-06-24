@@ -1,0 +1,409 @@
+Codigo;Abreviacion;Nombre;Linea;Dias;Apertura Estacion;Apertura Boletaria;Cierre boleteria;Cierre Estacion;Destino 1;Primer Tren D1;Ultimo tren D1;Destino 2;Primer Tren D2;Ultimo tren D2;Expreso
+91;SO;San Pablo;L1;Lunes a Viernes;5:35;6:00;23:00;23:35;San Pablo;;;Los Dominicos;5:36;23:05;
+60;NP;Neptuno;L1;Lunes a Viernes;5:35;6:00;23:00;23:35;San Pablo;5:44;23:46;Los Dominicos;5:37;23:06;
+67;PJ;Pajaritos;L1;Lunes a Viernes;5:35;6:00;23:00;23:35;San Pablo;5:42;23:44;Los Dominicos;5:36;23:07;
+50;LR;Las Rejas;L1;Lunes a Viernes;5:35;6:00;23:00;23:32;San Pablo;5:40;23:42;Los Dominicos;5:37;23:09;
+23;EC;Ecuador;L1;Lunes a Viernes;5:35;6:00;23:00;23:25;San Pablo;5:39;23:41;Los Dominicos;5:36;23:10;
+2;AH;San Alberto Hurtado;L1;Lunes a Viernes;5:35;6:00;23:00;23:30;San Pablo;5:38;23:39;Los Dominicos;5:37;23:12;
+97;US;Universidad de Santiago;L1;Lunes a Viernes;5:35;6:00;23:00;23:28;San Pablo;5:37;23:38;Los Dominicos;5:35;23:13;
+26;EL;Estación Central;L1;Lunes a Viernes;5:35;6:00;23:00;23:27;San Pablo;5:35;23:37;Los Dominicos;5:37;23:14;
+38;LA;Unión Latinoamericana;L1;Lunes a Viernes;5:40;6:00;23:00;23:25;San Pablo;5:40;23:35;Los Dominicos;5:41;23:15;
+83;RP;República;L1;Lunes a Viernes;5:40;6:00;23:00;23:25;San Pablo;5:44;23:34;Los Dominicos;5:42;23:17;
+44;LH;Los Héroes;L1;Lunes a Viernes;5:40;6:00;23:00;23:22;San Pablo;5:43;23:33;Los Dominicos;5:41;23:18;
+46;LM;La Moneda;L1;Lunes a Viernes;5:40;6:00;23:00;23:20;San Pablo;5:41;23:31;Los Dominicos;5:42;23:19;
+15;CH;Universidad de Chile;L1;Lunes a Viernes;5:40;6:00;23:00;23:20;San Pablo;5:40;23:30;Los Dominicos;5:40;23:20;
+89;SL;Santa Lucía;L1;Lunes a Viernes;5:40;6:00;23:00;23:20;San Pablo;5:45;23:29;Los Dominicos;5:42;23:22;
+96;UC;Universidad Católica;L1;Lunes a Viernes;5:40;6:00;23:00;23:20;San Pablo;5:43;23:27;Los Dominicos;5:40;23:23;
+6;BA;Baquedano;L1;Lunes a Viernes;5:45;6:00;23:00;23:22;San Pablo;5:47;23:26;Los Dominicos;5:45;23:24;
+85;SA;Salvador;L1;Lunes a Viernes;5:45;6:00;23:00;23:25;San Pablo;5:46;23:25;Los Dominicos;5:46;23:26;
+57;MM;Manuel Montt;L1;Lunes a Viernes;5:45;6:00;23:00;23:25;San Pablo;5:49;23:23;Los Dominicos;5:45;23:27;
+74;PV;Pedro de Valdivia;L1;Lunes a Viernes;5:45;6:00;23:00;23:25;San Pablo;5:48;23:22;Los Dominicos;5:46;23:28;
+41;LEN;Los Leones;L1;Lunes a Viernes;5:50;6:00;23:00;23:28;San Pablo;5:52;23:20;Los Dominicos;5:51;23:30;
+93;TB;Tobalaba;L1;Lunes a Viernes;5:50;6:00;23:00;23:30;San Pablo;5:50;23:19;Los Dominicos;5:52;23:31;
+32;GO;El Golf;L1;Lunes a Viernes;5:50;6:00;23:00;23:30;San Pablo;5:52;23:17;Los Dominicos;5:51;23:32;
+3;AL;Alcántara;L1;Lunes a Viernes;5:50;6:00;23:00;23:30;San Pablo;5:51;23:16;Los Dominicos;5:52;23:34;
+27;EM;Escuela Militar;L1;Lunes a Viernes;5:50;6:00;23:00;23:35;San Pablo;5:52;23:15;Los Dominicos;5:51;23:35;
+58;MQ;Manquehue;L1;Lunes a Viernes;5:50;6:00;23:00;23:35;San Pablo;5:50;23:13;Los Dominicos;5:50;23:37;
+33;HM;Hernando de Magallanes;L1;Lunes a Viernes;5:50;6:00;23:00;23:35;San Pablo;5:52;23:11;Los Dominicos;5:52;23:39;
+40;LD;Los Dominicos;L1;Lunes a Viernes;5:50;6:00;23:00;23:40;San Pablo;5:50;23:10;Los Dominicos;;;
+91;SO;San Pablo;L1;Sábado;6:30;6:30;23:00;23:45;San Pablo;;;Los Dominicos;6:33;23:05;
+60;NP;Neptuno;L1;Sábado;6:30;6:30;23:00;23:45;San Pablo;6:43;23:51;Los Dominicos;6:31;23:06;
+67;PJ;Pajaritos;L1;Sábado;6:30;6:30;23:00;23:40;San Pablo;6:41;23:49;Los Dominicos;6:32;23:07;
+50;LR;Las Rejas;L1;Sábado;6:30;6:30;23:00;23:40;San Pablo;6:39;23:48;Los Dominicos;6:30;23:09;
+23;EC;Ecuador;L1;Sábado;6:30;6:30;23:00;23:40;San Pablo;6:38;23:47;Los Dominicos;6:31;23:10;
+2;AH;San Alberto Hurtado;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:37;23:45;Los Dominicos;6:33;23:12;
+97;US;Universidad de Santiago;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:36;23:44;Los Dominicos;6:30;23:13;
+26;EL;Estación Central;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:34;23:43;Los Dominicos;6:32;23:14;
+38;LA;Unión Latinoamericana;L1;Sábado;6:30;6:30;23:00;23:30;San Pablo;6:33;23:41;Los Dominicos;6:33;23:15;
+83;RP;República;L1;Sábado;6:30;6:30;23:00;23:30;San Pablo;6:32;23:40;Los Dominicos;6:30;23:17;
+44;LH;Los Héroes;L1;Sábado;6:30;6:30;23:00;23:30;San Pablo;6:30;23:39;Los Dominicos;6:31;23:18;
+46;LM;La Moneda;L1;Sábado;6:30;6:30;23:00;23:30;San Pablo;6:36;23:37;Los Dominicos;6:33;23:19;
+15;CH;Universidad de Chile;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:35;23:36;Los Dominicos;6:34;23:21;
+89;SL;Santa Lucía;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:33;23:35;Los Dominicos;6:35;23:22;
+96;UC;Universidad Católica;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:32;23:34;Los Dominicos;6:30;23:23;
+6;BA;Baquedano;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:31;23:33;Los Dominicos;6:32;23:24;
+85;SA;Salvador;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:36;23:31;Los Dominicos;6:33;23:26;
+57;MM;Manuel Montt;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:35;23:29;Los Dominicos;6:35;23:27;
+74;PV;Pedro de Valdivia;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:34;23:28;Los Dominicos;6:30;23:29;
+41;LEN;Los Leones;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:32;23:27;Los Dominicos;6:31;23:30;
+93;TB;Tobalaba;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:31;23:25;Los Dominicos;6:33;23:31;
+32;GO;El Golf;L1;Sábado;6:30;6:30;23:00;23:25;San Pablo;6:30;23:24;Los Dominicos;6:34;23:33;
+3;AL;Alcántara;L1;Sábado;6:30;6:30;23:00;23:30;San Pablo;6:35;23:23;Los Dominicos;6:35;23:34;
+27;EM;Escuela Militar;L1;Sábado;6:30;6:30;23:00;23:30;San Pablo;6:34;23:22;Los Dominicos;6:31;23:35;
+58;MQ;Manquehue;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:32;23:20;Los Dominicos;6:33;23:37;
+33;HM;Hernando de Magallanes;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:30;23:18;Los Dominicos;6:34;23:39;
+40;LD;Los Dominicos;L1;Sábado;6:30;6:30;23:00;23:35;San Pablo;6:35;23:16;Los Dominicos;;;
+91;SO;San Pablo;L1;Domingo;8:00;8:00;22:30;23:23;San Pablo;;;Los Dominicos;8:04;22:46;
+60;NP;Neptuno;L1;Domingo;8:00;8:00;22:30;23:21;San Pablo;8:08;23:32;Los Dominicos;8:05;22:47;
+67;PJ;Pajaritos;L1;Domingo;8:00;8:00;22:30;23:19;San Pablo;8:06;23:30;Los Dominicos;8:01;22:49;
+50;LR;Las Rejas;L1;Domingo;8:00;8:00;22:30;23:18;San Pablo;8:05;23:29;Los Dominicos;8:02;22:50;
+23;EC;Ecuador;L1;Domingo;8:00;8:00;22:30;23:17;San Pablo;8:03;23:28;Los Dominicos;8:03;22:51;
+2;AH;San Alberto Hurtado;L1;Domingo;8:00;8:00;22:30;23:15;San Pablo;8:02;23:26;Los Dominicos;8:05;22:53;
+97;US;Universidad de Santiago;L1;Domingo;8:00;8:00;22:30;23:14;San Pablo;8:01;23:25;Los Dominicos;8:00;22:54;
+26;EL;Estación Central;L1;Domingo;8:00;8:00;22:30;23:13;San Pablo;8:06;23:24;Los Dominicos;8:01;22:55;
+38;LA;Unión Latinoamericana;L1;Domingo;8:00;8:00;22:30;23:12;San Pablo;8:04;23:22;Los Dominicos;8:02;22:56;
+83;RP;República;L1;Domingo;8:00;8:00;22:30;23:10;San Pablo;8:03;23:21;Los Dominicos;8:04;22:58;
+44;LH;Los Héroes;L1;Domingo;8:00;8:00;22:30;23:09;San Pablo;8:02;23:20;Los Dominicos;8:05;22:59;
+46;LM;La Moneda;L1;Domingo;8:00;8:00;22:30;23:08;San Pablo;8:01;23:19;Los Dominicos;8:00;23:00;
+15;CH;Universidad de Chile;L1;Domingo;8:00;8:00;22:30;23:06;San Pablo;8:06;23:18;Los Dominicos;8:02;23:02;
+89;SL;Santa Lucía;L1;Domingo;8:00;8:00;22:30;23:05;San Pablo;8:04;23:16;Los Dominicos;8:03;23:03;
+96;UC;Universidad Católica;L1;Domingo;8:00;8:00;22:30;23:05;San Pablo;8:03;23:15;Los Dominicos;8:04;23:04;
+6;BA;Baquedano;L1;Domingo;8:00;8:00;22:30;23:03;San Pablo;8:02;23:14;Los Dominicos;8:05;23:05;
+85;SA;Salvador;L1;Domingo;8:00;8:00;22:30;23:05;San Pablo;8:00;23:12;Los Dominicos;8:01;23:07;
+57;MM;Manuel Montt;L1;Domingo;8:00;8:00;22:30;23:00;San Pablo;8:05;23:11;Los Dominicos;8:02;23:08;
+74;PV;Pedro de Valdivia;L1;Domingo;8:00;8:00;22:30;23:06;San Pablo;8:04;23:10;Los Dominicos;8:04;23:10;
+41;LEN;Los Leones;L1;Domingo;8:00;8:00;22:30;23:05;San Pablo;8:02;23:08;Los Dominicos;8:05;23:11;
+93;TB;Tobalaba;L1;Domingo;8:00;8:00;22:30;23:04;San Pablo;8:01;23:07;Los Dominicos;8:00;23:12;
+32;GO;El Golf;L1;Domingo;8:00;8:00;22:30;23:05;San Pablo;8:00;23:06;Los Dominicos;8:02;23:14;
+3;AL;Alcántara;L1;Domingo;8:00;8:00;22:30;23:07;San Pablo;8:04;23:04;Los Dominicos;8:03;23:15;
+27;EM;Escuela Militar;L1;Domingo;8:00;8:00;22:30;23:08;San Pablo;8:03;23:03;Los Dominicos;8:04;23:16;
+58;MQ;Manquehue;L1;Domingo;8:00;8:00;22:30;23:10;San Pablo;8:01;23:01;Los Dominicos;8:00;23:18;
+33;HM;Hernando de Magallanes;L1;Domingo;8:00;8:00;22:30;23:12;San Pablo;8:05;22:59;Los Dominicos;8:02;23:20;
+40;LD;Los Dominicos;L1;Domingo;8:00;8:00;22:30;23:14;San Pablo;8:04;22:58;Los Dominicos;;;
+39;LC;La Cisterna;L2;Lunes a Viernes;5:40;6:00;23:00;23:33;La Cisterna;;;Vespucio Norte;5:41;23:05;VERDE/ROJA
+28;EP;El Parrón;L2;Lunes a Viernes;5:40;6:00;23:00;23:31;La Cisterna;5:57;23:36;Vespucio Norte;5:43;23:06;VERDE
+47;LO;Lo Ovalle;L2;Lunes a Viernes;5:40;6:00;23:00;23:29;La Cisterna;5:55;23:34;Vespucio Norte;5:41;23:08;VERDE/ROJA
+16;CN;Ciudad del Niño;L2;Lunes a Viernes;5:40;6:00;23:00;23:28;La Cisterna;5:53;23:33;Vespucio Norte;5:42;23:09;ROJA
+19;DE;Departamental;L2;Lunes a Viernes;5:45;6:00;23:00;23:26;La Cisterna;5:52;23:31;Vespucio Norte;5:47;23:11;VERDE
+53;LV;Lo Vial;L2;Lunes a Viernes;5:45;6:00;23:00;23:25;La Cisterna;5:51;23:30;Vespucio Norte;5:45;23:12;ROJA
+90;SM;San Miguel;L2;Lunes a Viernes;5:45;6:00;23:00;23:24;La Cisterna;5:49;23:28;Vespucio Norte;5:46;23:13;VERDE
+45;LN;El Llano;L2;Lunes a Viernes;5:45;6:00;23:00;23:23;La Cisterna;5:48;23:27;Vespucio Norte;5:48;23:15;ROJA
+29;FRA;Franklin;L2;Lunes a Viernes;5:50;6:00;23:00;23:21;La Cisterna;5:52;23:26;Vespucio Norte;5:53;23:16;VERDE/ROJA
+82;RO;Rondizzoni;L2;Lunes a Viernes;5:50;6:00;23:00;23:20;La Cisterna;5:51;23:24;Vespucio Norte;5:51;23:18;VERDE
+70;PQ;Parque O`Higgins;L2;Lunes a Viernes;5:50;6:00;23:00;23:18;La Cisterna;5:55;23:22;Vespucio Norte;5:52;23:19;ROJA
+94;TO;Toesca;L2;Lunes a Viernes;5:55;6:00;23:00;23:17;La Cisterna;5:58;23:21;Vespucio Norte;5:58;23:21;VERDE
+44;LH;Los Héroes;L2;Lunes a Viernes;5:55;6:00;23:00;23:17;La Cisterna;5:57;23:19;Vespucio Norte;5:56;23:23;VERDE/ROJA
+4;AN;Santa Ana;L2;Lunes a Viernes;5:55;6:00;23:00;23:19;La Cisterna;5:55;23:18;Vespucio Norte;5:57;23:24;VERDE/ROJA
+12;CA;Puente Cal y canto;L2;Lunes a Viernes;6:00;6:00;23:00;23:22;La Cisterna;6:03;23:15;Vespucio Norte;6:00;23:26;VERDE/ROJA
+72;PT;Patronato;L2;Lunes a Viernes;6:00;6:00;23:00;23:23;La Cisterna;6:01;23:14;Vespucio Norte;6:01;23:28;ROJA
+13;CB;Cerro Blanco;L2;Lunes a Viernes;6:00;6:00;23:00;23:24;La Cisterna;6:00;23:12;Vespucio Norte;6:02;23:29;VERDE
+14;CE;Cementerios;L2;Lunes a Viernes;6:00;6:00;23:00;23:26;La Cisterna;6:03;23:11;Vespucio Norte;6:00;23:31;ROJA
+25;EI;Einstein;L2;Lunes a Viernes;6:00;6:00;23:00;23:27;La Cisterna;6:02;23:09;Vespucio Norte;6:02;23:32;VERDE
+20;DO;Dorsal;L2;Lunes a Viernes;6:00;6:00;23:00;23:29;La Cisterna;6:00;23:08;Vespucio Norte;6:00;23:34;ROJA
+100;ZA;Zapadores;L2;Lunes a Viernes;6:00;6:00;23:00;23:30;La Cisterna;6:04;23:06;Vespucio Norte;6:01;23:35;VERDE/ROJA
+5;AV;Vespucio Norte;L2;Lunes a Viernes;6:00;6:00;23:00;23:33;La Cisterna;6:02;23:05;Vespucio Norte;;;VERDE/ROJA
+39;LC;La Cisterna;L2;Sábado;6:30;6:30;23:00;23:33;La Cisterna;;;Vespucio Norte;6:35;23:05;VERDE/ROJA
+28;EP;El Parrón;L2;Sábado;6:30;6:30;23:00;23:31;La Cisterna;6:45;23:36;Vespucio Norte;6:30;23:07;VERDE
+47;LO;Lo Ovalle;L2;Sábado;6:30;6:30;23:00;23:29;La Cisterna;6:43;23:34;Vespucio Norte;6:31;23:08;VERDE/ROJA
+16;CN;Ciudad del Niño;L2;Sábado;6:30;6:30;23:00;23:28;La Cisterna;6:42;23:33;Vespucio Norte;6:33;23:10;ROJA
+19;DE;Departamental;L2;Sábado;6:30;6:30;23:00;23:26;La Cisterna;6:40;23:31;Vespucio Norte;6:34;23:11;VERDE
+53;LV;Lo Vial;L2;Sábado;6:30;6:30;23:00;23:25;La Cisterna;6:39;23:30;Vespucio Norte;6:36;23:12;ROJA
+90;SM;San Miguel;L2;Sábado;6:30;6:30;23:00;23:24;La Cisterna;6:37;23:29;Vespucio Norte;6:30;23:14;VERDE
+45;LN;El Llano;L2;Sábado;6:30;6:30;23:00;23:22;La Cisterna;6:36;23:27;Vespucio Norte;6:31;23:15;ROJA
+29;FRA;Franklin;L2;Sábado;6:30;6:30;23:00;23:21;La Cisterna;6:35;23:26;Vespucio Norte;6:32;23:16;VERDE/ROJA
+82;RO;Rondizzoni;L2;Sábado;6:30;6:30;23:00;23:19;La Cisterna;6:33;23:24;Vespucio Norte;6:34;23:18;VERDE
+70;PQ;Parque O`Higgins;L2;Sábado;6:30;6:30;23:00;23:18;La Cisterna;6:31;23:23;Vespucio Norte;6:36;23:20;ROJA
+94;TO;Toesca;L2;Sábado;6:30;6:30;23:00;23:16;La Cisterna;6:30;23:21;Vespucio Norte;6:30;23:21;VERDE
+44;LH;Los Héroes;L2;Sábado;6:30;6:30;23:00;23:18;La Cisterna;6:36;23:19;Vespucio Norte;6:32;23:23;VERDE/ROJA
+4;AN;Santa Ana;L2;Sábado;6:30;6:30;23:00;23:20;La Cisterna;6:34;23:18;Vespucio Norte;6:33;23:25;VERDE/ROJA
+12;CA;Puente Cal y canto;L2;Sábado;6:30;6:30;23:00;23:22;La Cisterna;6:32;23:16;Vespucio Norte;6:35;23:27;VERDE/ROJA
+72;PT;Patronato;L2;Sábado;6:30;6:30;23:00;23:23;La Cisterna;6:30;23:14;Vespucio Norte;6:37;23:28;ROJA
+13;CB;Cerro Blanco;L2;Sábado;6:30;6:30;23:00;23:25;La Cisterna;6:36;23:13;Vespucio Norte;6:31;23:30;VERDE
+14;CE;Cementerios;L2;Sábado;6:30;6:30;23:00;23:26;La Cisterna;6:35;23:11;Vespucio Norte;6:32;23:31;ROJA
+25;EI;Einstein;L2;Sábado;6:30;6:30;23:00;23:28;La Cisterna;6:33;23:10;Vespucio Norte;6:34;23:33;VERDE
+20;DO;Dorsal;L2;Sábado;6:30;6:30;23:00;23:29;La Cisterna;6:32;23:08;Vespucio Norte;6:35;23:34;ROJA
+100;ZA;Zapadores;L2;Sábado;6:30;6:30;23:00;23:31;La Cisterna;6:31;23:07;Vespucio Norte;6:36;23:36;VERDE/ROJA
+5;AV;Vespucio Norte;L2;Sábado;6:30;6:30;23:00;23:33;La Cisterna;6:36;23:05;Vespucio Norte;;;VERDE/ROJA
+39;LC;La Cisterna;L2;Domingo;8:00;8:00;22:30;23:19;La Cisterna;;;Vespucio Norte;8:04;22:48;VERDE/ROJA
+28;EP;El Parrón;L2;Domingo;8:00;8:00;22:30;23:17;La Cisterna;8:07;23:21;Vespucio Norte;8:06;22:49;VERDE
+47;LO;Lo Ovalle;L2;Domingo;8:00;8:00;22:30;23:15;La Cisterna;8:06;23:20;Vespucio Norte;8:00;22:51;VERDE/ROJA
+16;CN;Ciudad del Niño;L2;Domingo;8:00;8:00;22:30;23:14;La Cisterna;8:04;23:18;Vespucio Norte;8:01;22:52;ROJA
+19;DE;Departamental;L2;Domingo;8:00;8:00;22:30;23:12;La Cisterna;8:03;23:17;Vespucio Norte;8:03;22:54;VERDE
+53;LV;Lo Vial;L2;Domingo;8:00;8:00;22:30;23:11;La Cisterna;8:01;23:16;Vespucio Norte;8:04;22:55;ROJA
+90;SM;San Miguel;L2;Domingo;8:00;8:00;22:30;23:10;La Cisterna;8:00;23:14;Vespucio Norte;8:05;22:56;VERDE
+45;LN;El Llano;L2;Domingo;8:00;8:00;22:30;23:08;La Cisterna;8:07;23:13;Vespucio Norte;8:06;22:58;ROJA
+29;FRA;Franklin;L2;Domingo;8:00;8:00;22:30;23:07;La Cisterna;8:06;23:12;Vespucio Norte;8:08;22:59;VERDE/ROJA
+82;RO;Rondizzoni;L2;Domingo;8:00;8:00;22:30;23:05;La Cisterna;8:04;23:10;Vespucio Norte;8:01;23:01;VERDE
+70;PQ;Parque O`Higgins;L2;Domingo;8:00;8:00;22:30;23:04;La Cisterna;8:02;23:08;Vespucio Norte;8:02;23:02;ROJA
+94;TO;Toesca;L2;Domingo;8:00;8:00;22:30;23:04;La Cisterna;8:01;23:07;Vespucio Norte;8:04;23:04;VERDE
+44;LH;Los Héroes;L2;Domingo;8:00;8:00;22:30;23:05;La Cisterna;8:08;23:05;Vespucio Norte;8:06;23:06;VERDE/ROJA
+4;AN;Santa Ana;L2;Domingo;8:00;8:00;22:30;23:02;La Cisterna;8:06;23:03;Vespucio Norte;8:07;23:07;VERDE/ROJA
+12;CA;Puente Cal y canto;L2;Domingo;8:00;8:00;22:30;23:05;La Cisterna;8:04;23:01;Vespucio Norte;8:10;23:10;VERDE/ROJA
+72;PT;Patronato;L2;Domingo;8:00;8:00;22:30;23:06;La Cisterna;8:02;23:00;Vespucio Norte;8:11;23:11;ROJA
+13;CB;Cerro Blanco;L2;Domingo;8:00;8:00;22:30;23:08;La Cisterna;8:01;22:58;Vespucio Norte;8:12;23:12;VERDE
+14;CE;Cementerios;L2;Domingo;8:00;8:00;22:30;23:09;La Cisterna;8:08;22:57;Vespucio Norte;8:14;23:14;ROJA
+25;EI;Einstein;L2;Domingo;8:00;8:00;22:30;23:11;La Cisterna;8:06;22:55;Vespucio Norte;8:15;23:15;VERDE
+20;DO;Dorsal;L2;Domingo;8:00;8:00;22:30;23:12;La Cisterna;8:05;22:54;Vespucio Norte;8:17;23:17;ROJA
+100;ZA;Zapadores;L2;Domingo;8:00;8:00;22:30;23:14;La Cisterna;8:03;22:52;Vespucio Norte;8:18;23:18;VERDE/ROJA
+5;AV;Vespucio Norte;L2;Domingo;8:00;8:00;22:30;23:16;La Cisterna;8:01;22:51;Vespucio Norte;;;VERDE/ROJA
+93;TB;Tobalaba;L4;Lunes a Viernes;6:00;6:00;23:00;23:30;Plaza Puente Alto;6:02;23:15;Tobalaba;;;VERDE/ROJA
+17;CO;Cristobal Colón;L4;Lunes a Viernes;5:55;6:00;23:00;23:35;Plaza Puente Alto;5:55;23:16;Tobalaba;6:20;23:41;VERDE
+8;BI;Francisco Bilbao;L4;Lunes a Viernes;6:00;6:00;23:00;23:30;Plaza Puente Alto;6:01;23:18;Tobalaba;6:19;23:39;VERDE/ROJA
+30;GA;P. de Gales;L4;Lunes a Viernes;6:00;6:00;23:00;23:30;Plaza Puente Alto;6:03;23:20;Tobalaba;6:16;23:37;ROJA
+86;SB;Simón Bolívar;L4;Lunes a Viernes;6:00;6:00;23:00;23:30;Plaza Puente Alto;6:00;23:22;Tobalaba;6:15;23:35;VERDE
+24;PZE;Plaza Egaña;L4;Lunes a Viernes;5:55;6:00;23:00;23:25;Plaza Puente Alto;5:57;23:23;Tobalaba;6:13;23:34;VERDE/ROJA
+62;OR;Los Orientales;L4;Lunes a Viernes;5:55;6:00;23:00;23:25;Plaza Puente Alto;5:59;23:25;Tobalaba;6:12;23:32;ROJA
+79;RG;Grecia;L4;Lunes a Viernes;6:00;6:00;23:00;23:25;Plaza Puente Alto;6:00;23:27;Tobalaba;6:10;23:31;VERDE
+48;LP;Los Presidentes;L4;Lunes a Viernes;6:00;6:00;23:00;23:25;Plaza Puente Alto;6:02;23:28;Tobalaba;6:09;23:29;ROJA
+84;RQ;Quilín;L4;Lunes a Viernes;5:55;6:00;23:00;23:25;Plaza Puente Alto;5:58;23:30;Tobalaba;6:07;23:27;VERDE
+52;LT;Las Torres;L4;Lunes a Viernes;6:00;6:00;23:00;23:25;Plaza Puente Alto;6:00;23:32;Tobalaba;6:06;23:25;ROJA
+55;MC;Macúl;L4;Lunes a Viernes;5:55;6:00;23:00;23:25;Plaza Puente Alto;6:02;23:34;Tobalaba;6:04;23:24;VERDE/ROJA
+99;VMI;Vicuña Mackenna;L4;Lunes a Viernes;5:55;6:00;23:00;23:50;Plaza Puente Alto;6:04;23:36;Tobalaba;6:01;23:21;VERDE/ROJA
+98;VV;Vicente Valdés;L4;Lunes a Viernes;5:40;6:00;23:00;23:30;Plaza Puente Alto;6:06;23:38;Tobalaba;5:59;23:20;VERDE/ROJA
+80;RM;Rojas Magallanes;L4;Lunes a Viernes;5:50;6:00;23:00;23:35;Plaza Puente Alto;6:07;23:40;Tobalaba;5:57;23:18;VERDE
+95;TR;Trinidad;L4;Lunes a Viernes;5:50;6:00;23:00;23:35;Plaza Puente Alto;6:11;23:43;Tobalaba;5:54;23:14;ROJA
+36;JE;San José de la Estrella;L4;Lunes a Viernes;5:50;6:00;23:00;23:35;Plaza Puente Alto;6:09;23:42;Tobalaba;5:56;23:16;VERDE
+49;LQ;Los Quillayes;L4;Lunes a Viernes;5:50;6:00;23:00;23:35;Plaza Puente Alto;6:12;23:45;Tobalaba;5:53;23:13;ROJA
+22;EA;Elisa Correa;L4;Lunes a Viernes;5:45;6:00;23:00;23:40;Plaza Puente Alto;6:13;23:46;Tobalaba;5:51;23:11;VERDE/ROJA
+34;HS;H. Sotero del Río;L4;Lunes a Viernes;5:45;6:00;23:00;23:40;Plaza Puente Alto;6:15;23:48;Tobalaba;5:50;23:10;VERDE/ROJA
+66;PI;P. de La Infancia;L4;Lunes a Viernes;5:45;6:00;23:00;23:40;Plaza Puente Alto;6:17;23:50;Tobalaba;5:48;23:08;VERDE
+56;ME;Las Mercedes;L4;Lunes a Viernes;5:40;6:00;23:00;23:45;Plaza Puente Alto;6:18;23:52;Tobalaba;5:46;23:06;ROJA
+69;PPA;Plaza de P. Alto;L4;Lunes a Viernes;5:40;6:00;23:00;23:45;Plaza Puente Alto;;;Tobalaba;5:45;23:05;VERDE/ROJA
+93;TB;Tobalaba;L4;Sábado;6:30;6:30;23:00;23:25;Plaza Puente Alto;6:30;23:15;Tobalaba;;;VERDE/ROJA
+17;CO;Cristobal Colón;L4;Sábado;6:30;6:30;23:00;23:35;Plaza Puente Alto;6:32;23:16;Tobalaba;6:35;23:41;VERDE
+8;BI;Francisco Bilbao;L4;Sábado;6:30;6:30;23:00;23:35;Plaza Puente Alto;6:33;23:18;Tobalaba;6:33;23:40;VERDE/ROJA
+30;GA;P. de Gales;L4;Sábado;6:30;6:30;23:00;23:30;Plaza Puente Alto;6:35;23:20;Tobalaba;6:31;23:37;ROJA
+86;SB;Simón Bolívar;L4;Sábado;6:30;6:30;23:00;23:30;Plaza Puente Alto;6:31;23:22;Tobalaba;6:35;23:36;VERDE
+24;PZE;Plaza Egaña;L4;Sábado;6:30;6:30;23:00;23:30;Plaza Puente Alto;6:32;23:23;Tobalaba;6:34;23:34;VERDE/ROJA
+62;OR;Los Orientales;L4;Sábado;6:30;6:30;23:00;23:25;Plaza Puente Alto;6:34;23:25;Tobalaba;6:32;23:32;ROJA
+79;RG;Grecia;L4;Sábado;6:30;6:30;23:00;23:25;Plaza Puente Alto;6:30;23:27;Tobalaba;6:30;23:31;VERDE
+48;LP;Los Presidentes;L4;Sábado;6:30;6:30;23:00;23:25;Plaza Puente Alto;6:31;23:28;Tobalaba;6:35;23:29;ROJA
+84;RQ;Quilín;L4;Sábado;6:30;6:30;23:00;23:25;Plaza Puente Alto;6:33;23:30;Tobalaba;6:33;23:28;VERDE
+52;LT;Las Torres;L4;Sábado;6:30;6:30;23:00;23:25;Plaza Puente Alto;6:35;23:32;Tobalaba;6:31;23:26;ROJA
+55;MC;Macúl;L4;Sábado;6:30;6:30;23:00;23:30;Plaza Puente Alto;6:37;23:34;Tobalaba;6:35;23:24;VERDE/ROJA
+99;VMI;Vicuña Mackenna;L4;Sábado;6:30;6:30;23:00;23:30;Plaza Puente Alto;6:39;23:36;Tobalaba;6:33;23:21;VERDE/ROJA
+98;VV;Vicente Valdés;L4;Sábado;6:30;6:30;23:00;23:30;Plaza Puente Alto;6:41;23:38;Tobalaba;6:31;23:20;VERDE/ROJA
+80;RM;Rojas Magallanes;L4;Sábado;6:30;6:30;23:00;23:35;Plaza Puente Alto;6:43;23:40;Tobalaba;6:35;23:18;VERDE
+95;TR;Trinidad;L4;Sábado;6:30;6:30;23:00;23:35;Plaza Puente Alto;6:46;23:43;Tobalaba;6:32;23:14;ROJA
+36;JE;San José de la Estrella;L4;Sábado;6:30;6:30;23:00;23:35;Plaza Puente Alto;6:45;23:42;Tobalaba;6:34;23:16;VERDE
+49;LQ;Los Quillayes;L4;Sábado;6:30;6:30;23:00;23:40;Plaza Puente Alto;6:48;23:45;Tobalaba;6:30;23:13;ROJA
+22;EA;Elisa Correa;L4;Sábado;6:30;6:30;23:00;23:40;Plaza Puente Alto;6:49;23:46;Tobalaba;6:35;23:12;VERDE/ROJA
+34;HS;H. Sotero del Río;L4;Sábado;6:30;6:30;23:00;23:40;Plaza Puente Alto;6:51;23:48;Tobalaba;6:33;23:10;VERDE/ROJA
+66;PI;P. de La Infancia;L4;Sábado;6:30;6:30;23:00;23:45;Plaza Puente Alto;6:53;23:50;Tobalaba;6:31;23:08;VERDE
+56;ME;Las Mercedes;L4;Sábado;6:30;6:30;23:00;23:45;Plaza Puente Alto;6:55;23:52;Tobalaba;6:30;23:06;ROJA
+69;PPA;Plaza de P. Alto;L4;Sábado;6:30;6:30;23:00;23:50;Plaza Puente Alto;;;Tobalaba;6:34;23:05;VERDE/ROJA
+93;TB;Tobalaba;L4;Domingo;8:00;8:00;22:30;23:20;Plaza Puente Alto;8:06;23:15;Tobalaba;;;VERDE/ROJA
+17;CO;Cristobal Colón;L4;Domingo;8:00;8:00;22:30;23:20;Plaza Puente Alto;8:00;23:16;Tobalaba;8:18;23:26;VERDE
+8;BI;Francisco Bilbao;L4;Domingo;8:00;8:00;22:30;23:15;Plaza Puente Alto;8:01;23:18;Tobalaba;8:17;23:25;VERDE/ROJA
+30;GA;P. de Gales;L4;Domingo;8:00;8:00;22:30;23:15;Plaza Puente Alto;8:03;23:20;Tobalaba;8:14;23:22;ROJA
+86;SB;Simón Bolívar;L4;Domingo;8:00;8:00;22:30;23:15;Plaza Puente Alto;8:05;23:22;Tobalaba;8:13;23:21;VERDE
+24;PZE;Plaza Egaña;L4;Domingo;8:00;8:00;22:30;23:15;Plaza Puente Alto;8:07;23:23;Tobalaba;8:11;23:19;VERDE/ROJA
+62;OR;Los Orientales;L4;Domingo;8:00;8:00;22:30;23:20;Plaza Puente Alto;8:00;23:25;Tobalaba;8:09;23:17;ROJA
+79;RG;Grecia;L4;Domingo;8:00;8:00;22:30;23:20;Plaza Puente Alto;8:02;23:27;Tobalaba;8:08;23:16;VERDE
+48;LP;Los Presidentes;L4;Domingo;8:00;8:00;22:30;23:20;Plaza Puente Alto;8:03;23:28;Tobalaba;8:06;23:14;ROJA
+84;RQ;Quilín;L4;Domingo;8:00;8:00;22:30;23:25;Plaza Puente Alto;8:05;23:30;Tobalaba;8:05;23:13;VERDE
+52;LT;Las Torres;L4;Domingo;8:00;8:00;22:30;23:25;Plaza Puente Alto;8:07;23:32;Tobalaba;8:03;23:11;ROJA
+55;MC;Macúl;L4;Domingo;8:00;8:00;22:30;23:25;Plaza Puente Alto;8:09;23:34;Tobalaba;8:01;23:09;VERDE/ROJA
+99;VMI;Vicuña Mackenna;L4;Domingo;8:00;8:00;22:30;23:30;Plaza Puente Alto;8:11;23:36;Tobalaba;8:07;23:06;VERDE/ROJA
+98;VV;Vicente Valdés;L4;Domingo;8:00;8:00;22:30;23:30;Plaza Puente Alto;8:13;23:38;Tobalaba;8:05;23:05;VERDE/ROJA
+80;RM;Rojas Magallanes;L4;Domingo;8:00;8:00;22:30;23:55;Plaza Puente Alto;8:15;23:40;Tobalaba;8:03;23:03;VERDE
+95;TR;Trinidad;L4;Domingo;8:00;8:00;22:30;23:55;Plaza Puente Alto;8:18;23:43;Tobalaba;8:00;22:59;ROJA
+36;JE;San José de la Estrella;L4;Domingo;8:00;8:00;22:30;23:55;Plaza Puente Alto;8:17;23:42;Tobalaba;8:01;23:01;VERDE
+49;LQ;Los Quillayes;L4;Domingo;8:00;8:00;22:30;23:50;Plaza Puente Alto;8:20;23:45;Tobalaba;8:06;22:58;ROJA
+22;EA;Elisa Correa;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;8:21;23:46;Tobalaba;8:05;22:57;VERDE/ROJA
+34;HS;H. Sotero del Río;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;8:23;23:48;Tobalaba;8:03;22:55;VERDE/ROJA
+66;PI;P. de La Infancia;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;8:25;23:50;Tobalaba;8:01;22:53;VERDE
+56;ME;Las Mercedes;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;8:27;23:52;Tobalaba;8:07;22:51;ROJA
+69;PPA;Plaza de P. Alto;L4;Domingo;8:00;8:00;22:30;23:45;Plaza Puente Alto;;;Tobalaba;8:06;22:50;VERDE/ROJA
+99;VMI;Vicuña Mackenna;L4A;Lunes a Viernes;5:55;6:00;23:00;23:50;La Cisterna;5:59;23:57;Vicuña Mackenna;;;
+37;JU;Santa Julia;L4A;Lunes a Viernes;5:50;6:00;23:00;23:55;La Cisterna;5:57;23:59;Vicuña Mackenna;5:55;23:53;
+43;LG;La Granja;L4A;Lunes a Viernes;5:50;6:00;23:00;23:55;La Cisterna;5:59;0:01;Vicuña Mackenna;5:53;23:51;
+92;SR;Santa Rosa;L4A;Lunes a Viernes;5:45;6:00;23:00;23:55;La Cisterna;6:01;0:03;Vicuña Mackenna;5:51;23:49;
+81;RN;San Ramón;L4A;Lunes a Viernes;5:50;6:00;23:00;23:55;La Cisterna;6:03;0:05;Vicuña Mackenna;5:53;23:47;
+39;LC;La Cisterna;L4A;Lunes a Viernes;5:40;6:00;23:00;0:08;La Cisterna;;;Vicuña Mackenna;5:46;23:44;
+99;VMI;Vicuña Mackenna;L4A;Sábado;6:30;6:30;23:00;23:50;La Cisterna;6:32;23:57;Vicuña Mackenna;;;
+37;JU;Santa Julia;L4A;Sábado;6:30;6:30;23:00;23:55;La Cisterna;6:34;23:59;Vicuña Mackenna;6:34;23:53;
+43;LG;La Granja;L4A;Sábado;6:30;6:30;23:00;23:55;La Cisterna;6:36;0:01;Vicuña Mackenna;6:32;23:51;
+92;SR;Santa Rosa;L4A;Sábado;6:30;6:30;23:00;23:55;La Cisterna;6:38;0:03;Vicuña Mackenna;6:30;23:49;
+81;RN;San Ramón;L4A;Sábado;6:30;6:30;23:00;23:55;La Cisterna;6:40;0:05;Vicuña Mackenna;6:34;23:47;
+39;LC;La Cisterna;L4A;Sábado;6:30;6:30;23:00;0:08;La Cisterna;;;Vicuña Mackenna;6:32;23:45;
+99;VMI;Vicuña Mackenna;L4A;Domingo;8:00;8:00;22:30;23:35;La Cisterna;8:02;23:38;Vicuña Mackenna;;;
+37;JU;Santa Julia;L4A;Domingo;8:00;8:00;22:30;23:30;La Cisterna;8:04;23:40;Vicuña Mackenna;8:04;23:34;
+43;LG;La Granja;L4A;Domingo;8:00;8:00;22:30;23:35;La Cisterna;8:06;23:42;Vicuña Mackenna;8:02;23:32;
+92;SR;Santa Rosa;L4A;Domingo;8:00;8:00;22:30;23:40;La Cisterna;8:01;23:44;Vicuña Mackenna;8:00;23:30;
+81;RN;San Ramón;L4A;Domingo;8:00;8:00;22:30;23:40;La Cisterna;8:03;23:46;Vicuña Mackenna;8:04;23:28;
+39;LC;La Cisterna;L4A;Domingo;8:00;8:00;22:30;23:48;La Cisterna;;;Vicuña Mackenna;8:02;23:26;
+68;PM;Plaza de Maipú;L5;Lunes a Viernes;5:55;6:00;23:00;23:45;Vicente Valdés;5:58;23:05;Plaza Maipú;;;VERDE/ROJA
+11;BU;Santiago Bueras;L5;Lunes a Viernes;5:55;6:00;23:00;23:43;Vicente Valdés;5:55;23:07;Plaza Maipú;6:00;23:51;ROJA
+21;DS;Del Sol;L5;Lunes a Viernes;5:55;6:00;23:00;23:42;Vicente Valdés;5:57;23:08;Plaza Maipú;5:59;23:50;VERDE
+59;MT;Monte Tabor;L5;Lunes a Viernes;5:55;6:00;23:00;23:40;Vicente Valdés;5:58;23:10;Plaza Maipú;5:57;23:48;ROJA
+63;PA;Las Parcelas;L5;Lunes a Viernes;5:55;6:00;23:00;23:39;Vicente Valdés;5:55;23:11;Plaza Maipú;5:56;23:47;VERDE
+51;LS;Laguna Sur;L5;Lunes a Viernes;5:55;6:00;23:00;23:37;Vicente Valdés;5:58;23:14;Plaza Maipú;5:57;23:44;VERDE/ROJA
+10;BR;Barrancas;L5;Lunes a Viernes;5:55;6:00;23:00;23:35;Vicente Valdés;5:56;23:16;Plaza Maipú;5:55;23:42;ROJA
+73;PU;Pudahuel;L5;Lunes a Viernes;5:55;6:00;23:00;23:34;Vicente Valdés;5:58;23:18;Plaza Maipú;5:57;23:40;VERDE/ROJA
+91;SO;San Pablo;L5;Lunes a Viernes;5:55;6:00;23:00;23:32;Vicente Valdés;5:56;23:21;Plaza Maipú;5:55;23:38;VERDE/ROJA
+71;PR;Lo Prado;L5;Lunes a Viernes;5:55;6:00;23:00;23:30;Vicente Valdés;5:57;23:22;Plaza Maipú;5:56;23:37;VERDE
+9;BL;Blanqueado;L5;Lunes a Viernes;5:55;6:00;23:00;23:29;Vicente Valdés;5:58;23:23;Plaza Maipú;5:55;23:35;ROJA
+31;GL;Gruta de Lourdes;L5;Lunes a Viernes;5:55;6:00;23:00;23:27;Vicente Valdés;5:56;23:25;Plaza Maipú;5:56;23:33;VERDE
+76;QN;Quinta Normal;L5;Lunes a Viernes;5:55;6:00;23:00;23:25;Vicente Valdés;5:58;23:27;Plaza Maipú;5:57;23:31;ROJA
+78;RC;Cumming;L5;Lunes a Viernes;5:55;6:00;23:00;23:23;Vicente Valdés;5:59;23:29;Plaza Maipú;5:56;23:30;VERDE
+4;AN;Santa Ana;L5;Lunes a Viernes;5:55;6:00;23:00;23:24;Vicente Valdés;5:56;23:31;Plaza Maipú;5:57;23:28;VERDE/ROJA
+75;PZ;Plaza de Armas;L5;Lunes a Viernes;5:55;6:00;23:00;23:25;Vicente Valdés;5:58;23:32;Plaza Maipú;5:55;23:26;VERDE/ROJA
+7;BE;Bellas Artes;L5;Lunes a Viernes;5:55;6:00;23:00;23:27;Vicente Valdés;5:59;23:33;Plaza Maipú;5:57;23:25;VERDE/ROJA
+6;BA;Baquedano;L5;Lunes a Viernes;5:55;6:00;23:00;23:29;Vicente Valdés;5:56;23:36;Plaza Maipú;5:55;23:23;VERDE/ROJA
+64;PB;Parque Bustamante;L5;Lunes a Viernes;5:50;6:00;23:00;23:31;Vicente Valdés;5:52;23:37;Plaza Maipú;5:51;23:22;ROJA
+87;SI;Santa Isabel;L5;Lunes a Viernes;5:50;6:00;23:00;23:32;Vicente Valdés;5:53;23:38;Plaza Maipú;5:52;23:20;VERDE
+35;IRA;Irarrázaval;L5;Lunes a Viernes;5:50;6:00;23:00;23:33;Vicente Valdés;5:55;23:39;Plaza Maipú;5:51;23:19;VERDE/ROJA
+61;NUB;Ñuble;L5;Lunes a Viernes;5:50;6:00;23:00;23:35;Vicente Valdés;5:57;23:42;Plaza Maipú;5:52;23:17;VERDE/ROJA
+77;RA;Rodrigo de Araya;L5;Lunes a Viernes;5:50;6:00;23:00;23:37;Vicente Valdés;5:59;23:44;Plaza Maipú;5:50;23:15;VERDE
+18;CV;Carlos Valdovinos;L5;Lunes a Viernes;5:45;6:00;23:00;23:39;Vicente Valdés;6:01;23:45;Plaza Maipú;5:45;23:13;ROJA
+1;AG;Camino Agrícola;L5;Lunes a Viernes;5:45;6:00;23:00;23:41;Vicente Valdés;6:02;23:46;Plaza Maipú;5:47;23:12;VERDE
+88;SJ;San Joaquín;L5;Lunes a Viernes;5:45;6:00;23:00;23:42;Vicente Valdés;6:03;23:48;Plaza Maipú;5:46;23:11;ROJA
+65;PE;Pedrero;L5;Lunes a Viernes;5:45;6:00;23:00;23:44;Vicente Valdés;6:05;23:50;Plaza Maipú;5:47;23:09;VERDE
+54;MA;Mirador;L5;Lunes a Viernes;5:40;6:00;23:00;23:45;Vicente Valdés;6:07;23:51;Plaza Maipú;5:40;23:08;ROJA
+42;LF;Bellavista de La Florida;L5;Lunes a Viernes;5:40;6:00;23:00;23:47;Vicente Valdés;6:08;23:53;Plaza Maipú;5:41;23:06;VERDE/ROJA
+98;VV;Vicente Valdés;L5;Lunes a Viernes;5:40;6:00;23:00;23:49;Vicente Valdés;;;Plaza Maipú;5:40;23:05;VERDE/ROJA
+68;PM;Plaza de Maipú;L5;Sábado;6:30;6:30;23:00;23:47;Vicente Valdés;6:33;23:05;Plaza Maipú;;;VERDE/ROJA
+11;BU;Santiago Bueras;L5;Sábado;6:30;6:30;23:00;23:45;Vicente Valdés;6:35;23:07;Plaza Maipú;6:53;23:51;ROJA
+21;DS;Del Sol;L5;Sábado;6:30;6:30;23:00;23:43;Vicente Valdés;6:31;23:08;Plaza Maipú;6:52;23:50;VERDE
+59;MT;Monte Tabor;L5;Sábado;6:30;6:30;23:00;23:42;Vicente Valdés;6:32;23:10;Plaza Maipú;6:50;23:48;ROJA
+63;PA;Las Parcelas;L5;Sábado;6:30;6:30;23:00;23:40;Vicente Valdés;6:34;23:11;Plaza Maipú;6:49;23:47;VERDE
+51;LS;Laguna Sur;L5;Sábado;6:30;6:30;23:00;23:38;Vicente Valdés;6:30;23:14;Plaza Maipú;6:46;23:44;VERDE/ROJA
+10;BR;Barrancas;L5;Sábado;6:30;6:30;23:00;23:36;Vicente Valdés;6:32;23:16;Plaza Maipú;6:44;23:42;ROJA
+73;PU;Pudahuel;L5;Sábado;6:30;6:30;23:00;23:35;Vicente Valdés;6:34;23:18;Plaza Maipú;6:42;23:40;VERDE/ROJA
+91;SO;San Pablo;L5;Sábado;6:30;6:30;23:00;23:33;Vicente Valdés;6:36;23:20;Plaza Maipú;6:40;23:38;VERDE/ROJA
+71;PR;Lo Prado;L5;Sábado;6:30;6:30;23:00;23:31;Vicente Valdés;6:30;23:22;Plaza Maipú;6:39;23:37;VERDE
+9;BL;Blanqueado;L5;Sábado;6:30;6:30;23:00;23:30;Vicente Valdés;6:32;23:23;Plaza Maipú;6:37;23:35;ROJA
+31;GL;Gruta de Lourdes;L5;Sábado;6:30;6:30;23:00;23:28;Vicente Valdés;6:34;23:25;Plaza Maipú;6:35;23:33;VERDE
+76;QN;Quinta Normal;L5;Sábado;6:30;6:30;23:00;23:26;Vicente Valdés;6:36;23:27;Plaza Maipú;6:33;23:31;ROJA
+78;RC;Cumming;L5;Sábado;6:30;6:30;23:00;23:23;Vicente Valdés;6:37;23:29;Plaza Maipú;6:32;23:30;VERDE
+4;AN;Santa Ana;L5;Sábado;6:30;6:30;23:00;23:25;Vicente Valdés;6:39;23:31;Plaza Maipú;6:30;23:28;VERDE/ROJA
+75;PZ;Plaza de Armas;L5;Sábado;6:30;6:30;23:00;23:26;Vicente Valdés;6:41;23:32;Plaza Maipú;6:36;23:26;VERDE/ROJA
+7;BE;Bellas Artes;L5;Sábado;6:30;6:30;23:00;23:28;Vicente Valdés;6:42;23:33;Plaza Maipú;6:35;23:25;VERDE/ROJA
+6;BA;Baquedano;L5;Sábado;6:30;6:30;23:00;23:29;Vicente Valdés;6:44;23:36;Plaza Maipú;6:33;23:23;VERDE/ROJA
+64;PB;Parque Bustamante;L5;Sábado;6:30;6:30;23:00;23:31;Vicente Valdés;6:45;23:37;Plaza Maipú;6:32;23:22;ROJA
+87;SI;Santa Isabel;L5;Sábado;6:30;6:30;23:00;23:32;Vicente Valdés;6:47;23:38;Plaza Maipú;6:30;23:20;VERDE
+35;IRA;Irarrázaval;L5;Sábado;6:30;6:30;23:00;23:34;Vicente Valdés;6:48;23:39;Plaza Maipú;6:37;23:19;VERDE/ROJA
+61;NUB;Ñuble;L5;Sábado;6:30;6:30;23:00;23:35;Vicente Valdés;6:50;23:42;Plaza Maipú;6:35;23:17;VERDE/ROJA
+77;RA;Rodrigo de Araya;L5;Sábado;6:30;6:30;23:00;23:38;Vicente Valdés;6:52;23:43;Plaza Maipú;6:33;23:15;VERDE
+18;CV;Carlos Valdovinos;L5;Sábado;6:30;6:30;23:00;23:39;Vicente Valdés;6:54;23:45;Plaza Maipú;6:31;23:13;ROJA
+1;AG;Camino Agrícola;L5;Sábado;6:30;6:30;23:00;23:41;Vicente Valdés;6:55;23:46;Plaza Maipú;6:30;23:12;VERDE
+88;SJ;San Joaquín;L5;Sábado;6:30;6:30;23:00;23:42;Vicente Valdés;6:56;23:48;Plaza Maipú;6:36;23:11;ROJA
+65;PE;Pedrero;L5;Sábado;6:30;6:30;23:00;23:44;Vicente Valdés;6:58;23:49;Plaza Maipú;6:34;23:09;VERDE
+54;MA;Mirador;L5;Sábado;6:30;6:30;23:00;23:46;Vicente Valdés;7:00;23:51;Plaza Maipú;6:32;23:08;ROJA
+42;LF;Bellavista de La Florida;L5;Sábado;6:30;6:30;23:00;23:47;Vicente Valdés;7:01;23:53;Plaza Maipú;6:31;23:06;VERDE/ROJA
+98;VV;Vicente Valdés;L5;Sábado;6:30;6:30;23:00;23:49;Vicente Valdés;;;Plaza Maipú;6:36;23:05;VERDE/ROJA
+68;PM;Plaza de Maipú;L5;Domingo;8:00;8:00;22:30;23:41;Vicente Valdés;8:01;22:58;Plaza Maipú;;;VERDE/ROJA
+11;BU;Santiago Bueras;L5;Domingo;8:00;8:00;22:30;23:39;Vicente Valdés;8:03;23:00;Plaza Maipú;8:17;23:45;ROJA
+21;DS;Del Sol;L5;Domingo;8:00;8:00;22:30;23:37;Vicente Valdés;8:04;23:01;Plaza Maipú;8:16;23:44;VERDE
+59;MT;Monte Tabor;L5;Domingo;8:00;8:00;22:30;23:36;Vicente Valdés;8:06;23:03;Plaza Maipú;8:14;23:42;ROJA
+63;PA;Las Parcelas;L5;Domingo;8:00;8:00;22:30;23:34;Vicente Valdés;8:01;23:04;Plaza Maipú;8:13;23:41;VERDE
+51;LS;Laguna Sur;L5;Domingo;8:00;8:00;22:30;23:32;Vicente Valdés;8:04;23:07;Plaza Maipú;8:10;23:38;VERDE/ROJA
+10;BR;Barrancas;L5;Domingo;8:00;8:00;22:30;23:30;Vicente Valdés;8:06;23:09;Plaza Maipú;8:08;23:36;ROJA
+73;PU;Pudahuel;L5;Domingo;8:00;8:00;22:30;23:29;Vicente Valdés;8:01;23:11;Plaza Maipú;8:06;23:34;VERDE/ROJA
+91;SO;San Pablo;L5;Domingo;8:00;8:00;22:30;23:26;Vicente Valdés;8:03;23:13;Plaza Maipú;8:04;23:32;VERDE/ROJA
+71;PR;Lo Prado;L5;Domingo;8:00;8:00;22:30;23:25;Vicente Valdés;8:05;23:15;Plaza Maipú;8:03;23:31;VERDE
+9;BL;Blanqueado;L5;Domingo;8:00;8:00;22:30;23:24;Vicente Valdés;8:00;23:16;Plaza Maipú;8:01;23:29;ROJA
+31;GL;Gruta de Lourdes;L5;Domingo;8:00;8:00;22:30;23:22;Vicente Valdés;8:02;23:18;Plaza Maipú;8:06;23:27;VERDE
+76;QN;Quinta Normal;L5;Domingo;8:00;8:00;22:30;23:20;Vicente Valdés;8:03;23:20;Plaza Maipú;8:04;23:25;ROJA
+78;RC;Cumming;L5;Domingo;8:00;8:00;22:30;23:18;Vicente Valdés;8:05;23:22;Plaza Maipú;8:02;23:24;VERDE
+4;AN;Santa Ana;L5;Domingo;8:00;8:00;22:30;23:17;Vicente Valdés;8:01;23:24;Plaza Maipú;8:01;23:22;VERDE/ROJA
+75;PZ;Plaza de Armas;L5;Domingo;8:00;8:00;22:30;23:19;Vicente Valdés;8:02;23:25;Plaza Maipú;8:05;23:20;VERDE/ROJA
+7;BE;Bellas Artes;L5;Domingo;8:00;8:00;22:30;23:20;Vicente Valdés;8:03;23:26;Plaza Maipú;8:04;23:19;VERDE/ROJA
+6;BA;Baquedano;L5;Domingo;8:00;8:00;22:30;23:22;Vicente Valdés;8:06;23:29;Plaza Maipú;8:02;23:17;VERDE/ROJA
+64;PB;Parque Bustamante;L5;Domingo;8:00;8:00;22:30;23:24;Vicente Valdés;8:07;23:30;Plaza Maipú;8:01;23:16;ROJA
+87;SI;Santa Isabel;L5;Domingo;8:00;8:00;22:30;23:25;Vicente Valdés;8:08;23:31;Plaza Maipú;8:06;23:14;VERDE
+35;IRA;Irarrázaval;L5;Domingo;8:00;8:00;22:30;23:26;Vicente Valdés;8:09;23:32;Plaza Maipú;8:05;23:13;VERDE/ROJA
+61;NUB;Ñuble;L5;Domingo;8:00;8:00;22:30;23:27;Vicente Valdés;8:12;23:35;Plaza Maipú;8:02;23:11;VERDE/ROJA
+77;RA;Rodrigo de Araya;L5;Domingo;8:00;8:00;22:30;23:31;Vicente Valdés;8:13;23:36;Plaza Maipú;8:00;23:09;VERDE
+18;CV;Carlos Valdovinos;L5;Domingo;8:00;8:00;22:30;23:32;Vicente Valdés;8:15;23:38;Plaza Maipú;8:05;23:07;ROJA
+1;AG;Camino Agrícola;L5;Domingo;8:00;8:00;22:30;23:34;Vicente Valdés;8:16;23:39;Plaza Maipú;8:04;23:06;VERDE
+88;SJ;San Joaquín;L5;Domingo;8:00;8:00;22:30;23:35;Vicente Valdés;8:18;23:41;Plaza Maipú;8:03;23:05;ROJA
+65;PE;Pedrero;L5;Domingo;8:00;8:00;22:30;23:37;Vicente Valdés;8:19;23:42;Plaza Maipú;8:01;23:03;VERDE
+54;MA;Mirador;L5;Domingo;8:00;8:00;22:30;23:38;Vicente Valdés;8:21;23:44;Plaza Maipú;8:00;23:02;ROJA
+42;LF;Bellavista de La Florida;L5;Domingo;8:00;8:00;22:30;23:40;Vicente Valdés;8:23;23:46;Plaza Maipú;8:04;23:00;VERDE/ROJA
+98;VV;Vicente Valdés;L5;Domingo;8:00;8:00;22:30;23:42;Vicente Valdés;;;Plaza Maipú;8:03;22:59;VERDE/ROJA
+101;CS;Cerrillos;L6;Lunes a Viernes;5:35;;;23:40;Los Leones;5:38;23:20;Cerrillos;;;
+102;LVA;Lo Valledor;L6;Lunes a Viernes;5:40;;;23:40;Los Leones;5:40;23:22;Cerrillos;6:02;23:47;
+103;PG;Pdte. Pedro Aguirre Cerda;L6;Lunes a Viernes;5:40;;;23:40;Los Leones;5:42;23:24;Cerrillos;6:00;23:45;
+29;FRA;Franklin;L6;Lunes a Viernes;5:40;;;23:40;Los Leones;5:40;23:26;Cerrillos;5:57;23:42;
+104;BB;Bio Bio;L6;Lunes a Viernes;5:40;;;23:40;Los Leones;5:41;23:27;Cerrillos;5:56;23:41;
+61;NUB;Ñuble;L6;Lunes a Viernes;5:40;;;23:35;Los Leones;5:40;23:30;Cerrillos;5:54;23:39;
+105;EN;Estadio Nacional;L6;Lunes a Viernes;5:40;;;23:35;Los Leones;5:43;23:33;Cerrillos;5:51;23:36;
+106;NUN;Ñuñoa;L6;Lunes a Viernes;5:40;;;23:30;Los Leones;5:44;23:34;Cerrillos;5:50;23:35;
+107;IS;Ines de Suarez;L6;Lunes a Viernes;5:40;;;23:30;Los Leones;5:46;23:36;Cerrillos;5:47;23:32;
+41;LEN;Los Leones;L6;Lunes a Viernes;5:40;;;23:28;Los Leones;;;Cerrillos;5:45;23:30;
+101;CS;Cerrillos;L6;Sábado;6:30;;;23:40;Los Leones;6:35;23:26;Cerrillos;;;
+102;LVA;Lo Valledor;L6;Sábado;6:30;;;23:40;Los Leones;6:32;23:29;Cerrillos;6:47;23:55;
+103;PG;Pdte. Pedro Aguirre Cerda;L6;Sábado;6:30;;;23:40;Los Leones;6:34;23:31;Cerrillos;6:45;23:53;
+29;FRA;Franklin;L6;Sábado;6:30;;;23:40;Los Leones;6:30;23:33;Cerrillos;6:42;23:51;
+104;BB;Bio Bio;L6;Sábado;6:30;;;23:40;Los Leones;6:31;23:34;Cerrillos;6:41;23:50;
+61;NUB;Ñuble;L6;Sábado;6:30;;;23:35;Los Leones;6:34;23:37;Cerrillos;6:39;23:47;
+105;EN;Estadio Nacional;L6;Sábado;6:30;;;23:35;Los Leones;6:37;23:39;Cerrillos;6:36;23:45;
+106;NUN;Ñuñoa;L6;Sábado;6:30;;;23:30;Los Leones;6:38;23:41;Cerrillos;6:35;23:43;
+107;IS;Ines de Suarez;L6;Sábado;6:30;;;23:30;Los Leones;6:40;23:43;Cerrillos;6:32;23:41;
+41;LEN;Los Leones;L6;Sábado;6:30;;;23:25;Los Leones;;;Cerrillos;6:30;23:38;
+101;CS;Cerrillos;L6;Domingo;8:00;;;23:05;Los Leones;8:05;23:26;Cerrillos;;;
+102;LVA;Lo Valledor;L6;Domingo;8:00;;;23:05;Los Leones;8:02;23:28;Cerrillos;8:14;23:52;
+103;PG;Pdte. Pedro Aguirre Cerda;L6;Domingo;8:00;;;23:10;Los Leones;8:04;23:30;Cerrillos;8:12;23:50;
+29;FRA;Franklin;L6;Domingo;8:00;;;23:07;Los Leones;8:00;23:32;Cerrillos;8:10;23:48;
+104;BB;Bio Bio;L6;Domingo;8:00;;;23:10;Los Leones;8:01;23:34;Cerrillos;8:09;23:46;
+61;NUB;Ñuble;L6;Domingo;8:00;;;23:10;Los Leones;8:04;23:36;Cerrillos;8:06;23:44;
+105;EN;Estadio Nacional;L6;Domingo;8:00;;;23:10;Los Leones;8:07;23:39;Cerrillos;8:04;23:41;
+106;NUN;Ñuñoa;L6;Domingo;8:00;;;23:10;Los Leones;8:08;23:40;Cerrillos;8:02;23:40;
+107;IS;Ines de Suarez;L6;Domingo;8:00;;;23:05;Los Leones;8:10;23:43;Cerrillos;8:00;23:38;
+41;LEN;Los Leones;L6;Domingo;8:00;;;23:05;Los Leones;;;Cerrillos;8:06;23:35;
+108;LIB;Los Libertadores;L3;Lunes a Viernes;5:50;;;23:35;Los Libertadores;;;Fernando Castillo Velasco;5:51;23:05;
+109;CAR;Cardenal Caro;L3;Lunes a Viernes;5:50;;;23:30;Los Libertadores;5:51;23:37;Fernando Castillo Velasco;5:52;23:07;
+110;VIV;Vivaceta;L3;Lunes a Viernes;5:50;;;23:30;Los Libertadores;5:53;23:35;Fernando Castillo Velasco;5:55;23:10;
+111;CCH;Conchalí;L3;Lunes a Viernes;5:50;;;23:25;Los Libertadores;5:52;23:32;Fernando Castillo Velasco;5:57;23:12;
+112;PZC;Plaza Chacabuco;L3;Lunes a Viernes;5:50;;;23:25;Los Libertadores;5:54;23:30;Fernando Castillo Velasco;5:51;23:14;
+113;HOS;Hospitales;L3;Lunes a Viernes;5:50;;;23:20;Los Libertadores;5:52;23:28;Fernando Castillo Velasco;5:52;23:16;
+12;CA;Puente Cal y Canto;L3;Lunes a Viernes;5:50;;;23:22;Los Libertadores;6:03;23:26;Fernando Castillo Velasco;6:02;23:18;
+114;PZA;Plaza de Armas_L3;L3;Lunes a Viernes;5:50;;;23:20;Los Libertadores;5:52;23:24;Fernando Castillo Velasco;5:52;23:20;
+15;CH;Universidad de Chile;L3;Lunes a Viernes;5:50;;;23:20;Los Libertadores;5:45;23:22;Fernando Castillo Velasco;5:44;23:22;
+115;PAL;Parque Almagro;L3;Lunes a Viernes;5:50;;;23:15;Los Libertadores;5:54;23:20;Fernando Castillo Velasco;5:51;23:23;
+116;MAT;Avenida Matta;L3;Lunes a Viernes;5:50;;;23:20;Los Libertadores;5:51;23:19;Fernando Castillo Velasco;5:54;23:26;
+35;IRA;Irarrázaval;L3;Lunes a Viernes;5:50;;;23:20;Los Libertadores;5:54;23:16;Fernando Castillo Velasco;5:51;23:28;
+117;MEY;Mons. Eyzaguirre;L3;Lunes a Viernes;5:50;;;23:25;Los Libertadores;5:52;23:14;Fernando Castillo Velasco;5:52;23:30;
+106;NUN;Ñuñoa;L3;Lunes a Viernes;5:50;;;23:30;Los Libertadores;5:43;23:12;Fernando Castillo Velasco;5:43;23:31;
+118;ESP;Chile-España;L3;Lunes a Viernes;5:50;;;23:25;Los Libertadores;5:52;23:11;Fernando Castillo Velasco;5:55;23:33;
+119;VFR;Villa Frei;L3;Lunes a Viernes;5:50;;;23:30;Los Libertadores;5:54;23:09;Fernando Castillo Velasco;5:57;23:35;
+24;PZE;Plaza Egaña;L3;Lunes a Viernes;5:50;;;23:30;Los Libertadores;5:52;23:07;Fernando Castillo Velasco;5:59;23:37;
+120;FCV;Fernando Castillo Velasco;L3;Lunes a Viernes;5:50;;;23:35;Los Libertadores;5:54;23:05;Fernando Castillo Velasco;;;
+108;LIB;Los Libertadores;L3;Sábado;6:30;;;23:35;Los Libertadores;;;Fernando Castillo Velasco;6:31;23:05;
+109;CAR;Cardenal Caro;L3;Sábado;6:30;;;23:30;Los Libertadores;6:31;23:37;Fernando Castillo Velasco;6:32;23:07;
+110;VIV;Vivaceta;L3;Sábado;6:30;;;23:30;Los Libertadores;6:33;23:35;Fernando Castillo Velasco;6:35;23:10;
+111;CCH;Conchalí;L3;Sábado;6:30;;;23:25;Los Libertadores;6:32;23:32;Fernando Castillo Velasco;6:37;23:12;
+112;PZC;Plaza Chacabuco;L3;Sábado;6:30;;;23:25;Los Libertadores;6:35;23:30;Fernando Castillo Velasco;6:31;23:14;
+113;HOS;Hospitales;L3;Sábado;6:30;;;23:20;Los Libertadores;6:32;23:28;Fernando Castillo Velasco;6:32;23:16;
+12;CA;Puente Cal y Canto;L3;Sábado;6:30;;;23:22;Los Libertadores;6:35;23:26;Fernando Castillo Velasco;6:31;23:18;
+114;PZA;Plaza de Armas_L3;L3;Sábado;6:30;;;23:20;Los Libertadores;6:32;23:24;Fernando Castillo Velasco;6:32;23:20;
+15;CH;Universidad de Chile;L3;Sábado;6:30;;;23:25;Los Libertadores;6:34;23:22;Fernando Castillo Velasco;6:31;23:22;
+115;PAL;Parque Almagro;L3;Sábado;6:30;;;23:15;Los Libertadores;6:34;23:20;Fernando Castillo Velasco;6:32;23:23;
+116;MAT;Avenida Matta;L3;Sábado;6:30;;;23:20;Los Libertadores;6:31;23:19;Fernando Castillo Velasco;6:34;23:26;
+35;IRA;Irarrázaval;L3;Sábado;6:30;;;23:20;Los Libertadores;6:35;23:16;Fernando Castillo Velasco;6:31;23:28;
+117;MEY;Mons. Eyzaguirre;L3;Sábado;6:30;;;23:25;Los Libertadores;6:36;23:14;Fernando Castillo Velasco;6:32;23:30;
+106;NUN;Ñuñoa;L3;Sábado;6:30;;;23:30;Los Libertadores;6:31;23:12;Fernando Castillo Velasco;6:33;23:31;
+118;ESP;Chile-España;L3;Sábado;6:30;;;23:25;Los Libertadores;6:32;23:11;Fernando Castillo Velasco;6:35;23:33;
+119;VFR;Villa Frei;L3;Sábado;6:30;;;23:30;Los Libertadores;6:34;23:09;Fernando Castillo Velasco;6:37;23:35;
+24;PZE;Plaza Egaña;L3;Sábado;6:30;;;23:30;Los Libertadores;6:32;23:07;Fernando Castillo Velasco;6:39;23:37;
+120;FCV;Fernando Castillo Velasco;L3;Sábado;6:30;;;23:35;Los Libertadores;6:35;23:05;Fernando Castillo Velasco;;;
+108;LIB;Los Libertadores;L3;Domingo;8:00;;;23:20;Los Libertadores;;;Fernando Castillo Velasco;8:00;22:50;
+109;CAR;Cardenal Caro;L3;Domingo;8:00;;;23:15;Los Libertadores;8:01;23:22;Fernando Castillo Velasco;8:02;22:52;
+110;VIV;Vivaceta;L3;Domingo;8:00;;;23:15;Los Libertadores;8:03;23:20;Fernando Castillo Velasco;8:05;22:55;
+111;CCH;Conchalí;L3;Domingo;8:00;;;23:10;Los Libertadores;8:02;23:17;Fernando Castillo Velasco;8:07;22:57;
+112;PZC;Plaza Chacabuco;L3;Domingo;8:00;;;23:10;Los Libertadores;8:04;23:15;Fernando Castillo Velasco;8:00;22:59;
+113;HOS;Hospitales;L3;Domingo;8:00;;;23:05;Los Libertadores;8:02;23:13;Fernando Castillo Velasco;8:02;23:01;
+12;CA;Puente Cal y Canto;L3;Domingo;8:00;;;23:05;Los Libertadores;8:04;23:11;Fernando Castillo Velasco;8:00;23:03;
+114;PZA;Plaza de Armas_L3;L3;Domingo;8:00;;;23:05;Los Libertadores;8:02;23:09;Fernando Castillo Velasco;8:02;23:05;
+15;CH;Universidad de Chile;L3;Domingo;8:00;;;23:06;Los Libertadores;8:04;23:07;Fernando Castillo Velasco;8:00;23:07;
+115;PAL;Parque Almagro;L3;Domingo;8:00;;;23:00;Los Libertadores;8:04;23:05;Fernando Castillo Velasco;8:01;23:08;
+116;MAT;Avenida Matta;L3;Domingo;8:00;;;23:05;Los Libertadores;8:01;23:04;Fernando Castillo Velasco;8:04;23:11;
+35;IRA;Irarrázaval;L3;Domingo;8:00;;;23:05;Los Libertadores;8:04;23:01;Fernando Castillo Velasco;8:00;23:13;
+117;MEY;Mons. Eyzaguirre;L3;Domingo;8:00;;;23:10;Los Libertadores;8:03;22:59;Fernando Castillo Velasco;8:02;23:15;
+106;NUN;Ñuñoa;L3;Domingo;8:00;;;23:10;Los Libertadores;8:01;22:57;Fernando Castillo Velasco;8:03;23:16;
+118;ESP;Chile-España;L3;Domingo;8:00;;;23:10;Los Libertadores;8:02;22:56;Fernando Castillo Velasco;8:05;23:18;
+119;VFR;Villa Frei;L3;Domingo;8:00;;;23:15;Los Libertadores;8:04;22:54;Fernando Castillo Velasco;8:07;23:20;
+24;PZE;Plaza Egaña;L3;Domingo;8:00;;;23:15;Los Libertadores;8:02;22:52;Fernando Castillo Velasco;8:09;23:22;
+120;FCV;Fernando Castillo Velasco;L3;Domingo;8:00;;;23:20;Los Libertadores;8:04;22:50;Fernando Castillo Velasco;;;
