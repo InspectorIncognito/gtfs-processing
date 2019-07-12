@@ -234,7 +234,7 @@ output_filename = 'PhoneFairPoints.csv'
 output_path = os.path.join(project_path, output_filename)
 header = ['id', 'entity', 'name', 'address', 'schedule', 'longitude', 'latitude', 'services']
 
-with open(output_path, 'w') as csvfile:
+with open(output_path, 'w',newline='') as csvfile:
     spamwriter = csv.writer(csvfile, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     spamwriter.writerow(header)
     for index, row in enumerate(output_data):

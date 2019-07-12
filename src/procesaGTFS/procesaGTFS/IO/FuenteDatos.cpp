@@ -474,7 +474,7 @@ void FuenteDatos::leePuntosDeCargaBip()
 	if (!archivoPuntosBips.good())
 		cout << "Error : No se encuentra el archivo " << parametros->nombreArchivoPuntosCargaBip << "!" << endl;
 	else
-		cout << " Cargando red de puntos de carga... " << endl;
+		cout << " Cargando red de puntos de carga... " << parametros->nombreArchivoPuntosCargaBip << endl;
 
 	///Vector contenedor de la linea actual del archivo
 	vector<string> cur;
@@ -483,6 +483,8 @@ void FuenteDatos::leePuntosDeCargaBip()
 	map< int, PuntoBip >::iterator itPar;
 
 	///Lectura del header
+	cur = StringFunctions::ExplodeF(';', &archivoPuntosBips);
+
 	cur = StringFunctions::ExplodeF(';', &archivoPuntosBips);
 
 	double x, y;
@@ -507,6 +509,7 @@ void FuenteDatos::leePuntosDeCargaBip()
 		PuntoBip punto = PuntoBip(atoi(cur[0].c_str()), cur[2], atof(cur[6].c_str()), atof(cur[5].c_str()), (int)x, (int)y);
 
 		puntosDeCargaBip[atoi(cur[0].c_str())] = punto;
+
 	}
 
 
