@@ -242,39 +242,98 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 	ofstream fout;
 	fout.open(string(fdd_->parametros->carpetaOutput + "\\" + fdd_->parametros->version + "\\" + "PhoneStopsSequences.csv").c_str());
 	//fout.open("Android_busstops_sequences" + fdd_->parametros->version + ".csv");
+	map< string, busStopSequence>::iterator itseq_ant;
+	int variante_int = 0;
 	fout << "modo;servicio;sentido;variante;tipodia;shape_id;horario;color_id;direccion;paradas" << endl;
 	for (itseq = secuenciasPorHorario.begin(); itseq != secuenciasPorHorario.end(); itseq++)
 	{
+		itseq_ant = itseq;
+		itseq_ant--;
 		vector<string> tmp = StringFunctions::Explode((*itseq).first, ';');
 
 		vector<string> shape_id = StringFunctions::Explode((*itseq).second.shape_id, '_');
 		vector<string> variante1 = StringFunctions::Explode(shape_id[0], 'I');
 		vector<string> variante2 = StringFunctions::Explode(shape_id[0], 'R');
 
-//		map< string, Ruta >::iterator iruta = fdd_->rutas.mapeo->find(shape_id[0]);
-//		if (iruta == fdd_->rutas.mapeo->end())
-//			cout << "WTF : " << shape_id[0] << endl;
-
 		fout << (*itseq).second.modo << ";";
 		fout << tmp[0] << ";";
 		fout << tmp[1] << ";";
 
-		if(variante1.size()==2)
-			fout << variante1[1] << ";";
-		else if (variante2.size() == 2)
-			fout << variante2[1] << ";";
-		else if (variante1.size() == 3)
-			fout << variante1[1] << "I" << variante1[2] << ";";
-		else if (variante2.size() == 3)
-			fout << variante2[1] << "R" << variante2[2] << ";";
-		else
-			fout << "-" << ";";
+		if (itseq_ant != secuenciasPorHorario.end())
+		{
+			vector<string> tmp_pre = StringFunctions::Explode((*itseq_ant).first, ';');
+			vector<string> shape_id_pre = StringFunctions::Explode((*itseq_ant).second.shape_id, '_');
+			vector<string> variante1_pre = StringFunctions::Explode(shape_id_pre[0], 'I');
+			vector<string> variante2_pre = StringFunctions::Explode(shape_id_pre[0], 'R');
 
+			string codigo_pre;
+			string codigo_cur;
+
+			codigo_cur = tmp[0] + "|" + tmp[1] + "|";
+			if (variante1.size() == 2)
+				codigo_cur += variante1[1] ;
+			else if (variante2.size() == 2)
+				codigo_cur += variante2[1] ;
+			else if (variante1.size() == 3)
+				codigo_cur += variante1[1] + "I" + variante1[2] ;
+			else if (variante2.size() == 3)
+				codigo_cur += variante2[1] + "R" + variante2[2] ;
+			else
+				codigo_cur += "-" ;
+			codigo_cur += "|" + tmp[2];
+
+			codigo_pre = tmp_pre[0] + "|" + tmp_pre[1] + "|";
+			if (variante1_pre.size() == 2)
+				codigo_pre += variante1_pre[1];
+			else if (variante2_pre.size() == 2)
+				codigo_pre += variante2_pre[1];
+			else if (variante1_pre.size() == 3)
+				codigo_pre += variante1_pre[1] + "I" + variante1_pre[2];
+			else if (variante2_pre.size() == 3)
+				codigo_pre += variante2_pre[1] + "R" + variante2_pre[2];
+			else
+				codigo_pre += "-";
+			codigo_pre += "|" + tmp_pre[2];
+
+			if (codigo_cur.compare(codigo_pre) == 0)
+			{
+				fout << variante_int++ << ";";
+				//cout << codigo_cur << endl;
+			}
+			else
+			{
+				if (variante1.size() == 2)
+					fout << variante1[1] << ";";
+				else if (variante2.size() == 2)
+					fout << variante2[1] << ";";
+				else if (variante1.size() == 3)
+					fout << variante1[1] << "I" << variante1[2] << ";";
+				else if (variante2.size() == 3)
+					fout << variante2[1] << "R" << variante2[2] << ";";
+				else
+					fout << "-" << ";";
+			}
+			
+		}
+		else
+		{
+			if (variante1.size() == 2)
+				fout << variante1[1] << ";";
+			else if (variante2.size() == 2)
+				fout << variante2[1] << ";";
+			else if (variante1.size() == 3)
+				fout << variante1[1] << "I" << variante1[2] << ";";
+			else if (variante2.size() == 3)
+				fout << variante2[1] << "R" << variante2[2] << ";";
+			else
+				fout << "-" << ";";
+		}
+		
 		fout << tmp[2] << ";";
 		fout << shape_id[0] << ";";
 		fout << (*itseq).second.horario << ";";
 		fout << (*itseq).second.color << ";";
-		fout << toCamelCase(string((*itseq).second.nombre+";"));
+		fout << toCamelCase(string((*itseq).second.nombre + ";"));
 		fout << tmp[3] << endl;
 	}
 	fout.close();

@@ -307,7 +307,7 @@ void GridProcess::IngresaPuntosBipsAGrilla()
 
 		//cout << iLat << "|" << (*it).second.lat << "|" << (*it).second.lat - fdd_->grid.minLat << endl;
 		//cout << iLon << "|" << (*it).second.lon << "|" << (*it).second.lon - fdd_->grid.minLon << endl;
-		cout << "wtf" << endl;
+
 		if(iLat >= 0 && iLat < fdd_->grid.nLat && iLon >= 0 && iLon < fdd_->grid.nLon)
 			fdd_->grid.cells.at(iLat).at(iLon).puntos.push_back((*it).second.id);
 	}
