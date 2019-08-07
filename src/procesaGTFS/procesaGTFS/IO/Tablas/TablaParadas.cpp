@@ -47,8 +47,8 @@ void TablaParadas::Crear()
 	///Ciclo sobre todas las secuencia de paraderos
 	for (map< string, Paradero >::iterator ired = fdd_->redParaderos.red.begin(); ired != fdd_->redParaderos.red.end(); ired++)
 	{
-		if ((*ired).second.codigo.at(0) != 'P')
-			continue;
+//		if ((*ired).second.codigo.at(0) != 'P')
+//			continue;
 
 		double lat, lon;
 
