@@ -586,6 +586,7 @@ void FuenteDatos::CorrigeParadasMismaPosicion()
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
 
+/*
 string FuenteDatos::toCamelCase(string in)
 {
 	string out;
@@ -610,7 +611,7 @@ string FuenteDatos::toCamelCase(string in)
 
 	return out;
 }
-
+*/
 void FuenteDatos::leeSecuenciaDeParadas()
 {
 	int nTimeStart = Cronometro::GetMilliCount();

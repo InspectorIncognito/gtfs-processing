@@ -167,5 +167,5 @@ class FuenteDatos{
 	*/
 	bool estaEnSantiago(int x_, int y_);
 
-	string toCamelCase(string in);
+	//string toCamelCase(string in);
 };

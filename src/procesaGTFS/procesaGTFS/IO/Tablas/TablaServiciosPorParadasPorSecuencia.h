@@ -18,6 +18,7 @@
 #include <string>
 #include <iostream>
 #include <limits>
+#include <regex>
 #include "../FuenteDatos.h"
 
 using namespace std;
@@ -57,4 +58,6 @@ class TablaServiciosPorParadasPorSecuencia{
 		string EliminaCadenasBlancos(string in);
 
 		string toCamelCase(string in);
+
+		string corrigeArticulos(string in);
 };

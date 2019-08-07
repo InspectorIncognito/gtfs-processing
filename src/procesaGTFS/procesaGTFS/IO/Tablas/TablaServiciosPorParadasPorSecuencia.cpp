@@ -560,5 +560,25 @@ string TablaServiciosPorParadasPorSecuencia::toCamelCase(string in)
 		}
 	}
 
+	//out = corrigeArticulos(out);
+
+	return out;
+}
+
+string TablaServiciosPorParadasPorSecuencia::corrigeArticulos(string in)
+{
+	string out;
+
+	
+	if (in.compare("(M) U. De Chile;") == 0)
+	{
+		out = std::regex_replace(in, regex(" De "), " de ");
+		cout << "FLUG : " << out << endl;
+		out = std::regex_replace(in, regex(" La "), " la ");
+		out = std::regex_replace(in, regex(" Las "), " las ");
+		out = std::regex_replace(in, regex(" El "), " el ");
+		out = std::regex_replace(in, regex(" Los "), " los ");
+	}
+
 	return out;
 }
