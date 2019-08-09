@@ -42,7 +42,8 @@ void TablaParadas::Crear()
 	fileout << "stop_code" << ";";
 	fileout << "stop_name" << ";";
 	fileout << "stop_lat" << ";";
-	fileout << "stop_lon" << endl;
+	fileout << "stop_lon" << ";";
+	fileout << "stop_mode" <<  endl;
 
 	///Ciclo sobre todas las secuencia de paraderos
 	for (map< string, Paradero >::iterator ired = fdd_->redParaderos.red.begin(); ired != fdd_->redParaderos.red.end(); ired++)
@@ -60,7 +61,8 @@ void TablaParadas::Crear()
 		fileout << (*ired).second.codigo << ";";
 		fileout << (*ired).second.nombre << ";";
 		fileout << strlat << ";";
-		fileout << strlon << endl;
+		fileout << strlon << ";";
+		fileout << (*ired).second.mode << endl;
 		
 
 
