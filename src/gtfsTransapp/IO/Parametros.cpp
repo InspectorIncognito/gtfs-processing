@@ -43,6 +43,9 @@ Parametros::Parametros(const char *file)
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaKmls = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaReportes = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaOutput = columnas[0];
+    
+    columnas = StringFunctions::ExplodeF('\t', &ap);	this->withBip = atoi(columnas[0].c_str())==1;
+    columnas = StringFunctions::ExplodeF('\t', &ap);	this->withMetro = atoi(columnas[0].c_str())==1;
 	
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->distanciaTramado = atof(columnas[0].c_str());
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->version = columnas[0];

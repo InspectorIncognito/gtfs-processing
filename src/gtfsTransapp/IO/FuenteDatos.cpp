@@ -39,10 +39,10 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 
 	///Inicializacion de reporte
 	this->reporte = new ReporteFuenteDatos(parametros->carpetaReportes);
-
+cout << "wtf 0 " << endl;
 	///Lectura de diccionario de codigos servicio-sentido
 	leeDiccionarioServicios();
-
+cout << "wtf 1 " << endl;
 	///Lectura de las rutas
 	leeRutas();
 
@@ -63,7 +63,8 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 	//leeSecuenciaDeParadasDTPM();
 
 	///Lectura de puntos de carga
-	leePuntosDeCargaBip();
+    if(parametros->withBip)
+        leePuntosDeCargaBip();
 
 	///Creacion de directorio para almacenar los kmls	
 	system(string("mkdir " + parametros->carpetaKmls).c_str());
@@ -86,14 +87,32 @@ void FuenteDatos::leeDiccionarioServicios()
 		cout << "Cargando datos de Diccionario (" << parametros->nombreCarpetaGTFS + parametros->slash + "routes.txt" << ")... ";
 
 	///Vector contenedor de la linea actual del archivo
+    vector<string> header;
 	vector<string> cur;
 
 	int nlineas = 0;
 
 	///Lectura del header
-	cur = StringFunctions::ExplodeF(',', &archivoDiccionario);
+	header = StringFunctions::ExplodeF(',', &archivoDiccionario);
+cout << "wtf 2" << endl;    
+    int iLongName=-1;
+    int iRouteColor=-1;
+    int iRouteId = -1;
+    //header.at(0).erase(0,3);
+    
+cout << "wtf 3" << endl;        
+    for(int i=0; i < header.size();i++)
+    {
+        if(header.at(i).compare("route_long_name")==0)
+            iLongName = i;
 
+        if(header.at(i).compare("route_color")==0)
+            iRouteColor = i;        
 
+        if(header.at(i).compare("route_id")==0)
+            iRouteId = i;             
+    }
+cout << "wtf 4 : " << iRouteId << endl;    
 	///Lectura archivo primario
 	while (archivoDiccionario.good())
 	{
@@ -111,31 +130,31 @@ void FuenteDatos::leeDiccionarioServicios()
 
 		///nombre
 		std::locale loc;
-		std::string str = cur[3];
-		for (std::string::size_type i = 0; i < cur[3].length(); ++i)
-			str[i] = std::toupper(cur[3][i], loc);
+		std::string str = cur[iLongName];
+		for (std::string::size_type i = 0; i < cur[iLongName].length(); ++i)
+			str[i] = std::toupper(cur[iLongName][i], loc);
 
 		///color
 		string color;
-		if (cur.at(7).compare("00D9A3") == 0)
+		if (cur.at(iRouteColor).compare("00D9A3") == 0)
 			color = string("#00929E");
-		else if (cur.at(7).compare("ED1C24") == 0)
+		else if (cur.at(iRouteColor).compare("ED1C24") == 0)
 			color = string("#ED1C24");
-		else if (cur.at(7).compare("00B33C") == 0)
+		else if (cur.at(iRouteColor).compare("00B33C") == 0)
 			color = string("#00A77E");
-		else if (cur.at(7).compare("0067AC") == 0)
+		else if (cur.at(iRouteColor).compare("0067AC") == 0)
 			color = string("#0951BC");
-		else if (cur.at(7).compare("FFD400") == 0)
+		else if (cur.at(iRouteColor).compare("FFD400") == 0)
 			color = string("#FFC107");
-		else if (cur.at(7).compare("00D5FF") == 0)
+		else if (cur.at(iRouteColor).compare("00D5FF") == 0)
 			color = string("#00A7FF");
-		else if (cur.at(7).compare("F58220") == 0)
+		else if (cur.at(iRouteColor).compare("F58220") == 0)
 			color = string("#F58220");
 		else
-			color = string("#" + cur.at(7));
+			color = string("#" + cur.at(iRouteColor));
 
 		Servicio ser;
-		if (cur.at(0).at(0) == 'L')
+		if (cur.at(iRouteId).at(0) == 'L')
 		{
 			vector<string> prev = StringFunctions::Explode(str, '(');
 
@@ -150,9 +169,9 @@ void FuenteDatos::leeDiccionarioServicios()
 				destino.push_back(od.at(1).at(j));
 
 			if (od.size() == 2)
-				ser = Servicio(cur[0], origen, destino, color);
+				ser = Servicio(cur[iRouteId], origen, destino, color);
 			else if (od.size() == 1)
-				ser = Servicio(cur[0], prev[1], "", color);
+				ser = Servicio(cur[iRouteId], prev[1], "", color);
 			else
 				cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
 
@@ -163,9 +182,9 @@ void FuenteDatos::leeDiccionarioServicios()
 			vector<string> od = StringFunctions::Explode(str, '-');
 
 			if (od.size() == 2)
-				ser = Servicio(cur[0], od[0].substr(0, od[0].length() - 1), od[1].substr(1, od[1].length()), color);
+				ser = Servicio(cur[iRouteId], od[0].substr(0, od[0].length() - 1), od[1].substr(1, od[1].length()), color);
 			else if (od.size() == 1)
-				ser = Servicio(cur[0], od[0].substr(0, od[0].length() - 1), "", color);
+				ser = Servicio(cur[iRouteId], od[0].substr(0, od[0].length() - 1), "", color);
 			else
 				cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
 
@@ -175,8 +194,8 @@ void FuenteDatos::leeDiccionarioServicios()
 		servicios[ser.nombre] = ser;
 
 		///Insercion en diccionario de servicios-sentidos global
-		dicSS.servicios[string(cur[0] + "I")] = cur[0];
-		dicSS.servicios[string(cur[0] + "R")] = cur[0];
+		dicSS.servicios[string(cur[iRouteId] + "I")] = cur[iRouteId];
+		dicSS.servicios[string(cur[iRouteId] + "R")] = cur[iRouteId];
 	}
 
 
@@ -586,32 +605,6 @@ void FuenteDatos::CorrigeParadasMismaPosicion()
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
 
-/*
-string FuenteDatos::toCamelCase(string in)
-{
-	string out;
-	std::locale loc;
-
-	for (int i = 0; i < in.size(); i++)
-	{
-		if (i == 0)
-		{
-			out.push_back(std::toupper(in.at(i), loc));
-		}
-		else
-		{
-			int ant = i - 1;
-			if (in.at(ant) == ' ' || in.at(ant) == '(')
-				out.push_back(std::toupper(in.at(i), loc));
-			else
-				out.push_back(std::tolower(in.at(i), loc));
-
-		}
-	}
-
-	return out;
-}
-*/
 void FuenteDatos::leeSecuenciaDeParadas()
 {
 	int nTimeStart = Cronometro::GetMilliCount();

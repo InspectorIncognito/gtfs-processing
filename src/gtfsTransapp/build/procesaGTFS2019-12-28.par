@@ -1,0 +1,12 @@
+Parametros Asignacion Paradero a validacion
+------------------------
+
+/home/mauricio/workspace/GTFSProcessing/inputs/GTFS_Transantiago_2019_12_28					* Nombre Archivo de salida de validaciones procesadas
+/home/mauricio/workspace/GTFSProcessing/inputs/bip/PhoneFairPoints.csv						* Nombre Archivo de salida de validaciones procesadas
+/home/mauricio/workspace/GTFSProcessing/inputs/GTFS_Transantiago_kmls/				* carpeta para kmls
+/home/mauricio/workspace/GTFSProcessing/inputs/GTFS_Transantiago_reportes/			* carpeta para reportes
+/home/mauricio/workspace/GTFSProcessing/output			* carpeta para salida
+1								* con bip 1, 0 sino
+1								* con metro 1, 0 sino
+20.0								* Distancia para el tramado de la ruta
+v3.5								* version	v[version cambio formato].[version de datos]				

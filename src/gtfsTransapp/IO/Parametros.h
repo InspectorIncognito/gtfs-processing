@@ -87,6 +87,11 @@ public:
 
 	///sufijo para versionar los archivos
 	string version;
+    
+    ///switches
+    bool withBip=false;
+    bool withMetro=false;
+    
 
 	/**
 	 * Metodo para la impresion en consola de los parametros utilizados

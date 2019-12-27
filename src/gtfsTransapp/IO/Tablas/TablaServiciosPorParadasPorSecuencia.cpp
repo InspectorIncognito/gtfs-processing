@@ -357,7 +357,8 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 		fout << shape_id[0] << ";";
 		fout << (*itseq).second.horario << ";";
 		fout << (*itseq).second.color << ";";
-		fout << toCamelCase(string((*itseq).second.nombre + ";"));
+		//fout << toCamelCase(string((*itseq).second.nombre + ";"));
+        fout << (*itseq).second.nombre << ";";
 		fout << tmp[3] << endl;
 	}
 	fout.close();
