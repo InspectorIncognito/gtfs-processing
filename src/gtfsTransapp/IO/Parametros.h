@@ -52,7 +52,8 @@ public:
 	~Parametros();
 
 	///Nombre del archivo con los datos de transacciones
-	string nombreCarpetaGTFS;
+	//string nombreCarpetaGTFS;
+    string nombreCarpetasGTFS;
 
 	///Nombre de archivo con horarios del funcionamiento de servicios
 	//string nombreArchivoHorarios;

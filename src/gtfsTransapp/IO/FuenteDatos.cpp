@@ -39,10 +39,11 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 
 	///Inicializacion de reporte
 	this->reporte = new ReporteFuenteDatos(parametros->carpetaReportes);
-cout << "wtf 0 " << endl;
+
 	///Lectura de diccionario de codigos servicio-sentido
 	leeDiccionarioServicios();
-cout << "wtf 1 " << endl;
+
+    exit(1);
 	///Lectura de las rutas
 	leeRutas();
 
@@ -76,6 +77,10 @@ void FuenteDatos::leeDiccionarioServicios()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
 
+    string linea = string("ls -d " + parametros->nombreCarpetasGTFS + " > " + parametros->nombreCarpetasGTFS + "/lista.txt");
+	system(linea.c_str());
+    
+    /*
 	///Archivo de entrada Principal
 	ifstream archivoDiccionario;
 	archivoDiccionario.open(parametros->nombreCarpetaGTFS + parametros->slash + "routes.txt");
@@ -208,6 +213,7 @@ cout << "wtf 4 : " << iRouteId << endl;
 
 	reporte->tDiccionario = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
 
+    */
 	cout << reporte->tDiccionario << "(min)" << endl;
 
 }
@@ -215,7 +221,7 @@ cout << "wtf 4 : " << iRouteId << endl;
 void FuenteDatos::leeRutas()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
-
+/*
 	///Archivo de entrada Principal
 	ifstream archivoRutas;
 	archivoRutas.open(parametros->nombreCarpetaGTFS + parametros->slash + "shapes.txt");
@@ -352,13 +358,13 @@ void FuenteDatos::leeRutas()
 
 	reporte->tRutas = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
 	cout << reporte->tRutas << "(min)" << endl;
-
+*/
 }
 
 void FuenteDatos::leeRedDeParadas()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
-
+/*
 	///Archivo de entrada Principal
 	ifstream archivoParaderos;
 	archivoParaderos.open(parametros->nombreCarpetaGTFS + parametros->slash + "stops.txt");
@@ -477,7 +483,7 @@ void FuenteDatos::leeRedDeParadas()
 //		fout << endl;
 //	}
 //	fout.close();
-
+*/
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
 
@@ -608,7 +614,7 @@ void FuenteDatos::CorrigeParadasMismaPosicion()
 void FuenteDatos::leeSecuenciaDeParadas()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
-
+/*
 	///Archivo de entrada Principal
 	ifstream archivoParaderos;
 	archivoParaderos.open(parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt");
@@ -745,13 +751,14 @@ void FuenteDatos::leeSecuenciaDeParadas()
 	///Variables para reporte
 	reporte->tParadas = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
 	cout << reporte->tParadas << "(min)" << endl;
+    */
 }
 
 void FuenteDatos::readStopTimes()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
+/*
 
-	/*****************************/
 	struct Trip{
 		string route_id;
 		string service_id;
@@ -794,9 +801,9 @@ void FuenteDatos::readStopTimes()
 		trips[cur0[2]] = trip;
 	}
 
-	/*****************************/
 
-	/*****************************/
+
+
 	struct frecuencia
 	{
 		string hora_ini;
@@ -837,7 +844,7 @@ void FuenteDatos::readStopTimes()
 		frecuencias[cur1[0]] = frec;
 	}
 
-	/*****************************/
+
 
 
 	///Archivo de entrada Principal
@@ -909,7 +916,7 @@ void FuenteDatos::readStopTimes()
 			(*isec).second.paradas[atoi(cur[4].c_str())] = cur[3];
 		}
 	}
-
+*/
 	///Variables para reporte
 	reporte->tParadas = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
 	cout << reporte->tParadas << "(min)" << endl;
