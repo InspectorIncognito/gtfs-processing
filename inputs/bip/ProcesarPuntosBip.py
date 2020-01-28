@@ -99,7 +99,7 @@ class FileBaseManager(object):
         for row in sheet.iter_rows(min_row=self.first_row, max_col=sheet.max_column, max_row=sheet.max_row):
             row_data = [row[col_index].value if isinstance(col_index, int) else col_index() for col_index in self.columns]
             schedule_index = self.columns.index(self.schedule_column)
-            row_data[schedule_index] = self.format_schedule(row_data[schedule_index])
+            row_data[schedule_index] = self.format_schedule(str(row_data[schedule_index]))
             row_data.append(self.services)
             data.append(row_data)
         
@@ -208,7 +208,9 @@ empty_schedule_counter = 0
 for filename, _ in files:
     wb = load_workbook(filename=os.path.join(project_path, filename), read_only=True)
     sheet= wb[wb.sheetnames[0]]
-    
+
+    print (filename)
+
     if filename in ['retail.xlsx', 'bip_point.xlsx']:
         file_manager = RetailFileManager()
     elif filename in ['bip_center_high_level.xlsx']:

@@ -39,10 +39,10 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 
 	///Inicializacion de reporte
 	this->reporte = new ReporteFuenteDatos(parametros->carpetaReportes);
-cout << "wtf 0 " << endl;
+
 	///Lectura de diccionario de codigos servicio-sentido
 	leeDiccionarioServicios();
-cout << "wtf 1 " << endl;
+
 	///Lectura de las rutas
 	leeRutas();
 
@@ -94,13 +94,13 @@ void FuenteDatos::leeDiccionarioServicios()
 
 	///Lectura del header
 	header = StringFunctions::ExplodeF(',', &archivoDiccionario);
-cout << "wtf 2" << endl;    
+
     int iLongName=-1;
     int iRouteColor=-1;
     int iRouteId = -1;
-    //header.at(0).erase(0,3);
+    header.at(0).erase(0,3);
     
-cout << "wtf 3" << endl;        
+
     for(int i=0; i < header.size();i++)
     {
         if(header.at(i).compare("route_long_name")==0)
@@ -112,7 +112,7 @@ cout << "wtf 3" << endl;
         if(header.at(i).compare("route_id")==0)
             iRouteId = i;             
     }
-cout << "wtf 4 : " << iRouteId << endl;    
+
 	///Lectura archivo primario
 	while (archivoDiccionario.good())
 	{
@@ -504,12 +504,13 @@ void FuenteDatos::leePuntosDeCargaBip()
 	///Lectura del header
 	cur = StringFunctions::ExplodeF(';', &archivoPuntosBips);
 
-	cur = StringFunctions::ExplodeF(';', &archivoPuntosBips);
+	//cur = StringFunctions::ExplodeF(';', &archivoPuntosBips);
 
 	double x, y;
 	char UTMZone[5];
 
 	///Lectura archivo primario
+    int nline=0;
 	while (archivoPuntosBips.good())
 	{
 		///Lectura de linea del archivo
@@ -529,6 +530,7 @@ void FuenteDatos::leePuntosDeCargaBip()
 
 		puntosDeCargaBip[atoi(cur[0].c_str())] = punto;
 
+        nline++;
 	}
 
 
