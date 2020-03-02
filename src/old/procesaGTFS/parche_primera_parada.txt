@@ -1,0 +1,8 @@
+
+1.- Determinar servicios que :
+	1.1.- Paradero inicial sea el mismo que el final del sentido anterior
+	1.2.- Paraderos iniciales que esten a menos de 500 mts del paradero final del sentido anterior
+2.- Analizar en unos 10 al azar si el primer paradero no tiene informacion de servicio + ver si el ultimo del sentido anterior si lo tiene
+3.- En caso de que la evaluacion muestre que valga la pena traspasar esa info:
+	3.1.- Construir una tabla de la siguiente forma (paradero;servicio;paraderoAuxiliar)
+
