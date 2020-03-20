@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{3C2C8F1C-F6B0-41CB-A352-EEC39296DF4D}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>procesaGTFS</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="IO\FuenteDatos.cpp" />
+    <ClCompile Include="IO\Parametros.cpp" />
+    <ClCompile Include="IO\ReporteFuenteDatos.cpp" />
+    <ClCompile Include="IO\ReporteGlobal.cpp" />
+    <ClCompile Include="IO\Tablas\TablaDistanciaEnRutaParadas.cpp" />
+    <ClCompile Include="IO\Tablas\TablaGrilla.cpp" />
+    <ClCompile Include="IO\Tablas\TablaParadas.cpp" />
+    <ClCompile Include="IO\Tablas\TablaPuntoCarga.cpp" />
+    <ClCompile Include="IO\Tablas\TablaRutasSimplificadas.cpp" />
+    <ClCompile Include="IO\Tablas\TablaRutasTramadas.cpp" />
+    <ClCompile Include="IO\Tablas\TablaServicios.cpp" />
+    <ClCompile Include="IO\Tablas\TablaServiciosParaAndroid.cpp" />
+    <ClCompile Include="IO\Tablas\TablaServiciosPorParada.cpp" />
+    <ClCompile Include="IO\Tablas\TablaServiciosPorParadaParaAndriod.cpp" />
+    <ClCompile Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.cpp" />
+    <ClCompile Include="IO\Visualizacion\ColorScale.cpp" />
+    <ClCompile Include="IO\Visualizacion\CreaKML.cpp" />
+    <ClCompile Include="IO\Visualizacion\Visualizaciones.cpp" />
+    <ClCompile Include="procesaGTFS.cpp" />
+    <ClCompile Include="Transporte\CargaBip\PuntoBip.cpp" />
+    <ClCompile Include="Transporte\Diccionarios\DiccionarioServicios.cpp" />
+    <ClCompile Include="Transporte\Grid\Cell.cpp" />
+    <ClCompile Include="Transporte\Grid\Grid.cpp" />
+    <ClCompile Include="Transporte\Grid\GridProcess.cpp" />
+    <ClCompile Include="Transporte\Paraderos\Paradero.cpp" />
+    <ClCompile Include="Transporte\Paraderos\ProcesaParadas.cpp" />
+    <ClCompile Include="Transporte\Paraderos\RedParadas.cpp" />
+    <ClCompile Include="Transporte\Paraderos\SecuenciaParaderos.cpp" />
+    <ClCompile Include="Transporte\Rutas\ProcesaRutas.cpp" />
+    <ClCompile Include="Transporte\Rutas\Ruta.cpp" />
+    <ClCompile Include="Transporte\Rutas\Rutas.cpp" />
+    <ClCompile Include="Transporte\Servicios\Servicio.cpp" />
+    <ClCompile Include="Utilidades\ConvertCoordinate.cpp" />
+    <ClCompile Include="Utilidades\Cronometro.cpp" />
+    <ClCompile Include="Utilidades\Geometry2.cpp" />
+    <ClCompile Include="Utilidades\Histogram.cpp" />
+    <ClCompile Include="Utilidades\Scatter.cpp" />
+    <ClCompile Include="Utilidades\StringFunctions.cpp" />
+    <ClCompile Include="Utilidades\TimeStampHandler.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IO\FuenteDatos.h" />
+    <ClInclude Include="IO\Parametros.h" />
+    <ClInclude Include="IO\Reporte.h" />
+    <ClInclude Include="IO\ReporteFuenteDatos.h" />
+    <ClInclude Include="IO\ReporteGlobal.h" />
+    <ClInclude Include="IO\Tablas\TablaDistanciaEnRutaParadas.h" />
+    <ClInclude Include="IO\Tablas\TablaGrilla.h" />
+    <ClInclude Include="IO\Tablas\TablaParadas.h" />
+    <ClInclude Include="IO\Tablas\TablaPuntoCarga.h" />
+    <ClInclude Include="IO\Tablas\TablaRutasSimplificadas.h" />
+    <ClInclude Include="IO\Tablas\TablaRutasTramadas.h" />
+    <ClInclude Include="IO\Tablas\TablaServicios.h" />
+    <ClInclude Include="IO\Tablas\TablaServiciosParaAndroid.h" />
+    <ClInclude Include="IO\Tablas\TablaServiciosPorParada.h" />
+    <ClInclude Include="IO\Tablas\TablaServiciosPorParadaParaAndriod.h" />
+    <ClInclude Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.h" />
+    <ClInclude Include="IO\Visualizacion\ColorScale.h" />
+    <ClInclude Include="IO\Visualizacion\CreaKML.h" />
+    <ClInclude Include="IO\Visualizacion\Visualizaciones.h" />
+    <ClInclude Include="Transporte\CargaBip\PuntoBip.h" />
+    <ClInclude Include="Transporte\Diccionarios\DiccionarioServicios.h" />
+    <ClInclude Include="Transporte\Grid\Cell.h" />
+    <ClInclude Include="Transporte\Grid\Grid.h" />
+    <ClInclude Include="Transporte\Grid\GridProcess.h" />
+    <ClInclude Include="Transporte\Paraderos\Paradero.h" />
+    <ClInclude Include="Transporte\Paraderos\ProcesaParadas.h" />
+    <ClInclude Include="Transporte\Paraderos\RedParadas.h" />
+    <ClInclude Include="Transporte\Paraderos\SecuenciaParaderos.h" />
+    <ClInclude Include="Transporte\Rutas\ProcesaRutas.h" />
+    <ClInclude Include="Transporte\Rutas\Ruta.h" />
+    <ClInclude Include="Transporte\Rutas\Rutas.h" />
+    <ClInclude Include="Transporte\Servicios\Servicio.h" />
+    <ClInclude Include="Utilidades\ConvertCoordinate.h" />
+    <ClInclude Include="Utilidades\Cronometro.h" />
+    <ClInclude Include="Utilidades\Geometry2.h" />
+    <ClInclude Include="Utilidades\Histogram.h" />
+    <ClInclude Include="Utilidades\Scatter.h" />
+    <ClInclude Include="Utilidades\StringFunctions.h" />
+    <ClInclude Include="Utilidades\TimeStampHandler.h" />
+    <ClInclude Include="Utilidades\Types.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
