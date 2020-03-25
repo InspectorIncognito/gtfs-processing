@@ -91,7 +91,7 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 			fileout << (*ired).second.codigo<< ";";
 
 			string nombre = (*ired).second.nombre;
-			if ((*ired).second.mode.compare("3") == 0)
+			if ((*ired).second.mode.compare("3") == 0 || (*ired).second.mode.compare("100") == 0)
 			{
 				nombre = string("");
 				vector<string> nombre_ = StringFunctions::Explode((*ired).second.nombre, '-');

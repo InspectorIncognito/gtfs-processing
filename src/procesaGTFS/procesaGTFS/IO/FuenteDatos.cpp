@@ -39,26 +39,26 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 
 	///Inicializacion de reporte
 	this->reporte = new ReporteFuenteDatos(parametros->carpetaReportes);
-	cout << "wtf 0 :" << endl;
+
 	///Lectura de diccionario de codigos servicio-sentido
 	leeDiccionarioServicios();
-	cout << "wtf 1 :" << endl;
+
 	///Lectura de las rutas
 	leeRutas();
-	cout << "wtf 2 :" << endl;
+
 	///Lectura de la red de paraderos
 	leeRedDeParadas();
 	//readScheduleMetro();
-	cout << "wtf 3 :" << endl;
+
 	///Instancia de lectura de secuencia de paraderos
 	leeSecuenciaDeParadas();
-	cout << "wtf 4 :" << endl;
+
 	///Lectura de horarios de servicios
 	//leeHorarios();
 	
 	///Lectura bustops, para obenter todas las secuencias posibles por servicio
 	readStopTimes();
-	cout << "wtf 5 :" << endl;
+
 	///
 	//leeSecuenciaDeParadasDTPM();
 
@@ -186,6 +186,7 @@ void FuenteDatos::leeDiccionarioServicios()
 				ser = Servicio(cur[iRouteId], od[0].substr(0, od[0].length() - 1), od[1].substr(1, od[1].length()), color);
 			else if (od.size() == 1)
 				ser = Servicio(cur[iRouteId], od[0].substr(0, od[0].length() - 1), "", color);
+				//ser = Servicio(cur[iRouteId], str, "", color);
 			else
 				cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
 
@@ -413,7 +414,7 @@ void FuenteDatos::leeRedDeParadas()
 			nombre.erase(std::remove(nombre.begin(), nombre.end(), '@'), nombre.end());
 			mode = "3";
 		}
-		else if (cur[0].at(0) == 'L' && cur[0].at(1) == 'R' && cur[0].at(2) == 'S')
+		else if ( (cur[0].at(0) == 'L' && cur[0].at(1) == 'R' && cur[0].at(2) == 'S') || cur[0].compare("LIDER")==0)
 		{
 			mode = "100";
 		}

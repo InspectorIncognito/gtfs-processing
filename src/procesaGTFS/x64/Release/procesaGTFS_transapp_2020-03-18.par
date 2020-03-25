@@ -9,4 +9,4 @@ c:\workspace\GTFSProcessing\output			* carpeta para salida
 1								* con bip 1, 0 sino
 1								* con metro 1, 0 sino
 20.0								* Distancia para el tramado de la ruta
-v4.0								* version	v[version cambio formato].[version de datos]				
+v4.1								* version	v[version cambio formato].[version de datos]				
