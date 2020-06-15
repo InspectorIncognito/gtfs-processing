@@ -50,6 +50,9 @@
     <Filter Include="Transporte\PuntoBip">
       <UniqueIdentifier>{122c1100-fa17-45bb-ae2b-a988bef0993b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Transporte\Trips">
+      <UniqueIdentifier>{2715340a-3e10-4ef1-915e-9f555e6e9a1c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="procesaGTFS.cpp">
@@ -163,11 +166,11 @@
     <ClCompile Include="Transporte\CargaBip\PuntoBip.cpp">
       <Filter>Transporte\PuntoBip</Filter>
     </ClCompile>
-    <ClCompile Include="IO\Tablas\TablaPuntoCarga.cpp">
-      <Filter>IO\Tablas</Filter>
-    </ClCompile>
     <ClCompile Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.cpp">
       <Filter>IO\Tablas</Filter>
+    </ClCompile>
+    <ClCompile Include="Transporte\Trips\Trip.cpp">
+      <Filter>Transporte\Trips</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -285,11 +288,11 @@
     <ClInclude Include="Transporte\CargaBip\PuntoBip.h">
       <Filter>Transporte\PuntoBip</Filter>
     </ClInclude>
-    <ClInclude Include="IO\Tablas\TablaPuntoCarga.h">
-      <Filter>IO\Tablas</Filter>
-    </ClInclude>
     <ClInclude Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.h">
       <Filter>IO\Tablas</Filter>
+    </ClInclude>
+    <ClInclude Include="Transporte\Trips\Trip.h">
+      <Filter>Transporte\Trips</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

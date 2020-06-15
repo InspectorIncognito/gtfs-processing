@@ -13,41 +13,37 @@
 */
 #pragma once
 
-#include <map>
-#include <cstdlib>
-#include <string>
 #include <iostream>
-#include <limits>
-#include "../FuenteDatos.h"
+#include <vector>
+
 
 using namespace std;
 
 /**
-* Title: TablaParadas
-* Description:	Clase para construir tabla de con la informacion de paradas (red y secuencia)
+* Title: Grid
+* Description:	Clase que modela un parada de bus
 * Copyright:  Pragxis (c) 2016
 * Date: 18-06-2016
 * @author Mauricio Zuñiga G. <mzuniga@pragxis.cl>
 * @version 0.0
 */
-class TablaPuntoCarga{
-	public:
-		/**
-		* Constructor
-		*/
-		TablaPuntoCarga(FuenteDatos *fdd);
-		/**
-		* Destructor
-		*/
-		~TablaPuntoCarga();
+class Trip
+{
+public:
+	/**
+	* Constructor por defecto
+	*/
+	Trip(void);
+	/**
+	* Destructor
+	*/
+	~Trip(void);
 
-		///Referencia a la fuente de datos
-		FuenteDatos *fdd_;
-
-
-		/**
-		* Metodo que construye e imprime la tabla
-		* @param transacciones referencia al conjunto de transacciones del sistema con subida estimada
-		*/
-		void Crear();
+	///Coordenadas que definen grilla
+	string route_id;
+	string service_id;
+	string trip_id;
+	string trip_headsign;
+	string direction_id;
+	string shape_id;
 };

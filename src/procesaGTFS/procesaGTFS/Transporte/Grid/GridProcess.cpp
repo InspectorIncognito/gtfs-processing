@@ -23,7 +23,6 @@ GridProcess::GridProcess(FuenteDatos *fdd)
 	//ConstruyeGrillaFija();
 	IngresaParaderosAGrilla();
 	IngresaRutasAGrilla();
-	IngresaPuntosBipsAGrilla();
 }
 
 GridProcess::~GridProcess(void)
@@ -48,11 +47,36 @@ void GridProcess::ConstruyeGrilla()
 		fdd_->grid.minLon = std::fmin(fdd_->grid.minLon, (*it).second.lon);
 		fdd_->grid.maxLon = std::fmax(fdd_->grid.maxLon, (*it).second.lon);
 	}
+
+	for (map<string, Ruta>::iterator iruta = fdd_->rutas.mapeo->begin(); iruta != fdd_->rutas.mapeo->end(); iruta++)
+	{
+		for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
+		{
+			double lat, lon;
+			ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
+
+			fdd_->grid.minLat = std::fmin(fdd_->grid.minLat, lat);
+			fdd_->grid.maxLat = std::fmax(fdd_->grid.maxLat, lat);
+			fdd_->grid.minLon = std::fmin(fdd_->grid.minLon, lon);
+			fdd_->grid.maxLon = std::fmax(fdd_->grid.maxLon, lon);
+		}
+	}
 	
-	fdd_->grid.minLat += 0.001;
+	fdd_->grid.minLat -= 0.001;
 	fdd_->grid.maxLat += 0.001;
-	fdd_->grid.minLon += 0.001;
+	fdd_->grid.minLon -= 0.001;
 	fdd_->grid.maxLon += 0.001;
+
+	/*
+	fdd_->grid.nLat = 100;
+	fdd_->grid.nLon = 100;
+
+	fdd_->grid.delta_Latitud = fdd_->grid.maxLat - fdd_->grid.minLat;
+	fdd_->grid.delta_Longitud = fdd_->grid.maxLon - fdd_->grid.minLon;
+
+	fdd_->grid.ddLat = fdd_->grid.delta_Latitud / fdd_->grid.nLat;
+	fdd_->grid.ddLon = fdd_->grid.delta_Longitud / fdd_->grid.nLon;
+	*/
 
 	fdd_->grid.nLat = 100;
 	fdd_->grid.nLon = 100;
@@ -95,9 +119,8 @@ void GridProcess::ConstruyeGrilla()
 void GridProcess::IngresaParaderosAGrilla()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
-	cout << "Ingresando paradas a grilla regular....";
+	cout << "Ingresando paradas a grilla regular...." << endl;
 
-	//cout << "FLAG 0" << endl;
 	for (map< string, Paradero >::iterator it = fdd_->redParaderos.red.begin(); it != fdd_->redParaderos.red.end(); it++)
 	{
 		//cout << "FLAG 1" << endl;
@@ -118,27 +141,29 @@ void GridProcess::IngresaParaderosAGrilla()
 void GridProcess::IngresaRutasAGrilla()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
-	cout << "Ingresando rutas a grilla regular....";
+	cout << "Ingresando rutas a grilla regular...." << endl;
 
 	map<string, string>::iterator iDicServ;
 	map< string, map<int, int> >::iterator iCelRuta;
+	//cout << "flag 0" << endl;
 	for (map<string, Ruta>::iterator iruta = fdd_->rutas.mapeo->begin(); iruta != fdd_->rutas.mapeo->end(); iruta++)
 	{
 		iDicServ = fdd_->dicSS.servicios.find((*iruta).first);
 
 		if (iDicServ == fdd_->dicSS.servicios.end())
 			continue;
-
+		//cout << "flag 1" << endl;
 		///1.- Deteccion de nodos dentro de celda
 		for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
 		{
+			//cout << "flag 2" << endl;
 			double lat, lon;
 			ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
 
 			///Calculo la celda
 			int iLat = (lat - fdd_->grid.minLat) / fdd_->grid.ddLat;
 			int iLon = (lon - fdd_->grid.minLon) / fdd_->grid.ddLon;
-
+			//cout << "flag 3" << endl;
 			if (iLat >= 0 && iLat < fdd_->grid.cells.size())
 			{
 				if (iLon >= 0 && iLon < fdd_->grid.cells.at(iLat).size())
@@ -174,7 +199,7 @@ void GridProcess::IngresaRutasAGrilla()
 				}
 			}
 		}
-
+		//cout << "flag 5" << endl;
 		///1.- Deteccion de nodos dentro de celda
 		//              s2
 		// (x3,y3)**************(x2,y2)
@@ -190,10 +215,10 @@ void GridProcess::IngresaRutasAGrilla()
 		{
 			inodo_sgt = inodo;
 			inodo_sgt++;
-
+			//cout << "flag 6" << endl;
 			if (inodo_sgt != (*iruta).second.nodosSimplificados->end())
 			{
-
+				//cout << "flag 7" << endl;
 				double lat0, lon0;
 				double lat1, lon1;
 				ConvertCoordinate::UTMtoLL(23, (double)(*inodo).second.y, (double)(*inodo).second.x, UTMZONE, lat0, lon0);
@@ -205,7 +230,7 @@ void GridProcess::IngresaRutasAGrilla()
 
 				int iLat1 = (lat1 - fdd_->grid.minLat) / fdd_->grid.ddLat;
 				int iLon1 = (lon1 - fdd_->grid.minLon) / fdd_->grid.ddLon;
-
+				//cout << "flag 8" << endl;
 				//if ((*iruta).first.compare("227R")==0 && (*inodo).first == 7)
 				//{
 				//	cout << "FLAG 01 : " << (*iruta).first << endl;
@@ -221,31 +246,31 @@ void GridProcess::IngresaRutasAGrilla()
 				int minILon = fminf(iLon0, iLon1);
 				int maxILat = fmaxf(iLat0, iLat1);
 				int maxILon = fmaxf(iLon0, iLon1);
-
+				//cout << "flag 9" << endl;
 				for (int ilat = minILat; ilat <= maxILat; ilat++)
 				{
 					for (int ilon = minILon; ilon <= maxILon; ilon++)
 					{
-
+						//cout << "flag 10" << endl;
 						///2.- Deteccion de intersecciones dentro de celda
 						double x0, y0;
 						double x1, y1;
 						double x2, y2;
 						double x3, y3;
-
+						//cout << "flag 11" << endl;
 						///Esquinas
 						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon, y0, x0, UTMZone);
 						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat + fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon, y1, x1, UTMZone);
 						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat + fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon + fdd_->grid.ddLon, y2, x2, UTMZone);
 						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon + fdd_->grid.ddLon, y3, x3, UTMZone);
-
+						//cout << "flag 12" << endl;
 						///Segmentos
 						Segmento s0 = Segmento(Vector3D((*inodo).second.x, (*inodo).second.y, 0), Vector3D((*inodo_sgt).second.x, (*inodo_sgt).second.y, 0));
 						Segmento s1 = Segmento(Vector3D(x0, y0, 0), Vector3D(x1, y1, 0));
 						Segmento s2 = Segmento(Vector3D(x1, y1, 0), Vector3D(x2, y2, 0));
 						Segmento s3 = Segmento(Vector3D(x2, y2, 0), Vector3D(x3, y3, 0));
 						Segmento s4 = Segmento(Vector3D(x3, y3, 0), Vector3D(x0, y0, 0));
-
+						//cout << "flag 13" << endl;
 						Vector3D I0, I1;
 
 						bool interseccion = false;
@@ -253,7 +278,7 @@ void GridProcess::IngresaRutasAGrilla()
 						if (Geometry::intersect2D_Segments(s0, s2, &I0, &I1) > 0) interseccion = true;
 						if (Geometry::intersect2D_Segments(s0, s3, &I0, &I1) > 0) interseccion = true;
 						if (Geometry::intersect2D_Segments(s0, s4, &I0, &I1) > 0) interseccion = true;
-
+						//cout << "flag 14" << endl;
 						//if ((*iruta).first.compare("227R") == 0 && (*inodo).first == 7)
 						//{
 						//	cout << "FLAG 1 : " << ilat << "," << ilon << "|" << interseccion << endl;
@@ -262,6 +287,8 @@ void GridProcess::IngresaRutasAGrilla()
 
 						if (interseccion)
 						{
+							//cout << "flag 15 : " << ilat << "|" << ilon << "|" << fdd_->grid.cells.size() << endl;
+							//cout << fdd_->grid.cells.at(ilat).size() << endl;
 							iCelRuta = fdd_->grid.cells.at(ilat).at(ilon).routesSegments.find((*iruta).first);
 
 							if (iCelRuta == fdd_->grid.cells.at(ilat).at(ilon).routesSegments.end())
@@ -279,7 +306,7 @@ void GridProcess::IngresaRutasAGrilla()
 								(*iCelRuta).second[(*inodo).first] = (*inodo).first;
 							}
 						}
-
+						//cout << "flag 16" << endl;
 					}
 				}
 
@@ -294,25 +321,6 @@ void GridProcess::IngresaRutasAGrilla()
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
 
-void GridProcess::IngresaPuntosBipsAGrilla()
-{
-	int nTimeStart = Cronometro::GetMilliCount();
-	cout << "Ingresando puntos de carga a grilla regular....";
-
-	for (map< int, PuntoBip >::iterator it = fdd_->puntosDeCargaBip.begin(); it != fdd_->puntosDeCargaBip.end(); it++)
-	{
-		///Calculo la celda
-		int iLat = ((*it).second.lat - fdd_->grid.minLat) / fdd_->grid.ddLat;
-		int iLon = ((*it).second.lon - fdd_->grid.minLon) / fdd_->grid.ddLon;
-
-		//cout << iLat << "|" << (*it).second.lat << "|" << (*it).second.lat - fdd_->grid.minLat << endl;
-		//cout << iLon << "|" << (*it).second.lon << "|" << (*it).second.lon - fdd_->grid.minLon << endl;
-
-		if(iLat >= 0 && iLat < fdd_->grid.nLat && iLon >= 0 && iLon < fdd_->grid.nLon)
-			fdd_->grid.cells.at(iLat).at(iLon).puntos.push_back((*it).second.id);
-	}
-	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
-}
 
 void GridProcess::ConstruyeGrillaFija()
 {

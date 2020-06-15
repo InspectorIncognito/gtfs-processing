@@ -8,7 +8,7 @@
 
 namespace ConvertCoordinate{
 
-	#define UTMZONE "19H"
+	#define UTMZONE "19K"
 	/**
 	*	Metodo que convierte coordenadas en Latitud/Longitud a UTM
 	*/

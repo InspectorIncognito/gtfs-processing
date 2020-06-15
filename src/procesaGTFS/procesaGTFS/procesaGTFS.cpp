@@ -24,7 +24,6 @@
 #include "IO/Tablas/TablaServiciosPorParada.h"
 #include "IO/Tablas/TablaParadas.h"
 #include "IO/Tablas/TablaRutasTramadas.h"
-#include "IO/Tablas/TablaPuntoCarga.h"
 #include "IO/Tablas/TablaRutasSimplificadas.h"
 #include "IO/Tablas/TablaServiciosPorParadaParaAndriod.h"
 #include "IO/Tablas/TablaServiciosParaAndroid.h"

@@ -42,7 +42,6 @@ void Visualizaciones::DibujaGoogleEarth()
 	CreaKML *kml = new CreaKML(pathkml.c_str(), pathkml.c_str());
 
 	DibujaRedParadas(kml);
-	DibujaRedPuntosBips(kml);
 	DibujaGrillaParadas(kml);
 
 	///Creacion del archivo .kml
@@ -255,37 +254,6 @@ void Visualizaciones::DibujaRedParadas(CreaKML *kml)
 
 	}
 	kml->CierraFolder();
-
-	kml->CierraFolder();
-
-}
-
-void Visualizaciones::DibujaRedPuntosBips(CreaKML *kml)
-{
-	//Dibujo trayectoria bus
-	kml->AbreFolder("Red de puntos ");
-
-	for (map<int, PuntoBip>::iterator ipar = fdd_->puntosDeCargaBip.begin(); ipar != fdd_->puntosDeCargaBip.end(); ipar++)
-	{
-		double lat, lon;
-
-		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, UTMZONE, lat, lon);
-
-		string strlat = StringFunctions::Double2String(lat, 20);
-		string strlon = StringFunctions::Double2String(lon, 20);
-
-		string style("SheetColorRosado");
-
-		string nombre = (*ipar).second.nombre;
-		nombre.erase(std::remove(nombre.begin(), nombre.end(), '&'), nombre.end());
-
-		kml->InsertaPunto(nombre.c_str(),
-			"",
-			strlat.c_str(),
-			strlon.c_str(),
-			style.c_str(),
-			0);
-	}
 
 	kml->CierraFolder();
 

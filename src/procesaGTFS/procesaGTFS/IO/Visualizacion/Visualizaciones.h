@@ -68,7 +68,6 @@ public:
 
 	void DibujaRedParadas(CreaKML *kml);
 
-	void DibujaRedPuntosBips(CreaKML *kml);
 
 	//void DibujaRedRutas(CreaKML *kml);
 

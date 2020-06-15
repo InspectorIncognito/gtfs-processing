@@ -30,6 +30,7 @@
 #include "../Transporte/Paraderos/RedParadas.h"
 #include "../Transporte/Rutas/Rutas.h"
 #include "../Transporte/Grid/Grid.h"
+#include "../Transporte/Trips/Trip.h"
 #include "../Transporte/CargaBip/PuntoBip.h"
 #include "../Transporte/Diccionarios/DiccionarioServicios.h"
 
@@ -67,6 +68,9 @@ class FuenteDatos{
 	///Referencia a reporte de la lectura de los datos de entrada
 	ReporteFuenteDatos* reporte;
 
+	///Trips
+	map< string, Trip > trips;
+
 	///Estructura de diccionario de codigos servicio-sentido
 	DiccionarioServicios dicSS;
 
@@ -87,9 +91,6 @@ class FuenteDatos{
 
 	///Estructura de servicios
 	map<string, Servicio> servicios;
-
-	///Estructura con la red de puntos de carga bip
-	map<int, PuntoBip> puntosDeCargaBip;
 
 	///Grilla para ordenar informacion geograficamente
 	Grid grid;
@@ -143,6 +144,8 @@ class FuenteDatos{
 	//void leeSecuenciaDeParadasDTPM();
 	void readStopTimes();
 
+	void readTrips();
+
 	/**
 	*	Metodo que lee un archivo de horarios, el metodo permite la no existencia del archivo
 	*   En caso de no existencia los horarios quedaran nulos con un guion (-)
@@ -151,21 +154,9 @@ class FuenteDatos{
 	//void leeHorarios();
 
 	/**
-	*	Metodo que lee un archivo de horarios, el metodo permite la no existencia del archivo
-	*   En caso de no existencia los horarios quedaran nulos con un guion (-)
-	*   El metodo necesita tener ya leido la lista de servicios del diccionario
-	*/
-	void leePuntosDeCargaBip();
-
-	/**
 	*
 	*/
 	//void readScheduleMetro();
-
-	/**
-	* Metodo que chequea si un par coordenada esta fuera de la zona de Santiago
-	*/
-	bool estaEnSantiago(int x_, int y_);
 
 	//string toCamelCase(string in);
 };

@@ -1,0 +1,14 @@
+codigo;nombre;horarioI;horarioR;color;origen;destino;tipo
+A;A;;;#0000FF;;;3
+AY1;AY1;;;#0000FF;AY;;3
+B;B;;;#0000FF;;;3
+C;C;;;#0000FF;;;3
+D;D;;;#0000FF;;;3
+E;E;;;#0000FF;;;3
+F;F;;;#0000FF;;;3
+FY1;FY1;;;#0000FF;FY;;3
+M;M;;;#0000FF;;;3
+T;T;;;#0000FF;;;3
+X;X;;;#0000FF;;;3
+Z;Z;;;#0000FF;;;3
+ZY1;ZY1;;;#0000FF;ZY;;3
