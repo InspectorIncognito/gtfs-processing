@@ -53,7 +53,7 @@ void TablaParadas::Crear()
 
 		double lat, lon;
 
-		ConvertCoordinate::UTMtoLL(23, (*ired).second.y, (*ired).second.x, UTMZONE, lat, lon);
+		ConvertCoordinate::UTMtoLL(23, (*ired).second.y, (*ired).second.x, fdd_->UTMZone, lat, lon);
 
 		string strlat = StringFunctions::Double2String(lat, 10);
 		string strlon = StringFunctions::Double2String(lon, 10);

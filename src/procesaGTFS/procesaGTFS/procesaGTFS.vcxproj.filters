@@ -47,9 +47,6 @@
     <Filter Include="Transporte\Grid">
       <UniqueIdentifier>{94051387-2102-4c82-8e1d-fea42af7981a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Transporte\PuntoBip">
-      <UniqueIdentifier>{122c1100-fa17-45bb-ae2b-a988bef0993b}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Transporte\Trips">
       <UniqueIdentifier>{2715340a-3e10-4ef1-915e-9f555e6e9a1c}</UniqueIdentifier>
     </Filter>
@@ -162,9 +159,6 @@
     </ClCompile>
     <ClCompile Include="Transporte\Paraderos\ProcesaParadas.cpp">
       <Filter>Transporte\Paraderos</Filter>
-    </ClCompile>
-    <ClCompile Include="Transporte\CargaBip\PuntoBip.cpp">
-      <Filter>Transporte\PuntoBip</Filter>
     </ClCompile>
     <ClCompile Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.cpp">
       <Filter>IO\Tablas</Filter>
@@ -284,9 +278,6 @@
     </ClInclude>
     <ClInclude Include="Transporte\Paraderos\ProcesaParadas.h">
       <Filter>Transporte\Paraderos</Filter>
-    </ClInclude>
-    <ClInclude Include="Transporte\CargaBip\PuntoBip.h">
-      <Filter>Transporte\PuntoBip</Filter>
     </ClInclude>
     <ClInclude Include="IO\Tablas\TablaServiciosPorParadasPorSecuencia.h">
       <Filter>IO\Tablas</Filter>

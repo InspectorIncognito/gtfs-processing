@@ -90,8 +90,8 @@ void Visualizaciones::DibujaServicio(Ruta& ruta, map<int, Paradero>& secuencia, 
 		map<int, Vector3D>::iterator inodo2 = inodo;
 		inodo2++;
 
-		ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat2, lon2);
-		ConvertCoordinate::UTMtoLL(23, (*inodo2).second.y, (*inodo2).second.x, UTMZONE, lat3, lon3);
+		ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, fdd_->UTMZone, lat2, lon2);
+		ConvertCoordinate::UTMtoLL(23, (*inodo2).second.y, (*inodo2).second.x, fdd_->UTMZone, lat3, lon3);
 
 		string strlat2 = StringFunctions::Double2String(lat2, 20);
 		string strlon2 = StringFunctions::Double2String(lon2, 20);
@@ -139,7 +139,7 @@ void Visualizaciones::DibujaServicio(Ruta& ruta, map<int, Paradero>& secuencia, 
 	{
 		double lat, lon;
 
-		ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
+		ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, fdd_->UTMZone, lat, lon);
 
 		string strlat = StringFunctions::Double2String(lat, 20);
 		string strlon = StringFunctions::Double2String(lon, 20);
@@ -176,7 +176,7 @@ void Visualizaciones::DibujaRedParadas(CreaKML *kml)
 	{
 		double lat, lon;
 
-		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, UTMZONE, lat, lon);
+		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, fdd_->UTMZone, lat, lon);
 
 		string strlat = StringFunctions::Double2String(lat, 20);
 		string strlon = StringFunctions::Double2String(lon, 20);
@@ -201,7 +201,7 @@ void Visualizaciones::DibujaRedParadas(CreaKML *kml)
 	{
 		double lat, lon;
 
-		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, UTMZONE, lat, lon);
+		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, fdd_->UTMZone, lat, lon);
 
 		string strlat = StringFunctions::Double2String(lat, 20);
 		string strlon = StringFunctions::Double2String(lon, 20);
@@ -227,7 +227,7 @@ void Visualizaciones::DibujaRedParadas(CreaKML *kml)
 	{
 		double lat, lon;
 
-		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, UTMZONE, lat, lon);
+		ConvertCoordinate::UTMtoLL(23, (*ipar).second.y, (*ipar).second.x, fdd_->UTMZone, lat, lon);
 
 		string strlat = StringFunctions::Double2String(lat, 20);
 		string strlon = StringFunctions::Double2String(lon, 20);

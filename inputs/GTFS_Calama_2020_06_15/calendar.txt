@@ -1,4 +1,0 @@
-service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-NOR_L,1,1,1,1,1,0,0,20200101,20201231
-NOR_S,0,0,0,0,0,1,0,20200101,20201231
-NOR_D,0,0,0,0,0,0,1,20200101,20201231

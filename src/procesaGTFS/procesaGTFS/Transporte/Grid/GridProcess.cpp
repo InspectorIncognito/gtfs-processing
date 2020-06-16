@@ -34,6 +34,7 @@ void GridProcess::ConstruyeGrilla()
 	int nTimeStart = Cronometro::GetMilliCount();
 	cout << "Construyendo grilla regular....";
 
+
 	///Deteccion de minimos y maximos que define dimensiones de la grilla
 	fdd_->grid.minLat = 9999999;
 	fdd_->grid.maxLat = -9999999;
@@ -53,7 +54,7 @@ void GridProcess::ConstruyeGrilla()
 		for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
 		{
 			double lat, lon;
-			ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
+			ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, fdd_->UTMZone, lat, lon);
 
 			fdd_->grid.minLat = std::fmin(fdd_->grid.minLat, lat);
 			fdd_->grid.maxLat = std::fmax(fdd_->grid.maxLat, lat);
@@ -78,14 +79,35 @@ void GridProcess::ConstruyeGrilla()
 	fdd_->grid.ddLon = fdd_->grid.delta_Longitud / fdd_->grid.nLon;
 	*/
 
-	fdd_->grid.nLat = 100;
-	fdd_->grid.nLon = 100;
+	//double lat, lon;
+	//ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
+
+	//double x, y;
+	//ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon, y0, x0, UTMZone);
 
 	fdd_->grid.delta_Latitud = fdd_->grid.maxLat - fdd_->grid.minLat;
 	fdd_->grid.delta_Longitud = fdd_->grid.maxLon - fdd_->grid.minLon;
 
-	fdd_->grid.ddLat = fdd_->grid.delta_Latitud / fdd_->grid.nLat;
-	fdd_->grid.ddLon = fdd_->grid.delta_Longitud / fdd_->grid.nLon;
+
+	double cellSizeX = 300;
+	double cellSizeY = 300;
+
+	double x0, y0, x1, y1;
+
+	ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat, fdd_->grid.minLon, y0, x0, fdd_->UTMZone);
+	
+	double lat1, lon1;
+	ConvertCoordinate::UTMtoLL(23, y0 + cellSizeY, x0 + cellSizeX, fdd_->UTMZone, lat1, lon1);
+
+	fdd_->grid.ddLat = lat1 - fdd_->grid.minLat;
+	fdd_->grid.ddLon = lon1 - fdd_->grid.minLon;
+
+	fdd_->grid.nLat = int(fdd_->grid.delta_Latitud / fdd_->grid.ddLat)+1;
+	fdd_->grid.nLon = int(fdd_->grid.delta_Longitud / fdd_->grid.ddLon)+1;
+
+
+	//fdd_->grid.ddLat = fdd_->grid.delta_Latitud / fdd_->grid.nLat;
+	//fdd_->grid.ddLon = fdd_->grid.delta_Longitud / fdd_->grid.nLon;
 
 	fdd_->outParameters << "GridMinLatitude;" << fdd_->grid.minLat << endl;
 	fdd_->outParameters << "GridMinLongitude;" << fdd_->grid.minLon << endl;
@@ -158,7 +180,7 @@ void GridProcess::IngresaRutasAGrilla()
 		{
 			//cout << "flag 2" << endl;
 			double lat, lon;
-			ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
+			ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, fdd_->UTMZone, lat, lon);
 
 			///Calculo la celda
 			int iLat = (lat - fdd_->grid.minLat) / fdd_->grid.ddLat;
@@ -209,7 +231,7 @@ void GridProcess::IngresaRutasAGrilla()
 		//        *            *
 		// (x0,y0)**************(x1,y1)
 		//              s0
-		char UTMZone[5];
+
 		map<int, Vector3D>::iterator inodo_sgt;
 		for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
 		{
@@ -221,8 +243,8 @@ void GridProcess::IngresaRutasAGrilla()
 				//cout << "flag 7" << endl;
 				double lat0, lon0;
 				double lat1, lon1;
-				ConvertCoordinate::UTMtoLL(23, (double)(*inodo).second.y, (double)(*inodo).second.x, UTMZONE, lat0, lon0);
-				ConvertCoordinate::UTMtoLL(23, (double)(*inodo_sgt).second.y, (double)(*inodo_sgt).second.x, UTMZONE, lat1, lon1);
+				ConvertCoordinate::UTMtoLL(23, (double)(*inodo).second.y, (double)(*inodo).second.x, fdd_->UTMZone, lat0, lon0);
+				ConvertCoordinate::UTMtoLL(23, (double)(*inodo_sgt).second.y, (double)(*inodo_sgt).second.x, fdd_->UTMZone, lat1, lon1);
 
 				///Calculo la celda
 				int iLat0 = (lat0 - fdd_->grid.minLat) / fdd_->grid.ddLat;
@@ -259,10 +281,10 @@ void GridProcess::IngresaRutasAGrilla()
 						double x3, y3;
 						//cout << "flag 11" << endl;
 						///Esquinas
-						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon, y0, x0, UTMZone);
-						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat + fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon, y1, x1, UTMZone);
-						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat + fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon + fdd_->grid.ddLon, y2, x2, UTMZone);
-						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon + fdd_->grid.ddLon, y3, x3, UTMZone);
+						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon, y0, x0, fdd_->UTMZone);
+						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat + fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon, y1, x1, fdd_->UTMZone);
+						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat + fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon + fdd_->grid.ddLon, y2, x2, fdd_->UTMZone);
+						ConvertCoordinate::LLtoUTM(23, fdd_->grid.minLat + ilat * fdd_->grid.ddLat, fdd_->grid.minLon + ilon * fdd_->grid.ddLon + fdd_->grid.ddLon, y3, x3, fdd_->UTMZone);
 						//cout << "flag 12" << endl;
 						///Segmentos
 						Segmento s0 = Segmento(Vector3D((*inodo).second.x, (*inodo).second.y, 0), Vector3D((*inodo_sgt).second.x, (*inodo_sgt).second.y, 0));

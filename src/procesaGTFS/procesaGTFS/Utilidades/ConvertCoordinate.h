@@ -1,54 +1,37 @@
-#pragma once
+/**
+* Project: "TransData".
+* Package:
+* Class:
+* Created by: Mauricio Zuñiga G. <mzuniga@pragxis.cl> <mzuniga@gmail.com>
+//converts UTM coords to lat/long.  Equations from USGS Bulletin 1532
+//East Longitudes are positive, West longitudes are negative.
+//North latitudes are positive, South latitudes are negative
+//Lat and Long are in decimal degrees.
+//Written by Chuck Gantz- chuck.gantz@globalstar.com
+* Last modified : Mauricio Zuñiga 01-04-2013
+*/
+#ifndef CONVERTCOORDINATE_H
+#define CONVERTCOORDINATE_H
 
 #include <math.h>
 #include <iostream>
 #include <cstring>
 #include <cstdlib>
-#include "Types.h"
+#include <string>
+#include <sstream>
 
-namespace ConvertCoordinate{
+//#define UTMZONE "19H"
 
-	#define UTMZONE "19K"
-	/**
-	*	Metodo que convierte coordenadas en Latitud/Longitud a UTM
-	*/
-	void LLtoUTM(int ReferenceEllipsoid, const double Lat, const double Long, 
-				double &UTMNorthing, double &UTMEasting, char* UTMZone);
+using namespace std;
 
-	/**
-	*	Metodo que convierte coordenadas UTM a Latitud/Longitud
-	*/
-	void UTMtoLL(int ReferenceEllipsoid, const double UTMNorthing, const double UTMEasting, const char* UTMZone,
-				double& Lat,  double& Long );
-	
+namespace ConvertCoordinate {
+
+	void LLtoUTM(int ReferenceEllipsoid, const double Lat, const double Long, double &UTMNorthing, double &UTMEasting, string& UTMZone);
+
+	void UTMtoLL(int ReferenceEllipsoid, const double UTMNorthing, const double UTMEasting, string UTMZone, double& Lat, double& Long);
+
 	char UTMLetterDesignator(double Lat);
 
-	/**
-	* Metodo que transforma la coordenada X al eje coordenadas UTM
-	* @param x coordenada transformada a eje para minimo uso de memoria
-	* @return x transformada a x UTM 
-	*/
-	int X(unsigned short int x);
-
-	/**
-	* Metodo que transforma la coordenada X UTM a un eje desplazado para mejor uso de memoria
-	* @param x coordenada transformada a eje para minimo uso de memoria
-	* @return x transformada a x UTM 
-	*/
-	unsigned short int X(int x);
-
-	/**
-	* Metodo que transforma la coordenada Y al eje coordenadas UTM
-	* @param y coordenada transformada a eje para minimo uso de memoria
-	* @return y transformada a y UTM 
-	*/
-	int Y(unsigned short int y);
-
-	/**
-	* Metodo que transforma la coordenada Y al eje coordenadas UTM
-	* @param y coordenada transformada a eje para minimo uso de memoria
-	* @return y transformada a y UTM 
-	*/
-	unsigned short int Y(int y);
 }
 
+#endif

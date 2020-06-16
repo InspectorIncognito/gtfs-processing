@@ -69,6 +69,19 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
     //if(parametros->withBip)
     //    leePuntosDeCargaBip();
 
+	for (map<string, int>::iterator it = UTMZonesShapes.begin(); it != UTMZonesShapes.end(); it++)
+		cout << "UTM Zone Shapes: " << (*it).first << endl;
+
+	for (map<string, int>::iterator it = UTMZonesStops.begin(); it != UTMZonesStops.end(); it++)
+		cout << "UTM Zone Stops: " << (*it).first << endl;
+
+	if (UTMZonesShapes.size() > 1 || UTMZonesStops.size() > 1)
+	{
+		cout << "ERROR : Mas de una zona UTM ( # Zonas Shapes : " << int(UTMZonesShapes.size()) << ")" << endl;
+		cout << "ERROR : Mas de una zona UTM ( # Zonas Stops  : " << int(UTMZonesStops.size()) << ")" << endl;
+		exit(1);
+	}
+
 	///Creacion de directorio para almacenar los kmls	
 	system(string("mkdir " + parametros->carpetaKmls).c_str());
 	system(string("mkdir " + parametros->carpetaReportes).c_str());
@@ -249,7 +262,6 @@ void FuenteDatos::leeRutas()
 	int corr_ant;
 
 	double x, y;
-	char UTMZone[5];
 
 	///Lectura archivo primario
 	while (archivoRutas.good())
@@ -281,8 +293,7 @@ void FuenteDatos::leeRutas()
 
 		///Transformacion de coordenadas
 		ConvertCoordinate::LLtoUTM(23, atof(cur[1].c_str()), atof(cur[2].c_str()), y, x, UTMZone);
-
-		//cout << atof(cur[2].c_str()) << "|" << atof(cur[1].c_str()) << "|" << (int)x << "|" << (int)y << endl;
+		UTMZonesShapes[UTMZone] = 1;
 		
 		map< string, Ruta >::iterator iserv = rutas.mapeo->find(servicio);
 
@@ -406,7 +417,6 @@ void FuenteDatos::leeRedDeParadas()
 	cur = StringFunctions::ExplodeF(',', &archivoParaderos);
 
 	double x, y;
-	char UTMZone[5];
 
 	///Lectura archivo primario
 	while (archivoParaderos.good())
@@ -426,6 +436,7 @@ void FuenteDatos::leeRedDeParadas()
 		reporte->nRedParadas++;
 
 		ConvertCoordinate::LLtoUTM(23, atof(cur[3].c_str()), atof(cur[4].c_str()), y, x, UTMZone);
+		UTMZonesStops[UTMZone] = 1; 
 
 		//cout << atof(cur[3].c_str()) << "|" << atof(cur[4].c_str()) << "|" << x << "|" << y << endl;
 
@@ -716,6 +727,14 @@ void FuenteDatos::readStopTimes()
 			secu.version = "-";
 			secu.paradas = tmp;
 
+			
+//			secu.hora_ini = cur[1];
+//			secu.hora_fin = cur[2];
+			
+			secu.hora_ini = tsh.RedondeaMediaHora(cur[1]);
+			secu.hora_fin = tsh.RedondeaMediaHora(cur[2]);
+
+
 			/*
 			ifrec = frecuencias.find(trip_id);
 			if (ifrec != frecuencias.end())
@@ -733,6 +752,7 @@ void FuenteDatos::readStopTimes()
 			if (itrip != trips.end())
 			{
 				secu.shape_id = (*itrip).second.shape_id;
+				secu.tipodia = (*itrip).second.service_id;
 			//	secu.headway = (*ifrec).second.headways;
 			}
 			else
@@ -744,16 +764,19 @@ void FuenteDatos::readStopTimes()
 		else
 		{
 			(*isec).second.paradas[atoi(cur[4].c_str())] = cur[3];
+			(*isec).second.hora_fin = tsh.RedondeaMediaHora(cur[2]);
 		}
 	}
 
 	ofstream dbg;
 	dbg.open("secuencias.txt");
+	dbg << "key|codigo|shape_id|tipodia|hora_ini|hora_fin" << endl;
 	for (map<string, Secuencia >::iterator it = secuencias.begin(); it != secuencias.end(); it++)
 	{
+		dbg << (*it).first << "|";
 		dbg << (*it).second.codigo << "|";
 		dbg << (*it).second.shape_id << "|";
-		dbg << (*it).second.version << "|";
+		dbg << (*it).second.tipodia << "|";
 		dbg << (*it).second.hora_ini << "|";
 		dbg << (*it).second.hora_fin << endl;
 	}

@@ -48,7 +48,7 @@ void TablaRutasSimplificadas::Crear()
 		for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)
 		{
 			double lat, lon;
-			ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, UTMZONE, lat, lon);
+			ConvertCoordinate::UTMtoLL(23, (*inodo).second.y, (*inodo).second.x, fdd_->UTMZone, lat, lon);
 
 			string strlat = StringFunctions::Double2String(lat, 10);
 			string strlon = StringFunctions::Double2String(lon, 10);

@@ -65,6 +65,11 @@ class FuenteDatos{
 	///Parametros externos, nombres de archivo, indices de columnas parametros para el proceso...
 	Parametros* parametros;
 
+	///Zona de UTM
+	string UTMZone;
+	map<string, int> UTMZonesShapes;
+	map<string, int> UTMZonesStops;
+
 	///Referencia a reporte de la lectura de los datos de entrada
 	ReporteFuenteDatos* reporte;
 
@@ -109,6 +114,7 @@ class FuenteDatos{
 		string codigo = string("-");
 		int headway = -1;
 		string shape_id = string("-");
+		string tipodia = string("");
 	};
 
 	map<string, Secuencia > secuencias;

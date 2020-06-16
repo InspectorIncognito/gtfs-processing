@@ -36,6 +36,20 @@ class TablaServiciosPorParadasPorSecuencia{
 		/**
 		* Estructura para los datos
 		*/
+		struct busStopSequence {
+			string servicio;
+			string sentido;
+			string tipodia;
+			string color;
+			string horario;
+			string nombre;
+			string paradas;
+
+			string shape_id;
+			string modo;
+		};
+		map< string, busStopSequence> secuenciasPorHorario;
+		map< string, busStopSequence>::iterator itseq;
 
 		/**
 		* Constructor
@@ -54,6 +68,10 @@ class TablaServiciosPorParadasPorSecuencia{
 		* @param transacciones referencia al conjunto de transacciones del sistema con subida estimada
 		*/
 		void Crear();
+
+		void buildSequenceByScheduleFrequencies();
+
+		void buildSequenceByScheduleItinerary();
 
 		string EliminaCadenasBlancos(string in);
 

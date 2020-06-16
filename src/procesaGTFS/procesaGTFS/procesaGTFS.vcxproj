@@ -158,7 +158,6 @@
     <ClCompile Include="IO\Visualizacion\CreaKML.cpp" />
     <ClCompile Include="IO\Visualizacion\Visualizaciones.cpp" />
     <ClCompile Include="procesaGTFS.cpp" />
-    <ClCompile Include="Transporte\CargaBip\PuntoBip.cpp" />
     <ClCompile Include="Transporte\Diccionarios\DiccionarioServicios.cpp" />
     <ClCompile Include="Transporte\Grid\Cell.cpp" />
     <ClCompile Include="Transporte\Grid\Grid.cpp" />
@@ -199,7 +198,6 @@
     <ClInclude Include="IO\Visualizacion\ColorScale.h" />
     <ClInclude Include="IO\Visualizacion\CreaKML.h" />
     <ClInclude Include="IO\Visualizacion\Visualizaciones.h" />
-    <ClInclude Include="Transporte\CargaBip\PuntoBip.h" />
     <ClInclude Include="Transporte\Diccionarios\DiccionarioServicios.h" />
     <ClInclude Include="Transporte\Grid\Cell.h" />
     <ClInclude Include="Transporte\Grid\Grid.h" />
