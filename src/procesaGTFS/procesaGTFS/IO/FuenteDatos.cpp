@@ -700,8 +700,6 @@ void FuenteDatos::readStopTimes()
 		if (cur.size() == 0 || cur[0].compare("") == 0)
 			continue;
 
-		///Generacion del codigo servicio-sentido concatenando las 3 columnas servicio-sentido-variante
-
 		map< string, Trip >::iterator itrip = trips.find(cur.at(0));
 		string servicio;
 		if (itrip != trips.end())
@@ -712,6 +710,25 @@ void FuenteDatos::readStopTimes()
 		{
 			cout << "ERROR : no se encontro el trip de id : " << cur.at(0) << endl;
 			continue;
+		}
+
+		///Actualizo modo en paraderos
+		map<string, Paradero>::iterator ipar = redParaderos.red.find(cur.at(3));
+		if (ipar != redParaderos.red.end())
+		{
+			map<string, Servicio>::iterator itserv=servicios.find((*itrip).second.route_id);
+			if (itserv != servicios.end())
+			{
+				(*ipar).second.mode = (*itserv).second.tipo;
+			}
+			else
+			{
+				cout << "ERROR : Ruta no encontrada en los trips :" << (*itrip).second.route_id << endl;
+			}
+		}
+		else
+		{
+			cout << "ERROR : Parada de stoptimes no encontrada en red de paradas : " << cur.at(3) << endl;
 		}
 
 		string trip_id = cur[0];
@@ -727,34 +744,14 @@ void FuenteDatos::readStopTimes()
 			secu.version = "-";
 			secu.paradas = tmp;
 			secu.destino = (*itrip).second.trip_headsign;
-
-			
-//			secu.hora_ini = cur[1];
-//			secu.hora_fin = cur[2];
 			
 			secu.hora_ini = tsh.RedondeaMediaHora(cur[1]);
 			secu.hora_fin = tsh.RedondeaMediaHora(cur[2]);
 
-
-			/*
-			ifrec = frecuencias.find(trip_id);
-			if (ifrec != frecuencias.end())
-			{
-				secu.hora_ini = (*ifrec).second.hora_ini;
-				secu.hora_fin = (*ifrec).second.hora_fin;
-			}
-			else
-			{
-				cout << "no encontre en frequencies : " << trip_id << endl;
-			}
-			*/
-
-			//itrip = trips.find(trip_id);
 			if (itrip != trips.end())
 			{
 				secu.shape_id = (*itrip).second.shape_id;
 				secu.tipodia = (*itrip).second.service_id;
-			//	secu.headway = (*ifrec).second.headways;
 			}
 			else
 			{
