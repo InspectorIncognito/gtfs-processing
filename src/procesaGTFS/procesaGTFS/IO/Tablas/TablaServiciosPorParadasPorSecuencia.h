@@ -44,6 +44,7 @@ class TablaServiciosPorParadasPorSecuencia{
 			string horario;
 			string nombre;
 			string paradas;
+			string destino;
 
 			string shape_id;
 			string modo;

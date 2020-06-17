@@ -115,6 +115,7 @@ class FuenteDatos{
 		int headway = -1;
 		string shape_id = string("-");
 		string tipodia = string("");
+		string destino = string("");
 	};
 
 	map<string, Secuencia > secuencias;

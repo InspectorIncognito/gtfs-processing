@@ -726,6 +726,7 @@ void FuenteDatos::readStopTimes()
 			secu.codigo = servicio;
 			secu.version = "-";
 			secu.paradas = tmp;
+			secu.destino = (*itrip).second.trip_headsign;
 
 			
 //			secu.hora_ini = cur[1];

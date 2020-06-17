@@ -45,18 +45,34 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 	map< string, map<string, FuenteDatos::Secuencia> >::iterator itsecps;
 	for (map<string, FuenteDatos::Secuencia >::iterator isec = fdd_->secuencias.begin(); isec != fdd_->secuencias.end(); isec++)
 	{
-		itsecps = secuenciasPorServicio.find((*isec).second.codigo);
+		string key = (*isec).second.codigo + "_" + (*isec).second.tipodia;
+		itsecps = secuenciasPorServicio.find(key);
 		if (itsecps == secuenciasPorServicio.end())
 		{
 			map<string, FuenteDatos::Secuencia> tmp;
 			tmp[(*isec).first] = (*isec).second;
-			secuenciasPorServicio[(*isec).second.codigo] = tmp;
+			secuenciasPorServicio[key] = tmp;
 		}
 		else
 		{
 			(*itsecps).second[(*isec).first] = (*isec).second;
 		}
 	}
+
+	ofstream dbg;
+	dbg.open("secuenciasPorServicio.txt");
+	for (itsecps = secuenciasPorServicio.begin(); itsecps != secuenciasPorServicio.end(); itsecps++)
+	{
+		for (map<string, FuenteDatos::Secuencia>::iterator it = (*itsecps).second.begin(); it != (*itsecps).second.end(); it++)
+		{
+			dbg << (*itsecps).first << "|";
+			dbg << (*it).first << "|";
+			dbg << (*it).second.codigo << "|";
+			dbg << (*it).second.hora_ini << "|";
+			dbg << (*it).second.hora_fin << endl;
+		}
+	}
+	dbg.close();
 
 	///Deteccion de horarios por servicio
 	map< string, map<string,int> > horariosPorServicio;
@@ -82,6 +98,19 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 			}
 		}
 	}
+
+	ofstream dbg0;
+	dbg0.open("mediasHorasPorServicio.txt");
+	for (ithorario = horariosPorServicio.begin(); ithorario != horariosPorServicio.end(); ithorario++)
+	{
+		for (map<string, int>::iterator imh = (*ithorario).second.begin(); imh != (*ithorario).second.end(); imh++)
+		{
+			dbg0 << (*ithorario).first << "|";
+			dbg0 << (*imh).first << "|";
+			dbg0 << (*imh).second << endl;
+		}
+	}
+	dbg0.close();
 
 	///Construccion de horarrios por servicio
 	map<string, map< int, int> > bloquesHorariosPorServicio;
@@ -147,6 +176,19 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 		}
 	}
 
+	ofstream dbg1;
+	dbg1.open("BloquesPorServicio.txt");
+	for (itbloquepser = bloquesHorariosPorServicio.begin(); itbloquepser != bloquesHorariosPorServicio.end(); itbloquepser++)
+	{
+		for (map<int, int>::iterator imh = (*itbloquepser).second.begin(); imh != (*itbloquepser).second.end(); imh++)
+		{
+			dbg1 << (*itbloquepser).first << "|";
+			dbg1 << fdd_->tsh.Seconds2TimeStampInDay((*imh).first) << "|";
+			dbg1 << fdd_->tsh.Seconds2TimeStampInDay((*imh).second) << endl;
+		}
+	}
+	dbg1.close();
+	
 	///Construccion de dato para imprimir archivo de salida
 	for (itsecps = secuenciasPorServicio.begin(); itsecps != secuenciasPorServicio.end(); itsecps++)
 	{
@@ -154,7 +196,7 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 
 		vector<string> servicioSentido = StringFunctions::Explode((*itsecps).first, '_');
 
-		if (servicioSentido.size() != 2)
+		if (servicioSentido.size() != 3)
 			cout << "ERROR : codificacion de servicio con problemas : " << (*itsecps).first << endl;
 
 		busStopSequence bss;
@@ -203,8 +245,9 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 
 		bss.servicio = servicioSentido.at(0);
 		bss.sentido = servicioSentido.at(1);
-		bss.tipodia = (*itsec0).second.tipodia;
+		bss.tipodia = servicioSentido.at(2);
 		bss.shape_id = (*itsec0).second.shape_id;
+		bss.destino = (*itsec0).second.destino;
 
 
 		string key = bss.servicio + ";" + bss.sentido + ";" + bss.tipodia + ";" + bss.paradas;
@@ -242,53 +285,11 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 		fout << (*itseq).second.horario << ";";
 		fout << (*itseq).second.color << ";";
 		//fout << toCamelCase(string((*itseq).second.nombre + ";"));
-		fout << (*itseq).second.nombre << ";";
+		fout << (*itseq).second.destino << ";";
 		fout << tmp[3] << endl;
 	}
 	fout.close();
-
-
-	ofstream dbg;
-	dbg.open("secuenciasPorServicio.txt");
-	for (itsecps = secuenciasPorServicio.begin(); itsecps != secuenciasPorServicio.end(); itsecps++)
-	{
-		for (map<string, FuenteDatos::Secuencia>::iterator it = (*itsecps).second.begin(); it != (*itsecps).second.end(); it++)
-		{
-			dbg << (*itsecps).first << "|";
-			dbg << (*it).first << "|";
-			dbg << (*it).second.codigo << "|";
-			dbg << (*it).second.hora_ini << "|";
-			dbg << (*it).second.hora_fin << endl;
-		}
-	}
-	dbg.close();
-
-
-	ofstream dbg0;
-	dbg0.open("mediasHorasPorServicio.txt");
-	for (ithorario = horariosPorServicio.begin(); ithorario != horariosPorServicio.end(); ithorario++)
-	{
-		for (map<string, int>::iterator imh = (*ithorario).second.begin(); imh != (*ithorario).second.end(); imh++)
-		{
-			dbg0 << (*ithorario).first << "|";
-			dbg0 << (*imh).first << "|";
-			dbg0 << (*imh).second << endl;
-		}
-	}
-	dbg0.close();
-
-	ofstream dbg1;
-	dbg1.open("BloquesPorServicio.txt");
-	for (itbloquepser = bloquesHorariosPorServicio.begin(); itbloquepser != bloquesHorariosPorServicio.end(); itbloquepser++)
-	{
-		for (map<int, int>::iterator imh = (*itbloquepser).second.begin(); imh != (*itbloquepser).second.end(); imh++)
-		{
-			dbg1 << (*itbloquepser).first << "|";
-			dbg1 << fdd_->tsh.Seconds2TimeStampInDay((*imh).first) << "|";
-			dbg1 << fdd_->tsh.Seconds2TimeStampInDay((*imh).second) << endl;
-		}
-	}
-	dbg1.close();
+	
 }
 
 void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleFrequencies()
