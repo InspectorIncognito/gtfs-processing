@@ -113,11 +113,15 @@ void GridProcess::ConstruyeGrilla()
 	fdd_->outParameters << "GridMinLongitude;" << fdd_->grid.minLon << endl;
 	fdd_->outParameters << "GridDistLatitude;" << fdd_->grid.ddLat << endl;
 	fdd_->outParameters << "GridDistLongitude;" << fdd_->grid.ddLon << endl;
+	fdd_->outParameters << "GridNLatitud;" << fdd_->grid.nLat << endl;
+	fdd_->outParameters << "GridNLongitude;" << fdd_->grid.nLon << endl;
 
 	cout << "Min : " << fdd_->grid.minLat << " | " << fdd_->grid.minLon << endl;
 	cout << "Max : " << fdd_->grid.maxLat << " | " << fdd_->grid.maxLon << endl;
 	cout << "ddLat : " << fdd_->grid.ddLat << endl;
 	cout << "ddLon : " << fdd_->grid.ddLon << endl;
+	cout << "nLat : " << fdd_->grid.nLat << endl;
+	cout << "nLon : " << fdd_->grid.nLon << endl;
 
 	///Llenado de estructura
 	for (double dLat = 0; dLat <= fdd_->grid.delta_Latitud; dLat += fdd_->grid.ddLat)
