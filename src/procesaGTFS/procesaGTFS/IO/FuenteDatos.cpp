@@ -118,7 +118,7 @@ void FuenteDatos::readTrips()
 		trip.trip_id = cur0[2];
 		trip.trip_headsign = cur0[3];
 		trip.direction_id = cur0[5];
-		trip.shape_id = cur0[6];
+		trip.shape_id = cur0[7];
 
 		trips[cur0[2]] = trip;
 	}
@@ -435,7 +435,7 @@ void FuenteDatos::leeRedDeParadas()
 
 		reporte->nRedParadas++;
 
-		ConvertCoordinate::LLtoUTM(23, atof(cur[3].c_str()), atof(cur[4].c_str()), y, x, UTMZone);
+		ConvertCoordinate::LLtoUTM(23, atof(cur[4].c_str()), atof(cur[5].c_str()), y, x, UTMZone);
 		UTMZonesStops[UTMZone] = 1; 
 
 		//cout << atof(cur[3].c_str()) << "|" << atof(cur[4].c_str()) << "|" << x << "|" << y << endl;
@@ -444,7 +444,7 @@ void FuenteDatos::leeRedDeParadas()
 		string mode = string("-");
 
 
-		Paradero par = Paradero(atof(cur[3].c_str()), atof(cur[4].c_str()),(int)x, (int)y, cur[0], nombre);
+		Paradero par = Paradero(atof(cur[4].c_str()), atof(cur[5].c_str()),(int)x, (int)y, cur[0], nombre);
 		par.mode = mode;
 
 		redParaderos.red[par.codigo] = par;
@@ -610,7 +610,7 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		}
 		else
 		{
-			cout << "ERROR no se encuentra la ruta : " << servicio << endl;
+			cout << "ERROR (300) no se encuentra la ruta : " << servicio << endl;
 		}
 
 		if (activo)
