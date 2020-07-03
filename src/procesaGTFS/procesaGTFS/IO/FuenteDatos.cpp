@@ -123,6 +123,19 @@ void FuenteDatos::readTrips()
 		trips[cur0[2]] = trip;
 	}
 
+	ofstream dbg;
+	dbg.open("trips.dbg");
+	for (map< string, Trip >::iterator it = trips.begin(); it != trips.end(); it++)
+	{
+		dbg << (*it).first << "|";
+		dbg << (*it).second.route_id << "|";
+		dbg << (*it).second.service_id << "|";
+		dbg << (*it).second.trip_id << "|";
+		dbg << (*it).second.trip_headsign << "|";
+		dbg << (*it).second.direction_id << "|";
+		dbg << (*it).second.shape_id << endl;
+	}
+
 	///Variables para reporte
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
@@ -150,11 +163,14 @@ void FuenteDatos::leeDiccionarioServicios()
 	///Lectura del header
 	header = StringFunctions::ExplodeF(',', &archivoDiccionario);
 
-    int iLongName=3;
-    int iRouteColor=7;
-    int iRouteId = 0;
-    header.at(0).erase(0,3);
-    
+	int iRouteId = 0;
+	int iRouteShortName = 2;
+	int iRouteLongName = 3;
+    int iRouteDescr=4;
+	int iRouteType = 5;
+    int iRouteColor = 7;
+	int iRouteTextColor = 8;
+
 	///Lectura archivo primario
 	while (archivoDiccionario.good())
 	{
@@ -170,30 +186,17 @@ void FuenteDatos::leeDiccionarioServicios()
 		///Informacion para el reporte
 		reporte->nRegistrosDiccionario++;
 		
-		///nombre
-		std::locale loc;
-		std::string str = cur[iLongName];
-		for (std::string::size_type i = 0; i < cur[iLongName].length(); ++i)
-			str[i] = std::toupper(cur[iLongName][i], loc);
-		
-		///color
-		string color = string("#"+cur.at(iRouteColor));
-		
-		Servicio ser = Servicio(cur[iRouteId], "", "", color);;
+		Servicio ser;// = Servicio(cur[iRouteId], "", "", string("#" + cur.at(iRouteColor)));
 
-		vector<string> od = StringFunctions::Explode(str, '-');
+		ser.route_id = cur.at(iRouteId);
+		ser.route_short_name = cur.at(iRouteShortName);
+		ser.route_long_name = cur.at(iRouteLongName);
+		ser.route_desc = cur.at(iRouteDescr);
+		ser.route_type = cur.at(iRouteType);
+		ser.route_color = "#" + cur.at(iRouteColor);
+		ser.route_text_color = "#" + cur.at(iRouteTextColor);
 
-		if (od.size() == 2)
-			ser = Servicio(cur[iRouteId], od[0].substr(0, od[0].length() - 1), od[1].substr(1, od[1].length()), color);
-		else if (od.size() == 1)
-			ser = Servicio(cur[iRouteId], od[0].substr(0, od[0].length() - 1), "", color);
-			//ser = Servicio(cur[iRouteId], str, "", color);
-		else
-			cout << "ERROR : Servicio no bien definido en datos de entrada(routes.txt)!" << endl;
-
-		ser.tipo = cur.at(5);
-
-		servicios[ser.nombre] = ser;
+		servicios[ser.route_id] = ser;
 
 		///Insercion en diccionario de servicios-sentidos global
 		dicSS.servicios[string(cur[iRouteId] + "_I")] = cur[iRouteId];
@@ -217,13 +220,13 @@ void FuenteDatos::leeDiccionarioServicios()
 	for (map<string, Servicio>::iterator it = servicios.begin(); it != servicios.end(); it++)
 	{
 		fout1 << (*it).first << ";";
-		fout1 << (*it).second.nombre << ";";
-		fout1 << (*it).second.horarioI << ";";
-		fout1 << (*it).second.horarioR << ";";
-		fout1 << (*it).second.color << ";";
-		fout1 << (*it).second.origen << ";";
-		fout1 << (*it).second.destino << ";";
-		fout1 << (*it).second.tipo << endl;
+		fout1 << (*it).second.route_id << ";";
+		fout1 << (*it).second.route_short_name << ";";
+		fout1 << (*it).second.route_long_name << ";";
+		fout1 << (*it).second.route_type << ";";
+		fout1 << (*it).second.route_desc << ";";
+		fout1 << (*it).second.route_color << ";";
+		fout1 << (*it).second.route_text_color << endl;
 	}
 	fout1.close();
 
@@ -574,12 +577,21 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		string servicio;
 		if (itrip != trips.end())
 		{
-			servicio = (*itrip).second.shape_id;
+			map<string, Servicio>::iterator iserv = servicios.find((*itrip).second.route_id);
+
+			if (iserv != servicios.end())
+			{
+				if((*itrip).second.direction_id.compare("0")==0)
+					servicio = (*iserv).second.route_short_name + "_I";
+				else
+					servicio = (*iserv).second.route_short_name + "_R";
+
+			}
 		}
 		else
 		{
 			cout << "ERROR : no se encontro el trip de id : " << cur.at(0) << endl;
-			continue;
+			exit(1);
 		}
 
 		if (servicio.compare(servicio_ant) != 0)
@@ -598,7 +610,7 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		else
 		{
 			cout << "ERROR : paradero " << cur[3] << " de stops_times.txt no se encuentra en stops.txt!" << endl;
-			continue;
+			exit(1);
 		}
 
 		iRuta = rutas.mapeo->find(servicio);
@@ -611,6 +623,7 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		else
 		{
 			cout << "ERROR (300) no se encuentra la ruta : " << servicio << endl;
+			exit(1);
 		}
 
 		if (activo)
@@ -681,6 +694,16 @@ void FuenteDatos::readStopTimes()
 	else
 		cout << "Cargando datos de Secuencia de Paraderos (" << parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt" << ")... ";
 
+	int i_trip_id=0;
+	int i_arrival_time=1;
+	int i_departure_time = 2;
+	int i_stop_id = 3;
+	int i_stop_sequence = 4;
+	int i_stop_headsign = 5;
+	int i_pickup_type = 6;
+	int i_drop_off_type = 7;
+	int i_timepoint = 8;
+
 	///Vector contenedor de la linea actual del archivo
 	vector<string> cur;
 
@@ -701,15 +724,10 @@ void FuenteDatos::readStopTimes()
 			continue;
 
 		map< string, Trip >::iterator itrip = trips.find(cur.at(0));
-		string servicio;
-		if (itrip != trips.end())
-		{
-			servicio = (*itrip).second.shape_id;
-		}
-		else
+		if (itrip == trips.end())
 		{
 			cout << "ERROR : no se encontro el trip de id : " << cur.at(0) << endl;
-			continue;
+			exit(1);
 		}
 
 		///Actualizo modo en paraderos
@@ -719,16 +737,18 @@ void FuenteDatos::readStopTimes()
 			map<string, Servicio>::iterator itserv=servicios.find((*itrip).second.route_id);
 			if (itserv != servicios.end())
 			{
-				(*ipar).second.mode = (*itserv).second.tipo;
+				(*ipar).second.mode = (*itserv).second.route_type;
 			}
 			else
 			{
 				cout << "ERROR : Ruta no encontrada en los trips :" << (*itrip).second.route_id << endl;
+				exit(1);
 			}
 		}
 		else
 		{
 			cout << "ERROR : Parada de stoptimes no encontrada en red de paradas : " << cur.at(3) << endl;
+			exit(1);
 		}
 
 		string trip_id = cur[0];
@@ -740,13 +760,27 @@ void FuenteDatos::readStopTimes()
 			tmp[atoi(cur[4].c_str())] = cur[3];
 
 			Secuencia secu;
-			secu.codigo = servicio;
+			//secu.codigo = servicio;
+			secu.route_id = (*itrip).second.route_id;
+			secu.route_direction_id = (*itrip).second.direction_id;
+
+			map<string, Servicio>::iterator iserv = servicios.find((*itrip).second.route_id);
+			if (iserv != servicios.end())
+			{
+				secu.route_short_name = (*iserv).second.route_short_name;
+				secu.route_long_name = (*iserv).second.route_long_name;
+			}
+			else
+			{
+				cout << "ERROR : No se encuentra servicio en el routes.txt : " << (*itrip).second.route_id << endl;
+			}
+
 			secu.version = "-";
 			secu.paradas = tmp;
 			secu.destino = (*itrip).second.trip_headsign;
 			
-			secu.hora_ini = tsh.RedondeaMediaHora(cur[1]);
-			secu.hora_fin = tsh.RedondeaMediaHora(cur[2]);
+			secu.hora_ini = tsh.Redondea1Hora(cur[1]);
+			secu.hora_fin = tsh.Redondea1Hora(cur[2]);
 
 			if (itrip != trips.end())
 			{
@@ -762,7 +796,7 @@ void FuenteDatos::readStopTimes()
 		else
 		{
 			(*isec).second.paradas[atoi(cur[4].c_str())] = cur[3];
-			(*isec).second.hora_fin = tsh.RedondeaMediaHora(cur[2]);
+			(*isec).second.hora_fin = tsh.Redondea1Hora(cur[2]);
 		}
 	}
 
@@ -772,7 +806,7 @@ void FuenteDatos::readStopTimes()
 	for (map<string, Secuencia >::iterator it = secuencias.begin(); it != secuencias.end(); it++)
 	{
 		dbg << (*it).first << "|";
-		dbg << (*it).second.codigo << "|";
+		//dbg << (*it).second.codigo << "|";
 		dbg << (*it).second.shape_id << "|";
 		dbg << (*it).second.tipodia << "|";
 		dbg << (*it).second.hora_ini << "|";

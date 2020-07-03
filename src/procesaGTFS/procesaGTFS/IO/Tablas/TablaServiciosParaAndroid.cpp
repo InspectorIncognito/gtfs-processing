@@ -36,8 +36,8 @@ void TablaServiciosParaAndroid::Crear()
 	fileout.open(string(fdd_->parametros->carpetaOutput + "/" + fdd_->parametros->version + "/" + "PhoneServices.csv").c_str());
 	//fileout.open("Android_services" + fdd_->parametros->version + ".csv");
 	fileout << "service;";
-	fileout << "origin;";
-	fileout << "destiny;";
+	//fileout << "origin;";
+	fileout << "long_name;";
 	fileout << "color_id;";
 	fileout << "stopsI;";
 	fileout << "stopsR;";
@@ -49,6 +49,7 @@ void TablaServiciosParaAndroid::Crear()
 	{
 		fileout << (*iserv).first << ";";
 
+		/*
 		vector<string> palabrasOrigen = StringFunctions::Explode((*iserv).second.origen, ' ');
 
 		for (int i = 0; i < palabrasOrigen.size(); i++)
@@ -59,7 +60,11 @@ void TablaServiciosParaAndroid::Crear()
 				fileout << " " << NormalizaPalabra(palabrasOrigen.at(i));
 		}
 		fileout << ";";
+		*/
 
+		fileout << NormalizaPalabra((*iserv).second.route_long_name) << ";";
+		
+		/*
 		vector<string> palabrasDestino = StringFunctions::Explode((*iserv).second.destino, ' ');
 
 		for (int i = 0; i < palabrasDestino.size(); i++)
@@ -70,6 +75,7 @@ void TablaServiciosParaAndroid::Crear()
 				fileout << " " << NormalizaPalabra(palabrasDestino.at(i));
 		}
 		fileout << ";";
+		*/
 
 		//string color_ser = string("-");
 		//string modo = string("-");
@@ -77,7 +83,7 @@ void TablaServiciosParaAndroid::Crear()
 		if (is != fdd_->servicios.end())
 		{
 			//color_ser = (*iserv).second.color;
-			fileout << (*is).second.color << ";";
+			fileout << (*is).second.route_color << ";";
 			//modo = (*iserv).second.tipo;
 		}
 

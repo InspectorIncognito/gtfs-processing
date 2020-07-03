@@ -22,6 +22,7 @@ Servicio::~Servicio(void)
 {
 }
 
+/*
 Servicio::Servicio(string nombre_, string origen_, string destino_, string color_)
 {
 	nombre = nombre_;
@@ -31,3 +32,4 @@ Servicio::Servicio(string nombre_, string origen_, string destino_, string color
 	horarioI = ("");
 	horarioR = ("");
 }
+*/

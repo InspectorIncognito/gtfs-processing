@@ -2,7 +2,6 @@ Parametros Asignacion Paradero a validacion
 ------------------------
 
 c:\workspace\GTFSProcessing\inputs\GTFS_Calama_2020_06_25					* Nombre Archivo de salida de validaciones procesadas
-c:\workspace\GTFSProcessing\inputs\bip\PhoneFairPoints.csv						* Nombre Archivo de salida de validaciones procesadas
 c:\workspace\GTFSProcessing\inputs\GTFS_Calama_kmls\				* carpeta para kmls
 c:\workspace\GTFSProcessing\inputs\GTFS_Calama_reportes\			* carpeta para reportes
 c:\workspace\GTFSProcessing\output			* carpeta para salida

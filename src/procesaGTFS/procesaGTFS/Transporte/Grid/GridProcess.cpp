@@ -169,15 +169,15 @@ void GridProcess::IngresaRutasAGrilla()
 	int nTimeStart = Cronometro::GetMilliCount();
 	cout << "Ingresando rutas a grilla regular...." << endl;
 
-	map<string, string>::iterator iDicServ;
+	//map<string, string>::iterator iDicServ;
 	map< string, map<int, int> >::iterator iCelRuta;
 	//cout << "flag 0" << endl;
 	for (map<string, Ruta>::iterator iruta = fdd_->rutas.mapeo->begin(); iruta != fdd_->rutas.mapeo->end(); iruta++)
 	{
-		iDicServ = fdd_->dicSS.servicios.find((*iruta).first);
+		//iDicServ = fdd_->dicSS.servicios.find((*iruta).first);
 
-		if (iDicServ == fdd_->dicSS.servicios.end())
-			continue;
+		//if (iDicServ == fdd_->dicSS.servicios.end())
+		//	continue;
 		//cout << "flag 1" << endl;
 		///1.- Deteccion de nodos dentro de celda
 		for (map<int, Vector3D>::iterator inodo = (*iruta).second.nodosSimplificados->begin(); inodo != (*iruta).second.nodosSimplificados->end(); inodo++)

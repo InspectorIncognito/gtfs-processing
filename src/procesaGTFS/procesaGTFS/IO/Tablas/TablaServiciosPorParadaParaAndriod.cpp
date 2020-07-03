@@ -34,27 +34,29 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 	///Construccion del dato
 	map<string, map<string,int> > output;
 	map<string, map<string, int> >::iterator it;
-	map<string, string>::iterator iDicServ;
+	//map<string, string>::iterator iDicServ;
 	for (map< string, map < int, Paradero > >::iterator iserv = fdd_->secParaderosTODOS.secuencias.begin(); iserv != fdd_->secParaderosTODOS.secuencias.end(); iserv++)
 	{
 		for (map < int, Paradero >::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
 		{
-			iDicServ = fdd_->dicSS.servicios.find((*iserv).first);
+			//iDicServ = fdd_->dicSS.servicios.find((*iserv).first);
+			
 
-			if (iDicServ == fdd_->dicSS.servicios.end())
-				continue;
+			//if (iDicServ == fdd_->dicSS.servicios.end())
+			//	continue;
 
+			//cout << (*iserv).first << endl;
 			it = output.find((*ipar).second.codigo);
 
 			if (it == output.end())
 			{
 				map<string, int> tmp;
-				tmp[(*iDicServ).second] = 1;
+				tmp[(*iserv).first] = 1;
 				output[(*ipar).second.codigo] = tmp;
 			}
 			else
 			{
-				(*it).second[(*iDicServ).second] = 1;
+				(*it).second[(*iserv).first] = 1;
 			}
 
 		}
@@ -91,16 +93,17 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 			fileout << (*ired).second.codigo<< ";";
 
 			string nombre = (*ired).second.nombre;
-			if ((*ired).second.mode.compare("3") == 0 || (*ired).second.mode.compare("100") == 0)
-			{
-				nombre = string("");
-				vector<string> nombre_ = StringFunctions::Explode((*ired).second.nombre, '-');
-				///concatenacion de campos extras
-				for (int i = 1; i < nombre_.size(); i++)
-					nombre.append(nombre_.at(i));
-			}
+			//if ((*ired).second.mode.compare("3") == 0 || (*ired).second.mode.compare("100") == 0)
+			//{
+			//	nombre = string("");
+			//	vector<string> nombre_ = StringFunctions::Explode((*ired).second.nombre, '-');
+			//	///concatenacion de campos extras
+			//	for (int i = 1; i < nombre_.size(); i++)
+			//		nombre.append(nombre_.at(i));
+			//}
 
-			fileout << EliminaCadenasBlancos(nombre) << ";";
+			//fileout << EliminaCadenasBlancos(nombre) << ";";
+			fileout << nombre << ";";
 			fileout << lat << ";";
 			fileout << lon << ";";
 		}
@@ -111,10 +114,19 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 
 		for (map<string, int>::iterator it1 = (*it).second.begin(); it1 != (*it).second.end(); it1++)
 		{
+			vector<string> serviciosentido = StringFunctions::Explode((*it1).first, '_');
+
+			if (serviciosentido.size() != 2)
+			{
+				cout << "ERROR : Servicio no cumple el estandar de nombre_servicio : " << (*it1).first << endl;
+				cout << "Ejecucion detenenida." << endl;
+				exit(1);
+			}
+
 			if(it1== (*it).second.begin())
-				fileout << (*it1).first ;
+				fileout << serviciosentido.at(0);
 			else
-				fileout << "-" << (*it1).first;
+				fileout << "|" << serviciosentido.at(0);
 		}
 		fileout << endl;
 		

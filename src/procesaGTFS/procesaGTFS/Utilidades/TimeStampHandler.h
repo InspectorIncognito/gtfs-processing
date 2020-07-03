@@ -74,6 +74,7 @@ public:
 	string ChangeFormatTime(string time);
 	string Redondea10Min(string time);
 	string RedondeaMediaHora(string time);
+	string Redondea1Hora(string time);
 	int nDiasDelMes(int ano,int mes);
 
 	/**

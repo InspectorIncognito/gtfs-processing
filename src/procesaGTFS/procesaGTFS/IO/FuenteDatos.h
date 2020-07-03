@@ -107,15 +107,22 @@ class FuenteDatos{
 	struct Secuencia
 	{
 		map<int, string> paradas;
+		
 		string hora_ini = string("-");
 		string hora_fin = string("-");
+
 		string nombre = string("-");
 		string version = string("-");
-		string codigo = string("-");
+		//string codigo = string("-");
 		int headway = -1;
 		string shape_id = string("-");
 		string tipodia = string("");
 		string destino = string("");
+
+		string route_id;
+		string route_short_name;
+		string route_long_name;
+		string route_direction_id;
 	};
 
 	map<string, Secuencia > secuencias;

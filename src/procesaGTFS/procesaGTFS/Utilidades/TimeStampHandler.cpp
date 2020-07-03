@@ -362,6 +362,22 @@ string TimeStampHandler::RedondeaMediaHora(string time)
 
 }
 
+string TimeStampHandler::Redondea1Hora(string time)
+{
+	vector<string> time1 = StringFunctions::Explode(time, ':');
+
+	int hora = atoi(time1[0].c_str());
+	int min = atoi(time1[1].c_str());
+	int seg = atoi(time1[2].c_str());
+
+	string output("");
+	output.append(time1[0]);
+	output.append(":00:00");
+
+	return output;
+
+}
+
 string TimeStampHandler::DateStandar(string date_)
 {
 	vector<string> date = StringFunctions::Explode(date_, '/' );

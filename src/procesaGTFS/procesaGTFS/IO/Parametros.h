@@ -61,7 +61,7 @@ public:
 	//string nombreArchivoHorariosMetro;
 
 	///Nombre de archivo con datos de puntos de carga bip
-	string nombreArchivoPuntosCargaBip;
+	//string nombreArchivoPuntosCargaBip;
 
 	///Nombre de archivo con los datos de secuencias de paradas de dtpm
 	//string nombreArchivoConsolidadoDeParadascddcsd;

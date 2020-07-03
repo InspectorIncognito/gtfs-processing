@@ -1,7 +1,0 @@
-/home/mauricio/workspace/GTFSProcessing/src/gtfsTransapp/build/CMakeFiles/install/strip.dir
-/home/mauricio/workspace/GTFSProcessing/src/gtfsTransapp/build/CMakeFiles/edit_cache.dir
-/home/mauricio/workspace/GTFSProcessing/src/gtfsTransapp/build/CMakeFiles/gtfstransapp.dir
-/home/mauricio/workspace/GTFSProcessing/src/gtfsTransapp/build/CMakeFiles/rebuild_cache.dir
-/home/mauricio/workspace/GTFSProcessing/src/gtfsTransapp/build/CMakeFiles/list_install_components.dir
-/home/mauricio/workspace/GTFSProcessing/src/gtfsTransapp/build/CMakeFiles/install/local.dir
-/home/mauricio/workspace/GTFSProcessing/src/gtfsTransapp/build/CMakeFiles/install.dir

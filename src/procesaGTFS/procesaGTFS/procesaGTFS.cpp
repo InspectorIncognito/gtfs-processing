@@ -79,9 +79,6 @@ int main(int argc, const char* argv[])
 	//Tabla de paradas para Android
 	TablaServiciosPorParadaParaAndriod *tParadasParaAndriod = new TablaServiciosPorParadaParaAndriod(fdd);
 
-	///Tabla de servicios para Android
-	//TablaServiciosParaAndroid *tServiciosParaAndroid = new TablaServiciosParaAndroid(fdd);
-
 	///Tabla de puntos de carga
 	//TablaPuntoCarga *tPuntosDecarga = new TablaPuntoCarga(fdd);
 

@@ -115,7 +115,7 @@ void TablaGrilla::Crear()
 					if (istops == fdd_->grid.cells.at(iLat).at(iLon).stops.begin())
 						fileout1 << (*istops);
 					else
-						fileout1 << "/" << (*istops);
+						fileout1 << "|" << (*istops);
 				}
 				fileout1 << ";";
 
@@ -125,13 +125,13 @@ void TablaGrilla::Crear()
 					if (iroute == fdd_->grid.cells.at(iLat).at(iLon).routesSegments.begin())
 						fileout1 << (*iroute).first;
 					else
-						fileout1 << "/" << (*iroute).first;
+						fileout1 << "|" << (*iroute).first;
 				}
 				fileout1 << ";";
 				for (map< string, map<int, int> >::iterator iroute = fdd_->grid.cells.at(iLat).at(iLon).routesSegments.begin(); iroute != fdd_->grid.cells.at(iLat).at(iLon).routesSegments.end(); iroute++)
 				{
 					if (iroute != fdd_->grid.cells.at(iLat).at(iLon).routesSegments.begin())
-						fileout1 << "/";
+						fileout1 << "|";
 
 					for (map<int, int>::iterator isegment = (*iroute).second.begin(); isegment != (*iroute).second.end(); isegment++)
 					{
@@ -152,7 +152,7 @@ void TablaGrilla::Crear()
 					if (istops == fdd_->grid.cells.at(iLat).at(iLon).puntos.begin())
 						fileout1 << (*istops);
 					else
-						fileout1 << "/" << (*istops);
+						fileout1 << "|" << (*istops);
 				}
 				fileout1 << endl;
 			}

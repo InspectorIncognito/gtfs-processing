@@ -45,7 +45,7 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 	map< string, map<string, FuenteDatos::Secuencia> >::iterator itsecps;
 	for (map<string, FuenteDatos::Secuencia >::iterator isec = fdd_->secuencias.begin(); isec != fdd_->secuencias.end(); isec++)
 	{
-		string key = (*isec).second.codigo + "_" + (*isec).second.tipodia;
+		string key = (*isec).second.route_id+"_"+(*isec).second.route_direction_id + "_" + (*isec).second.tipodia;
 		itsecps = secuenciasPorServicio.find(key);
 		if (itsecps == secuenciasPorServicio.end())
 		{
@@ -59,17 +59,22 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 		}
 	}
 
+	
 	ofstream dbg;
 	dbg.open("secuenciasPorServicio.txt");
 	for (itsecps = secuenciasPorServicio.begin(); itsecps != secuenciasPorServicio.end(); itsecps++)
 	{
 		for (map<string, FuenteDatos::Secuencia>::iterator it = (*itsecps).second.begin(); it != (*itsecps).second.end(); it++)
 		{
+			vector<string> servicio = StringFunctions::Explode((*itsecps).first, '_');
+			map<string, Servicio>::iterator iserv = fdd_->servicios.find(servicio.at(0));
+
 			dbg << (*itsecps).first << "|";
 			dbg << (*it).first << "|";
-			dbg << (*it).second.codigo << "|";
+			dbg << (*it).second.shape_id << "|";
 			dbg << (*it).second.hora_ini << "|";
-			dbg << (*it).second.hora_fin << endl;
+			dbg << (*it).second.hora_fin << "|";
+			dbg << (*iserv).second.route_short_name << endl;
 		}
 	}
 	dbg.close();
@@ -127,7 +132,7 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 			if (imh == (*ithorario).second.begin())
 			{
 				map<int, int> tmp;
-				tmp[fdd_->tsh.Time2Seconds((*imh).first)] = fdd_->tsh.Time2Seconds((*imh).first) + 1800;
+				tmp[fdd_->tsh.Time2Seconds((*imh).first)] = fdd_->tsh.Time2Seconds((*imh).first) + 3600;
 				bloquesHorariosPorServicio[(*ithorario).first] = tmp;
 				ultimo_bloque = fdd_->tsh.Time2Seconds((*imh).first);
 			}
@@ -150,12 +155,12 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 					int mh_sec_next = fdd_->tsh.Time2Seconds((*imh_next).first);
 					
 					//si son colindantes
-					if (mh_sec_next - mh_sec == 1800)
+					if (mh_sec_next - mh_sec == 3600)
 					{
 						itbloque = (*itbloquepser).second.find(ultimo_bloque);
 						if (itbloque != (*itbloquepser).second.end())
 						{
-							(*itbloque).second = fdd_->tsh.Time2Seconds((*imh_next).first)+1800;
+							(*itbloque).second = fdd_->tsh.Time2Seconds((*imh_next).first)+3600;
 						}
 						else
 						{
@@ -164,7 +169,7 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 					}
 					else
 					{
-						(*itbloquepser).second[fdd_->tsh.Time2Seconds((*imh_next).first)] = fdd_->tsh.Time2Seconds((*imh_next).first) + 1800;
+						(*itbloquepser).second[fdd_->tsh.Time2Seconds((*imh_next).first)] = fdd_->tsh.Time2Seconds((*imh_next).first) + 3600;
 						ultimo_bloque = fdd_->tsh.Time2Seconds((*imh_next).first);
 					}
 				}
@@ -194,28 +199,33 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 	{
 		map<string, FuenteDatos::Secuencia>::iterator itsec0 = (*itsecps).second.begin();
 
-		vector<string> servicioSentido = StringFunctions::Explode((*itsecps).first, '_');
+		cout << (*itsec0).second.route_id << "|";
+		cout << (*itsec0).second.route_direction_id << "|";
+		cout << (*itsec0).second.route_short_name << "|";
+		cout << (*itsec0).second.shape_id << "|";
+		cout << (*itsec0).second.tipodia << endl;
 
-		if (servicioSentido.size() != 3)
-			cout << "ERROR : codificacion de servicio con problemas : " << (*itsecps).first << endl;
+		//vector<string> servicioSentido = StringFunctions::Explode((*itsecps).first, '_');
 
+		//if (servicioSentido.size() != 3)
+		//	cout << "ERROR : codificacion de servicio con problemas : " << (*itsecps).first << endl;
+		cout << "flag 0" << endl;
 		busStopSequence bss;
 
 		///Obtencion de color, modo y nombre
-		map< string, Servicio >::iterator iserv = fdd_->servicios.find(servicioSentido.at(0));
+		map< string, Servicio >::iterator iserv = fdd_->servicios.find((*itsec0).second.route_id);
 		if (iserv != fdd_->servicios.end())
 		{
-			bss.color = (*iserv).second.color;
-			bss.modo = (*iserv).second.tipo;
-
-			if (servicioSentido.at(1).compare("I") == 0)
-				bss.nombre = (*iserv).second.destino;
-			else
-				bss.nombre = (*iserv).second.origen;
+			bss.color = (*iserv).second.route_color;
+			bss.modo = (*iserv).second.route_type;
+			bss.nombre = (*iserv).second.route_long_name;
 		}
 		else
-			cout << "ERROR : No se encuentra servicio en estructura de servicios : " << servicioSentido.at(0) << endl;
-
+		{
+			cout << "ERROR : No se encuentra servicio en estructura de servicios : " << (*itsec0).second.route_id << endl;
+			exit(1);
+		}
+		cout << "flag 1" << endl;
 		///Obtencion de horario
 		itbloquepser = bloquesHorariosPorServicio.find((*itsecps).first);
 		if (itbloquepser != bloquesHorariosPorServicio.end())
@@ -225,14 +235,14 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 				if(itbloque == (*itbloquepser).second.begin())
 					bss.horario = fdd_->tsh.Seconds2TimeStampInDay((*itbloque).first)+"-"+ fdd_->tsh.Seconds2TimeStampInDay((*itbloque).second);
 				else
-					bss.horario += "/" + fdd_->tsh.Seconds2TimeStampInDay((*itbloque).first) + "-" + fdd_->tsh.Seconds2TimeStampInDay((*itbloque).second);
+					bss.horario += "|" + fdd_->tsh.Seconds2TimeStampInDay((*itbloque).first) + "-" + fdd_->tsh.Seconds2TimeStampInDay((*itbloque).second);
 			}
 		}
 		else
 		{
 			cout << "ERROR : No se encuentra servicio en listado de bloques de horarios : " << (*itsecps).first << endl;
 		}
-		
+		cout << "flag 2" << endl;
 		///Obtener secuencia de paradas
 		for (map<int, string>::iterator ipar = (*itsec0).second.paradas.begin(); ipar != (*itsec0).second.paradas.end(); ipar++)
 		{
@@ -242,16 +252,21 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 				bss.paradas += "|" + (*ipar).second;
 
 		}
+		cout << "flag 3" << endl;
+		bss.servicio = (*itsec0).second.route_short_name;
+		
+		if((*itsec0).second.route_direction_id.compare("0")==0)
+			bss.sentido = "I";
+		else
+			bss.sentido = "R";
 
-		bss.servicio = servicioSentido.at(0);
-		bss.sentido = servicioSentido.at(1);
-		bss.tipodia = servicioSentido.at(2);
+		bss.tipodia = (*itsec0).second.tipodia;
 		bss.shape_id = (*itsec0).second.shape_id;
 		bss.destino = (*itsec0).second.destino;
 
-
+		cout << "flag 4" << endl;
 		string key = bss.servicio + ";" + bss.sentido + ";" + bss.tipodia + ";" + bss.paradas;
-		//cout << "FLAG 0 : " << key << endl;
+		
 		itseq = secuenciasPorHorario.find(key);
 		if (itseq == secuenciasPorHorario.end())
 		{
@@ -263,8 +278,10 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 			//cout << "FLAG 2 : " << key << endl;
 			cout << "Que onda, otra vez el mismo servicio : " << key << endl;
 		}
+		cout << "flag 5" << endl;
 	}
 
+	cout << "flag 6" << endl;
 	ofstream fout;
 	fout.open(string(fdd_->parametros->carpetaOutput + "/" + fdd_->parametros->version + "/" + "PhoneStopsSequences.csv").c_str());
 	map< string, busStopSequence>::iterator itseq_ant;
@@ -272,13 +289,15 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 	fout << "modo;servicio;sentido;variante;tipodia;shape_id;horario;color_id;direccion;paradas" << endl;
 	for (itseq = secuenciasPorHorario.begin(); itseq != secuenciasPorHorario.end(); itseq++)
 	{
+		cout << "flag 7" << endl;
 		itseq_ant = itseq;
 		itseq_ant--;
 		vector<string> tmp = StringFunctions::Explode((*itseq).first, ';');
-
+		cout << "flag 8 : " << tmp.at(0) << "|" << tmp.at(1) << "|" << tmp.at(2) << endl;
 		fout << (*itseq).second.modo << ";";
 		fout << tmp[0] << ";";
 		fout << tmp[1] << ";";
+		cout << "flag 9" << endl;
 		fout << "-" << ";";
 		fout << (*itseq).second.tipodia << ";";
 		fout << (*itseq).second.shape_id << ";";
@@ -286,7 +305,9 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 		fout << (*itseq).second.color << ";";
 		//fout << toCamelCase(string((*itseq).second.nombre + ";"));
 		fout << (*itseq).second.destino << ";";
+		cout << "flag 10" << endl;
 		fout << tmp[3] << endl;
+		cout << "flag 11" << endl;
 	}
 	fout.close();
 	
@@ -322,7 +343,7 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleFrequencies()
 		}
 		else
 		{
-			vector<string> cod_ant = StringFunctions::Explode((*isec_ant).second.codigo, '_');
+			vector<string> cod_ant = StringFunctions::Explode((*isec_ant).second.shape_id, '_');
 
 			string servicio = cod_ant[0];
 			string sentido = cod_ant[1];
@@ -348,7 +369,7 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleFrequencies()
 			}
 
 			///codigo anterior igual, se fusionan horarios
-			if ((*isec).second.codigo.compare((*isec_ant).second.codigo) == 0 && sonIguales)
+			if ((*isec).second.shape_id.compare((*isec_ant).second.shape_id) == 0 && sonIguales)
 			{
 				int ihora_ini_ant = fdd_->tsh.Time2Seconds((*isec_ant).second.hora_ini);
 				int ihora_fin_ant = fdd_->tsh.Time2Seconds((*isec_ant).second.hora_fin);
@@ -370,13 +391,14 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleFrequencies()
 				map< string, Servicio >::iterator iserv = fdd_->servicios.find(servicio);
 				if (iserv != fdd_->servicios.end())
 				{
-					color_ser = (*iserv).second.color;
-					modo = (*iserv).second.tipo;
+					color_ser = (*iserv).second.route_color;
+					modo = (*iserv).second.route_type;
 
-					if (sentido.compare("I") == 0)
-						nombre = (*iserv).second.destino;
-					else
-						nombre = (*iserv).second.origen;
+					nombre = (*iserv).second.route_long_name;
+					//if (sentido.compare("I") == 0)
+					//	nombre = (*iserv).second.destino;
+					//else
+					//	nombre = (*iserv).second.origen;
 				}
 
 				if (min_hora_ini == 999999 || max_hora_fin == -1)
@@ -421,8 +443,8 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleFrequencies()
 					map< string, Servicio >::iterator iserv = fdd_->servicios.find(servicio);
 					if (iserv != fdd_->servicios.end())
 					{
-						color_ser = (*iserv).second.color;
-						modo = (*iserv).second.tipo;
+						color_ser = (*iserv).second.route_color;
+						modo = (*iserv).second.route_type;
 					}
 
 					string horario = fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini);

@@ -36,8 +36,7 @@ void TablaServicios::Crear()
 	fileout.open(string(fdd_->parametros->carpetaOutput + "/" + fdd_->parametros->version + "/" + "ServerServices.csv").c_str());
 	//fileout.open("services" + fdd_->parametros->version + ".csv");
 	fileout << "service;";
-	fileout << "origin;";
-	fileout << "destiny;";
+	fileout << "long_name;";
 	fileout << "color";
 //	fileout << "color_id";
 	fileout << endl;
@@ -45,9 +44,8 @@ void TablaServicios::Crear()
 	for (map< string, Servicio >::iterator iserv = fdd_->servicios.begin(); iserv != fdd_->servicios.end(); iserv++)
 	{
 		fileout << (*iserv).first << ";";
-		fileout << (*iserv).second.origen << ";";
-		fileout << (*iserv).second.destino << ";";
-		fileout << (*iserv).second.color << endl;
+		fileout << (*iserv).second.route_long_name << ";";
+		fileout << (*iserv).second.route_color << endl;
 
 //		map<string, string>::iterator it = fdd_->dicSS.colores.find((*iserv).first);
 

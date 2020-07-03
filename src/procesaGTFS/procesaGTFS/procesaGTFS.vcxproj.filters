@@ -139,9 +139,6 @@
     <ClCompile Include="IO\Tablas\TablaServiciosPorParadaParaAndriod.cpp">
       <Filter>IO\Tablas</Filter>
     </ClCompile>
-    <ClCompile Include="IO\Tablas\TablaServiciosParaAndroid.cpp">
-      <Filter>IO\Tablas</Filter>
-    </ClCompile>
     <ClCompile Include="Transporte\Grid\Cell.cpp">
       <Filter>Transporte\Grid</Filter>
     </ClCompile>
@@ -256,9 +253,6 @@
       <Filter>IO\Tablas</Filter>
     </ClInclude>
     <ClInclude Include="IO\Tablas\TablaServiciosPorParadaParaAndriod.h">
-      <Filter>IO\Tablas</Filter>
-    </ClInclude>
-    <ClInclude Include="IO\Tablas\TablaServiciosParaAndroid.h">
       <Filter>IO\Tablas</Filter>
     </ClInclude>
     <ClInclude Include="Transporte\Grid\Cell.h">

@@ -36,12 +36,12 @@ void TablaServiciosPorParada::Crear()
 	map<string, map<string,string> > output;
 	map<string, map<string, string> >::iterator it;
 	map<string, string>::iterator is;
-	map<string, string>::iterator iDicServ;
+	//map<string, string>::iterator iDicServ;
 	for (map< string, map < int, Paradero > >::iterator iserv = fdd_->secParaderosTODOS.secuencias.begin(); iserv != fdd_->secParaderosTODOS.secuencias.end(); iserv++)
 	{
 		for (map < int, Paradero >::iterator ipar = (*iserv).second.begin(); ipar != (*iserv).second.end(); ipar++)
 		{
-			iDicServ = fdd_->dicSS.servicios.find((*iserv).first);
+		//	iDicServ = fdd_->dicSS.servicios.find((*iserv).first);
 
 			it = output.find((*ipar).second.codigo);
 
@@ -89,8 +89,8 @@ void TablaServiciosPorParada::Crear()
 
 	for (it = output.begin(); it != output.end(); it++)
 	{
-		if ( (*it).first.at(0) != 'P' && (*it).first.at(0) != 'L')
-			continue;
+		//if ( (*it).first.at(0) != 'P' && (*it).first.at(0) != 'L')
+		//	continue;
 
 		fileout << (*it).first << ";";
 		for (is = (*it).second.begin(); is != (*it).second.end(); is++)
@@ -98,7 +98,7 @@ void TablaServiciosPorParada::Crear()
 			if (is == (*it).second.begin())
 				fileout << (*is).first << (*is).second;
 			else
-				fileout << "-" << (*is).first << (*is).second;
+				fileout << "|" << (*is).first << (*is).second;
 
 		}
 		fileout << endl;

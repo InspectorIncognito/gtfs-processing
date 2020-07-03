@@ -36,19 +36,27 @@ public:
 	/**
 	* Constructor
 	*/
-	Servicio(string nombre, string origen, string destino, string color);
+	//Servicio(string nombre, string origen, string destino, string color);
 	/**
 	* Destructor
 	*/
 	~Servicio(void);
 
-	string nombre;
-	string origen;
-	string destino;
-	string color;
+//	string nombre;
+//	string origen;
+//	string destino;
+//	string color;
 
-	string tipo;
+//	string tipo;
 
-	string horarioI;
-	string horarioR;
+//	string horarioI;
+//	string horarioR;
+
+	string route_id;
+	string route_short_name;
+	string route_long_name;
+	string route_desc;
+	string route_type;
+	string route_color;
+	string route_text_color;
 };

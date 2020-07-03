@@ -37,6 +37,10 @@ class TablaServiciosPorParadasPorSecuencia{
 		* Estructura para los datos
 		*/
 		struct busStopSequence {
+
+			string route_id;
+			string route_short_name;
+
 			string servicio;
 			string sentido;
 			string tipodia;
