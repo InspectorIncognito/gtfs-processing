@@ -199,17 +199,17 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 	{
 		map<string, FuenteDatos::Secuencia>::iterator itsec0 = (*itsecps).second.begin();
 
-		cout << (*itsec0).second.route_id << "|";
-		cout << (*itsec0).second.route_direction_id << "|";
-		cout << (*itsec0).second.route_short_name << "|";
-		cout << (*itsec0).second.shape_id << "|";
-		cout << (*itsec0).second.tipodia << endl;
+		//cout << (*itsec0).second.route_id << "|";
+		//cout << (*itsec0).second.route_direction_id << "|";
+		//cout << (*itsec0).second.route_short_name << "|";
+		//cout << (*itsec0).second.shape_id << "|";
+		//cout << (*itsec0).second.tipodia << endl;
 
 		//vector<string> servicioSentido = StringFunctions::Explode((*itsecps).first, '_');
 
 		//if (servicioSentido.size() != 3)
 		//	cout << "ERROR : codificacion de servicio con problemas : " << (*itsecps).first << endl;
-		cout << "flag 0" << endl;
+
 		busStopSequence bss;
 
 		///Obtencion de color, modo y nombre
@@ -219,13 +219,14 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 			bss.color = (*iserv).second.route_color;
 			bss.modo = (*iserv).second.route_type;
 			bss.nombre = (*iserv).second.route_long_name;
+			bss.resources_id = (*iserv).second.route_resource_id;
 		}
 		else
 		{
 			cout << "ERROR : No se encuentra servicio en estructura de servicios : " << (*itsec0).second.route_id << endl;
 			exit(1);
 		}
-		cout << "flag 1" << endl;
+		
 		///Obtencion de horario
 		itbloquepser = bloquesHorariosPorServicio.find((*itsecps).first);
 		if (itbloquepser != bloquesHorariosPorServicio.end())
@@ -242,7 +243,7 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 		{
 			cout << "ERROR : No se encuentra servicio en listado de bloques de horarios : " << (*itsecps).first << endl;
 		}
-		cout << "flag 2" << endl;
+		
 		///Obtener secuencia de paradas
 		for (map<int, string>::iterator ipar = (*itsec0).second.paradas.begin(); ipar != (*itsec0).second.paradas.end(); ipar++)
 		{
@@ -252,7 +253,7 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 				bss.paradas += "|" + (*ipar).second;
 
 		}
-		cout << "flag 3" << endl;
+		
 		bss.servicio = (*itsec0).second.route_short_name;
 		
 		if((*itsec0).second.route_direction_id.compare("0")==0)
@@ -264,7 +265,7 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 		bss.shape_id = (*itsec0).second.shape_id;
 		bss.destino = (*itsec0).second.destino;
 
-		cout << "flag 4" << endl;
+		
 		string key = bss.servicio + ";" + bss.sentido + ";" + bss.tipodia + ";" + bss.paradas;
 		
 		itseq = secuenciasPorHorario.find(key);
@@ -278,26 +279,23 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 			//cout << "FLAG 2 : " << key << endl;
 			cout << "Que onda, otra vez el mismo servicio : " << key << endl;
 		}
-		cout << "flag 5" << endl;
 	}
 
-	cout << "flag 6" << endl;
+
 	ofstream fout;
 	fout.open(string(fdd_->parametros->carpetaOutput + "/" + fdd_->parametros->version + "/" + "PhoneStopsSequences.csv").c_str());
 	map< string, busStopSequence>::iterator itseq_ant;
 	int variante_int = 0;
-	fout << "modo;servicio;sentido;variante;tipodia;shape_id;horario;color_id;direccion;paradas" << endl;
+	fout << "modo;servicio;sentido;variante;tipodia;shape_id;horario;color_id;direccion;paradas;resources_id" << endl;
 	for (itseq = secuenciasPorHorario.begin(); itseq != secuenciasPorHorario.end(); itseq++)
 	{
-		cout << "flag 7" << endl;
+
 		itseq_ant = itseq;
 		itseq_ant--;
 		vector<string> tmp = StringFunctions::Explode((*itseq).first, ';');
-		cout << "flag 8 : " << tmp.at(0) << "|" << tmp.at(1) << "|" << tmp.at(2) << endl;
 		fout << (*itseq).second.modo << ";";
 		fout << tmp[0] << ";";
 		fout << tmp[1] << ";";
-		cout << "flag 9" << endl;
 		fout << "-" << ";";
 		fout << (*itseq).second.tipodia << ";";
 		fout << (*itseq).second.shape_id << ";";
@@ -305,9 +303,8 @@ void TablaServiciosPorParadasPorSecuencia::buildSequenceByScheduleItinerary()
 		fout << (*itseq).second.color << ";";
 		//fout << toCamelCase(string((*itseq).second.nombre + ";"));
 		fout << (*itseq).second.destino << ";";
-		cout << "flag 10" << endl;
-		fout << tmp[3] << endl;
-		cout << "flag 11" << endl;
+		fout << tmp[3] << ";";
+		fout << (*itseq).second.resources_id << endl;
 	}
 	fout.close();
 	

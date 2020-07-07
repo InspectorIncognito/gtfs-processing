@@ -70,4 +70,6 @@ public:
 
 	///JSON with all kind of addicional information
 	string additionalInf;
+
+	string resource_id;
 };

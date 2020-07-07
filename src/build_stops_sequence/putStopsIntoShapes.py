@@ -35,6 +35,7 @@ class Shape:
         distAcu = 0.0
         distEnRuta_ = 0.0
 
+aqui voy....
         it = 0
         for it in range(0,len(self.nodes)):
             print (it)

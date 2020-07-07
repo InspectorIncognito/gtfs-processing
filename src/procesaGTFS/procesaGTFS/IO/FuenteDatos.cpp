@@ -62,12 +62,7 @@ FuenteDatos::FuenteDatos(const char *nombreArchivoParametros)
 	///Lectura bustops, para obenter todas las secuencias posibles por servicio
 	readStopTimes();
 
-	///
-	//leeSecuenciaDeParadasDTPM();
-
-	///Lectura de puntos de carga
-    //if(parametros->withBip)
-    //    leePuntosDeCargaBip();
+	readResourceId();
 
 	for (map<string, int>::iterator it = UTMZonesShapes.begin(); it != UTMZonesShapes.end(); it++)
 		cout << "UTM Zone Shapes: " << (*it).first << endl;
@@ -817,48 +812,25 @@ void FuenteDatos::readStopTimes()
 	///Variables para reporte
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
-/*
-bool FuenteDatos::estaEnSantiago(COORD x_, COORD y_)
-{
-	///Chequeo del nodo respecto a una zona cuadrada que encierra la zona metropolitana de santiago
-	if(x_ < 320000 
-	|| y_ > 6319991
-	|| x_ > 365208 
-	|| y_ < 6265683)
-	{
-		return false;
-	}
 
-	return true;
-}
-
-
-
-
-void FuenteDatos::leeHorarios()
+void FuenteDatos::readResourceId()
 {
 	int nTimeStart = Cronometro::GetMilliCount();
 
+	///Diccionario de resource_id
+	map<string, string>::iterator irRouteId;
+	map<string, string>::iterator irStopsId;
+	
+
 	///Archivo de entrada Principal
-	ifstream archivoHorarios;
-	archivoHorarios.open(parametros->nombreArchivoHorarios.c_str());
+	ifstream archivoDiccionario;
+	archivoDiccionario.open(parametros->resourceIdPath);
 
 	///Chequeo de archivo 
-	if (!archivoHorarios.good())
-	{
-		cout << "No se ha encontrado archivo de horarios " << parametros->nombreArchivoHorarios.c_str() << "!" << endl;
-		cout << "Los servicios quedaran con un horario nulo. " << endl;
-
-		for (map<string, Servicio>::iterator iser = servicios.begin(); iser != servicios.end(); iser++)
-		{
-			(*iser).second.horarioI = string("-");
-			(*iser).second.horarioR = string("-");
-		}
-
-		return;
-	}
+	if (!archivoDiccionario.good())
+		cout << "Error : No se encuentra el archivo " << parametros->resourceIdPath << "!" << endl;
 	else
-		cout << "Cargando datos de Diccionario (" << parametros->nombreCarpetaGTFS + parametros->slash + "routes.txt" << ")... ";
+		cout << "Cargando datos de Diccionario (" << parametros->resourceIdPath << ")... ";
 
 	///Vector contenedor de la linea actual del archivo
 	vector<string> cur;
@@ -866,81 +838,104 @@ void FuenteDatos::leeHorarios()
 	int nlineas = 0;
 
 	///Lectura del header
-	cur = StringFunctions::ExplodeF(';', &archivoHorarios);
+	cur = StringFunctions::ExplodeF(';', &archivoDiccionario);
 
-	map<string, Servicio>::iterator iser;
+	int iGTFSId = 0;
+	int iTypeId = 1;
+	int iObjectId = 2;
+	int iResourceId = 3;
+
 	///Lectura archivo primario
-	while (archivoHorarios.good())
+	while (archivoDiccionario.good())
 	{
 		nlineas++;
 
 		///Lectura de linea del archivo
-		cur = StringFunctions::ExplodeF(';', &archivoHorarios);
+		cur = StringFunctions::ExplodeF(';', &archivoDiccionario);
 
 		///Condicion de salida, a veces no es suficiente solo la condicion del ciclo
 		if (cur.size() == 0 || cur[0].compare("") == 0)
 			continue;
-
-		iser = servicios.find(cur.at(0));
-
-		if (iser != servicios.end())
+		
+		if (cur.at(0).compare(parametros->gtfs_id) == 0)
 		{
-			std::locale loc;
-			std::string str = cur[1];
-			for (std::string::size_type i = 0; i < cur[1].length(); ++i)
-				str[i] = std::toupper(cur[1][i], loc);
+			if (cur.at(iTypeId).compare("route") == 0)
+			{
+				if (cur.at(iObjectId).compare("default") == 0)
+				{
+					for (map<string, Servicio>::iterator it = servicios.begin(); it != servicios.end(); it++)
+						resourceRouteId[(*it).second.route_id] = cur.at(iResourceId);
+				}
+				else
+				{
+					resourceRouteId[cur.at(iObjectId)] = cur.at(iResourceId);
+				}
+				
+			}
 
-			//cout << cur.at(0) << "|" << (*iser).second.destino << "|" << str << endl;
-			if ((*iser).second.destino.compare(str) == 0)
-				(*iser).second.horarioI.append(cur.at(2) + "-" + cur.at(3) + "-" + cur.at(4) + "/");
-			else
-				(*iser).second.horarioR.append(cur.at(2) + "-" + cur.at(3) + "-" + cur.at(4) + "/");
+			if (cur.at(iTypeId).compare("stop") == 0)
+			{
+				if (cur.at(iObjectId).compare("default") == 0)
+				{
+					for (map< string, Paradero >::iterator it = redParaderos.red.begin(); it != redParaderos.red.end(); it++)
+					{
+						resourceStopsId[(*it).second.codigo] = cur.at(iResourceId);
+					}
+				}
+				else
+				{
+					resourceStopsId[cur.at(iObjectId)] = cur.at(iResourceId);
+				}
+			}
 		}
+
+		
 	}
 
-
-	
-	///DEBUG
-	ofstream fout;
-	fout.open("servicios_horario.txt");
-	for (map<string, Servicio>::iterator iser = servicios.begin(); iser != servicios.end(); iser++)
+	///Proceso de traspaso de informacion a los datos
+	///1. Codificacion de recursos a los servicios
+	for (map<string, Servicio>::iterator it = servicios.begin(); it != servicios.end(); it++)
 	{
-		fout << (*iser).first << ";";
+		irRouteId = resourceRouteId.find((*it).second.route_id);
 
-		vector<string> horariosI = StringFunctions::Explode((*iser).second.horarioI, '-');
-		for (vector<string>::iterator ihor = horariosI.begin(); ihor != horariosI.end(); ihor++)
+		if (irRouteId != resourceRouteId.end())
 		{
-			if ((*ihor).compare("") == 0)
-				continue;
-
-			if (ihor == horariosI.begin())
-				fout << (*ihor);
-			else
-				fout << "-" << (*ihor);
+			(*it).second.route_resource_id = (*irRouteId).second;
 		}
-		fout << ";";
-
-		vector<string> horariosR = StringFunctions::Explode((*iser).second.horarioR, '-');
-		for (vector<string>::iterator ihor = horariosR.begin(); ihor != horariosR.end(); ihor++)
+		else
 		{
-			if ((*ihor).compare("") == 0)
-				continue;
-
-			if (ihor == horariosR.begin())
-				fout << (*ihor);
-			else
-				fout << "-" << (*ihor);
+			cout << "ERROR : No se encuentra resource_id para el servicio : " << (*it).second.route_id << endl;
+			exit(1);
 		}
-
-		fout << endl;
 	}
-	fout.close();
-	
 
-	reporte->tDiccionario = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
+	///2.Codificacion de recurosos de los paraderos
+	for (map< string, Paradero >::iterator it = redParaderos.red.begin(); it != redParaderos.red.end(); it++)
+	{
+		irStopsId = resourceStopsId.find((*it).second.codigo);
+		if (irStopsId != resourceRouteId.end())
+		{
+			(*it).second.resource_id = (*irStopsId).second;
+		}
+		else
+		{
+			cout << "ERROR : No se encuentra resource_id para el paradero : " << (*it).second.codigo << endl;
+			exit(1);
+		}
+	}
 
-	cout << reporte->tDiccionario << "(min)" << endl;
+	///DEBUG
+	//ofstream fout;
+	//fout.open("dicSS.txt");
+	//for (map<string, string>::iterator it = resourceStopsId.begin(); it != resourceStopsId.end(); it++)
+	//{
+	//	fout << (*it).first << ";";
+	//	fout << (*it).second << endl;
+	//}
+	//fout.close();
+
+
+	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
+
 
 }
-*/
-

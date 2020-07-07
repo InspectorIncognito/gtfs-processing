@@ -71,7 +71,8 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 	fileout << "name;";
 	fileout << "latitude;";
 	fileout << "longitude;";
-	fileout << "services";
+	fileout << "services;";
+	fileout << "resource_id";
 	fileout << endl;
 	fileout.precision(10);
 
@@ -128,7 +129,9 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 			else
 				fileout << "|" << serviciosentido.at(0);
 		}
-		fileout << endl;
+
+		fileout << ";" << (*ired).second.resource_id << endl;
+
 		
 	}
 	fileout.close();

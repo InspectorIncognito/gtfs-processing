@@ -51,20 +51,11 @@ public:
 	 **/
 	~Parametros();
 
+	///Prefiz that define the city or place of the GTFS
+	string gtfs_id;
+
 	///Nombre del archivo con los datos de transacciones
 	string nombreCarpetaGTFS;
-
-	///Nombre de archivo con horarios del funcionamiento de servicios
-	//string nombreArchivoHorarios;
-
-	///Nombre de archivo con horarios del funcionamiento de servicios
-	//string nombreArchivoHorariosMetro;
-
-	///Nombre de archivo con datos de puntos de carga bip
-	//string nombreArchivoPuntosCargaBip;
-
-	///Nombre de archivo con los datos de secuencias de paradas de dtpm
-	//string nombreArchivoConsolidadoDeParadascddcsd;
 
 	///Nombre carpeta para guardar los kmls
 	string carpetaKmls;
@@ -74,6 +65,9 @@ public:
 
 	///Nombre carpeta para guardar los reportes
 	string carpetaOutput;
+
+	///Nombre del archivo con el diccionario de resource_id
+	string resourceIdPath;
 
 	///Distancia para tramar la ruta
 	float distanciaTramado;

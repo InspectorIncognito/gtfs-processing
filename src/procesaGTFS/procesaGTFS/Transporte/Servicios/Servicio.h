@@ -42,16 +42,6 @@ public:
 	*/
 	~Servicio(void);
 
-//	string nombre;
-//	string origen;
-//	string destino;
-//	string color;
-
-//	string tipo;
-
-//	string horarioI;
-//	string horarioR;
-
 	string route_id;
 	string route_short_name;
 	string route_long_name;
@@ -59,4 +49,6 @@ public:
 	string route_type;
 	string route_color;
 	string route_text_color;
+
+	string route_resource_id;
 };

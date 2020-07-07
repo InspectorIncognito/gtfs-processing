@@ -103,6 +103,10 @@ class FuenteDatos{
 	///Archivo para parametros variados de salida
 	ofstream outParameters;
 
+	///Diccionario de recursos
+	map<string, string> resourceRouteId;
+	map<string, string> resourceStopsId;
+
 	///StopsTimes
 	struct Secuencia
 	{
@@ -160,17 +164,5 @@ class FuenteDatos{
 
 	void readTrips();
 
-	/**
-	*	Metodo que lee un archivo de horarios, el metodo permite la no existencia del archivo
-	*   En caso de no existencia los horarios quedaran nulos con un guion (-)
-	*   El metodo necesita tener ya leido la lista de servicios del diccionario
-	*/
-	//void leeHorarios();
-
-	/**
-	*
-	*/
-	//void readScheduleMetro();
-
-	//string toCamelCase(string in);
+	void readResourceId();
 };

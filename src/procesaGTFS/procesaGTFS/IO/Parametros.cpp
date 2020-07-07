@@ -35,15 +35,19 @@ Parametros::Parametros(const char *file)
 	columnas = StringFunctions::ExplodeF('*',&ap);
 	columnas = StringFunctions::ExplodeF('*',&ap);
 
+	
+	columnas = StringFunctions::ExplodeF('\t', &ap);	this->gtfs_id = columnas[0];
+
 	///Lectura de Parametros
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreCarpetaGTFS = columnas[0];
-	//columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoHorarios = columnas[0];
-	//columnas = StringFunctions::ExplodeF('\t', &ap);	this->nombreArchivoPuntosCargaBip = columnas[0];
 
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaKmls = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaReportes = columnas[0];
 	columnas = StringFunctions::ExplodeF('\t', &ap);	this->carpetaOutput = columnas[0];
-    
+
+	columnas = StringFunctions::ExplodeF('\t', &ap);	this->resourceIdPath = columnas[0];
+
+	
     columnas = StringFunctions::ExplodeF('\t', &ap);	this->withBip = atoi(columnas[0].c_str())==1;
     columnas = StringFunctions::ExplodeF('\t', &ap);	this->withMetro = atoi(columnas[0].c_str())==1;
 	

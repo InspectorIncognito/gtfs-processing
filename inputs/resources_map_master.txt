@@ -1,0 +1,14 @@
+gtfs_id;type;object_id;resource_id
+Calama;route;default;0
+Calama;route;86;1
+Calama;route;89;1
+Calama;route;90;1
+Calama;route;85;1
+Calama;route;92;1
+Calama;route;80;1
+Calama;route;81;1
+Calama;route;83;1
+Calama;route;82;1
+Calama;route;84;1
+Calama;route;87;1
+Calama;stop;default;2

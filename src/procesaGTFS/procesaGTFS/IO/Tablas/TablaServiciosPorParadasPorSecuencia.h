@@ -52,6 +52,8 @@ class TablaServiciosPorParadasPorSecuencia{
 
 			string shape_id;
 			string modo;
+
+			string resources_id;
 		};
 		map< string, busStopSequence> secuenciasPorHorario;
 		map< string, busStopSequence>::iterator itseq;
