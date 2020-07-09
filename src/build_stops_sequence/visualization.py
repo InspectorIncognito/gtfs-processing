@@ -31,3 +31,24 @@ def drawShapes(kml,shapes):
         ls.coords = coords
         ls.extrude = 1
         ls.altitudemode = simplekml.AltitudeMode.relativetoground
+
+def drawStopSequence(kml,stopsequences):
+    stopStyle = simplekml.Style()
+    stopStyle.color = simplekml.Color.red
+    stopStyle.iconstyle.color = simplekml.Color.green
+    stopStyle.iconstyle.scale = 1
+    stopStyle.labelstyle.color = simplekml.Color.green  # Make the text red
+    stopStyle.labelstyle.scale = 1  # Make the text twice as big
+    stopStyle.iconstyle.icon.href = 'http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png'
+
+    for key in stopsequences:
+        fol = kml.newfolder(name='StopSquence' + key)
+
+        for d,stop in stopsequences[key].items():
+            pnt = fol.newpoint()
+            pnt.name = stop.code
+            pnt.style = stopStyle
+            pnt.style.balloonstyle.text = stop.code
+            pnt.style.balloonstyle.bgcolor = simplekml.Color.lightgreen
+            pnt.style.balloonstyle.textcolor = simplekml.Color.rgb(0, 0, 255)
+            pnt.coords = [(stop.longitude, stop.latitude)]

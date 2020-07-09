@@ -1,6 +1,7 @@
 import csv
 import utm
 import simplekml
+import collections
 from geometry import *
 from visualization import *
 
@@ -92,9 +93,15 @@ def buildStopSequence(stops,shapes):
 
             if distances["dtr"] < 10 :
                 if key not in stopSequence :
-                    stopSequence[key] = []
+                    stopSequence[key] = {}
 
-                stopSequence[key].append( (distances["dor"],stop) )
+                #stopSequence[key].append( ( distances["dor"] : stop ) )
+                stopSequence[key][distances["dor"]] = stop
+
+    for key in stopSequence :
+        od = collections.OrderedDict(sorted(stopSequence[key].items()))
+        stopSequence[key] = od
+
 
     return stopSequence
 
@@ -108,12 +115,12 @@ if __name__ == "__main__":
     readStops("stops.txt",stops)
     readShapes("shapes.txt", shapes)
 
-aqui voy.. ahora hay que visualizar las secuencias calculadas, ordenar por avance en la ruta
+
     stopSequences = buildStopSequence(stops, shapes)
 
-    #for key in stopSequence :
-    #    for stop in stopSequence[key] :
-    #        print (key,stop[0],stop[1].code)
+    #for key in stopSequences :
+    #    for k, v in stopSequences[key].items():
+    #        print (key,k, v.code)
 
     #i=0
     #for node in shapes['A_I'].nodes:
@@ -132,6 +139,9 @@ aqui voy.. ahora hay que visualizar las secuencias calculadas, ordenar por avanc
 
     drawStops(kml,stops)
     drawShapes(kml, shapes)
+    drawStopSequence(kml, stopSequences)
+
+
 
     kml.save("vista.kml")
 
