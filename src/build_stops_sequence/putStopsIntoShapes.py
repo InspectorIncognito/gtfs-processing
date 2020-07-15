@@ -2,6 +2,7 @@ import csv
 import utm
 import simplekml
 import collections
+import sys
 from geometry import *
 from visualization import *
 
@@ -59,6 +60,9 @@ class Shape:
 
 
 def readStops(filename,stops):
+    print("Reading stops file...")
+    sys.stdout.flush()
+
     file = csv.reader(open(filename, 'r'), delimiter=',')
     nline=0
     for row in file:
@@ -67,6 +71,9 @@ def readStops(filename,stops):
         nline=nline+1
 
 def readShapes(filename,shapes):
+    print("Reading shapes file...")
+    sys.stdout.flush()
+
     file = csv.reader(open(filename, 'r'), delimiter=',')
     nline=0
     id_ant = "*"
@@ -83,10 +90,15 @@ def readShapes(filename,shapes):
 
 
 def buildStopSequence(stops,shapes):
+    print("building stopsequence...")
+    sys.stdout.flush()
 
     stopSequence = dict()
 
+    istop=1
     for stop in stops:
+        print("processing stop : " + stop.code + " " + str(istop) + "/" + str(len(stops)))
+        sys.stdout.flush()
         for key in shapes:
             #i=0
             distances = shapes[key].getDistances(stop.pos)
@@ -96,7 +108,9 @@ def buildStopSequence(stops,shapes):
                     stopSequence[key] = {}
 
                 #stopSequence[key].append( ( distances["dor"] : stop ) )
-                stopSequence[key][distances["dor"]] = stop
+                stopSequence[key][distances["dor"]] = (stop,distances["dtr"])
+
+        istop=istop+1
 
     for key in stopSequence :
         od = collections.OrderedDict(sorted(stopSequence[key].items()))
@@ -110,10 +124,9 @@ def buildStopSequence(stops,shapes):
 if __name__ == "__main__":
     stops = []
     shapes = dict()
-    #shape = Shape()
 
-    readStops("stops.txt",stops)
-    readShapes("shapes.txt", shapes)
+    readStops("inputs/valpo/stops.txt",stops)
+    readShapes("inputs/valpo/shapes_test.txt", shapes)
 
 
     stopSequences = buildStopSequence(stops, shapes)
@@ -138,8 +151,9 @@ if __name__ == "__main__":
     kml = simplekml.Kml()
 
     drawStops(kml,stops)
-    drawShapes(kml, shapes)
-    drawStopSequence(kml, stopSequences)
+    #drawShapes(kml, shapes)
+    #drawStopSequence(kml, stopSequences)
+    drawStopSequence(kml, stopSequences, shapes)
 
 
 

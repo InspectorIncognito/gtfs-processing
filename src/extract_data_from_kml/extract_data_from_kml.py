@@ -21,7 +21,8 @@ def extractShapes(filein,fileout):
                                     i=0
                                     for i in range(0,len(coords)):
                                         if i != len(coords) - 1 :
-                                            fileout.write(s0.text+','+coords[i].strip()+','+str(i)+'\n')
+                                            c = coords[i].strip().split(',')
+                                            fileout.write(s0.text+','+c[1]+','+c[0]+','+str(i)+'\n')
 
 def extractStops(filein,fileout):
 
@@ -38,7 +39,7 @@ def extractStops(filein,fileout):
                         for s2 in s1:
                             if s2.tag == '{http://www.opengis.net/kml/2.2}coordinates':
                                 c = s2.text.split(',')
-                                fileout.write(str(i) + ',' +str(i) + ','+ s0.text+',,'+c[0] + ',' + c[1] + ',,,,,'+'\n')
+                                fileout.write(str(i) + ',' +str(i) + ','+ s0.text+',,'+c[1] + ',' + c[0] + ',,,,,'+'\n')
                                 i=i+1
 
 if __name__ == "__main__":
@@ -48,16 +49,16 @@ if __name__ == "__main__":
     fstops.close()
 
 
-    #fshapes = open("shapes.txt", "w")
-    #fshapes.write("shape_id, shape_pt_lat, shape_pt_lon, shape_pt_sequence\n")
-    #extractShapes(r'valpoTrazadosKml/UN1.kml', fshapes)
-    #extractShapes(r'valpoTrazadosKml/UN2.kml', fshapes)
-    #extractShapes(r'valpoTrazadosKml/UN3.kml', fshapes)
-    #extractShapes(r'valpoTrazadosKml/UN4.kml', fshapes)
-    #extractShapes(r'valpoTrazadosKml/UN5.kml', fshapes)
-    #extractShapes(r'valpoTrazadosKml/UN6.kml', fshapes)
-    #extractShapes(r'valpoTrazadosKml/UN7.kml', fshapes)
-    #extractShapes(r'valpoTrazadosKml/UN8.kml', fshapes)
-    #extractShapes(r'valpoTrazadosKml/UN9.kml', fshapes)
-    #extractShapes(r'valpoTrazadosKml/UN10.kml', fshapes)
-    #fshapes.close()
+    fshapes = open("shapes.txt", "w")
+    fshapes.write("shape_id, shape_pt_lat, shape_pt_lon, shape_pt_sequence\n")
+    extractShapes(r'valpoTrazadosKml/UN1.kml', fshapes)
+    extractShapes(r'valpoTrazadosKml/UN2.kml', fshapes)
+    extractShapes(r'valpoTrazadosKml/UN3.kml', fshapes)
+    extractShapes(r'valpoTrazadosKml/UN4.kml', fshapes)
+    extractShapes(r'valpoTrazadosKml/UN5.kml', fshapes)
+    extractShapes(r'valpoTrazadosKml/UN6.kml', fshapes)
+    extractShapes(r'valpoTrazadosKml/UN7.kml', fshapes)
+    extractShapes(r'valpoTrazadosKml/UN8.kml', fshapes)
+    extractShapes(r'valpoTrazadosKml/UN9.kml', fshapes)
+    extractShapes(r'valpoTrazadosKml/UN10.kml', fshapes)
+    fshapes.close()
