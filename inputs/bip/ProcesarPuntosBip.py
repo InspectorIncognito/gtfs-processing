@@ -15,7 +15,7 @@ from openpyxl import load_workbook
 from lxml import html
 
 
-project_path = '/home/mauricio/workspace/GTFSProcessing/inputs/bip'
+project_path = 'C:\\workspace\\GTFSProcessing\\inputs\\bip'
 
 
 # # Descargar archivos bip
