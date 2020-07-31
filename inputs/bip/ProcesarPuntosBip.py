@@ -66,6 +66,7 @@ class FileBaseManager(object):
         value = value.replace('Lunes a Viernes', 'Lun-Vie').replace('Lun a Vie', 'Lun-Vie')
         value = value.replace('Lun a Dom', 'Lun-Dom').replace('Lun a Sab', 'Lun-Sab')
         value = value.replace(' - ', ' a ').replace('Dom:', 'Dom')
+        #value = value.replace('\n', '').replace('\t', '').replace('\r', '')
 
         patterns_1 = [
             'Lun-Vie \d{2}:\d{2} *a *\d{2}:\d{2} \/ *\d{2}:\d{2} a \d{2}:\d{2}',
@@ -96,6 +97,7 @@ class FileBaseManager(object):
         
     def get_data(self, sheet):
         data = []
+        print(sheet)
         for row in sheet.iter_rows(min_row=self.first_row, max_col=sheet.max_column, max_row=sheet.max_row):
             row_data = [row[col_index].value if isinstance(col_index, int) else col_index() for col_index in self.columns]
             schedule_index = self.columns.index(self.schedule_column)
