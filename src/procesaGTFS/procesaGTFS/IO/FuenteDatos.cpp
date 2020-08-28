@@ -474,7 +474,8 @@ void FuenteDatos::CorrigeParadasMismaPosicion()
 
 	cout << "Proceso X : Correccion de paradas misma posicion... ";
 
-	char *UTMZone = "19H";
+	ofstream dbg;
+	dbg.open("paradas_cercanas.txt");
 	///Ciclo sobre secuencia de paradas
 	for (map<string, Paradero>::iterator ipar1 = redParaderos.red.begin(); ipar1 != redParaderos.red.end(); ipar1++)
 	{
@@ -514,11 +515,12 @@ void FuenteDatos::CorrigeParadasMismaPosicion()
 						(*ipar1).second.lat = lat;
 						(*ipar1).second.lon = lon;
 					}
-					//cout << (*ipar1).first << "|" << (*ipar2).first << "|" << dist << endl;
+					dbg << (*ipar1).first << "|" << (*ipar2).first << "|" << dist << endl;
 				}
 			}
 		}
 	}
+	dbg.close();
 
 	cout << Cronometro::GetMilliSpan(nTimeStart) / 60000.0 << "(min)" << endl;
 }
@@ -535,7 +537,7 @@ void FuenteDatos::leeSecuenciaDeParadas()
 	if (!archivoParaderos.good())
 		cout << "Error : No se encuentra el archivo " << parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt" << "!" << endl;
 	else
-		cout << "Cargando datos de Secuencia de Paraderos (" << parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt" << ")... ";
+		cout << "Cargando datos de Secuencia de Paraderos (" << parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt" << ")... " << endl;
 
 	///Vector contenedor de la linea actual del archivo
 	vector<string> cur;
@@ -582,6 +584,11 @@ void FuenteDatos::leeSecuenciaDeParadas()
 					servicio = (*iserv).second.route_short_name + "_R";
 
 			}
+			else
+			{
+				cout << "ERROR : no se route_id el servicio en routes : " << (*itrip).second.route_id << endl;
+				exit(1);
+			}
 		}
 		else
 		{
@@ -608,7 +615,7 @@ void FuenteDatos::leeSecuenciaDeParadas()
 			exit(1);
 		}
 
-		iRuta = rutas.mapeo->find(servicio);
+		iRuta = rutas.mapeo->find((*itrip).second.shape_id);
 		Vector3D p = Vector3D((*ired).second.x, (*ired).second.y, 0.0);
 		float distance = -1;
 		if (iRuta != rutas.mapeo->end())
@@ -617,7 +624,7 @@ void FuenteDatos::leeSecuenciaDeParadas()
 		}
 		else
 		{
-			cout << "ERROR (300) no se encuentra la ruta : " << servicio << endl;
+			cout << "ERROR (300) no se encuentra la ruta : " << (*itrip).second.shape_id << endl;
 			exit(1);
 		}
 
@@ -678,7 +685,7 @@ void FuenteDatos::readStopTimes()
 	int nTimeStart = Cronometro::GetMilliCount();
 
 	map< string, Trip >::iterator itrip;
-
+	//cout << "wtf 0" << endl;
 	///Archivo de entrada Principal
 	ifstream archivoParaderos;
 	archivoParaderos.open(parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt");
@@ -687,8 +694,8 @@ void FuenteDatos::readStopTimes()
 	if (!archivoParaderos.good())
 		cout << "Error : No se encuentra el archivo " << parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt" << "!" << endl;
 	else
-		cout << "Cargando datos de Secuencia de Paraderos (" << parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt" << ")... ";
-
+		cout << "Cargando datos de (readStopTimes) (" << parametros->nombreCarpetaGTFS + parametros->slash + "stop_times.txt" << ")... ";
+	//cout << "wtf 2" << endl;
 	int i_trip_id=0;
 	int i_arrival_time=1;
 	int i_departure_time = 2;
@@ -701,7 +708,7 @@ void FuenteDatos::readStopTimes()
 
 	///Vector contenedor de la linea actual del archivo
 	vector<string> cur;
-
+	//cout << "wtf 3" << endl;
 	///Lectura del header
 	cur = StringFunctions::ExplodeF(',', &archivoParaderos);
 
@@ -711,6 +718,7 @@ void FuenteDatos::readStopTimes()
 	{
 		nlineas++;
 
+		//cout << "wtf 4" << endl;
 		///Lectura de linea del archivo
 		cur = StringFunctions::ExplodeF(',', &archivoParaderos);
 
@@ -745,20 +753,21 @@ void FuenteDatos::readStopTimes()
 			cout << "ERROR : Parada de stoptimes no encontrada en red de paradas : " << cur.at(3) << endl;
 			exit(1);
 		}
-
+		//cout << "wtf 5" << endl;
 		string trip_id = cur[0];
-
+		//cout << "wtf 5.1" << endl;
 		isec = secuencias.find(trip_id);
 		if (isec == secuencias.end())
 		{
+			//cout << "wtf 5.2" << endl;
 			map<int, string> tmp;
 			tmp[atoi(cur[4].c_str())] = cur[3];
-
+			//cout << "wtf 5.3" << endl;
 			Secuencia secu;
 			//secu.codigo = servicio;
 			secu.route_id = (*itrip).second.route_id;
 			secu.route_direction_id = (*itrip).second.direction_id;
-
+			//cout << "wtf 5.4" << endl;
 			map<string, Servicio>::iterator iserv = servicios.find((*itrip).second.route_id);
 			if (iserv != servicios.end())
 			{
@@ -769,16 +778,17 @@ void FuenteDatos::readStopTimes()
 			{
 				cout << "ERROR : No se encuentra servicio en el routes.txt : " << (*itrip).second.route_id << endl;
 			}
-
+			//cout << "wtf 5.5" << endl;
 			secu.version = "-";
 			secu.paradas = tmp;
 			secu.destino = (*itrip).second.trip_headsign;
-			
+			//cout << "wtf 5.6" << endl;
 			secu.hora_ini = tsh.Redondea1Hora(cur[1]);
 			secu.hora_fin = tsh.Redondea1Hora(cur[2]);
-
+			//cout << "wtf 5.7" << endl;
 			if (itrip != trips.end())
 			{
+				//cout << "wtf 5.8" << endl;
 				secu.shape_id = (*itrip).second.shape_id;
 				secu.tipodia = (*itrip).second.service_id;
 			}
@@ -786,13 +796,21 @@ void FuenteDatos::readStopTimes()
 			{
 				cout << "no encontre en trips : " << trip_id << endl;
 			}
+			//cout << "wtf 5.9" << endl;
 			secuencias[trip_id] = secu;
 		}
 		else
 		{
+			//cout << "wtf 6.0 : " << cur.size()  <<  " | " << cur[4] << "|" << nlineas << endl;
 			(*isec).second.paradas[atoi(cur[4].c_str())] = cur[3];
-			(*isec).second.hora_fin = tsh.Redondea1Hora(cur[2]);
+			//cout << "wtf 6.1 : " << cur[2] << endl;
+			if (cur[2].compare("-") != 0)
+				(*isec).second.hora_fin = tsh.Redondea1Hora(cur[2]);
+			//else
+			//	cout << nlineas << endl;
+			//cout << "wtf 6.2 : " << cur.size() << endl;
 		}
+		//cout << "wtf 7" << endl;
 	}
 
 	ofstream dbg;
@@ -863,8 +881,14 @@ void FuenteDatos::readResourceId()
 			{
 				if (cur.at(iObjectId).compare("default") == 0)
 				{
+					ofstream dbg;
+					dbg.open("resource.tmp");
 					for (map<string, Servicio>::iterator it = servicios.begin(); it != servicios.end(); it++)
+					{
 						resourceRouteId[(*it).second.route_id] = cur.at(iResourceId);
+						dbg << resourceRouteId[(*it).second.route_id] << "|" << cur.at(iResourceId) << endl;
+					}
+					dbg.close();
 				}
 				else
 				{
@@ -913,7 +937,7 @@ void FuenteDatos::readResourceId()
 	for (map< string, Paradero >::iterator it = redParaderos.red.begin(); it != redParaderos.red.end(); it++)
 	{
 		irStopsId = resourceStopsId.find((*it).second.codigo);
-		if (irStopsId != resourceRouteId.end())
+		if (irStopsId != resourceStopsId.end())
 		{
 			(*it).second.resource_id = (*irStopsId).second;
 		}

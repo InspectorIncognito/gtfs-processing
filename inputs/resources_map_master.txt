@@ -12,3 +12,5 @@ Calama;route;82;1
 Calama;route;84;1
 Calama;route;87;1
 Calama;stop;default;2
+GranValparaiso;route;default;0
+GranValparaiso;stop;default;2

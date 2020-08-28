@@ -41,7 +41,7 @@ def drawStops(kml,stops):
     stopStyle.labelstyle.scale = 0.5  # Make the text twice as big
     stopStyle.iconstyle.icon.href = 'http://www.earthpoint.us/Dots/GoogleEarth/shapes/shaded_dot.png'
 
-    fol = kml.newfolder(name='Stops')
+    fol = kml.newfolder(name='Stops',visibility=0)
 
     for stop in stops:
         pnt = fol.newpoint()
@@ -53,7 +53,7 @@ def drawStops(kml,stops):
 def drawShapes(kml,shapes):
 
     for key in shapes:
-        fol = kml.newfolder(name='Shape ' + key)
+        fol = kml.newfolder(name='Shape ' + key,visibility=0)
         coords = []
         for node in shapes[key].nodes:
             u = utm.to_latlon(node.x, node.y, 19, 'H')

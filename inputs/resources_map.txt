@@ -1,4 +1,0 @@
-resource_id;resource_name
-0;bus_regional
-1;bus_calama
-2;paradero_regional

@@ -63,11 +63,16 @@ def readStops(filename,stops):
     print("Reading stops file...")
     sys.stdout.flush()
 
-    file = csv.reader(open(filename, 'r'), delimiter=',')
+    #file = csv.reader(open(filename, 'r'), delimiter=',')
+
+    file = open(filename, "r",encoding="utf8")
+    #print(f.readline())
+
     nline=0
     for row in file:
+        line = row.split(',')
         if nline != 0:
-            stops.append(Stop(row[4],row[5],row[0]))
+            stops.append(Stop(line[4],line[5],line[0]))
         nline=nline+1
 
 def readShapes(filename,shapes):
@@ -79,6 +84,9 @@ def readShapes(filename,shapes):
     id_ant = "*"
     for row in file:
         if nline != 0:
+            if len(row) == 0:
+                continue
+
             if id_ant != row[0] :
                 shape = Shape(row[0])
                 shape.insertNode(float(row[1]), float(row[2]))
@@ -125,11 +133,11 @@ if __name__ == "__main__":
     stops = []
     shapes = dict()
 
-    readStops("inputs/valpo/stops.txt",stops)
-    readShapes("inputs/valpo/shapes_test.txt", shapes)
+    readStops("inputs/valpo_gtfs/stops.txt",stops)
+    readShapes("inputs/valpo_gtfs/shapes.txt", shapes)
 
 
-    stopSequences = buildStopSequence(stops, shapes)
+    #stopSequences = buildStopSequence(stops, shapes)
 
     #for key in stopSequences :
     #    for k, v in stopSequences[key].items():
@@ -151,9 +159,9 @@ if __name__ == "__main__":
     kml = simplekml.Kml()
 
     drawStops(kml,stops)
-    #drawShapes(kml, shapes)
+    drawShapes(kml, shapes)
     #drawStopSequence(kml, stopSequences)
-    drawStopSequence(kml, stopSequences, shapes)
+    #drawStopSequence(kml, stopSequences, shapes)
 
 
 
