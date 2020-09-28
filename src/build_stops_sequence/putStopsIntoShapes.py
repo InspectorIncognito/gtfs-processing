@@ -133,8 +133,8 @@ if __name__ == "__main__":
     stops = []
     shapes = dict()
 
-    readStops("inputs/valpo_gtfs/stops.txt",stops)
-    readShapes("inputs/valpo_gtfs/shapes.txt", shapes)
+    #readStops("inputs/valpo_gtfs/stops.txt",stops)
+    readShapes("inputs/santiago/shapes.txt", shapes)
 
 
     #stopSequences = buildStopSequence(stops, shapes)
@@ -158,7 +158,7 @@ if __name__ == "__main__":
 
     kml = simplekml.Kml()
 
-    drawStops(kml,stops)
+    #drawStops(kml,stops)
     drawShapes(kml, shapes)
     #drawStopSequence(kml, stopSequences)
     #drawStopSequence(kml, stopSequences, shapes)

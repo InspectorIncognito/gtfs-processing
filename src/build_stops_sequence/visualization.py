@@ -50,20 +50,21 @@ def drawStops(kml,stops):
         pnt.coords = [(stop.longitude, stop.latitude)]
 
 
-def drawShapes(kml,shapes):
+def drawShapes(kml, shapes):
 
     for key in shapes:
-        fol = kml.newfolder(name='Shape ' + key,visibility=0)
-        coords = []
-        for node in shapes[key].nodes:
-            u = utm.to_latlon(node.x, node.y, 19, 'H')
-            coords.append((u[1], u[0], 0))
-        ls = fol.newlinestring(name='Polilinea')
-        ls.style.linestyle.color = simplekml.Color.blue  # Red
-        ls.style.linestyle.width = 5  # 10 pixels
-        ls.coords = coords
-        ls.extrude = 1
-        ls.altitudemode = simplekml.AltitudeMode.relativetoground
+        if key == "506I" or key == "506R":
+            fol = kml.newfolder(name='Shape ' + key, visibility=0)
+            coords = []
+            for node in shapes[key].nodes:
+                u = utm.to_latlon(node.x, node.y, 19, 'H')
+                coords.append((u[1], u[0], 0))
+            ls = fol.newlinestring(name='Polilinea')
+            ls.style.linestyle.color = simplekml.Color.blue  # Red
+            ls.style.linestyle.width = 5  # 10 pixels
+            ls.coords = coords
+            ls.extrude = 1
+            ls.altitudemode = simplekml.AltitudeMode.relativetoground
 
 def drawStopSequence(kml,stopsequences):
     stopStyle = simplekml.Style()
