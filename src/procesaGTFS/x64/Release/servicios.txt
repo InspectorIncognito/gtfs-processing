@@ -1,0 +1,12 @@
+codigo;nombre;horarioI;horarioR;color;origen;destino;tipo
+80;80;B;Barrio Industrial - Caspana;3;-;#d7282f;#FFFFFF
+81;81;D;Barrio Industrial - Parque El Loa;3;-;#d7282f;#FFFFFF
+82;82;E;Barrio Industrial - Las Vegas;3;-;#4c9c2e;#FFFFFF
+83;83;M;Barrio Industrial - Caspana;3;-;#e50695;#FFFFFF
+84;84;X;Barrio Industrial - El Peuco;3;-;#001689;#FFFFFF
+85;85;T;Huayquitina - Almirante Grau;3;-;#0047ba;#FFFFFF
+86;86;A;Huayquitina - Población Manuel Rodriguez;3;-;#d7282f;#FFFFFF
+87;87;AC;Huayquitina - Cementerio;3;-;#73308a;#FFFFFF
+89;89;C;Huayquitina - El Peuco;3;-;#73308a;#FFFFFF
+90;90;F;Huayquitina - Kamac Mayu;3;-;#f7be00;#FFFFFF
+92;92;Z;Huayquitina - El Manzano;3;-;#231f20;#FFFFFF
