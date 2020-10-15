@@ -1,0 +1,478 @@
+stop_code;stop_name;stop_lat;stop_lon;stop_mode
+P-10-3;Antofagasta esq. Almirante Juan José Latorre;-22.45898057;-68.9255288;3
+P-10-4;Antofagasta esq. Vía Parque Poniente;-22.45833822;-68.92353665;3
+P-10-6;Antofagasta esq. Lautaro;-22.45688204;-68.92002874;3
+P-10-7;Antofagasta esq. Fresia;-22.45644784;-68.91890154;3
+P-10-8;Antofagasta esq. Los Algarrobos;-22.45542637;-68.91767751;3
+P-15-10;Balmaceda Mall Nº 2 Poniente;-22.44870636;-68.92033471;3
+P-15-12;Balmaceda Mall Nº 4 Oriente;-22.44926644;-68.92025664;3
+P-15-16;Balmaceda Mall Nº 9 Oriente;-22.45290766;-68.92127507;3
+P-15-17;Balmaceda Mall Nº 10 Poniente;-22.45364867;-68.92172173;3
+P-15-19;Balmaceda esq. Antofagasta;-22.45944901;-68.92270015;3
+P-15-8;Balmaceda esq. Almirante Grau;-22.44738709;-68.91972319;3
+P-15-9;Balmaceda Mall Nº 1 Oriente;-22.44860684;-68.92003349;3
+P-16-1;Bartolomé Vivar esq. Antofagasta;-22.45837498;-68.92487792;3
+P-16-2;Bartolomé Vivar esq. Bañados Espinoza;-22.45913379;-68.92475115;3
+P-16-3;Bartolomé Vivar esq. Bañados Espinoza;-22.46001006;-68.92469236;3
+P-16-4;Bartolomé Vivar esq. Rafael Sotomayor;-22.46244016;-68.92455497;3
+P-20-1;Camarones esq. Conde Duque;-22.43589617;-68.92058498;3
+P-20-3;Camarones esq. Central Norte;-22.4382452;-68.92092377;3
+P-25-4;Chorrillos esq. Faustino Sarmiento;-22.45388442;-68.92351965;3
+P-25-6;Chorrillos esq. Sargento Aldea;-22.45412791;-68.92262535;3
+P-25-7;Chorrillos esq. 2 Oriente;-22.45360869;-68.91415052;3
+P-29-3;Colo Colo esq. Tarapacá;-22.45878015;-68.94371416;3
+P-29-5;Colo Colo esq. Eleuterio Ramírez;-22.46201428;-68.94352818;3
+P-3-1;Alcalde José Lira esq. Escritor Héctor Pumarino Soto;-22.48013856;-68.90849598;3
+P-32-5;Diego De Almagro esq. Costa Rica;-22.44801491;-68.92929583;3
+P-39-5;Ernesto Riquelme esq. Central Norte;-22.43827383;-68.9241113;3
+P-40-1;Escritor Héctor Pumarino Soto esq. Ramón Silva Ulloa;-22.48025662;-68.90958466;3
+P-44-1;Frankfurt esq. Diego De Almagro;-22.44769301;-68.93734312;3
+P-44-2;Frankfurt esq. Hernán Cortés;-22.4483255;-68.93761497;3
+P-44-3;Frankfurt esq. Federico Errazuriz;-22.45146052;-68.93811895;3
+P-44-5;Frankfurt esq. Maipú;-22.45425213;-68.93835098;3
+P-44-6;Frankfurt esq. Vasco De Gama;-22.45428832;-68.93848703;3
+P-46-1;Granaderos esq. Curutu;-22.43427241;-68.92556143;3
+P-46-11;Granaderos esq. Simón Bolívar;-22.44694829;-68.92793575;3
+P-46-12;Granaderos esq. Diego De Almagro;-22.44765308;-68.92823667;3
+P-46-13;Granaderos esq. Manuel Montt;-22.44858368;-68.92844028;3
+P-46-14;Granaderos esq. Heriberto Salgado;-22.44975813;-68.92848827;3
+P-46-16;Granaderos esq. Federico Errazuriz;-22.45162843;-68.9290413;3
+P-46-17;Granaderos esq. Federico Errazuriz;-22.45173677;-68.92888574;3
+P-46-18;Granaderos esq. Maipú;-22.45253192;-68.92923522;3
+P-46-19;Granaderos esq. Vasco De Gama;-22.45393226;-68.9293803;3
+P-46-21;Granaderos esq. Hurtado De Mendoza;-22.45509766;-68.92938943;3
+P-46-23;Granaderos esq. Bañados Espinoza;-22.46017436;-68.92838573;3
+P-46-24;Granaderos esq. Eleuterio Ramírez;-22.46177319;-68.92794752;3
+P-46-26;Granaderos esq. Porvenir;-22.46664223;-68.92725488;3
+P-46-5;Granaderos esq. Ascotán;-22.44146419;-68.92698618;3
+P-47-11;Grecia esq. Maipú;-22.45355467;-68.93370552;3
+P-47-12;Grecia esq. Hurtado De Mendoza;-22.45570475;-68.9336559;3
+P-47-13;Grecia esq. Hurtado De Mendoza;-22.45584033;-68.93381135;3
+P-47-14;Grecia esq. Eleuterio Ramírez;-22.46261569;-68.93338046;3
+P-47-6;Grecia esq. Pje. Cuatro;-22.44700452;-68.93261042;3
+P-47-7;Grecia esq. Manuel Montt;-22.44935352;-68.93295916;3
+P-47-9;Grecia esq. Federico Errazuriz;-22.45029321;-68.93330859;3
+P-5-2;Alejandro Rodríguez esq. Guatemala;-22.43856647;-68.93207028;3
+P-5-3;Alejandro Rodríguez esq. España;-22.43884582;-68.93040834;3
+P-5-5;Alejandro Rodríguez esq. Dinamarca;-22.43894487;-68.92966971;3
+P-5-6;Alejandro Rodríguez esq. Argentina;-22.43930529;-68.92753153;3
+P-51-2;Honduras esq. Independencia;-22.44249682;-68.93333176;3
+P-52-10;Huaytiquina esq. Valle De La Luna;-22.43487217;-68.91441471;3
+P-52-11;Huaytiquina esq. Tocorpuri;-22.43531435;-68.91350096;3
+P-52-13;Huaytiquina esq. Ferrocarril;-22.43691257;-68.91199368;3
+P-52-14;Huaytiquina esq. Chañarcillo;-22.43841142;-68.91051558;3
+P-52-15;Huaytiquina esq. Hojalar;-22.43914281;-68.909864;3
+P-52-16;Huaytiquina esq. El Tambo;-22.44024422;-68.90853189;3
+P-52-17;Huaytiquina esq. Pator;-22.44059642;-68.90830813;3
+P-52-18;Huaytiquina esq. El Litio;-22.44190556;-68.90689811;3
+P-52-19;Huaytiquina esq. Palqui;-22.44193253;-68.90667457;3
+P-52-20;Huaytiquina esq. Pukara;-22.44306107;-68.90544929;3
+P-52-21;Huaytiquina esq. Almirante Grau;-22.44340423;-68.9052061;3
+P-52-8;Huaytiquina esq. Balmaceda;-22.43501806;-68.91698014;3
+P-52-9;Huaytiquina esq. Los Salares;-22.43499868;-68.91447294;3
+P-54-4;Independencia esq. Guatemala;-22.44283084;-68.93275821;3
+P-57-2;Jorge Alessandri Rodríguez esq. Presidente Eduardo Frei Montalva;-22.47974317;-68.91229715;3
+P-59-13;La Paz Nº 11 Norte;-22.46396724;-68.90780677;3
+P-59-2;La Paz esq. Los Robles;-22.46313411;-68.9210749;3
+P-62-1;Las Vegas esq. Aconcagua;-22.47264469;-68.93638902;3
+P-62-3;Las Vegas esq. Turi;-22.47501136;-68.93574637;3
+P-62-4;Las Vegas esq. Turi;-22.47577008;-68.93541552;3
+P-62-6;Las Vegas esq. Quemazón;-22.48057556;-68.93385792;3
+P-63-11;Libertador Bernardo O'Higgins esq. Paniri;-22.47938117;-68.92938684;3
+P-63-3;Libertador Bernardo O'Higgins esq. Arauco;-22.47088798;-68.92670832;3
+P-63-4;Libertador Bernardo O'Higgins esq. Aconcagua;-22.47218005;-68.92714507;3
+P-63-9;Libertador Bernardo O'Higgins esq. Piedras Grandes;-22.4780349;-68.92893064;3
+P-64-1;Licarayen esq. Juan Soldado;-22.48875431;-68.92041875;3
+P-66-11;Maipú esq. Paraguay;-22.4533477;-68.9357272;3
+P-66-12;Maipú esq. México;-22.45311145;-68.93239365;3
+P-66-13;Maipú esq. Venezuela;-22.45326482;-68.93187846;3
+P-68-1;Matta esq. Antofagasta;-22.45775853;-68.92041702;3
+P-7-5;Almirante Juan José Latorre esq. San Lorenzo;-22.45779734;-68.92603485;3
+P-7-6;Almirante Juan José Latorre esq. Félix Hoyos;-22.45852004;-68.92597614;3
+P-7-7;Almirante Juan José Latorre esq. Bañados Espinoza;-22.46017319;-68.92580031;3
+P-7-8;Almirante Juan José Latorre esq. Eleuterio Ramírez;-22.46246772;-68.9255561;3
+P-70-1;Nueva Nº 2618;-22.45202735;-68.91345172;3
+P-71-1;Nueva Norte esq. Nueva Oriente;-22.45114364;-68.91654291;3
+P-71-2;Nueva Norte esq. 5 Oriente;-22.45093466;-68.91425908;3
+P-76-1;Pedro De Valdivia esq. Coquimbo;-22.45668302;-68.94028406;3
+P-76-10;Pedro De Valdivia esq. Javiera Carrera;-22.46628598;-68.93963842;3
+P-76-2;Pedro De Valdivia esq. Coquimbo;-22.45758638;-68.94015732;3
+P-76-3;Pedro De Valdivia esq. Juan Antonio Ríos;-22.45962805;-68.94008841;3
+P-76-4;Pedro De Valdivia esq. Juan Antonio Ríos;-22.46003453;-68.93995216;3
+P-76-6;Pedro De Valdivia esq. Eleuterio Ramírez;-22.46197683;-68.93990272;3
+P-76-7;Pedro De Valdivia esq. Vicuña Mackenna;-22.46375652;-68.93983391;3
+P-76-9;Pedro De Valdivia esq. Javiera Carrera;-22.46558136;-68.93975537;3
+P-78-1;Piedras Grandes esq. San Juan;-22.47705877;-68.92792018;3
+P-78-2;Piedras Grandes esq. Tulor;-22.47762705;-68.92600488;3
+P-79-11;Presidente Eduardo Frei Montalva esq. Ojos De Esmeralda;-22.48183004;-68.91230556;3
+P-79-2;Presidente Eduardo Frei Montalva esq. Licarayén;-22.48738082;-68.91977792;3
+P-79-3;Presidente Eduardo Frei Montalva esq. Socavones De Pica;-22.48609724;-68.91828155;3
+P-79-5;Presidente Eduardo Frei Montalva esq. La Calchona;-22.48504828;-68.91631845;3
+P-79-6;Presidente Eduardo Frei Montalva esq. Millalobo;-22.48488548;-68.91594914;3
+P-79-8;Presidente Eduardo Frei Montalva esq. El Trauco;-22.48383697;-68.91488043;3
+P-79-9;Presidente Eduardo Frei Montalva esq. La Añañuca;-22.48315901;-68.91411287;3
+P-8-3;Alonso De Ercilla esq. Granaderos;-22.4528388;-68.92860332;3
+P-80-1;Pucón esq. Antillanca;-22.45437247;-68.94645676;3
+P-80-2;Pucón esq. El Cobre;-22.4569742;-68.94622249;3
+P-81-1;Punta Arenas esq. Grecia;-22.47028444;-68.93063566;3
+P-82-1;Punta De Rieles esq. Ernesto Riquelme;-22.43302483;-68.92368657;3
+P-82-3;Punta De Rieles esq. Río Negro;-22.4341329;-68.91733051;3
+P-83-1;Puritama esq. Lequena;-22.47704306;-68.93340272;3
+P-83-3;Puritama esq. Ojo De Apache;-22.48058393;-68.93226367;3
+P-84-4;Rafael Sotomayor esq. Elqui;-22.46302534;-68.94140884;3
+P-84-7;Rafael Sotomayor esq. Rio De Janeiro;-22.46294238;-68.93702524;3
+P-84-8;Rafael Sotomayor esq. Rio De Janeiro;-22.46278805;-68.93512022;3
+P-84-9;Rafael Sotomayor esq. Grecia;-22.46288716;-68.93448839;3
+P-85-1;Rafael Vargas esq. Pedro Aguirre Cerda;-22.46120629;-68.9331673;3
+P-85-2;Rafael Vargas esq. Santa María;-22.46102446;-68.93045559;3
+P-85-3;Rafael Vargas esq. Bautista;-22.46094231;-68.92852142;3
+P-9-3;Aníbal Pinto esq. Volcán Santa Rosa Norte;-22.46421355;-68.93060952;3
+P-93-2;Tarapacá esq. Chiu Chiu;-22.45782749;-68.93300369;3
+P-93-3;Tarapacá esq. Granaderos;-22.45735568;-68.92828027;3
+P-95-1;Turi esq. Dublé Almeyda;-22.47525431;-68.93336469;3
+P-95-2;Turi esq. Casilla;-22.47539693;-68.92885422;3
+P-97-10;Vasco De Gama esq. Frankfurt;-22.45469469;-68.9380592;3
+P-97-12;Vasco De Gama esq. Paraguay;-22.45478411;-68.9357071;3
+P-97-6;Vasco De Gama esq. Colo Colo;-22.45480512;-68.94357969;3
+P-98-4;Vicuña Mackenna esq. Santa María;-22.46329092;-68.9279759;3
+P-98-5;Vicuña Mackenna esq. Almirante Juan José Latorre;-22.46323541;-68.92509885;3
+PR-12-7;Arturo Prat esq. Granaderos;-22.44518636;-68.92728551;3
+PR-15-11;Balmaceda Mall Nº 3 Oriente;-22.44884178;-68.92014026;3
+PR-15-13;Balmaceda Mall Nº 5 Poniente;-22.45045018;-68.92082938;3
+PR-15-14;Balmaceda Mall Nº 6 Oriente;-22.45059463;-68.9206252;3
+PR-15-15;Balmaceda Mall Nº 8 Poniente;-22.45221205;-68.92128518;3
+PR-15-18;Balmaceda esq. Parque Oriente;-22.45656708;-68.92255596;3
+PR-16-5;Bartolomé Vivar esq. Atacama;-22.46371392;-68.92446681;3
+PR-2-1;Aeropuerto esq. Balmaceda;-22.48962321;-68.92381112;3
+PR-20-6;Camarones esq. Caspana;-22.44058512;-68.92111681;3
+PR-23-1;Central Sur esq. Miño;-22.43849091;-68.92466511;3
+PR-25-2;Chorrillos esq. Faustino Sarmiento;-22.45357783;-68.92473471;3
+PR-25-3;Chorrillos esq. Parque Oriente;-22.45384873;-68.92447215;3
+PR-39-3;Ernesto Riquelme esq. Collahuasi;-22.43778596;-68.92403382;3
+PR-45-2;Frei Bonn esq. 10 De Julio;-22.44496487;-68.93773309;3
+PR-45-3;Frei Bonn esq. 10 De Julio;-22.44559724;-68.93769394;3
+PR-46-10;Granaderos esq. Los Flamencos;-22.44487025;-68.92748005;3
+PR-46-15;Granaderos esq. Manuel Montt;-22.44993893;-68.92874087;3
+PR-46-2;Granaderos esq. Freirina;-22.4355644;-68.92582312;3
+PR-46-25;Granaderos esq. Cobija;-22.46523306;-68.92757638;3
+PR-46-27;Granaderos esq. Ecuador;-22.46856622;-68.92667066;3
+PR-46-3;Granaderos esq. Alejandro Rodríguez;-22.4387989;-68.92647252;3
+PR-46-7;Granaderos esq. Independencia;-22.44310854;-68.92732547;3
+PR-46-8;Granaderos esq. Los Flamencos;-22.4431446;-68.92715052;3
+PR-46-9;Granaderos esq. Arturo Prat;-22.4440572;-68.92751935;3
+PR-52-12;Huaytiquina esq. Ferrocarril;-22.43562142;-68.91333557;3
+PR-52-3;Huaytiquina esq. Granaderos;-22.43348612;-68.92486217;3
+PR-52-5;Huaytiquina esq. Camarones;-22.43438747;-68.9205664;3
+PR-52-7;Huaytiquina esq. Caracoles;-22.43461266;-68.91922521;3
+PR-6-5;Almirante Grau esq. El Abra;-22.44535105;-68.9132129;3
+PR-63-10;Libertador Bernardo O'Higgins esq. Grecia;-22.4783241;-68.92919296;3
+PR-63-2;Libertador Bernardo O'Higgins esq. Punta Arenas;-22.47030068;-68.92651423;3
+PR-63-5;Libertador Bernardo O'Higgins esq. Esmeralda;-22.47235163;-68.92700889;3
+PR-63-8;Libertador Bernardo O'Higgins esq. Janequeo;-22.47534236;-68.92802799;3
+PR-64-2;Licarayen esq. Juan Soldado;-22.48977513;-68.92036956;3
+PR-7-10;Almirante Juan José Latorre esq. Pedro León Gallo;-22.46558436;-68.92532115;3
+PR-7-9;Almirante Juan José Latorre esq. Vicuña Mackenna;-22.46345239;-68.92546809;3
+PR-79-1;Presidente Eduardo Frei Montalva esq. Licarayen Norte;-22.48766093;-68.91988469;3
+PR-79-10;Presidente Eduardo Frei Montalva esq. Pedro Aguirre Cerda;-22.48289677;-68.91363669;3
+PR-79-12;Presidente Eduardo Frei Montalva esq. Escritor Héctor Pumarino Soto;-22.48069121;-68.91131473;3
+PR-79-4;Presidente Eduardo Frei Montalva esq. La Piedra Feliz;-22.48572652;-68.91764016;3
+PR-79-7;Presidente Eduardo Frei Montalva esq. La Flor Del Hielo;-22.48415326;-68.91506494;3
+PR-81-2;Punta Arenas esq. Osorno;-22.47032009;-68.9295178;3
+PR-85-4;Rafael Vargas esq. Bartolomé Vivar;-22.46079632;-68.92532372;3
+PV-1-1;18 de Mayo esq. Oriente;-22.47573875;-68.92560733;3
+PV-1-2;18 de Mayo esq. Cesáreo Aguirre;-22.47623537;-68.92504326;3
+PV-10-1;Antofagasta esq. Santa María;-22.45988556;-68.92904682;3
+PV-10-2;Antofagasta esq. Eduardo Abaroa;-22.45933355;-68.92696711;3
+PV-10-5;Antofagasta esq. Matta;-22.45750597;-68.92122388;3
+PV-11-1;Argentina esq. Huaytiquina;-22.43400159;-68.92600859;3
+PV-11-2;Argentina esq. Freirina;-22.43600732;-68.92635737;3
+PV-11-3;Argentina esq. Alejandro Rodríguez;-22.4399917;-68.92714245;3
+PV-11-4;Argentina esq. Ascotán;-22.44191613;-68.92752046;3
+PV-11-5;Argentina esq. Arturo Prat;-22.44598184;-68.92836387;3
+PV-11-6;Argentina esq. Finlandia;-22.44800575;-68.92900427;3
+PV-11-7;Argentina esq. Federico Errazuriz;-22.4520081;-68.92958537;3
+PV-12-1;Arturo Prat esq. Honduras;-22.44407806;-68.9340113;3
+PV-12-10;Arturo Prat esq. Faustino Sarmiento;-22.44568216;-68.92493335;3
+PV-12-11;Arturo Prat esq. José Santos Ossa;-22.44600551;-68.92100684;3
+PV-12-12;Arturo Prat esq. Balmaceda;-22.44627606;-68.92004454;3
+PV-12-2;Arturo Prat esq. Italia;-22.44420418;-68.93315601;3
+PV-12-3;Arturo Prat esq. Dinamarca;-22.44467303;-68.93095939;3
+PV-12-4;Arturo Prat esq. Dinamarca;-22.44476294;-68.92996806;3
+PV-12-6;Arturo Prat esq. Granaderos;-22.44507832;-68.92812137;3
+PV-12-8;Arturo Prat esq. Luis Uribe;-22.44572734;-68.92496248;3
+PV-12-9;Arturo Prat esq. Ernesto Riquelme;-22.44532082;-68.92499185;3
+PV-13-1;Ascotán esq. Inacaliri;-22.44202385;-68.92600434;3
+PV-13-2;Ascotán esq. Ernesto Riquelme;-22.44242091;-68.92505172;3
+PV-13-3;Ascotán esq. El Laco;-22.44300668;-68.92200954;3
+PV-13-5;Ascotán esq. Salar Del Carmen;-22.4434118;-68.91912293;3
+PV-14-1;Atacama esq. Balmaceda;-22.46421905;-68.92284331;3
+PV-14-2;Atacama esq. Matta;-22.46436323;-68.92206563;3
+PV-15-1;Balmaceda esq. Conchi Viejo;-22.43518045;-68.91655246;3
+PV-15-2;Balmaceda esq. Conchi Viejo;-22.43700557;-68.91700812;3
+PV-15-20;Balmaceda N° 1428;-22.46600787;-68.92300756;3
+PV-15-3;Balmaceda esq. Central Norte;-22.43815308;-68.91737672;3
+PV-15-4;Balmaceda esq. Central Norte;-22.43996007;-68.91770607;3
+PV-15-5;Balmaceda esq. Aucalquincha;-22.4420654;-68.9184823;3
+PV-15-6;Balmaceda esq. Lord Cochrane;-22.44400799;-68.91900596;3
+PV-15-7;Balmaceda esq. Guillermo Cabrales;-22.44495668;-68.91923866;3
+PV-16-6;Bartolomé Vivar esq. Manzano;-22.46698413;-68.92423175;3
+PV-17-1;Bolivia esq. Víctor Hugo Veliz;-22.43996797;-68.93503366;3
+PV-17-2;Bolivia esq. Killa-Hua;-22.43975074;-68.93401335;3
+PV-17-3;Bolivia esq. Honduras;-22.44000286;-68.93200155;3
+PV-18-1;Brasil esq. Arturo Prat;-22.44500644;-68.92900579;3
+PV-19-1;Brasilia esq. Vicuña Mackenna;-22.4639986;-68.9350905;3
+PV-19-2;Brasilia esq. Javiera Carrera;-22.46503763;-68.93538161;3
+PV-19-3;Brasilia esq. Volcán Santa Rosa Sur;-22.46504661;-68.93524553;3
+PV-19-5;Brasilia esq. Cerro Jardín;-22.46800104;-68.93600233;3
+PV-20-2;Camarones esq. Conde Duque;-22.4359413;-68.92048777;3
+PV-20-4;Camarones esq. Central Sur;-22.43894096;-68.92119549;3
+PV-20-5;Camarones esq. Central Sur;-22.44000688;-68.92100052;3
+PV-20-7;Camarones esq. Aucalquincha;-22.44194031;-68.92128126;3
+PV-21-1;Caracoles esq. Conde Duque;-22.43688027;-68.91933079;3
+PV-22-1;Central Norte esq. Portezuelo Del Inca;-22.43804601;-68.9200201;3
+PV-23-2;Central Sur esq. José Miguel Carrera;-22.43900507;-68.92300303;3
+PV-24-1;Chala esq. Polapi;-22.47807195;-68.93103034;3
+PV-25-1;Chorrillos esq. Almirante Juan José Latorre;-22.45325322;-68.92605669;3
+PV-25-5;Chorrillos esq. Sargento Aldea;-22.45400162;-68.92300447;3
+PV-26-1;Clotario Blest esq. Luis Emilio Recabarren;-22.4384593;-68.93508295;3
+PV-26-2;Clotario Blest esq. Alejandro Cerutti;-22.4388198;-68.93297394;3
+PV-27-1;Cobija esq. Aldunate;-22.46986266;-68.93754701;3
+PV-27-2;Cobija esq. Llama;-22.46778265;-68.93215325;3
+PV-27-3;Cobija esq. Guanaco;-22.46780065;-68.931988;3
+PV-27-4;Cobija esq. Chinchilla;-22.46700481;-68.93000548;3
+PV-27-5;Cobija esq. Miscanti;-22.46664319;-68.92942246;3
+PV-28-1;Colchagua Oriente esq. Las Parinas;-22.43396648;-68.92827286;3
+PV-28-2;Colchagua Oriente esq. Freirina;-22.43508684;-68.92858325;3
+PV-29-1;Colo Colo esq. Hurtado De Mendoza;-22.45698239;-68.94375376;3
+PV-29-2;Colo Colo esq. El Cobre;-22.45699145;-68.94384123;3
+PV-29-4;Colo Colo esq. Chacabuco;-22.4589608;-68.94362661;3
+PV-30-2;Colonia esq. Manuel Montt;-22.44713381;-68.93972446;3
+PV-31-1;Costa Rica esq. Federico Errazuriz;-22.45099656;-68.93021762;3
+PV-31-2;Costa Rica esq. Alonso De Ercilla;-22.45305665;-68.93097468;3
+PV-32-1;Diego De Almagro esq. Hamburgo;-22.44684367;-68.93698391;3
+PV-32-2;Diego De Almagro esq. Hamburgo;-22.4470059;-68.93600225;3
+PV-32-3;Diego De Almagro esq. Grecia;-22.44802545;-68.93281402;3
+PV-32-4;Diego De Almagro esq. Grecia;-22.44754635;-68.93210478;3
+PV-33-1;Dinamarca esq. Bolivia;-22.44107692;-68.92968807;3
+PV-33-2;Dinamarca esq. Independencia;-22.44200757;-68.93000831;3
+PV-33-4;Dinamarca esq. Arturo Prat;-22.4440404;-68.93038631;3
+PV-34-1;Doctor Carlos Cisternas esq. Pedro Aguirre Cerda;-22.45873952;-68.9320313;3
+PV-34-2;Doctor Carlos Cisternas esq. Lautaro;-22.45883889;-68.93203125;3
+PV-35-1;Duble Almeyda esq. Santiago;-22.4750106;-68.93388001;3
+PV-36-1;Ecuador esq. Libertador Bernardo O'Higgins;-22.46900903;-68.92700092;3
+PV-36-2;Ecuador esq. Almirante Juan José Latorre;-22.46866478;-68.92491125;3
+PV-36-3;Ecuador esq. Bartolomé Vivar;-22.46824876;-68.92394918;3
+PV-37-1;El Litio esq. Las Canteras;-22.44279105;-68.90715992;3
+PV-38-1;Eleuterio Ramírez esq. Pedro Aguirre Cerda;-22.46199996;-68.93003716;3
+PV-38-2;Eleuterio Ramírez esq. Aníbal Pinto;-22.46204512;-68.93000797;3
+PV-39-1;Ernesto Riquelme esq. Conchi Viejo;-22.43500321;-68.92350085;3
+PV-39-2;Ernesto Riquelme esq. Collahuasi;-22.43600613;-68.92379184;3
+PV-39-4;Ernesto Riquelme esq. Central Sur;-22.43794864;-68.9241795;3
+PV-39-6;Ernesto Riquelme esq. Talca;-22.43990011;-68.92442139;3
+PV-39-7;Ernesto Riquelme esq. Ascotán;-22.44214063;-68.92457567;3
+PV-39-8;Ernesto Riquelme esq. Ascotán;-22.44281821;-68.9246239;3
+PV-39-9;Ernesto Riquelme esq. Arturo Prat;-22.44498663;-68.92514753;3
+PV-4-1;Aldunate esq. Oasis Puritama;-22.4701517;-68.93742051;3
+PV-41-1;Federico Errazuriz esq. Huaka Huali;-22.45004533;-68.9470124;3
+PV-41-2;Federico Errazuriz esq. Arauco;-22.45012628;-68.94594329;3
+PV-42-1;Félix Hoyos esq. Almirante Juan José Latorre;-22.45845733;-68.92714252;3
+PV-43-1;Florida esq. Diego De Almagro;-22.44706876;-68.93505951;3
+PV-43-2;Florida esq. Hernán Cortés;-22.4491106;-68.93541815;3
+PV-43-3;Florida esq. Hernán Cortés;-22.44995982;-68.93546635;3
+PV-43-4;Florida esq. Federico Errazuriz;-22.45200169;-68.93588333;3
+PV-43-5;Florida esq. Alonso De Ercilla;-22.45200174;-68.93600968;3
+PV-43-6;Florida esq. Vasco De Gama;-22.45400732;-68.93605735;3
+PV-43-7;Florida esq. Vasco De Gama;-22.45500107;-68.93607634;3
+PV-44-4;Frankfurt esq. Maipú;-22.45199356;-68.93819647;3
+PV-45-1;Frei Bonn esq. Arturo Prat;-22.44393485;-68.93738369;3
+PV-45-4;Frei Bonn esq. Diego De Almagro;-22.44700668;-68.9380043;3
+PV-45-5;Frei Bonn esq. Hernán Cortés;-22.44800051;-68.9382274;3
+PV-46-20;Granaderos esq. Vasco De Gama;-22.4549711;-68.92920483;3
+PV-46-22;Granaderos esq. Tarapacá;-22.45700369;-68.92903856;3
+PV-46-4;Granaderos esq. El Tatio;-22.43936803;-68.92642363;3
+PV-46-6;Granaderos esq. Ascotán;-22.44202428;-68.92694702;3
+PV-47-1;Grecia esq. Bolivia;-22.44100533;-68.93127219;3
+PV-47-10;Grecia esq. Maipú;-22.4530217;-68.9338224;3
+PV-47-15;Grecia esq. Cerro Jardín;-22.46700608;-68.933009;3
+PV-47-16;Grecia esq. Aconcagua;-22.47204638;-68.93135409;3
+PV-47-17;Grecia esq. Aconcagua;-22.47204632;-68.93119857;3
+PV-47-18;Grecia esq. Turi;-22.47496411;-68.93072081;3
+PV-47-19;Grecia esq. Turi;-22.47599376;-68.9302051;3
+PV-47-2;Grecia esq. Canadá;-22.44207149;-68.93160209;3
+PV-47-20;Grecia esq. Quemazón;-22.47875789;-68.92953297;3
+PV-47-3;Grecia esq. Independencia;-22.44320079;-68.93169872;3
+PV-47-4;Grecia esq. Arturo Prat;-22.44400495;-68.93200932;3
+PV-47-5;Grecia esq. Finlandia;-22.44699542;-68.93245492;3
+PV-48-1;Guacolda esq. Caupolicán;-22.45417068;-68.917756;3
+PV-49-1;Hamburgo esq. Yacimiento;-22.44400654;-68.93589672;3
+PV-5-1;Alejandro Rodríguez esq. Víctor Hugo Veliz;-22.43800756;-68.93500541;3
+PV-5-4;Alejandro Rodríguez esq. Talca;-22.43878236;-68.92991275;3
+PV-5-7;Alejandro Rodríguez esq. Magallanes;-22.43925996;-68.92717198;3
+PV-50-1;Hernán Cortés esq. Arauco;-22.4486444;-68.94505945;3
+PV-50-10;Hernán Cortés esq. Colombia;-22.45025614;-68.93108297;3
+PV-50-2;Hernán Cortés esq. Colo Colo;-22.44870745;-68.94451517;3
+PV-50-3;Hernán Cortés esq. Toko Llama;-22.44862526;-68.9419883;3
+PV-50-4;Hernán Cortés esq. Inka Huaka;-22.44878749;-68.9409386;3
+PV-50-6;Hernán Cortés esq. Frankfurt;-22.44931002;-68.93711886;3
+PV-50-7;Hernán Cortés esq. Berlín;-22.44942736;-68.93684668;3
+PV-50-8;Hernán Cortés esq. Paraguay;-22.44985079;-68.93391138;3
+PV-50-9;Hernán Cortés esq. Libertador Bernardo O'Higgins;-22.44979659;-68.93393084;3
+PV-51-1;Honduras esq. Canadá;-22.44101507;-68.93296317;3
+PV-52-1;Huaytiquina esq. Argentina;-22.43339632;-68.92603806;3
+PV-52-2;Huaytiquina esq. Argentina;-22.43344136;-68.92573679;3
+PV-52-4;Huaytiquina esq. Limón Verde;-22.43400874;-68.92200485;3
+PV-52-6;Huaytiquina esq. Camarones;-22.43449516;-68.91910866;3
+PV-53-1;Hurtado De Mendoza esq. Pucón;-22.45630561;-68.94601864;3
+PV-53-2;Hurtado De Mendoza esq. Nueva;-22.45621351;-68.94098405;3
+PV-53-3;Hurtado De Mendoza esq. Brasilia;-22.45607571;-68.93502615;3
+PV-53-4;Hurtado De Mendoza esq. Libertador Bernardo O'Higgins;-22.45605722;-68.93398619;3
+PV-54-1;Independencia esq. Frei Bonn Oriente;-22.44213653;-68.93600448;3
+PV-54-2;Independencia esq. Hamburgo;-22.442263;-68.93597527;3
+PV-54-3;Independencia esq. Honduras;-22.44265029;-68.93307901;3
+PV-54-5;Independencia esq. Dinamarca;-22.44317297;-68.93001745;3
+PV-54-6;Independencia esq. Brasil;-22.44361517;-68.92894819;3
+PV-55-1;Italia esq. Escocia;-22.44505397;-68.93459395;3
+PV-55-2;Italia esq. Finlandia;-22.44604781;-68.93481701;3
+PV-56-1;Javiera Carrera esq. Grecia;-22.4650005;-68.93295164;3
+PV-56-2;Javiera Carrera esq. Grecia;-22.46502763;-68.93300995;3
+PV-57-1;Jorge Alessandri Rodríguez esq. Escritor Héctor Pumarino Soto;-22.48097228;-68.91318099;3
+PV-57-3;Jorge Alessandri Rodríguez esq. Llaile;-22.478658;-68.91030505;3
+PV-57-4;Jorge Alessandri Rodríguez esq. Llaile;-22.47783517;-68.9090127;3
+PV-57-5;Jorge Alessandri Rodríguez esq. Cautín;-22.47748275;-68.90884768;3
+PV-57-6;Jorge Alessandri Rodríguez esq. Alcalde José Lira;-22.4777615;-68.90655337;3
+PV-58-1;La Pampa esq. El Litio;-22.44379341;-68.90644008;3
+PV-59-1;La Paz esq. Los Robles;-22.46325163;-68.92123035;3
+PV-59-10;La Paz Nº 8 Norte;-22.46416786;-68.91113085;3
+PV-59-11;La Paz Nº 9 Sur;-22.46394971;-68.90874961;3
+PV-59-12;La Paz Nº 10 Sur;-22.46395877;-68.90879821;3
+PV-59-14;La Paz Nº 12 Sur;-22.46468874;-68.90568735;3
+PV-59-15;La Paz Nº 13 Norte;-22.46499537;-68.90478318;3
+PV-59-16;La Paz Nº 14 Norte;-22.46628635;-68.90329513;3
+PV-59-17;La Paz Nº 15 Sur;-22.46680098;-68.90277961;3
+PV-59-18;La Paz Nº 16 Norte;-22.46763116;-68.90121409;3
+PV-59-19;La Paz Nº 17 Sur;-22.46793815;-68.90093199;3
+PV-59-3;La Paz Nº 1 Sur;-22.46300661;-68.91900465;3
+PV-59-4;La Paz Nº 2 Norte;-22.46334056;-68.9183921;3
+PV-59-5;La Paz Nº 3 Oriente;-22.46525506;-68.91698158;3
+PV-59-6;La Paz Nº 4 Sur;-22.46526401;-68.91681634;3
+PV-59-7;La Paz Nº 5 Norte;-22.46520085;-68.91696218;3
+PV-59-8;La Paz Nº 6 Norte;-22.46435007;-68.91395923;3
+PV-59-9;La Paz Nº 7 Sur;-22.46400627;-68.91300689;3
+PV-6-1;Almirante Grau esq. Ferrocarril;-22.44623937;-68.91894635;3
+PV-6-2;Almirante Grau esq. San Antonio;-22.44650091;-68.91805208;3
+PV-6-3;Almirante Grau esq. Placilla;-22.44592168;-68.91601151;3
+PV-6-4;Almirante Grau esq. Mantos Blancos;-22.44612041;-68.91598224;3
+PV-6-6;Almirante Grau esq. Comandante Neira;-22.44552261;-68.91304758;3
+PV-6-7;Almirante Grau esq. Quebrada Blanca;-22.44497898;-68.91015178;3
+PV-6-8;Almirante Grau esq. Quebrada Blanca;-22.44471684;-68.90987011;3
+PV-6-9;Almirante Grau esq. Mina Sur;-22.44436345;-68.90798495;3
+PV-60-1;La Tirana esq. Arica;-22.43801444;-68.92985483;3
+PV-61-1;Laguna Legia esq. Las Parinas;-22.43410164;-68.92748565;3
+PV-61-2;Laguna Legia esq. Freirina;-22.43604414;-68.92787335;3
+PV-61-3;Laguna Legia esq. La Tirana;-22.43699281;-68.92807694;3
+PV-62-2;Las Vegas esq. Justo Arteaga;-22.47278926;-68.93643756;3
+PV-62-5;Las Vegas esq. Llareta;-22.47700758;-68.93500667;3
+PV-62-7;Las Vegas esq. Ojo De Apache;-22.48097305;-68.93383829;3
+PV-63-1;Libertador Bernardo O'Higgins esq. Ecuador;-22.46993919;-68.92623253;3
+PV-63-6;Libertador Bernardo O'Higgins esq. Janequeo;-22.474231;-68.92765918;3
+PV-63-7;Libertador Bernardo O'Higgins esq. Turi;-22.47499909;-68.9280865;3
+PV-65-1;Los Suspiros esq. Cementerio;-22.46295472;-68.90657302;3
+PV-66-1;Maipú esq. Gacete;-22.45372317;-68.95006283;3
+PV-66-10;Maipú esq. Florida;-22.45316711;-68.93595083;3
+PV-66-14;Maipú esq. Ramón Freire;-22.45330877;-68.92905016;3
+PV-66-15;Maipú esq. Cancha Rayada;-22.45331689;-68.92700914;3
+PV-66-2;Maipú esq. Petrohué;-22.4536147;-68.9498782;3
+PV-66-3;Maipú esq. Pucón;-22.45358669;-68.94703049;3
+PV-66-4;Maipú esq. Arauco;-22.45355021;-68.94600027;3
+PV-66-5;Maipú esq. Antuco;-22.45340566;-68.94597117;3
+PV-66-6;Maipú esq. Quetena;-22.45349499;-68.94304567;3
+PV-66-7;Maipú esq. Colo Colo;-22.45335043;-68.94299713;3
+PV-66-8;Maipú esq. Frei Bonn;-22.45323154;-68.93902205;3
+PV-66-9;Maipú esq. Frankfurt;-22.45338511;-68.93901226;3
+PV-67-1;Manzano esq. Almirante Juan José Latorre;-22.46694802;-68.92429009;3
+PV-68-2;Matta esq. Estadio Poniente;-22.46005366;-68.92138767;3
+PV-68-3;Matta esq. Estadio Oriente;-22.46103835;-68.92134823;3
+PV-69-1;Mejillones esq. Colchagua Oriente;-22.43300875;-68.92800125;3
+PV-69-2;Mejillones esq. Las Parinas;-22.43400296;-68.92905026;3
+PV-69-3;Mejillones esq. Freirina;-22.4349607;-68.92935103;3
+PV-7-1;Almirante Juan José Latorre esq. Simón Bolívar;-22.44598947;-68.92526362;3
+PV-7-11;Almirante Juan José Latorre esq. Serrano;-22.46901723;-68.92518323;3
+PV-7-12;Almirante Juan José Latorre esq. Carlos Condell;-22.4729651;-68.92516167;3
+PV-7-13;Almirante Juan José Latorre esq. Carlos Condell;-22.4731909;-68.92505462;3
+PV-7-2;Almirante Juan José Latorre esq. Chorrillos;-22.45501498;-68.92631818;3
+PV-7-4;Almirante Juan José Latorre esq. Hurtado De Mendoza;-22.45673132;-68.92602569;3
+PV-72-1;Nueva Oriente esq. 10 Norte;-22.44910234;-68.91731192;3
+PV-72-2;Nueva Oriente esq. Nueva Norte;-22.4510084;-68.91706782;3
+PV-73-1;Ojo De Apache esq. Puritama;-22.48100842;-68.93200099;3
+PV-74-1;Paula Jaraquemada esq. Pedro De Valdivia;-22.46795704;-68.93902533;3
+PV-74-2;Paula Jaraquemada esq. Uruguay;-22.46726966;-68.93695524;3
+PV-74-3;Paula Jaraquemada esq. Brasilia;-22.46699819;-68.93581811;3
+PV-74-4;Paula Jaraquemada esq. Quirquincho;-22.4667897;-68.93406859;3
+PV-75-1;Pedro Aguirre Cerda esq. Presidente Eduardo Frei Montalva;-22.48210188;-68.91383161;3
+PV-76-11;Pedro De Valdivia esq. Paula Jaraquemada;-22.46785779;-68.93934614;3
+PV-76-5;Pedro De Valdivia esq. Rafael Vargas;-22.46201296;-68.93987355;3
+PV-76-8;Pedro De Valdivia esq. Rafael Sotomayor;-22.46385585;-68.93973667;3
+PV-77-1;Pedro León Gallo esq. Almirante Juan José Latorre;-22.46522331;-68.92599202;3
+PV-78-3;Piedras Grandes esq. Catarpe;-22.4777444;-68.92580068;3
+PV-8-1;Alonso De Ercilla esq. Ollantay;-22.45146489;-68.95082172;3
+PV-8-2;Alonso De Ercilla esq. Guillermo Cavour;-22.45157305;-68.95002472;3
+PV-80-3;Pucón esq. El Sol;-22.45703741;-68.94614471;3
+PV-80-5;Pucón esq. Carlos Cisternas;-22.46000053;-68.94600749;3
+PV-82-2;Punta De Rieles esq. Camarones Oriente;-22.43367344;-68.91987684;3
+PV-83-2;Puritama esq. Ollagüe;-22.47800051;-68.93300371;3
+PV-84-1;Rafael Sotomayor esq. Rupanco;-22.46321724;-68.94777526;3
+PV-84-10;Rafael Sotomayor esq. Brasilia;-22.46286887;-68.93393437;3
+PV-84-2;Rafael Sotomayor esq. Pucón;-22.46309017;-68.94597714;3
+PV-84-3;Rafael Sotomayor esq. Colo Colo;-22.46300784;-68.9430029;3
+PV-84-5;Rafael Sotomayor esq. José Santos Ossa;-22.46300712;-68.94100062;3
+PV-84-6;Rafael Sotomayor esq. Aldunate;-22.46291566;-68.93800695;3
+PV-86-1;Ralún esq. Agrebus;-22.46404821;-68.94726951;3
+PV-87-1;Rupanco esq. Felipe Lilayu Cosme;-22.45099416;-68.94777012;3
+PV-87-2;Rupanco esq. Alonso De Ercilla;-22.45100321;-68.94783815;3
+PV-87-3;Rupanco esq. Vasco De Gama;-22.45500503;-68.9470008;3
+PV-87-4;Rupanco esq. Hurtado De Mendoza;-22.456017;-68.94747666;3
+PV-88-1;Ruta 21 Nº 1 Norte;-22.44226095;-68.89706288;3
+PV-88-10;Ruta 21 Nº 5 Sur;-22.43947713;-68.88193372;3
+PV-88-11;Ruta 21 Nº 6 Norte;-22.43855265;-68.87788205;3
+PV-88-12;Ruta 21 Nº 6 Sur;-22.43871525;-68.87786247;3
+PV-88-13;Ruta 21 Nº 7 Norte;-22.4380084;-68.87500598;3
+PV-88-14;Ruta 21 Nº 7 Sur;-22.4381529;-68.87494754;3
+PV-88-15;Ruta 21 Nº 8 Norte;-22.43721034;-68.87110977;3
+PV-88-16;Ruta 21 Nº 8 Sur;-22.43740005;-68.87109987;3
+PV-88-2;Ruta 21 Nº 1 Sur;-22.44241451;-68.89704333;3
+PV-88-3;Ruta 21 Nº 2 Norte;-22.4414271;-68.89289433;3
+PV-88-4;Ruta 21 Nº 2 Sur;-22.44158067;-68.8928845;3
+PV-88-5;Ruta 21 Nº 3 Norte;-22.44088309;-68.88996955;3
+PV-88-6;Ruta 21 Nº 3 Sur;-22.44099148;-68.88994031;3
+PV-88-7;Ruta 21 Nº 4 Norte;-22.44013051;-68.88599539;3
+PV-88-8;Ruta 21 Nº 4 Sur;-22.44023892;-68.8859953;3
+PV-88-9;Ruta 21 Nº 5 Norte;-22.43935067;-68.88195327;3
+PV-89-1;Santiago esq. Grecia;-22.47446739;-68.93109044;3
+PV-9-1;Aníbal Pinto esq. Tarapacá;-22.45803447;-68.93109857;3
+PV-9-2;Aníbal Pinto esq. Vicuña Mackenna;-22.46416834;-68.93053178;3
+PV-90-1;Simón Bolívar esq. Faustino Sarmiento;-22.4470007;-68.92400936;3
+PV-90-2;Simón Bolívar esq. Faustino Sarmiento;-22.44713575;-68.92304713;3
+PV-90-3;Simón Bolívar esq. Balmaceda;-22.44758646;-68.92099623;3
+PV-91-1;Talagante esq. San Fernando;-22.44702443;-68.91716737;3
+PV-92-1;Talca esq. La Tirana;-22.43800545;-68.92995201;3
+PV-92-2;Talca esq. Alejandro Rodríguez;-22.43867404;-68.93010717;3
+PV-93-1;Tarapacá esq. Luis Risopatrón;-22.45772813;-68.93305233;3
+PV-93-4;Tarapacá esq. Bartolomé Vivar;-22.45680353;-68.9258993;3
+PV-94-1;Til Til esq. Mantos Blancos;-22.44700576;-68.91600114;3
+PV-94-2;Til Til esq. Comandante Neira;-22.44643504;-68.91301785;3
+PV-96-1;Valdivia esq. Punta Arenas;-22.47094344;-68.92951748;3
+PV-97-1;Vasco De Gama esq. Sofía;-22.45495148;-68.94903214;3
+PV-97-11;Vasco De Gama esq. Florida;-22.45462159;-68.93595016;3
+PV-97-13;Vasco De Gama esq. Libertador Bernardo O'Higgins;-22.45459375;-68.93412295;3
+PV-97-14;Vasco De Gama esq. Venezuela;-22.45466516;-68.93202356;3
+PV-97-15;Vasco De Gama esq. Costa Rica;-22.45451115;-68.93102256;3
+PV-97-2;Vasco De Gama esq. Hugo Vidal Zamorano;-22.45509602;-68.94902237;3
+PV-97-3;Vasco De Gama esq. Rupanco;-22.45486919;-68.9460192;3
+PV-97-4;Vasco De Gama esq. Rupanco;-22.4550047;-68.94600943;3
+PV-97-5;Vasco De Gama esq. Angelmó;-22.45500436;-68.94500834;3
+PV-97-7;Vasco De Gama esq. Santiago Humberstone;-22.45491297;-68.94201485;3
+PV-97-8;Vasco De Gama esq. Santiago Humberstone;-22.45486744;-68.94101378;3
+PV-97-9;Vasco De Gama esq. Frankfurt;-22.4548396;-68.93901163;3
+PV-98-1;Vicuña Mackenna esq. Oasis;-22.46431877;-68.94587946;3
+PV-98-2;Vicuña Mackenna esq. Jane Tabilo;-22.46416417;-68.94292467;3
+PV-98-3;Vicuña Mackenna esq. Línea Dos;-22.46410997;-68.94293441;3

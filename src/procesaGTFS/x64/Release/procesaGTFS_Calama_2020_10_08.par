@@ -1,0 +1,13 @@
+Parametros Asignacion Paradero a validacion
+------------------------
+
+Calama															* prefijo de GTFS, necesario para diccionario de recursos
+c:\workspace\GTFSProcessing\inputs\GTFS_Calama_2020_10_08_					* Nombre Archivo de salida de validaciones procesadas
+c:\workspace\GTFSProcessing\inputs\GTFS_Calama_kmls\				* carpeta para kmls
+c:\workspace\GTFSProcessing\inputs\GTFS_Calama_reportes\			* carpeta para reportes
+c:\workspace\GTFSProcessing\output			* carpeta para salida
+C:\workspace\GTFSProcessing\inputs\resources_map_master.txt				*
+0								* con bip 1, 0 sino
+0								* con metro 1, 0 sino
+20.0								* Distancia para el tramado de la ruta
+Calamav4								* version	v[version cambio formato].[version de datos]				

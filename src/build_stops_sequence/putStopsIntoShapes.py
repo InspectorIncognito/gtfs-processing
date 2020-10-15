@@ -133,8 +133,8 @@ if __name__ == "__main__":
     stops = []
     shapes = dict()
 
-    #readStops("inputs/valpo_gtfs/stops.txt",stops)
-    readShapes("inputs/santiago/shapes.txt", shapes)
+    readStops("inputs/valpo_gtfs/stops.txt",stops)
+    #readShapes("inputs/santiago/shapes.txt", shapes)
 
 
     #stopSequences = buildStopSequence(stops, shapes)
@@ -171,5 +171,5 @@ if __name__ == "__main__":
     #    print(node.x,node.y)
 
     #for stop in stops:
-    #    print(stop.pos.x,stop.pos.y)
+    #    print(stop.stop.pos.x,stop.pos.y)
 
