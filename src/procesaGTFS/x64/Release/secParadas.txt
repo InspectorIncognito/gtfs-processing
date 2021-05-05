@@ -11617,107 +11617,6 @@
 421I;36697;PC632;PC632-Sn C De Apoquindo  Esq Cerro Abanico
 421I;37091;PC1050;PC1050-Camino El Alba  Esq Avenida La Plaza
 421I;37537;PC637;PC637-Avenida La Plaza  Esq Circun Las Flores
-421R;127;PC621;PC621-Circ Las Flores  Esq Avenida La Plaza
-421R;613;PC1051;PC1051-Circ Las Flores  Esq Sn C De Apoquindo
-421R;1083;PC412;PC412-Circ Las Flores  Esq Cam Las Vertientes
-421R;1416;PC413;PC413-Circ Las Flores  Esq Fco Bulnes Correa
-421R;1628;PC414;PC414-Circ Las Flores  Esq Camino Otoñal
-421R;1916;PC415;PC415-Circ Las Flores  Esq Camino La Fuente
-421R;2199;PC416;PC416-Circ Las Flores  Esq Camino Piedraroja
-421R;2487;PC417;PC417-Circ Las Flores  Esq Camino Mirasol
-421R;2680;PC1092;PC1092-Circ Las Flores  Esq Cam Del Algarrobo
-421R;2958;PC418;PC418-Parada  Cam Del Algarrobo Altura Del 1500
-421R;3309;PC1031;PC1031-Parada  Cam Del Algarrobo Altura Del 1300
-421R;3555;PC419;PC419-Camino Del Algarrobo  Esq Los Pintores
-421R;3707;PC420;PC420-Camino El Alba  Esq Vital Apoquindo
-421R;3994;PC421;PC421-Camino El Alba  Esq Cam Del Observatorio
-421R;4167;PC422;PC422-Camino El Alba  Esq Cam Del Observatorio
-421R;4501;PC315;PC315-Camino El Alba  Esq Waterloo
-421R;4715;PC316;PC316-Camino El Alba  Esq Av Padre A Hurtado
-421R;5114;PC121;PC121-Parada 6  (M) Los Dominicos
-421R;5367;PC122;PC122-Avenida Apoquindo  Esq Zanzíbar Pnte
-421R;5600;PC174;PC174-Parada 2  Inacap Apoquindo
-421R;5866;PC1105;PC1105-Avenida Apoquindo  Esq Padre Errázuriz
-421R;6236;PC175;PC175-Parada  (M) Hernando De Magallanes
-421R;6489;PC176;PC176-Parada  Estadio Italiano
-421R;6865;PC177;PC177-Parada 8  (M) Manquehue
-421R;7282;PC178;PC178-Parada 7  (M) Manquehue
-421R;7550;PC179;PC179-Parada 9  (M) Manquehue
-421R;7933;PC180;PC180-Avenida Apoquindo  Esq La Gloria
-421R;8179;PC181;PC181-Parada  Omnium
-421R;8623;PC182;PC182-Parada 9  (M) Escuela Militar
-421R;9047;PC183;PC183-Parada  Cerro Navidad
-421R;9339;PC184;PC184-Parada  (M) Alcántara
-421R;9715;PC1106;PC1106-Parada  Municipalidad De Las Condes
-421R;9990;PC185;PC185-Avenida Apoquindo  Esq A Leguía Norte
-421R;10267;PC186;PC186-Avenida Apoquindo  Esq El Bosque Norte
-421R;10589;PC1016;PC1016-Parada 3  (M) Tobalaba
-421R;10984;PC187;PC187-Parada 2  Hospital Metropolitano
-421R;11434;PC188;PC188-Parada 6  (M) Los Leones
-421R;11769;PC189;PC189-Parada 8  (M) Pedro De Valdivia
-421R;12384;PC191;PC191-Parada 2  Biblioteca De Providencia
-421R;12716;PC192;PC192-Parada 2  (M) Manuel Montt
-421R;13024;PC193;PC193-Parada 2  Torres De Tajamar
-421R;13489;PC194;PC194-Parada 2  (M) Salvador
-421R;13839;PC195;PC195-Parada 2  Parque Balmaceda
-421R;14090;PC196;PC196-Parada 2  Museo De Los Tajamares
-421R;14556;PA343;PA343-Parada 10  Plaza Italia
-421R;14919;PA41;PA41-Parada 6  (M) Universidad Católica
-421R;15764;PA344;PA344-Parada 12  (M) Santa Lucía
-421R;16000;PA345;PA345-Parada 4  (M) Universidad De Chile
-421R;16550;PA184;PA184-Parada 4  (M) La Moneda
-421R;16841;PA346;PA346-Parada 10  (M) La Moneda
-421R;17309;PA347;PA347-Parada 1  (M) Los Héroes
-421R;17777;PA348;PA348-Parada 6  (M) República
-421R;18227;PA349;PA349-Parada 4  (M) Unión Latinoamericana
-421R;19029;PI403;PI403-Parada 8  (M) Estación Central
-421R;19495;PI404;PI404-Parada 4  (M) Universidad De Santiago
-421R;19934;PI405;PI405-Parada 2  (M) San Alberto Hurtado
-421R;20431;PI471;PI471-Parada 4  Concón
-421R;20847;PI406;PI406-Parada 4  (M) Ecuador
-421R;21632;PJ112;PJ112-Parada 7  (M) Las Rejas
-421R;22405;PI407;PI407-Parada 1  Paradero 4 Pajaritos
-421R;22815;PI408;PI408-Parada  Paradero 5 Pajaritos
-421R;23071;PI409;PI409-Parada  Paradero 5 12 Pajaritos
-421R;23573;PI410;PI410-Parada  Paradero 6 Pajaritos
-421R;24046;PI411;PI411-Parada 1  Paradero 7 Pajaritos
-421R;24462;PI412;PI412-Parada 1  Paradero 7 12 Pajaritos
-421R;24854;PI413;PI413-Parada 1  Paradero 8 Pajaritos
-421R;25277;PI414;PI414-Parada 1  (M) Las Parcelas
-421R;25526;PI415;PI415-Parada 1  Paradero 10 Pajaritos
-421R;26085;PI416;PI416-Parada  (M) Monte Tabor
-421R;26401;PI417;PI417-Parada  Colegio Santa María De Maipú
-421R;26760;PI418;PI418-Parada 1  Paradero 12 Pajaritos
-421R;27179;PI253;PI253-Parada 3  (M) Del Sol
-421R;27758;PI217;PI217-Parada 1  Paradero 14 Pajaritos
-421R;28122;PI218;PI218-Parada 1  (M) Santiago Bueras
-421R;28567;PI219;PI219-Avenida Los Pajaritos  Esq Centenario
-421R;28945;PI220;PI220-Avenida Los Pajaritos  Esq Avenida Chile
-421R;29335;PI221;PI221-Avenida Los Pajaritos  Esq Maipú
-421R;29832;PI866;PI866-Chacabuco  Esq Manuel Rodríguez
-421R;30037;PI867;PI867-Chacabuco  Esq Psje Chacabuco
-421R;30351;PI1821;PI1821-San Martín  Esq  Cam A Rinconada
-421R;30713;PI697;PI697-El Carmen  Esq Carmen L Correa
-421R;31076;PI698;PI698-El Carmen  Esq San José
-421R;31326;PI699;PI699-El Carmen  Esq Avenida Portales
-421R;31738;PI700;PI700-El Carmen  Esq Avenida Sur
-421R;32059;PI701;PI701-Santa Elena  Esq Nueva O'Higgins
-421R;32212;PI426;PI426-Santa Elena  Esq Nueva San Martín
-421R;32504;PI427;PI427-Av Nueva San Martín  Esq La Fortuna
-421R;32759;PI1673;PI1673-Av Nueva San Martín  Esq Av Padre A Hurtado
-421R;33000;PI428;PI428-Av Nueva San Martín  Esq Río Eufrates
-421R;33387;PI429;PI429-Av Nueva San Martín  Esq El Olimpo
-421R;33731;PI430;PI430-Parada  Boston College Nueva Sn Martín
-421R;34113;PI431;PI431-Av Nueva San Martín  Esq Univ Católica
-421R;34457;PI432;PI432-Av Nueva San Martín  Esq Av Las Naciones
-421R;34916;PI433;PI433-Av Nueva San Martín  Esq Avenida 4 Poniente
-421R;35456;PI1448;PI1448-Avenida 4 Poniente  Esq Pdte Frei Montalva
-421R;35676;PI1457;PI1457-Av Edo Frei Montalva  Esq La Galaxia
-421R;35911;PI1456;PI1456-Av Edo Frei Montalva  Esq Av El Conquistador
-421R;36155;PI1449;PI1449-Parada  Centro De Salud DrCarlos Godoy
-421R;36419;PI1451;PI1451-Av El Conquistador  Esq Nueva San Martín
-421R;36717;PI435;PI435-Av El Conquistador  Esq Avenida Sur
-421R;36918;PI436;PI436-Av El Conquistador  Esq Avenida Portales
 422I;58;PJ1797;PJ1797-Río Clarillo  Esq Río Trancura
 422I;769;PJ1836;PJ1836-Los Maitenes  Esq  Río Refugio
 422I;927;PJ848;PJ848-Los Maitenes  Esq  Boulevard Sur
@@ -18313,23 +18212,13 @@ B12cR;14563;PB646;PB646-San Luis  Esq Av Manuel A Matta
 B12cR;14746;PB599;PB599-San Luis  Esq Av Lo Marcoleta
 B12cR;15091;PB568;PB568-Avenida Lo Marcoleta  Esq Ntra Sra Del Carmen
 B12cR;15295;PB1595;PB1595-Avenida Lo Marcoleta  Esq Pquia Jesús Obrero
-B13I;132;PB1228;PB1228-Avenida Principal  Esq Juan Cristóbal
+B13I;8;PB1575;PB1575-Parada  Est Intermodal Vespucio Norte
 B13I;302;PB1229;PB1229-Calle G  Esq Pasaje Ercilla
 B13I;773;PB1230;PB1230-Calle G  Esq Hubert Benítez
 B13I;1061;PB1231;PB1231-Calle G  Esq Av El Guanaco
-B13I;1418;PB1232;PB1232-Calle G  Esq Renaico
-B13I;1703;PB1233;PB1233-Calle G  Esq General Gambino
-B13I;1901;PB1234;PB1234-Calle G  Esq Juan Muñoz
-B13I;2085;PB1235;PB1235-Calle G  Esq El Mercurio
-B13I;2414;PB1236;PB1236-Calle G  Esq Horacio Johnson
-B13I;2586;PB1344;PB1344-Huechuraba  Esq Pedro Fontova
 B13I;3197;PB516;PB516-Av Américo Vespucio  Esq Los Libertadores
 B13I;3489;PB517;PB517-Parada  Mall Plaza Norte
-B13I;4145;PB185;PB185-Parada  Pasarela Albany
 B13I;4596;PB1894;PB1894-Parada 7  (M) Los Libertadores
-B13I;5107;PB519;PB519-Parada  Barrio Industrial El Cortijo
-B13I;6302;PB531;PB531-Parada  Pasarela Alcalde Guzmán
-B13I;6712;PB469;PB469-Av Américo Vespucio  Esq Alcalde Guzmán
 B13I;6996;PB1531;PB1531-Av Américo Vespucio  Esq Lo Campino
 B13I;7344;PB571;PB571-Lo Campino  Esq Cachagua
 B13I;7538;PB591;PB591-Lo Campino  Esq Limarí
@@ -33154,7 +33043,7 @@ L5R;26373;21;Del Sol
 L5R;27274;11;Santiago Bueras
 L5R;28807;68;Plaza de Maipú
 L6I;0;101;Cerrillos
-L6I;1740;102;Lo Valledor
+L6I;1745;102;Lo Valledor
 L6I;3231;103;Pdte. Pedro Aguirre Cerda
 L6I;4708;29;Franklin
 L6I;5422;104;Bio Bio
@@ -33171,55 +33060,55 @@ L6R;6872;61;Ñuble
 L6R;8964;104;Bio Bio
 L6R;9679;29;Franklin
 L6R;11156;103;Pdte. Pedro Aguirre Cerda
-L6R;12646;102;Lo Valledor
+L6R;12641;102;Lo Valledor
 L6R;14387;101;Cerrillos
-MTNI;0;200;Alameda
-MTNI;3010;201;Lo Valledor
-MTNI;4661;202;Pedro Aguirre Cerda (MT)
-MTNI;6987;203;Lo Espejo
-MTNI;13634;204;Lo Blanco
-MTNI;15231;205;Freire
-MTNI;16025;206;San Bernardo
-MTNI;17380;207;Maestranza
-MTNI;19300;208;Cinco Pinos
-MTNI;20432;209;Nos
-MTNR;0;209;Nos
-MTNR;1132;208;Cinco Pinos
-MTNR;3052;207;Maestranza
-MTNR;4407;206;San Bernardo
-MTNR;5201;205;Freire
-MTNR;6798;204;Lo Blanco
-MTNR;13445;203;Lo Espejo
-MTNR;15771;202;Pedro Aguirre Cerda (MT)
-MTNR;17422;201;Lo Valledor
-MTNR;20432;200;Alameda
-MTRI;0;200;Alameda
-MTRI;3010;201;Lo Valledor
-MTRI;4661;202;Pedro Aguirre Cerda (MT)
-MTRI;6987;203;Lo Espejo
-MTRI;16025;206;San Bernardo
-MTRI;17380;207;Maestranza
-MTRI;20433;209;Nos
-MTRI;29850;210;BuinZoo
-MTRI;32004;211;Buin
-MTRI;35504;212;Linderos
-MTRI;41374;213;Paine
-MTRI;47160;214;Hospital
-MTRI;60285;215;San Francisco
-MTRI;70186;216;Graneros
-MTRI;82069;217;Rancagua
-MTRR;55;217;Rancagua
-MTRR;11938;216;Graneros
-MTRR;21839;215;San Francisco
-MTRR;34963;214;Hospital
-MTRR;40750;213;Paine
-MTRR;46619;212;Linderos
-MTRR;50119;211;Buin
-MTRR;52273;210;BuinZoo
-MTRR;61690;209;Nos
-MTRR;64744;207;Maestranza
-MTRR;66099;206;San Bernardo
-MTRR;75137;203;Lo Espejo
-MTRR;77463;202;Pedro Aguirre Cerda (MT)
-MTRR;79113;201;Lo Valledor
-MTRR;82124;200;Alameda
+MTNI;0;201;PT0101-Estación MetroTren - Alameda (Anden1)
+MTNI;2980;202;PT0102-Estación MetroTren - Lo Valledor (Anden1)
+MTNI;4658;203;PT0103-Estación MetroTren - Pedro Aguirre Cerda (Anden1)
+MTNI;6972;204;PT0104-Estación MetroTren - Lo Espejo (Anden1)
+MTNI;13632;205;PT0105-Estación MetroTren - Lo Blanco (Anden1)
+MTNI;15229;206;PT0106-Estación MetroTren - Freire (Anden1)
+MTNI;16023;207;PT0107-Estación MetroTren - San Bernardo (Anden1)
+MTNI;17378;208;PT0108-Estación MetroTren - Maestranza (Anden1)
+MTNI;19293;209;PT0109-Estación MetroTren - Cinco Pinos( Anden1)
+MTNI;20432;210;PT0110-Estación MetroTren - Nos((Anden1)
+MTNR;0;220;PT0210-Estación MetroTren - Nos (Anden2)
+MTNR;1128;219;PT0209-Estación MetroTren - Cinco Pinos (Anden2)
+MTNR;3042;218;PT0208-Estación MetroTren - Maestranza (Anden2)
+MTNR;4406;217;PT0207-Estación MetroTren - San Bernardo ((Anden2)
+MTNR;5202;216;PT0206-Estación MetroTren - Freire (Anden2)
+MTNR;6797;215;PT0205-Estación MetroTren - Lo Blanco (Anden2)
+MTNR;13445;214;PT0204-Estación MetroTren - Lo Espejo (Anden2)
+MTNR;15771;213;PT0203-Estación MetroTren - Pedro Aguirre Cerda (Anden2)
+MTNR;17419;212;PT0202-Estación MetroTren - Lo Valledor (Anden2)
+MTNR;20432;211;PT0201-Estación MetroTren - Alameda (Anden2)
+MTRI;0;201;PT0101-Estación MetroTren - Alameda (Anden1)
+MTRI;2980;202;PT0102-Estación MetroTren - Lo Valledor (Anden1)
+MTRI;4658;203;PT0103-Estación MetroTren - Pedro Aguirre Cerda (Anden1)
+MTRI;6972;204;PT0104-Estación MetroTren - Lo Espejo (Anden1)
+MTRI;16023;207;PT0107-Estación MetroTren - San Bernardo (Anden1)
+MTRI;17378;208;PT0108-Estación MetroTren - Maestranza (Anden1)
+MTRI;20432;210;PT0110-Estación MetroTren - Nos((Anden1)
+MTRI;29850;221;Estación BuinZoo
+MTRI;32004;222;Estación Buin
+MTRI;35504;223;Estación Linderos
+MTRI;41374;224;Estación Paine
+MTRI;47160;225;Estación Hospital
+MTRI;60285;226;Estación San Francisco
+MTRI;70186;227;Estación Graneros
+MTRI;82069;228;Estación Rancagua
+MTRR;55;228;Estación Rancagua
+MTRR;11938;227;Estación Graneros
+MTRR;21839;226;Estación San Francisco
+MTRR;34963;225;Estación Hospital
+MTRR;40750;224;Estación Paine
+MTRR;46619;223;Estación Linderos
+MTRR;50119;222;Estación Buin
+MTRR;52273;221;Estación BuinZoo
+MTRR;61683;220;PT0210-Estación MetroTren - Nos (Anden2)
+MTRR;64734;218;PT0208-Estación MetroTren - Maestranza (Anden2)
+MTRR;66098;217;PT0207-Estación MetroTren - San Bernardo ((Anden2)
+MTRR;75136;214;PT0204-Estación MetroTren - Lo Espejo (Anden2)
+MTRR;77463;213;PT0203-Estación MetroTren - Pedro Aguirre Cerda (Anden2)
+MTRR;79111;212;PT0202-Estación MetroTren - Lo Valledor (Anden2)
+MTRR;82124;211;PT0201-Estación MetroTren - Alameda (Anden2)
