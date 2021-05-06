@@ -33062,53 +33062,7 @@ L6R;9679;29;Franklin
 L6R;11156;103;Pdte. Pedro Aguirre Cerda
 L6R;12641;102;Lo Valledor
 L6R;14387;101;Cerrillos
-MTNI;0;PT0201;Estación MetroTren-Alameda (Anden1)
-MTNI;2980;PT0202;Estación MetroTren-Lo Valledor (Anden1)
-MTNI;4658;PT0203;Estación MetroTren-Pedro Aguirre Cerda (Anden1)
-MTNI;6972;PT0204;Estación MetroTren-Lo Espejo (Anden1)
-MTNI;13632;PT0205;Estación MetroTren-Lo Blanco (Anden1)
-MTNI;15229;PT0206;Estación MetroTren-Freire (Anden1)
-MTNI;16023;PT0207;Estación MetroTren-San Bernardo (Anden1)
-MTNI;17378;PT0208;Estación MetroTren-Maestranza (Anden1)
-MTNI;19293;PT0209;Estación MetroTren-Cinco Pinos( Anden1)
-MTNI;20432;PT0210;Estación MetroTren-Nos((Anden1)
-MTNR;0;PT0220;Estación MetroTren-Nos (Anden2)
-MTNR;1128;PT0219;Estación MetroTren-Cinco Pinos (Anden2)
-MTNR;3042;PT0218;Estación MetroTren-Maestranza (Anden2)
-MTNR;4406;PT0217;Estación MetroTren-San Bernardo ((Anden2)
-MTNR;5202;PT0216;Estación MetroTren-Freire (Anden2)
-MTNR;6797;PT0215;Estación MetroTren-Lo Blanco (Anden2)
-MTNR;13445;PT0214;Estación MetroTren-Lo Espejo (Anden2)
-MTNR;15771;PT0213;Estación MetroTren-Pedro Aguirre Cerda (Anden2)
-MTNR;17419;PT0212;Estación MetroTren-Lo Valledor (Anden2)
-MTNR;20432;PT0211;Estación MetroTren-Alameda (Anden2)
-MTRI;0;PT0201;Estación MetroTren-Alameda (Anden1)
-MTRI;2980;PT0202;Estación MetroTren-Lo Valledor (Anden1)
-MTRI;4658;PT0203;Estación MetroTren-Pedro Aguirre Cerda (Anden1)
-MTRI;6972;PT0204;Estación MetroTren-Lo Espejo (Anden1)
-MTRI;16023;PT0207;Estación MetroTren-San Bernardo (Anden1)
-MTRI;17378;PT0208;Estación MetroTren-Maestranza (Anden1)
-MTRI;20432;PT0210;Estación MetroTren-Nos((Anden1)
-MTRI;29850;PT0221;Estación BuinZoo-BuinZoo
-MTRI;32004;PT0222;Estación Buin-Buin
-MTRI;35504;PT0223;Estación Linderos-Linderos
-MTRI;41374;PT0224;Estación Paine-Paine
-MTRI;47160;PT0225;Estación Hospital-Hospital
-MTRI;60285;PT0226;Estación San Francisco-San Francisco
-MTRI;70186;PT0227;Estación Graneros-Graneros
-MTRI;82069;PT0228;Estación Rancagua-Rancagua
-MTRR;55;PT0228;Estación Rancagua-Rancagua
-MTRR;11938;PT0227;Estación Graneros-Graneros
-MTRR;21839;PT0226;Estación San Francisco-San Francisco
-MTRR;34963;PT0225;Estación Hospital-Hospital
-MTRR;40750;PT0224;Estación Paine-Paine
-MTRR;46619;PT0223;Estación Linderos-Linderos
-MTRR;50119;PT0222;Estación Buin-Buin
-MTRR;52273;PT0221;Estación BuinZoo-BuinZoo
-MTRR;61683;PT0220;Estación MetroTren-Nos (Anden2)
-MTRR;64734;PT0218;Estación MetroTren-Maestranza (Anden2)
-MTRR;66098;PT0217;Estación MetroTren-San Bernardo ((Anden2)
-MTRR;75136;PT0214;Estación MetroTren-Lo Espejo (Anden2)
-MTRR;77463;PT0213;Estación MetroTren-Pedro Aguirre Cerda (Anden2)
-MTRR;79111;PT0212;Estación MetroTren-Lo Valledor (Anden2)
-MTRR;82124;PT0211;Estación MetroTren-Alameda (Anden2)
+MTNI;-1;PT0210;Estación MetroTren-Nos((Anden1)
+MTNR;-1;PT0211;Estación MetroTren-Alameda (Anden2)
+MTRI;-1;PT0228;Estación Rancagua-Rancagua
+MTRR;-1;PT0211;Estación MetroTren-Alameda (Anden2)
