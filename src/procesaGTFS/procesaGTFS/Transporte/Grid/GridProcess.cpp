@@ -49,10 +49,10 @@ void GridProcess::ConstruyeGrilla()
 		fdd_->grid.maxLon = std::fmax(fdd_->grid.maxLon, (*it).second.lon);
 	}
 	
-	fdd_->grid.minLat += 0.001;
-	fdd_->grid.maxLat += 0.001;
-	fdd_->grid.minLon += 0.001;
-	fdd_->grid.maxLon += 0.001;
+	fdd_->grid.minLat -= 0.01;
+	fdd_->grid.maxLat += 0.01;
+	fdd_->grid.minLon -= 0.01;
+	fdd_->grid.maxLon += 0.01;
 
 	fdd_->grid.nLat = 100;
 	fdd_->grid.nLon = 100;

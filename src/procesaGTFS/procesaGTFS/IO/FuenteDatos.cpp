@@ -100,19 +100,6 @@ void FuenteDatos::leeDiccionarioServicios()
     int iRouteId = 0;
     header.at(0).erase(0,3);
     
-	/*
-    for(int i=0; i < header.size();i++)
-    {
-        if(header.at(i).compare("route_long_name")==0)
-            iLongName = i;
-
-        if(header.at(i).compare("route_color")==0)
-            iRouteColor = i;        
-
-        if(header.at(i).compare("route_id")==0)
-            iRouteId = i;             
-    }
-	*/
 	///Lectura archivo primario
 	while (archivoDiccionario.good())
 	{

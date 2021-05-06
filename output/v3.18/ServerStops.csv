@@ -32,36 +32,8 @@ stop_code;stop_name;stop_lat;stop_lon;stop_mode
 19;Departamental;-33.50255786;-70.6546427;1
 2;San Alberto Hurtado;-33.4541158;-70.69244156;1
 20;Dorsal;-33.39680665;-70.6426794;1
-201;PT0101-Estación MetroTren - Alameda (Anden1);-33.45115386;-70.67880731;0
-202;PT0102-Estación MetroTren - Lo Valledor (Anden1);-33.47800364;-70.68060574;0
-203;PT0103-Estación MetroTren - Pedro Aguirre Cerda (Anden1);-33.49310182;-70.68180156;0
-204;PT0104-Estación MetroTren - Lo Espejo (Anden1);-33.51370017;-70.68570976;0
-205;PT0105-Estación MetroTren - Lo Blanco (Anden1);-33.57280445;-70.69824518;0
-206;PT0106-Estación MetroTren - Freire (Anden1);-33.58714215;-70.69831061;0
-207;PT0107-Estación MetroTren - San Bernardo (Anden1);-33.59429828;-70.69795519;0
-208;PT0108-Estación MetroTren - Maestranza (Anden1);-33.60648522;-70.69703017;0
-209;PT0109-Estación MetroTren - Cinco Pinos( Anden1);-33.62320832;-70.70068888;0
 21;Del Sol;-33.48999766;-70.75285145;1
-210;PT0110-Estación MetroTren - Nos((Anden1);-33.6328536;-70.70489964;0
-211;PT0201-Estación MetroTren - Alameda (Anden2);-33.45117058;-70.67890446;0
-212;PT0202-Estación MetroTren - Lo Valledor (Anden2);-33.47829083;-70.68070814;0
-213;PT0203-Estación MetroTren - Pedro Aguirre Cerda (Anden2);-33.49311868;-70.68188799;0
-214;PT0204-Estación MetroTren - Lo Espejo (Anden2);-33.51382493;-70.68581984;0
-215;PT0205-Estación MetroTren - Lo Blanco (Anden2);-33.57282145;-70.69832093;0
-216;PT0206-Estación MetroTren - Freire (Anden2);-33.58715885;-70.69840791;0
-217;PT0207-Estación MetroTren - San Bernardo ((Anden2);-33.59432459;-70.69800959;0
-218;PT0208-Estación MetroTren - Maestranza (Anden2);-33.60660139;-70.69710789;0
-219;PT0209-Estación MetroTren - Cinco Pinos (Anden2);-33.62327881;-70.70080884;0
 22;Elisa Correa;-33.5694096;-70.58362038;1
-220;PT0210-Estación MetroTren - Nos (Anden2);-33.63290621;-70.70500848;0
-221;Estación BuinZoo;-33.71355341;-70.72444894;0
-222;Estación Buin;-33.73268741;-70.72843659;0
-223;Estación Linderos;-33.76378999;-70.73482644;0
-224;Estación Paine;-33.81619554;-70.74348967;0
-225;Estación Hospital;-33.86823719;-70.74594173;0
-226;Estación San Francisco;-33.9772934;-70.71328319;0
-227;Estación Graneros;-34.06591309;-70.72509864;0
-228;Estación Rancagua;-34.17050524;-70.75298953;0
 23;Ecuador;-33.4560549;-70.69967678;1
 24;Plaza Egaña ;-33.4532828;-70.57073648;1
 25;Einstein;-33.40573774;-70.64313783;1
@@ -11436,3 +11408,31 @@ PJ996;PJ996-Rolando Petersen  Esq Av José J Pérez;-33.42953112;-70.74969872;3
 PJ997;PJ997-Avenida La Estrella  Esq Luis Lazzarini;-33.42044141;-70.75221561;3
 PJ998;PJ998-Costanera Sur  Esq Rodolfo Mondolfo;-33.41188424;-70.7205801;3
 PJ999;PJ999-Costanera Sur  Esq Pasaje C;-33.41127684;-70.71885838;3
+PT0201;Estación MetroTren-Alameda (Anden1);-33.45115386;-70.67880731;3
+PT0202;Estación MetroTren-Lo Valledor (Anden1);-33.47800364;-70.68060574;3
+PT0203;Estación MetroTren-Pedro Aguirre Cerda (Anden1);-33.49310182;-70.68180156;3
+PT0204;Estación MetroTren-Lo Espejo (Anden1);-33.51370017;-70.68570976;3
+PT0205;Estación MetroTren-Lo Blanco (Anden1);-33.57280445;-70.69824518;3
+PT0206;Estación MetroTren-Freire (Anden1);-33.58714215;-70.69831061;3
+PT0207;Estación MetroTren-San Bernardo (Anden1);-33.59429828;-70.69795519;3
+PT0208;Estación MetroTren-Maestranza (Anden1);-33.60648522;-70.69703017;3
+PT0209;Estación MetroTren-Cinco Pinos( Anden1);-33.62320832;-70.70068888;3
+PT0210;Estación MetroTren-Nos((Anden1);-33.6328536;-70.70489964;3
+PT0211;Estación MetroTren-Alameda (Anden2);-33.45117058;-70.67890446;3
+PT0212;Estación MetroTren-Lo Valledor (Anden2);-33.47829083;-70.68070814;3
+PT0213;Estación MetroTren-Pedro Aguirre Cerda (Anden2);-33.49311868;-70.68188799;3
+PT0214;Estación MetroTren-Lo Espejo (Anden2);-33.51382493;-70.68581984;3
+PT0215;Estación MetroTren-Lo Blanco (Anden2);-33.57282145;-70.69832093;3
+PT0216;Estación MetroTren-Freire (Anden2);-33.58715885;-70.69840791;3
+PT0217;Estación MetroTren-San Bernardo ((Anden2);-33.59432459;-70.69800959;3
+PT0218;Estación MetroTren-Maestranza (Anden2);-33.60660139;-70.69710789;3
+PT0219;Estación MetroTren-Cinco Pinos (Anden2);-33.62327881;-70.70080884;3
+PT0220;Estación MetroTren-Nos (Anden2);-33.63290621;-70.70500848;3
+PT0221;Estación BuinZoo-BuinZoo;-33.71355341;-70.72444894;3
+PT0222;Estación Buin-Buin;-33.73268741;-70.72843659;3
+PT0223;Estación Linderos-Linderos;-33.76378999;-70.73482644;3
+PT0224;Estación Paine-Paine;-33.81619554;-70.74348967;3
+PT0225;Estación Hospital-Hospital;-33.86823719;-70.74594173;3
+PT0226;Estación San Francisco-San Francisco;-33.9772934;-70.71328319;3
+PT0227;Estación Graneros-Graneros;-34.06591309;-70.72509864;3
+PT0228;Estación Rancagua-Rancagua;-34.17050524;-70.75298953;3
