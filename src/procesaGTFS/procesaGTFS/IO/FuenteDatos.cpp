@@ -255,7 +255,8 @@ void FuenteDatos::leeRutas()
 		string servicio = cur[0];
 		
 
-		if(servicio.at(0)=='L' || servicio.at(0) == 'M')
+		//if(servicio.at(0)=='L' || servicio.at(0) == 'M')
+		if (servicio.at(0) == 'L')
 			servicio.erase(std::remove(servicio.begin(), servicio.end(), '-'), servicio.end());
 
 		dicSS.servicios_rutas[servicio] = servicio;
@@ -399,6 +400,7 @@ void FuenteDatos::leeRedDeParadas()
 			nombre.erase(std::remove(nombre.begin(), nombre.end(), '/'), nombre.end());
 			nombre.erase(std::remove(nombre.begin(), nombre.end(), '.'), nombre.end());
 			nombre.erase(std::remove(nombre.begin(), nombre.end(), '@'), nombre.end());
+			cout << cur[0] << endl;
 			mode = "3";
 		}
 		else if ( (cur[0].at(0) == 'L' && cur[0].at(1) == 'R' && cur[0].at(2) == 'S') || cur[0].compare("LIDER")==0)
@@ -937,116 +939,3 @@ bool FuenteDatos::estaEnSantiago(COORD x_, COORD y_)
 
 	return true;
 }
-
-/*
-
-
-void FuenteDatos::leeHorarios()
-{
-	int nTimeStart = Cronometro::GetMilliCount();
-
-	///Archivo de entrada Principal
-	ifstream archivoHorarios;
-	archivoHorarios.open(parametros->nombreArchivoHorarios.c_str());
-
-	///Chequeo de archivo 
-	if (!archivoHorarios.good())
-	{
-		cout << "No se ha encontrado archivo de horarios " << parametros->nombreArchivoHorarios.c_str() << "!" << endl;
-		cout << "Los servicios quedaran con un horario nulo. " << endl;
-
-		for (map<string, Servicio>::iterator iser = servicios.begin(); iser != servicios.end(); iser++)
-		{
-			(*iser).second.horarioI = string("-");
-			(*iser).second.horarioR = string("-");
-		}
-
-		return;
-	}
-	else
-		cout << "Cargando datos de Diccionario (" << parametros->nombreCarpetaGTFS + parametros->slash + "routes.txt" << ")... ";
-
-	///Vector contenedor de la linea actual del archivo
-	vector<string> cur;
-
-	int nlineas = 0;
-
-	///Lectura del header
-	cur = StringFunctions::ExplodeF(';', &archivoHorarios);
-
-	map<string, Servicio>::iterator iser;
-	///Lectura archivo primario
-	while (archivoHorarios.good())
-	{
-		nlineas++;
-
-		///Lectura de linea del archivo
-		cur = StringFunctions::ExplodeF(';', &archivoHorarios);
-
-		///Condicion de salida, a veces no es suficiente solo la condicion del ciclo
-		if (cur.size() == 0 || cur[0].compare("") == 0)
-			continue;
-
-		iser = servicios.find(cur.at(0));
-
-		if (iser != servicios.end())
-		{
-			std::locale loc;
-			std::string str = cur[1];
-			for (std::string::size_type i = 0; i < cur[1].length(); ++i)
-				str[i] = std::toupper(cur[1][i], loc);
-
-			//cout << cur.at(0) << "|" << (*iser).second.destino << "|" << str << endl;
-			if ((*iser).second.destino.compare(str) == 0)
-				(*iser).second.horarioI.append(cur.at(2) + "-" + cur.at(3) + "-" + cur.at(4) + "/");
-			else
-				(*iser).second.horarioR.append(cur.at(2) + "-" + cur.at(3) + "-" + cur.at(4) + "/");
-		}
-	}
-
-
-	
-	///DEBUG
-	ofstream fout;
-	fout.open("servicios_horario.txt");
-	for (map<string, Servicio>::iterator iser = servicios.begin(); iser != servicios.end(); iser++)
-	{
-		fout << (*iser).first << ";";
-
-		vector<string> horariosI = StringFunctions::Explode((*iser).second.horarioI, '-');
-		for (vector<string>::iterator ihor = horariosI.begin(); ihor != horariosI.end(); ihor++)
-		{
-			if ((*ihor).compare("") == 0)
-				continue;
-
-			if (ihor == horariosI.begin())
-				fout << (*ihor);
-			else
-				fout << "-" << (*ihor);
-		}
-		fout << ";";
-
-		vector<string> horariosR = StringFunctions::Explode((*iser).second.horarioR, '-');
-		for (vector<string>::iterator ihor = horariosR.begin(); ihor != horariosR.end(); ihor++)
-		{
-			if ((*ihor).compare("") == 0)
-				continue;
-
-			if (ihor == horariosR.begin())
-				fout << (*ihor);
-			else
-				fout << "-" << (*ihor);
-		}
-
-		fout << endl;
-	}
-	fout.close();
-	
-
-	reporte->tDiccionario = Cronometro::GetMilliSpan(nTimeStart) / 60000.0;
-
-	cout << reporte->tDiccionario << "(min)" << endl;
-
-}
-*/
-
