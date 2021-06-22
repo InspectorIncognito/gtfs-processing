@@ -244,18 +244,8 @@ void FuenteDatos::leeRutas()
 		if (cur.size() == 0 || cur[0].compare("") == 0)
 			continue;
 
-
-		///Generacion del codigo servicio-sentido concatenando las 3 columnas servicio-sentido-variante
-		//vector<string> cod = StringFunctions::Explode(cur[0],'_');
-
-		//if (cod.size() != 2)
-		//	continue;
-
-		//string servicio = cod.at(0);
 		string servicio = cur[0];
-		
 
-		//if(servicio.at(0)=='L' || servicio.at(0) == 'M')
 		if (servicio.at(0) == 'L')
 			servicio.erase(std::remove(servicio.begin(), servicio.end(), '-'), servicio.end());
 
@@ -400,7 +390,7 @@ void FuenteDatos::leeRedDeParadas()
 			nombre.erase(std::remove(nombre.begin(), nombre.end(), '/'), nombre.end());
 			nombre.erase(std::remove(nombre.begin(), nombre.end(), '.'), nombre.end());
 			nombre.erase(std::remove(nombre.begin(), nombre.end(), '@'), nombre.end());
-			cout << cur[0] << endl;
+
 			mode = "3";
 		}
 		else if ( (cur[0].at(0) == 'L' && cur[0].at(1) == 'R' && cur[0].at(2) == 'S') || cur[0].compare("LIDER")==0)

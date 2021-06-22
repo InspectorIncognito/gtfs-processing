@@ -56,44 +56,29 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 
 	for (isec = fdd_->secuencias.begin(); isec != fdd_->secuencias.end(); isec++)
 	{
-		//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 0 : " << endl;
 		map<string, FuenteDatos::Secuencia >::iterator isec_ant;
 		isec_ant = isec;
 		isec_ant--;
 		
-		//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 1 : " << endl;
-
 		if(isec_ant == fdd_->secuencias.end())
             continue;
 
-		//if ((*isec).second.codigo.compare("Rei3-I-L") == 0)
-		//{
-		//	cout << "aqui 2 : " << endl;
-		//	cout << (*isec).second.shape_id << endl;
-		//	cout << (*isec).second.hora_ini << "|" << (*isec).second.hora_fin << "|" << (*isec_ant).second.hora_ini << "|" << (*isec_ant).second.hora_fin << endl;
-		//}
-		
 		if ((*isec).second.hora_ini.compare("-") == 0 || (*isec).second.hora_fin.compare("-") == 0 || (*isec_ant).second.hora_ini.compare("-") == 0 || (*isec_ant).second.hora_fin.compare("-") == 0)
 			continue;
 		
-		//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 3 : " << endl;
-
 		if (isec == fdd_->secuencias.begin())
 		{
-			//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 4 : " << endl;
-		
 			int ihora_ini = fdd_->tsh.Time2Seconds((*isec).second.hora_ini);
 			int ihora_fin = fdd_->tsh.Time2Seconds((*isec).second.hora_fin);
 
 			if (ihora_ini <= min_hora_ini) min_hora_ini = ihora_ini;
 			if (ihora_fin >= max_hora_fin) max_hora_fin = ihora_fin;
-
-
 		}
 		else
 		{
-			//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 5 : " << endl;
+			
 			vector<string> cod_ant = StringFunctions::Explode((*isec_ant).second.codigo, '-');
+			
 
 			string servicio = cod_ant[0];
 			string sentido = cod_ant[1];
@@ -101,18 +86,14 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 
 			string shape_id = (*isec_ant).second.shape_id;
 		
-			//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 6 : " << endl;
-			
 			//chequeo igualdad
 			bool sonIguales = true;
 			if ((int)(*isec).second.paradas.size() != (int)(*isec_ant).second.paradas.size())
 			{
-				//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 7 : " << endl;
 				sonIguales = false;
 			}
 			else
 			{
-				//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 8 : " << endl;
 				map<int, string>::iterator ipar1 = (*isec).second.paradas.begin();
 				map<int, string>::iterator ipar2 = (*isec_ant).second.paradas.begin();
 				for (; ipar1 != (*isec).second.paradas.end(); ipar1++, ipar2++)
@@ -122,7 +103,6 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 				}
 			}
 
-			//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 9 : " << endl;
 			///codigo anterior igual, se fusionan horarios
 			if ((*isec).second.codigo.compare((*isec_ant).second.codigo) == 0 && sonIguales)
 			{
@@ -142,15 +122,13 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 			}
 			else
 			{
-				//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 11 : " << servicio << endl;
-
+				
 				string nombre = string("-");
 				string color_ser = string("-");
 				string modo = string("-");
 				map< string, Servicio >::iterator iserv = fdd_->servicios.find(servicio);
 				if (iserv != fdd_->servicios.end())
 				{
-					//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 12 : " << endl;
 					color_ser = (*iserv).second.color;
 					modo = (*iserv).second.tipo;
 
@@ -159,10 +137,9 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 					else
 						nombre = (*iserv).second.origen;
 				}
-				//if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 13 : " << endl;
+
 				if (min_hora_ini == 999999 || max_hora_fin == -1)
 				{
-					if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 14 : " << endl;
 					string secParadas;
 					for (map<int, string>::iterator ipar = (*isec_ant).second.paradas.begin(); ipar != (*isec_ant).second.paradas.end(); ipar++)
 					{
@@ -171,9 +148,8 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 						else
 							secParadas += "-" + (*ipar).second;
 					}
-					if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 14.1 : " << endl;
 					string horario = (*isec_ant).second.hora_ini + "-" + (*isec_ant).second.hora_fin;
-					if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 14.2 : " << endl;
+
 					busStopSequence bss;
 					bss.servicio = servicio;
 					bss.sentido = sentido;
@@ -184,27 +160,22 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 					bss.paradas = secParadas;
 					bss.shape_id = shape_id;
 					bss.modo = modo;
-					if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 14.3 : " << endl;
+
 					string key = servicio + ";" + sentido + ";" + tipoDia + ";" + secParadas;
-					//cout << "FLAG 0 : " << key << endl;
+
 					itseq = secuenciasPorHorario.find(key);
-					if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 14.4 : " << endl;
+
 					if (itseq == secuenciasPorHorario.end())
 					{
-						if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 14.5 : " << key << endl;
-						//cout << "FLAG 1 : " << key << endl;
 						secuenciasPorHorario[key] = bss;
 					}
 					else
 					{
-						if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 14.6 : " << endl;
-						//cout << "FLAG 2 : " << key << endl;
 						(*itseq).second.horario += "/" + horario;
 					}
 				}
 				else
 				{
-					if ((*isec).second.codigo.compare("Rei3-I-L") == 0) cout << "aqui 15 : " << endl;
 					string color_ser = string("-");
 					string modo = string("-");
 					map< string, Servicio >::iterator iserv = fdd_->servicios.find(servicio);
@@ -214,19 +185,14 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 						modo = (*iserv).second.tipo;
 					}
 
-					//fout << fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini) << ";";
 					string horario = fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini);
 					if (max_hora_fin == 86400)
 					{
 						horario += "-" + fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin - 1);
-						//fout << fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin - 1) << ";";
-						//fout << nombre << " " << tipoDia << " (" << fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini) << " - " << fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin - 1) << ")" << ";";
 					}
 					else
 					{
 						horario += "-" + fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin);
-						//fout << fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin) << ";";
-						//fout << nombre << " " << tipoDia << " (" << fdd_->tsh.Seconds2TimeStampInDay(min_hora_ini) << " - " << fdd_->tsh.Seconds2TimeStampInDay(max_hora_fin) << ")" << ";";
 					}
 
 					string secParadas;
@@ -238,7 +204,6 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 							secParadas += "-" + (*ipar).second;
 
 					}
-					//fout << endl;
 
 					busStopSequence bss;
 					bss.servicio = servicio;
@@ -251,30 +216,93 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 					bss.shape_id = shape_id;
 					bss.modo = modo;
 
-					
 					string key = servicio + ";" + sentido + ";" + tipoDia + ";" + secParadas;
-					//cout << "FLAG 0 : " << key << endl;
 					itseq = secuenciasPorHorario.find(key);
 					if (itseq == secuenciasPorHorario.end())
 					{
-						//cout << "FLAG 1 : " << key << endl;
 						secuenciasPorHorario[key] = bss;
 					}
 					else
 					{
-						//cout << "FLAG 2 : " << key << endl;
 						(*itseq).second.horario += "/" + horario;
 					}
 				}
 
 				min_hora_ini = 999999;
 				max_hora_fin = -1;
+				
+				///caso de ultimo registro
+				if (next(isec) == fdd_->secuencias.end())
+				{
+					cout << "ENTREEEE" << endl;
+
+					vector<string> cod_cur = StringFunctions::Explode((*isec).second.codigo, '-');
+
+					nombre = string("-");
+					color_ser = string("-");
+					modo = string("-");
+					map< string, Servicio >::iterator iserv = fdd_->servicios.find(cod_cur[0]);
+					if (iserv != fdd_->servicios.end())
+					{
+						color_ser = (*iserv).second.color;
+						modo = (*iserv).second.tipo;
+
+						if (cod_ant[1].compare("I") == 0)
+							nombre = (*iserv).second.destino;
+						else
+							nombre = (*iserv).second.origen;
+					}
+
+					color_ser = string("-");
+					modo = string("-");
+					//map< string, Servicio >::iterator iserv = fdd_->servicios.find(cod_cur[0]);
+					if (iserv != fdd_->servicios.end())
+					{
+						color_ser = (*iserv).second.color;
+						modo = (*iserv).second.tipo;
+					}
+
+					string horario = (*isec).second.hora_ini + "-" + (*isec).second.hora_fin;
+
+					string secParadas;
+					for (map<int, string>::iterator ipar = (*isec_ant).second.paradas.begin(); ipar != (*isec_ant).second.paradas.end(); ipar++)
+					{
+						if (ipar == (*isec_ant).second.paradas.begin())
+							secParadas = (*ipar).second;
+						else
+							secParadas += "-" + (*ipar).second;
+
+					}
+
+					busStopSequence bss;
+					bss.servicio = cod_cur[0];
+					bss.sentido = cod_cur[1];
+					bss.tipodia = cod_cur[2];
+					bss.color = color_ser;
+					bss.horario = horario;
+					bss.nombre = nombre;
+					bss.paradas = secParadas;
+					bss.shape_id = (*isec).second.shape_id;
+					bss.modo = modo;
+
+					string key = servicio + ";" + sentido + ";" + tipoDia + ";" + secParadas;
+					itseq = secuenciasPorHorario.find(key);
+					if (itseq == secuenciasPorHorario.end())
+					{
+						cout << "SIII : " << key << endl;
+						secuenciasPorHorario[key] = bss;
+					}
+					else
+					{
+						(*itseq).second.horario += "/" + horario;
+					}
+
+				}
 			}
 		}
-		//cout << "FLAG -2" << endl;
-	}
 
-	///caso del ultimo
+
+	}
 
 
 	ofstream fout;
@@ -386,7 +414,6 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 		fout << shape_id[0] << ";";
 		fout << (*itseq).second.horario << ";";
 		fout << (*itseq).second.color << ";";
-		//fout << toCamelCase(string((*itseq).second.nombre + ";"));
         fout << (*itseq).second.nombre << ";";
 		fout << tmp[3] << endl;
 	}
