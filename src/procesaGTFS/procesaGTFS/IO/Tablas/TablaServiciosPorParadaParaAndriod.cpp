@@ -41,7 +41,7 @@ void TablaServiciosPorParadaParaAndriod::Crear()
 
 		if (iDicServ == fdd_->dicSS.servicios.end())
 		{
-			//cout << (*iserv).first << endl;
+			cout << (*iserv).first << endl;
 			continue;
 		}
 

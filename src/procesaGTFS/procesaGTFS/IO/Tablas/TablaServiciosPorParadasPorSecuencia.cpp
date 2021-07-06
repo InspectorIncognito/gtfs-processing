@@ -85,7 +85,8 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 			string tipoDia = cod_ant[2];
 
 			string shape_id = (*isec_ant).second.shape_id;
-		
+
+
 			//chequeo igualdad
 			bool sonIguales = true;
 			if ((int)(*isec).second.paradas.size() != (int)(*isec_ant).second.paradas.size())
@@ -127,6 +128,10 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 				string color_ser = string("-");
 				string modo = string("-");
 				map< string, Servicio >::iterator iserv = fdd_->servicios.find(servicio);
+				
+				if (servicio.compare("MTN") == 0)
+					cout << "WTFFFF 1" << endl;
+
 				if (iserv != fdd_->servicios.end())
 				{
 					color_ser = (*iserv).second.color;
@@ -140,6 +145,9 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 
 				if (min_hora_ini == 999999 || max_hora_fin == -1)
 				{
+					if (servicio.compare("MTN") == 0)
+						cout << "WTFFFF 2" << endl;
+
 					string secParadas;
 					for (map<int, string>::iterator ipar = (*isec_ant).second.paradas.begin(); ipar != (*isec_ant).second.paradas.end(); ipar++)
 					{
@@ -176,6 +184,9 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 				}
 				else
 				{
+					if (servicio.compare("MTN") == 0)
+						cout << "WTFFFF 3" << endl;
+
 					string color_ser = string("-");
 					string modo = string("-");
 					map< string, Servicio >::iterator iserv = fdd_->servicios.find(servicio);
@@ -234,6 +245,9 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 				///caso de ultimo registro
 				if (next(isec) == fdd_->secuencias.end())
 				{
+					if (servicio.compare("MTN") == 0)
+						cout << "WTFFFF 4" << endl;
+
 					cout << "ENTREEEE" << endl;
 
 					vector<string> cod_cur = StringFunctions::Explode((*isec).second.codigo, '-');
@@ -246,7 +260,7 @@ void TablaServiciosPorParadasPorSecuencia::Crear()
 					{
 						color_ser = (*iserv).second.color;
 						modo = (*iserv).second.tipo;
-
+						
 						if (cod_ant[1].compare("I") == 0)
 							nombre = (*iserv).second.destino;
 						else
