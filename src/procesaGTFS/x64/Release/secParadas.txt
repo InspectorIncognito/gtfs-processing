@@ -1405,6 +1405,130 @@
 109I;30016;PI192;PI192-Parada 2  Liceo Nacional Maipú
 109I;30326;PI481;PI481-Avenida Portales  Esq La Galaxia
 109I;30553;PI368;PI368-Avenida Portales  Esq Av El Conquistador
+109NI;213;PA343;PA343-Parada 10  Plaza Italia
+109NI;575;PA41;PA41-Parada 6  (M) Universidad Católica
+109NI;1421;PA344;PA344-Parada 12  (M) Santa Lucía
+109NI;1657;PA345;PA345-Parada 4  (M) Universidad De Chile
+109NI;2207;PA184;PA184-Parada 4  (M) La Moneda
+109NI;2498;PA346;PA346-Parada 10  (M) La Moneda
+109NI;2966;PA347;PA347-Parada 1  (M) Los Héroes
+109NI;3434;PA348;PA348-Parada 6  (M) República
+109NI;3884;PA349;PA349-Parada 4  (M) Unión Latinoamericana
+109NI;4124;PA551;PA551-Parada 2  (M) Unión Latinoamericana
+109NI;4340;PA562;PA562-Maipú  Esq Romero
+109NI;4530;PA714;PA714-Romero  Esq Chacabuco
+109NI;4989;PI169;PI169-Parada 5  (M) Estación Central
+109NI;5346;PA597;PA597-Grajales  Esq Conferencia
+109NI;5688;PA591;PA591-San Alfonso  Esq Toesca
+109NI;5949;PA592;PA592-San Alfonso  Esq Av Blanco Encalada
+109NI;6078;PA279;PA279-San Alfonso  Esq Lincoln
+109NI;6432;PA280;PA280-San Alfonso  Esq Fray Luis De La Peña
+109NI;6691;PA281;PA281-San Alfonso  Esq Espiñeira
+109NI;6843;PA589;PA589-San Alfonso  Esq Antofagasta
+109NI;7070;PA590;PA590-San Alfonso  Esq Manuel De Amat
+109NI;7316;PA664;PA664-San Alfonso  Esq Ramón Subercaseaux
+109NI;7566;PA682;PA682-San Alfonso  Esq Concha Castillo
+109NI;7787;PA681;PA681-San Alfonso  Esq Arz Valenzuela
+109NI;8035;PA677;PA677-Bascuñán Guerrero  Esq Isabel Riquelme
+109NI;8295;PA659;PA659-Av Alc Carlos Valdovinos  Esq Belén
+109NI;8699;PA574;PA574-Av Alc Carlos Valdovinos  Esq Valenzuela Llanos
+109NI;8944;PA573;PA573-Av Alc Carlos Valdovinos  Esq Central Nino García
+109NI;9167;PH108;PH108-Parada 2  (M) Lo Valledor
+109NI;10359;PI73;PI73-Parada  Mercado Lo Valledor
+109NI;10604;PI74;PI74-Av General Velásquez  Esq Av Departamental
+109NI;11486;PI181;PI181-Parada 1  (M) Cerrillos
+109NI;11812;PI1616;PI1616-Parada  Museo Aeronáutico
+109NI;12155;PI1617;PI1617-Parada  Comando Logístico Fach
+109NI;12530;PI1618;PI1618-Parada  P Aguirre Cerda Altura Del 5800
+109NI;12865;PI1619;PI1619-Parada  Centro Cívico Cerrillos
+109NI;14352;PI23;PI23-Parada 1  El Mirador
+109NI;14707;PI1271;PI1271-Camino A Melipilla  Esq Miguel Socías
+109NI;14997;PI137;PI137-Parada 1  Villa Sta Adela
+109NI;15699;PI139;PI139-Parada 2  Liceo Maipú
+109NI;15968;PI1314;PI1314-Parada  Plaza Zaror
+109NI;16301;PI141;PI141-Av Esquina Blanca  Esq Avenida Las Torres
+109NI;16622;PI142;PI142-Av Esquina Blanca  Esq Concepción Del Oro
+109NI;16971;PI1372;PI1372-Parada 2  Portal Maipú
+109NI;17352;PI144;PI144-Avenida 5 De Abril  Esq Los Estandartes
+109NI;17675;PI145;PI145-Parada 2  Estadio Santiago Bueras
+109NI;17968;PI146;PI146-Avenida 5 De Abril  Esq Las Terrazas
+109NI;18590;PI148;PI148-Parada 3  (M) Plaza De Maipú
+109NI;19115;PI149;PI149-Parada 2  Templo Votivo
+109NI;19499;PI150;PI150-Camino A Rinconada  Esq Gral De Las Heras
+109NI;19915;PI151;PI151-Camino A Rinconada  Esq Av De La Victoria
+109NI;20245;PI152;PI152-Parada 2  Hospital Maipú
+109NI;20529;PI182;PI182-Parada 2  Plaza Del Abrazo
+109NI;20852;PI183;PI183-Camino A Rinconada  Esq Avenida 3 Poniente
+109NI;21650;PI956;PI956-Camino A Rinconada  Esq Quinta Vergara
+109NI;21956;PI1570;PI1570-Camino A Rinconada  Esq Avenida 4 Poniente
+109NI;22607;PI999;PI999-Avenida 4 Poniente  Esq La Candelaria
+109NI;22760;PI1000;PI1000-Avenida 4 Poniente  Esq Inca De Oro
+109NI;23016;PI1001;PI1001-Avenida 4 Poniente  Esq El Huaso
+109NI;23316;PI1002;PI1002-Avenida 4 Poniente  Esq San José
+109NI;23520;PI1468;PI1468-Parada 3  Liceo Nacional Maipú
+109NI;23815;PI481;PI481-Avenida Portales  Esq La Galaxia
+109NI;24042;PI368;PI368-Avenida Portales  Esq Av El Conquistador
+109NR;755;PI369;PI369-Avenida Portales  Esq La Galaxia
+109NR;1282;PI193;PI193-Avenida 4 Poniente  Esq San José
+109NR;1569;PI1598;PI1598-Avenida 4 Poniente  Esq El Huaso
+109NR;1723;PI194;PI194-Avenida 4 Poniente  Esq Agua Santa
+109NR;2038;PI195;PI195-Avenida 4 Poniente  Esq Pasaje Chungará
+109NR;2228;PI1574;PI1574-Avenida 4 Poniente  Esq José M Borgoño
+109NR;2350;PI196;PI196-Avenida 4 Poniente  Esq Pasaje Vicaría
+109NR;2672;PI1493;PI1493-Camino A Rinconada  Esq Pasaje Santo Padre
+109NR;2921;PI198;PI198-Camino A Rinconada  Esq Quinta Vergara
+109NR;3363;PI200;PI200-Camino A Rinconada  Esq Av Las Naciones
+109NR;4007;PI202;PI202-Camino A Rinconada  Esq Avenida 3 Poniente
+109NR;4260;PI1792;PI1792-Parada 4  Hospital Maipú
+109NR;4504;PI102;PI102-Parada  Crs Maipú
+109NR;4793;PI103;PI103-Camino A Rinconada  Esq Av De La Victoria
+109NR;5214;PI1816;PI1816-Camino A Rinconada  Esq San Martín
+109NR;5494;PI105;PI105-Parada 1  Templo Votivo
+109NR;6037;PI106;PI106-Parada 8  (M) Plaza De Maipú
+109NR;6571;PI1367;PI1367-Avenida 5 De Abril  Esq Las Terrazas
+109NR;6838;PI1368;PI1368-Parada 1  Estadio Santiago Bueras
+109NR;7174;PI1369;PI1369-Avenida 5 De Abril  Esq Los Estandartes
+109NR;7428;PI1370;PI1370-Parada 1  Portal Maipú
+109NR;7913;PI112;PI112-Av Esquina Blanca  Esq Avenida Las Torres
+109NR;8232;PI114;PI114-Av Esquina Blanca  Esq Los Tilos
+109NR;8572;PI115;PI115-Parada  Plaza Zaror
+109NR;8840;PI116;PI116-Parada 1  Liceo Maipú
+109NR;9540;PI118;PI118-Parada 2  Villa Sta Adela
+109NR;9825;PI119;PI119-Parada 2  Miguel Socías
+109NR;10175;PI120;PI120-Parada 2  El Mirador
+109NR;10588;PI1631;PI1631-Parada 2  Colegio Don Orione
+109NR;10984;PI1630;PI1630-Parada 2  Lo Errázuriz - P Aguirre Cerda
+109NR;11313;PI1629;PI1629-Av Pedro Aguirre Cerda  Esq Salomón Sack
+109NR;11677;PI1628;PI1628-Parada  Centro Cívico Cerrillos
+109NR;12015;PI1627;PI1627-Parada  P Aguirre Cerda Altura Del 5800
+109NR;12366;PI1626;PI1626-Parada  Comando Logístico Fach
+109NR;12732;PI1625;PI1625-Parada  Museo Aeronáutico
+109NR;13140;PI1623;PI1623-Parada 4  (M) Cerrillos
+109NR;14213;PH581;PH581-Central  Esq Quactemoc
+109NR;14616;PH92;PH92-Avenida Cerrillos  Esq Av Departamental
+109NR;15025;PH93;PH93-Parada  Mercado Lo Valledor
+109NR;15709;PH94;PH94-Parada 1  (M) Lo Valledor
+109NR;15977;PH95;PH95-Av Alc Carlos Valdovinos  Esq Central Nino García
+109NR;16212;PH96;PH96-Av Alc Carlos Valdovinos  Esq Valenzuela Llanos
+109NR;16525;PH97;PH97-Av Alc Carlos Valdovinos  Esq Belén
+109NR;16785;PH335;PH335-Bascuñán Guerrero  Esq El Carmelo
+109NR;17272;PA287;PA287-Bascuñán Guerrero  Esq Siria
+109NR;17671;PA9;PA9-Parada 2  Rondizzoni - Bascuñán
+109NR;18003;PA10;PA10-Bascuñán Guerrero  Esq Avenida El Mirador
+109NR;18228;PA695;PA695-Bascuñán Guerrero  Esq Espiñeira
+109NR;18474;PA11;PA11-Bascuñán Guerrero  Esq Fray De La Peña
+109NR;18920;PA12;PA12-Bascuñán Guerrero  Esq Av Blanco Encalada
+109NR;19216;PA13;PA13-Bascuñán Guerrero  Esq Toesca
+109NR;19578;PA14;PA14-Bascuñán Guerrero  Esq Sazié
+109NR;19857;PA15;PA15-Parada  Estadio Victor Jara
+109NR;20358;PA163;PA163-Parada 1  (M) Unión Latinoamericana
+109NR;20659;PA336;PA336-Parada 3  (M) República
+109NR;21215;PA337;PA337-Parada 8  (M) Los Héroes
+109NR;21710;PA28;PA28-Parada 7  (M) La Moneda
+109NR;22200;PA350;PA350-Parada 7  (M) Universidad De Chile
+109NR;22908;PA168;PA168-Parada 4  (M) Santa Lucía
+109NR;23344;PA169;PA169-Parada 1  (M) Universidad Católica
+109NR;23792;PA342;PA342-Parada 7  Plaza Italia
 109R;755;PI369;PI369-Avenida Portales  Esq La Galaxia
 109R;1282;PI193;PI193-Avenida 4 Poniente  Esq San José
 109R;1569;PI1598;PI1598-Avenida 4 Poniente  Esq El Huaso
@@ -2310,92 +2434,82 @@
 115R;20869;PI1563;PI1563-Quilín  Esq Egipto
 115R;21129;PI1564;PI1564-Quilín  Esq Zapallar
 115R;21300;PI1514;PI1514-Quilín  Esq Empedrado
-115cI;-1;PI1514;PI1514-Quilín  Esq Empedrado
+115cI;94;PI1547;PI1547-Judea  Esq Altura Del 1500
+115cI;329;PI1521;PI1521-Judea  Esq Israel
+115cI;556;PI336;PI336-Judea  Esq Constantinopla
+115cI;764;PI1805;PI1805-Judea  Esq El Líbano
+115cI;1553;PI322;PI322-El Labrador  Esq Egipto
+115cI;1686;PI323;PI323-El Labrador  Esq Avenida 4 Poniente
+115cI;1874;PI324;PI324-Avenida 4 Poniente  Esq Constantinopla
+115cI;2023;PI325;PI325-Avenida 4 Poniente  Esq El Líbano
+115cI;2189;PI326;PI326-Avenida 4 Poniente  Esq Marco Antonio
+115cI;2397;PI327;PI327-Avenida 4 Poniente  Esq Av Las Industrias
+115cI;2785;PI328;PI328-Avenida 4 Poniente  Esq Flavio Josefo
+115cI;3086;PI1492;PI1492-Camino A Melipilla  Esq Champollion
+115cI;3566;PI274;PI274-Camino A Melipilla  Esq Jacques Cousteau
+115cI;3736;PI275;PI275-Camino A Melipilla  Esq Judea
+115cI;4230;PI276;PI276-Camino A Melipilla  Esq El Milagro
+115cI;4611;PI277;PI277-Parada  Nestlé - Maipú
+115cI;4976;PI279;PI279-Parada  Gasco - Maipú
+115cI;5363;PI280;PI280-Parada  Goodyear - Maipú
+115cI;5867;PI282;PI282-Camino A Melipilla  Esq Av Los Pajaritos
+115cI;6094;PI283;PI283-Parada  Abastible - Copec
+115cI;6527;PI329;PI329-Parada  Cti - Camino Melipilla
+115cI;6958;PI284;PI284-Camino A Melipilla  Esq Los Yacimientos
+115cI;7232;PI285;PI285-Parada  Pizarreño
+115cI;7643;PI286;PI286-Camino A Melipilla  Esq Pitágoras
+115cI;8354;PI287;PI287-Parada  Empresa Bata
+115cI;9044;PI1326;PI1326-Parada 3  Liceo Maipú
+115cI;9753;PI118;PI118-Parada 2  Villa Sta Adela
+115cI;10038;PI119;PI119-Parada 2  Miguel Socías
+115cI;10388;PI120;PI120-Parada 2  El Mirador
+115cI;10800;PI1631;PI1631-Parada 2  Colegio Don Orione
+115cI;11196;PI1630;PI1630-Parada 2  Lo Errázuriz - P Aguirre Cerda
+115cI;11525;PI1629;PI1629-Av Pedro Aguirre Cerda  Esq Salomón Sack
+115cI;11889;PI1628;PI1628-Parada  Centro Cívico Cerrillos
+115cI;12228;PI1627;PI1627-Parada  P Aguirre Cerda Altura Del 5800
+115cI;12578;PI1626;PI1626-Parada  Comando Logístico Fach
+115cI;12944;PI1625;PI1625-Parada  Museo Aeronáutico
+115cI;13353;PI1623;PI1623-Parada 4  (M) Cerrillos
+115cI;14114;PI181;PI181-Parada 1  (M) Cerrillos
+115cI;14440;PI1616;PI1616-Parada  Museo Aeronáutico
+115cI;14783;PI1617;PI1617-Parada  Comando Logístico Fach
+115cI;15158;PI1618;PI1618-Parada  P Aguirre Cerda Altura Del 5800
+115cI;15493;PI1619;PI1619-Parada  Centro Cívico Cerrillos
+115cI;16980;PI23;PI23-Parada 1  El Mirador
+115cI;17335;PI1271;PI1271-Camino A Melipilla  Esq Miguel Socías
+115cI;17626;PI137;PI137-Parada 1  Villa Sta Adela
+115cI;18313;PI296;PI296-Parada 4  Liceo Maipú
+115cI;18740;PI290;PI290-Parada  Empresa Bata
+115cI;19551;PI1839;PI1839-Parada  Easy Camino Melipilla
+115cI;19911;PI291;PI291-Camino A Melipilla  Esq Avenida Lo Espejo
+115cI;20174;PI292;PI292-Parada  Pizarreño
+115cI;20706;PI293;PI293-Camino A Melipilla  Esq Los Yacimientos
+115cI;21002;PI294;PI294-Camino A Melipilla  Esq Cerro Sombrero
+115cI;21125;PI295;PI295-Parada  Abastible - Copec
+115cI;21574;PI1349;PI1349-Camino A Melipilla  Esq Av Los Pajaritos
+115cI;22023;PI297;PI297-Parada  Goodyear - Maipú
+115cI;22886;PI299;PI299-Parada  Rabie - Maipú
+115cI;23010;PI300;PI300-Parada  Nestlé - Maipú
+115cI;23222;PI301;PI301-Camino A Melipilla  Esq Avenida 3 Poniente
+115cI;23669;PI302;PI302-Camino A Melipilla  Esq Judea
+115cI;23870;PI303;PI303-Camino A Melipilla  Esq Abisinia
+115cI;24399;PI330;PI330-Egipto  Esq Nuvia
+115cI;24674;PI331;PI331-Egipto  Esq Sudán
+115cI;24835;PI332;PI332-Egipto  Esq Av Las Industrias
+115cI;25063;PI333;PI333-Egipto  Esq Marco Antonio
+115cI;26179;PI1510;PI1510-Israel  Esq Quellon
+115cI;26378;PI1511;PI1511-Israel  Esq Avenida 4 Poniente
+115cI;26670;PI1569;PI1569-Avenida 4 Poniente  Esq Cristo Redentor
+115cI;26863;PI1563;PI1563-Quilín  Esq Egipto
+115cI;27123;PI1564;PI1564-Quilín  Esq Zapallar
+115cI;27294;PI1514;PI1514-Quilín  Esq Empedrado
 116I;256;PB739;PB739-Avenida Las Torres  Esq Juan Cristobal
-116I;1853;PB133;PB133-Premio Nobel  Esq Cam Bosque De Stgo
-116I;2231;PB135;PB135-Cam Bosque De Stgo  Esq Rep De Noruega
-116I;2477;PB136;PB136-Cam Bosque De Stgo  Esq Slave
-116I;2633;PB137;PB137-Cam Bosque De Stgo  Esq AvPdte SAllende
-116I;4303;PB142;PB142-Avenida Del Parque  Esq Los Jardines
-116I;4665;PB101;PB101-Avenida Del Parque  Esq Av Del Cóndor
-116I;5061;PB102;PB102-Avenida Del Parque  Esq Av Del Cóndor
-116I;5294;PB103;PB103-Avenida Del Parque  Esq Av Del Valle
-116I;5477;PB104;PB104-Avenida Del Parque  Esq Rinconada El Salto
-116I;6150;PB105;PB105-El Salto  Esq Julio Moya Pena
-116I;8755;PB150;PB150-Avenida Perú  Esq Desiderio Lemus
-116I;9008;PB151;PB151-Avenida Perú  Esq Delfina León
-116I;9386;PB152;PB152-Avenida Perú  Esq San Cristóbal
-116I;9593;PB153;PB153-Avenida Perú  Esq Santos Dumont
-116I;9839;PB154;PB154-Avenida Perú  Esq La Virgen
-116I;10084;PB155;PB155-Avenida Perú  Esq Dominica
-116I;10540;PB156;PB156-Purísima  Esq Santa Filomena
-116I;10722;PB157;PB157-Purísima  Esq A López De Bello
-116I;10993;PB158;PB158-Purísima  Esq Av Bellavista
-116I;11226;PA698;PA698-Purísima  Esq Merced
-116I;11639;PA373;PA373-Parada 9  Plaza Italia
-116I;12156;PA692;PA692-Parada 2  (M) Universidad Católica
-116I;12741;PA43;PA43-Miraflores  Esq Agustinas
-116I;13136;PA587;PA587-Parada 6  (M) Bellas Artes
-116I;13708;PA47;PA47-Parada 2  Mercado Central
-116I;14080;PB160;PB160-Parada 2  Recoleta Franciscana
-116I;14270;PB161;PB161-Parada  (M) Patronato
-116I;14440;PB162;PB162-Parada  Clínica Dávila
-116I;14654;PB163;PB163-Avenida Recoleta  Esq Dominica
-116I;14951;PB1497;PB1497-Domínica  Esq Montevideo
-116I;15538;PB165;PB165-Avenida Perú  Esq La Virgen
-116I;15780;PB166;PB166-Avenida Perú  Esq Santos Dumont
-116I;15990;PB167;PB167-Avenida Perú  Esq San Cristóbal
-116I;16424;PB168;PB168-Avenida Perú  Esq Unión
-116I;16662;PB169;PB169-Avenida Perú  Esq Desiderio Lemus
-116I;16891;PB170;PB170-Avenida Perú  Esq Arz Valdivieso
-116I;16950;PB149;PB149-El Salto  Esq Arz Valdivieso
-116I;17201;PB171;PB171-El Salto  Esq Doctor Ostornol
-116I;17228;PB148;PB148-El Salto  Esq Doctor Ostornol
-116I;17495;PB147;PB147-El Salto  Esq Patria Vieja
-116I;17596;PB172;PB172-El Salto  Esq Avenida México
-116I;17657;PB146;PB146-El Salto  Esq Avenida México
-116I;17830;PB173;PB173-El Salto  Esq Avenida Einstein
-116I;17876;PB145;PB145-El Salto  Esq Avenida Einstein
-116I;18139;PB174;PB174-El Salto  Esq Víctor Cuccuini
-116I;18164;PB144;PB144-El Salto  Esq Víctor Cuccuini
-116I;18429;PB175;PB175-El Salto  Esq Muñoz Gamero
-116I;18494;PB143;PB143-El Salto  Esq Muñoz Gamero
-116I;18824;PB109;PB109-El Salto  Esq Duque De Kent
-116I;18860;PB107;PB107-El Salto  Esq Santa Mónica
-116I;19039;PB110;PB110-Parada 2  Plaza El Salto
-116I;19111;PB106;PB106-Parada 1  Plaza El Salto
-116I;19286;PB111;PB111-El Salto  Esq Los Turistas
-116I;19653;PB1580;PB1580-Parada 4  Palacio Riesco
-116I;19654;PB1581;PB1581-Parada 3  Palacio Riesco
-116I;20128;PB113;PB113-Avenida Del Valle  Esq Av Santa Clara
-116I;20557;PB114;PB114-Avenida Del Valle  Esq Av Santa Clara
-116I;20942;PB115;PB115-Avenida Del Valle  Esq Av Del Parque
-116I;21555;PB176;PB176-Avenida Del Parque  Esq Rinconada El Salto
-116I;21765;PB141;PB141-Rinconada El Salto  Esq Av Del Parque
-116I;22065;PB1492;PB1492-Rinconada El Salto  Esq Camino La Pirámide
-116I;22384;PB139;PB139-Cam Bosque De Stgo  Esq Avenida El Salto
-116I;22396;PB1663;PB1663-Cam Bosque De Stgo  Esq Las Mutillas
-116I;22567;PB1705;PB1705-Cam Bosque De Stgo  Esq Las Encinas
-116I;22574;PB138;PB138-Cam Bosque De Stgo  Esq El Pellín
-116I;22721;PB1496;PB1496-Cam Bosque De Stgo  Esq Las Dalias
-116I;22801;PB1695;PB1695-Cam Bosque De Stgo  Esq Los Retamos
-116I;22942;PB1493;PB1493-Cam Bosque De Stgo  Esq Las Gilas
-116I;23138;PB1494;PB1494-Cam Bosque De Stgo  Esq AvPdte SAllende
-116I;23305;PB774;PB774-Cam Bosque De Stgo  Esq Rep Yugoslavia
-116I;23559;PB181;PB181-Cam Bosque De Stgo  Esq Rep De Noruega
-116I;23767;PB182;PB182-Cam Bosque De Stgo  Esq Rep Estados Unidos
-116I;23824;PB134;PB134-Cam Bosque De Stgo  Esq Rep Estados Unidos
-116I;23989;PB1495;PB1495-Cam Bosque De Stgo  Esq Los Versos Del Cap
 116I;24190;PB744;PB744-Guillermo Subiabre  Esq Avenida Recoleta
-116I;24515;PB778;PB778-Guillermo Subiabre  Esq Avenida Recoleta
 116I;24524;PB743;PB743-Guillermo Subiabre  Esq Las Siervas De María
-116I;24749;PB779;PB779-Guillermo Subiabre  Esq P Aguirre Cerda
 116I;24796;PB742;PB742-Guillermo Subiabre  Esq P Aguirre Cerda
-116I;24897;PB780;PB780-Guillermo Subiabre  Esq Río Cachapoal
 116I;24943;PB741;PB741-Guillermo Subiabre  Esq Río Cachapoal
-116I;25162;PB781;PB781-Juan Cristóbal  Esq C Aguirre Luco
 116I;25210;PB740;PB740-Juan Cristóbal  Esq C Aguirre Luco
-116I;25401;PB782;PB782-Juan Cristóbal  Esq Avenida Las Torres
 117I;446;PB1575;PB1575-Parada  Est Intermodal Vespucio Norte
 117I;1544;PB334;PB334-Avenida Recoleta  Esq AvPdte SAllende
 117I;1901;PB335;PB335-Parada  MuniHuechuraba
@@ -10480,30 +10594,37 @@
 407R;30415;PJ1978;PJ1978-Los Maitenes  Esq Río Refugio
 407R;30793;PJ1056;PJ1056-Salar De Atacama  Esq Los Maitenes-Oriente
 407R;31143;PJ1670;PJ1670-Río Clarillo  Esq Río Trancura
-408I;551;PJ259;PJ259-La Capilla  Esq El Arrollo
-408I;1056;PJ436;PJ436-Costanera Sur  Esq Abrantes
-408I;1390;PJ437;PJ437-Costanera Sur  Esq Goruche
-408I;1521;PJ1665;PJ1665-Costanera Sur  Esq Rolando Petersen
-408I;2100;PB1828;PB1828-Costanera Norte  Esq Olimpo
-408I;2393;PB1827;PB1827-Costanera Norte  Esq Zeus
-408I;2634;PB1901;PB1901-Costanera Norte  Esq Lagunas
-408I;3043;PB1900;PB1900-Esmeralda  Esq Michay
-408I;3219;PB654;PB654-Esmeralda  Esq Caleta Guapi
-408I;3478;PB57;PB57-José Miguel Infante  Esq Pasaje 1
-408I;3693;PB1690;PB1690-José Miguel Infante  Esq Playa Blanca
-408I;4007;PB58;PB58-José Miguel Infante  Esq Almendrillo
-408I;4402;PB655;PB655-Arturo Prat  Esq Paula Jaraquemada
-408I;4644;PB656;PB656-Arturo Prat  Esq Calle 4
-408I;5029;PB657;PB657-Parada  Colegio San Gerónimo
-408I;5341;PB658;PB658-Manuel Rodríguez  Esq Pasaje 2
-408I;5731;PB64;PB64-Av José MBalmaceda  Esq Gral Velásquez
-408I;5956;PB65;PB65-Av José MBalmaceda  Esq Los Nogales
-408I;6348;PB66;PB66-Av José MBalmaceda  Esq Dichato
-408I;6512;PB1824;PB1824-Parada  Cesfam Renca
-408I;6725;PB67;PB67-Nicanor Fajardo  Esq Av Dgo Santa María
-408I;6877;PB68;PB68-Domingo Santa María  Esq Aníbal Montt
-408I;7224;PB69;PB69-Parada 4  Plaza Renca
-408I;13412;PA380;PA380-Parada 4  Estación Mapocho
+408I;144;PJ429;PJ429-Avenida La Estrella  Esq Los Conquistadores
+408I;392;PJ430;PJ430-Avenida La Estrella  Esq Viscu
+408I;570;PJ431;PJ431-Avenida La Estrella  Esq Mapocho Sur
+408I;863;PJ685;PJ685-Diagonal Reny  Esq Bombal
+408I;1165;PJ433;PJ433-Diagonal Reny  Esq Río Douro
+408I;1477;PJ434;PJ434-Diagonal Reny  Esq Salvador Gutiérrez
+408I;1797;PJ435;PJ435-Diagonal Reny  Esq La Capilla
+408I;2126;PJ259;PJ259-La Capilla  Esq El Arrollo
+408I;2632;PJ436;PJ436-Costanera Sur  Esq Abrantes
+408I;2966;PJ437;PJ437-Costanera Sur  Esq Goruche
+408I;3096;PJ1665;PJ1665-Costanera Sur  Esq Rolando Petersen
+408I;3676;PB1828;PB1828-Costanera Norte  Esq Olimpo
+408I;3968;PB1827;PB1827-Costanera Norte  Esq Zeus
+408I;4210;PB1901;PB1901-Costanera Norte  Esq Lagunas
+408I;4618;PB1900;PB1900-Esmeralda  Esq Michay
+408I;4795;PB654;PB654-Esmeralda  Esq Caleta Guapi
+408I;5054;PB57;PB57-José Miguel Infante  Esq Pasaje 1
+408I;5268;PB1690;PB1690-José Miguel Infante  Esq Playa Blanca
+408I;5583;PB58;PB58-José Miguel Infante  Esq Almendrillo
+408I;5978;PB655;PB655-Arturo Prat  Esq Paula Jaraquemada
+408I;6219;PB656;PB656-Arturo Prat  Esq Calle 4
+408I;6604;PB657;PB657-Parada  Colegio San Gerónimo
+408I;6917;PB658;PB658-Manuel Rodríguez  Esq Pasaje 2
+408I;7307;PB64;PB64-Av José MBalmaceda  Esq Gral Velásquez
+408I;7532;PB65;PB65-Av José MBalmaceda  Esq Los Nogales
+408I;7924;PB66;PB66-Av José MBalmaceda  Esq Dichato
+408I;8088;PB1824;PB1824-Parada  Cesfam Renca
+408I;8301;PB67;PB67-Nicanor Fajardo  Esq Av Dgo Santa María
+408I;8453;PB68;PB68-Domingo Santa María  Esq Aníbal Montt
+408I;8800;PB69;PB69-Parada 4  Plaza Renca
+408I;14988;PA380;PA380-Parada 4  Estación Mapocho
 408R;158;PA380;PA380-Parada 4  Estación Mapocho
 408R;1189;PA49;PA49-Parada  Hospital Traumatológico
 408R;1466;PA774;PA774-San Martín  Esq Santo Domingo
@@ -10529,6 +10650,12 @@
 408R;13637;PJ473;PJ473-Costanera Sur  Esq Gaviola
 408R;13935;PJ474;PJ474-Costanera Sur  Esq Avenida La Estrella
 408R;14310;PJ315;PJ315-Costanera Sur  Esq El Arrollo
+408R;15102;PJ475;PJ475-Parada  Colegio Saint Orland
+408R;15415;PJ476;PJ476-Diagonal Reny  Esq Río Douro
+408R;15758;PJ477;PJ477-Diagonal Reny  Esq Avenida Mapocho
+408R;15970;PJ478;PJ478-Mapocho Sur  Esq Avenida La Estrella
+408R;16199;PJ479;PJ479-Avenida La Estrella  Esq El Nocedal
+408R;16547;PJ480;PJ480-Avenida La Estrella  Esq Av José J Pérez
 408eI;12;PB1521;PB1521-Brasil  Esq Brasil
 408eI;292;PB1060;PB1060-Brasil  Esq Combate Naval
 408eI;510;PB1661;PB1661-Brasil  Esq Pdte Aníbal Pinto
@@ -10656,7 +10783,36 @@
 410I;16671;PC317;PC317-Parada  Clínica Indisa
 410I;16840;PC318;PC318-Avenida Santa María  Esq Av Pedro De Valdivia
 410I;17264;PC349;PC349-Parada 6  (M) Pedro De Valdivia
-410R;-1;PB667;PB667-Topocalma  Esq Esmeralda
+410R;146;PC349;PC349-Parada 6  (M) Pedro De Valdivia
+410R;804;PC273;PC273-Parada 4  (M) Manuel Montt
+410R;1125;PC274;PC274-Parada 4  Torres De Tajamar
+410R;1602;PC275;PC275-Parada 4  (M) Salvador
+410R;1966;PC276;PC276-Parada 4  Parque Balmaceda
+410R;2218;PC277;PC277-Parada 4  Museo De Los Tajamares
+410R;2937;PC1081;PC1081-Parada 2  Facultad De Derecho
+410R;8771;PB1888;PB1888-Av Apóstol Santiago  Esq Mercedes Badilla
+410R;9124;PB77;PB77-Av Apóstol Santiago  Esq Pedro Prado
+410R;9356;PB78;PB78-Av Apóstol Santiago  Esq Av Dgo Santa María
+410R;9611;PB79;PB79-Domingo Santa María  Esq Maruri
+410R;9935;PB80;PB80-Domingo Santa María  Esq Rivera
+410R;10202;PB81;PB81-Domingo Santa María  Esq Roquer Bravo
+410R;10600;PB82;PB82-Parada 1  Plaza Renca
+410R;10852;PB83;PB83-Av José MBalmaceda  Esq Angamos
+410R;11118;PB84;PB84-Parada  Cesfam Renca
+410R;11354;PB85;PB85-Av José MBalmaceda  Esq I Carrera Pinto
+410R;11601;PB86;PB86-Av José MBalmaceda  Esq Claudio Matte P
+410R;11808;PB1709;PB1709-Av José MBalmaceda  Esq Claudio Matte P
+410R;12119;PB87;PB87-Av José MBalmaceda  Esq Manuel Rodríguez
+410R;12355;PB659;PB659-Manuel Rodríguez  Esq José Donoso
+410R;12660;PB660;PB660-Parada  Colegio San Gerónimo
+410R;12998;PB661;PB661-Arturo Prat  Esq Colo Colo
+410R;13367;PB662;PB662-Arturo Prat  Esq Avenida Condell
+410R;13764;PB663;PB663-Condell  Esq Bucalemu
+410R;14151;PB664;PB664-Topocalma  Esq Buenaventura
+410R;14511;PB665;PB665-Topocalma  Esq Los Hornos
+410R;14775;PB1734;PB1734-Topocalma  Esq Clotario Blest
+410R;14936;PB666;PB666-Topocalma  Esq Pelluhue
+410R;15224;PB667;PB667-Topocalma  Esq Esmeralda
 410eI;12;PB1521;PB1521-Brasil  Esq Brasil
 410eI;292;PB1060;PB1060-Brasil  Esq Combate Naval
 410eI;510;PB1661;PB1661-Brasil  Esq Pdte Aníbal Pinto
@@ -12237,9 +12393,8 @@
 426I;33079;PC429;PC429-El Rodeo  Esq El Espino
 426I;33377;PC430;PC430-El Rodeo  Esq La Medialuna
 426I;33635;PC431;PC431-El Rodeo  Esq Padre A Arteaga 
-426I;33942;PC966;PC966-El Rodeo  Esq Av Lo Barnechea
-426I;34339;PC434;PC434-Lo Barnechea  Esq El Gabino
 426R;0;PC434;PC434-Lo Barnechea  Esq El Gabino
+426R;34;PC966;PC966-El Rodeo  Esq Av Lo Barnechea
 426R;197;PC1088;PC1088-El Gabino  Esq Pasaje Nahuel
 426R;681;PC437;PC437-Padre Alfredo Arteaga  Esq Cmte Malbec
 426R;900;PC438;PC438-Padre Alfredo Arteaga  Esq 4 Vientos
@@ -13339,89 +13494,93 @@
 501R;10132;PC501;PC501-Av Francisco Bilbao  Esq Avenida Italia
 501R;10428;PC502;PC502-Av Francisco Bilbao  Esq Avenida Seminario
 501R;10800;PC503;PC503-Parada 4  (M) Parque Bustamante
-502I;85;PJ256;PJ256-Costanera Sur  Esq Mar De Chile
-502I;369;PJ257;PJ257-La Capilla  Esq Fraternidad
-502I;579;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-502I;927;PJ259;PJ259-La Capilla  Esq El Arrollo
-502I;1165;PJ1556;PJ1556-La Capilla  Esq Avenida La Estrella
-502I;1490;PJ1789;PJ1789-Salvador Gutiérrez  Esq Pasaje Abrantes
-502I;1714;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
-502I;1956;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
-502I;2169;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
-502I;2405;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
-502I;2749;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
-502I;2998;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
-502I;3232;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
-502I;3427;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
-502I;3825;PJ269;PJ269-Salvador Gutiérrez  Esq 3 De Julio
-502I;4107;PJ270;PJ270-Salvador Gutiérrez  Esq Hernán Domeyko
-502I;4343;PJ271;PJ271-Salvador Gutiérrez  Esq Ramón A Seguel
-502I;4589;PJ272;PJ272-Salvador Gutiérrez  Esq Lo López
-502I;4800;PJ273;PJ273-Salvador Gutiérrez  Esq Neptuno
-502I;5245;PJ274;PJ274-Salvador Gutiérrez  Esq Samuel Izquierdo
-502I;5606;PJ275;PJ275-Salvador Gutiérrez  Esq Catamarca
-502I;5998;PJ276;PJ276-Salvador Gutiérrez  Esq Jujuy
-502I;6271;PJ277;PJ277-Salvador Gutiérrez  Esq Radal
-502I;6552;PJ278;PJ278-Salvador Gutiérrez  Esq Santiago De Uriona
-502I;6978;PJ279;PJ279-Salvador Gutiérrez  Esq La Plata
-502I;7263;PJ281;PJ281-Salvador Gutiérrez  Esq Mendoza
-502I;7544;PJ282;PJ282-Mendoza  Esq Padre Tadeo
-502I;7716;PJ283;PJ283-Mendoza  Esq Avenida Mapocho
-502I;7901;PJ284;PJ284-Parada 4  Tropezón
-502I;8304;PJ285;PJ285-Parada 1  Villasana - Avenida Mapocho
-502I;8636;PJ286;PJ286-Parada 1  Dr García G - Av Mapocho
-502I;8925;PJ287;PJ287-Parada 3  Matucana - Av Mapocho
-502I;9241;PA387;PA387-Avenida Mapocho  Esq Herrera
-502I;9523;PA388;PA388-Parada  Población Mapocho
-502I;9903;PA405;PA405-Avenida Mapocho  Esq General Bulnes
-502I;10096;PA390;PA390-Avenida Mapocho  Esq Ricardo Cumming
-502I;10362;PA391;PA391-Avenida Mapocho  Esq Gral Baquedano
-502I;10926;PA226;PA226-San Pablo  Esq Almirante Barroso
-502I;11329;PA352;PA352-Parada  Hospital Traumatológico
-502I;11621;PA299;PA299-Hermanos Amunátegui  Esq General Mackenna
-502I;11977;PA300;PA300-Parada 9  Estación Mapocho
-502I;12536;PA353;PA353-Parada 4  Mercado Central
-502I;13139;PA409;PA409-Parada  Puente Purísima
-502I;13512;PA410;PA410-Parada  Puente Purísima
-502I;13855;PA411;PA411-Parada 1  Facultad De Derecho
-502I;14341;PC505;PC505-Parada  Puente Racalamac
-502I;14569;PC506;PC506-Parada  Clínica Santa María
-502I;14830;PC507;PC507-Avenida Santa María  Esq Del Arzobispo
-502I;15244;PC508;PC508-Avenida Santa María  Esq J Ewards De Ferrari
-502I;16367;PC317;PC317-Parada  Clínica Indisa
-502I;16536;PC318;PC318-Avenida Santa María  Esq Av Pedro De Valdivia
-502I;16901;PC319;PC319-Avenida Santa María  Esq Padre Letelier
-502I;17148;PC320;PC320-Avenida Santa María  Esq Puente Los Leones
-502I;19039;PC211;PC211-Avenida Vitacura  Esq Paul Claudel
-502I;19308;PC212;PC212-Avenida Vitacura  Esq Navidad
-502I;19618;PC213;PC213-Avenida Vitacura  Esq Alonso De Córdova
-502I;19912;PC214;PC214-Parada  Plaza Lo Castillo
-502I;20293;PC215;PC215-Avenida Vitacura  Esq Av A Vespucio
-502I;20609;PC216;PC216-Avenida Vitacura  Esq Arturo Ureta
-502I;20885;PC217;PC217-Avenida Vitacura  Esq Pedro Canisio
-502I;21326;PC218;PC218-Avenida Vitacura  Esq Luis Carrera
-502I;21631;PC219;PC219-Parada  Est Manquehue
-502I;21923;PC220;PC220-Parada 4  Clínica Alemana
-502I;22203;PC221;PC221-Parada  Rotonda Irene Frei
-502I;22568;PC222;PC222-Parada 1  Los Cobres De Vitacura
-502I;22854;PC223;PC223-Avenida Vitacura  Esq G De Alderete
-502I;23139;PC224;PC224-Avenida Vitacura  Esq García De Torres
-502I;23436;PC225;PC225-Avenida Vitacura  Esq Detroit
-502I;23683;PC226;PC226-Avenida Vitacura  Esq Indiana
-502I;23993;PC227;PC227-Avenida Vitacura  Esq Av Las Tranqueras
-502I;24342;PC228;PC228-Avenida Vitacura  Esq Padre Deveuster
-502I;24706;PC229;PC229-Avenida Vitacura  Esq Lo Matta
-502I;24899;PC230;PC230-Avenida Vitacura  Esq La Llavería
-502I;25061;PC231;PC231-Avenida Vitacura  Esq La Aurora
-502I;25236;PC232;PC232-Avenida Vitacura  Esq Valle Central
-502I;25784;PC233;PC233-Avenida Tabancura  Esq Las Hualtatas
-502I;26021;PC234;PC234-Avenida Tabancura  Esq Tupungato
-502I;26968;PC236;PC236-Parada 1  Nudo Estoril
-502I;27240;PC237;PC237-Avenida Las Condes  Esq Lo Fontecilla
-502I;27887;PC239;PC239-Parada  Universidad Del Pacífico
-502I;28182;PC288;PC288-Avenida Las Condes  Esq San Damian
-502I;28698;PC289;PC289-Parada  Mayflower - Dunalastair
-502I;29010;PC351;PC351-Avenida Las Condes  Esq Sn Francisco De Asís
+502I;74;PJ1986;PJ1986-Rodoviario  Esq Mar De Chile
+502I;278;PJ1985;PJ1985-Mar De Chile  Esq Río Douro
+502I;484;PJ1791;PJ1791-Mar De Chile  Esq Las Fragatas
+502I;711;PJ708;PJ708-Mar De Chile  Esq Los Queltehues
+502I;872;PJ709;PJ709-Mar De Chile  Esq Costanera Sur
+502I;1141;PJ257;PJ257-La Capilla  Esq Fraternidad
+502I;1352;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
+502I;1700;PJ259;PJ259-La Capilla  Esq El Arrollo
+502I;1938;PJ1556;PJ1556-La Capilla  Esq Avenida La Estrella
+502I;2262;PJ1789;PJ1789-Salvador Gutiérrez  Esq Pasaje Abrantes
+502I;2486;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
+502I;2729;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
+502I;2941;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
+502I;3177;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
+502I;3522;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
+502I;3771;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
+502I;4004;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
+502I;4200;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
+502I;4598;PJ269;PJ269-Salvador Gutiérrez  Esq 3 De Julio
+502I;4880;PJ270;PJ270-Salvador Gutiérrez  Esq Hernán Domeyko
+502I;5115;PJ271;PJ271-Salvador Gutiérrez  Esq Ramón A Seguel
+502I;5361;PJ272;PJ272-Salvador Gutiérrez  Esq Lo López
+502I;5573;PJ273;PJ273-Salvador Gutiérrez  Esq Neptuno
+502I;6017;PJ274;PJ274-Salvador Gutiérrez  Esq Samuel Izquierdo
+502I;6379;PJ275;PJ275-Salvador Gutiérrez  Esq Catamarca
+502I;6770;PJ276;PJ276-Salvador Gutiérrez  Esq Jujuy
+502I;7044;PJ277;PJ277-Salvador Gutiérrez  Esq Radal
+502I;7325;PJ278;PJ278-Salvador Gutiérrez  Esq Santiago De Uriona
+502I;7750;PJ279;PJ279-Salvador Gutiérrez  Esq La Plata
+502I;8035;PJ281;PJ281-Salvador Gutiérrez  Esq Mendoza
+502I;8317;PJ282;PJ282-Mendoza  Esq Padre Tadeo
+502I;8489;PJ283;PJ283-Mendoza  Esq Avenida Mapocho
+502I;8674;PJ284;PJ284-Parada 4  Tropezón
+502I;9077;PJ285;PJ285-Parada 1  Villasana - Avenida Mapocho
+502I;9409;PJ286;PJ286-Parada 1  Dr García G - Av Mapocho
+502I;9697;PJ287;PJ287-Parada 3  Matucana - Av Mapocho
+502I;10014;PA387;PA387-Avenida Mapocho  Esq Herrera
+502I;10295;PA388;PA388-Parada  Población Mapocho
+502I;10676;PA405;PA405-Avenida Mapocho  Esq General Bulnes
+502I;10868;PA390;PA390-Avenida Mapocho  Esq Ricardo Cumming
+502I;11135;PA391;PA391-Avenida Mapocho  Esq Gral Baquedano
+502I;11699;PA226;PA226-San Pablo  Esq Almirante Barroso
+502I;12102;PA352;PA352-Parada  Hospital Traumatológico
+502I;12394;PA299;PA299-Hermanos Amunátegui  Esq General Mackenna
+502I;12749;PA300;PA300-Parada 9  Estación Mapocho
+502I;13308;PA353;PA353-Parada 4  Mercado Central
+502I;13912;PA409;PA409-Parada  Puente Purísima
+502I;14285;PA410;PA410-Parada  Puente Purísima
+502I;14628;PA411;PA411-Parada 1  Facultad De Derecho
+502I;15113;PC505;PC505-Parada  Puente Racalamac
+502I;15341;PC506;PC506-Parada  Clínica Santa María
+502I;15602;PC507;PC507-Avenida Santa María  Esq Del Arzobispo
+502I;16017;PC508;PC508-Avenida Santa María  Esq J Ewards De Ferrari
+502I;17140;PC317;PC317-Parada  Clínica Indisa
+502I;17309;PC318;PC318-Avenida Santa María  Esq Av Pedro De Valdivia
+502I;17674;PC319;PC319-Avenida Santa María  Esq Padre Letelier
+502I;17921;PC320;PC320-Avenida Santa María  Esq Puente Los Leones
+502I;19812;PC211;PC211-Avenida Vitacura  Esq Paul Claudel
+502I;20080;PC212;PC212-Avenida Vitacura  Esq Navidad
+502I;20390;PC213;PC213-Avenida Vitacura  Esq Alonso De Córdova
+502I;20684;PC214;PC214-Parada  Plaza Lo Castillo
+502I;21066;PC215;PC215-Avenida Vitacura  Esq Av A Vespucio
+502I;21382;PC216;PC216-Avenida Vitacura  Esq Arturo Ureta
+502I;21657;PC217;PC217-Avenida Vitacura  Esq Pedro Canisio
+502I;22099;PC218;PC218-Avenida Vitacura  Esq Luis Carrera
+502I;22404;PC219;PC219-Parada  Est Manquehue
+502I;22696;PC220;PC220-Parada 4  Clínica Alemana
+502I;22976;PC221;PC221-Parada  Rotonda Irene Frei
+502I;23340;PC222;PC222-Parada 1  Los Cobres De Vitacura
+502I;23627;PC223;PC223-Avenida Vitacura  Esq G De Alderete
+502I;23912;PC224;PC224-Avenida Vitacura  Esq García De Torres
+502I;24209;PC225;PC225-Avenida Vitacura  Esq Detroit
+502I;24456;PC226;PC226-Avenida Vitacura  Esq Indiana
+502I;24766;PC227;PC227-Avenida Vitacura  Esq Av Las Tranqueras
+502I;25115;PC228;PC228-Avenida Vitacura  Esq Padre Deveuster
+502I;25479;PC229;PC229-Avenida Vitacura  Esq Lo Matta
+502I;25672;PC230;PC230-Avenida Vitacura  Esq La Llavería
+502I;25834;PC231;PC231-Avenida Vitacura  Esq La Aurora
+502I;26009;PC232;PC232-Avenida Vitacura  Esq Valle Central
+502I;26556;PC233;PC233-Avenida Tabancura  Esq Las Hualtatas
+502I;26793;PC234;PC234-Avenida Tabancura  Esq Tupungato
+502I;27740;PC236;PC236-Parada 1  Nudo Estoril
+502I;28012;PC237;PC237-Avenida Las Condes  Esq Lo Fontecilla
+502I;28660;PC239;PC239-Parada  Universidad Del Pacífico
+502I;28955;PC288;PC288-Avenida Las Condes  Esq San Damian
+502I;29470;PC289;PC289-Parada  Mayflower - Dunalastair
+502I;29782;PC351;PC351-Avenida Las Condes  Esq Sn Francisco De Asís
 502R;93;PC1133;PC1133-La Cabaña  Esq Escrivá De Balaguer
 502R;520;PC1123;PC1123-Avenida La Dehesa  Esq Av Las Condes
 502R;833;PC1117;PC1117-Avenida Las Condes  Esq Eliodoro Guerra
@@ -13505,59 +13664,61 @@
 502R;28038;PJ314;PJ314-Avenida La Estrella  Esq El Zurdo
 502R;28418;PJ315;PJ315-Costanera Sur  Esq El Arrollo
 502R;29049;PJ316;PJ316-Costanera Sur  Esq Serrano
-502R;29368;PJ317;PJ317-Costanera Sur  Esq Conguillio
-502cI;85;PJ256;PJ256-Costanera Sur  Esq Mar De Chile
-502cI;369;PJ257;PJ257-La Capilla  Esq Fraternidad
-502cI;579;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-502cI;965;PJ475;PJ475-Parada  Colegio Saint Orland
-502cI;1171;PJ967;PJ967-Salvador Gutiérrez  Esq El Arrollo
-502cI;1385;PJ968;PJ968-Salvador Gutiérrez  Esq Avenida La Estrella
-502cI;1690;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
-502cI;1932;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
-502cI;2145;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
-502cI;2381;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
-502cI;2725;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
-502cI;2974;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
-502cI;3208;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
-502cI;3403;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
-502cI;3801;PJ269;PJ269-Salvador Gutiérrez  Esq 3 De Julio
-502cI;4083;PJ270;PJ270-Salvador Gutiérrez  Esq Hernán Domeyko
-502cI;4319;PJ271;PJ271-Salvador Gutiérrez  Esq Ramón A Seguel
-502cI;4565;PJ272;PJ272-Salvador Gutiérrez  Esq Lo López
-502cI;4776;PJ273;PJ273-Salvador Gutiérrez  Esq Neptuno
-502cI;5221;PJ274;PJ274-Salvador Gutiérrez  Esq Samuel Izquierdo
-502cI;5582;PJ275;PJ275-Salvador Gutiérrez  Esq Catamarca
-502cI;5974;PJ276;PJ276-Salvador Gutiérrez  Esq Jujuy
-502cI;6247;PJ277;PJ277-Salvador Gutiérrez  Esq Radal
-502cI;6528;PJ278;PJ278-Salvador Gutiérrez  Esq Santiago De Uriona
-502cI;6954;PJ279;PJ279-Salvador Gutiérrez  Esq La Plata
-502cI;7239;PJ281;PJ281-Salvador Gutiérrez  Esq Mendoza
-502cI;7520;PJ282;PJ282-Mendoza  Esq Padre Tadeo
-502cI;7692;PJ283;PJ283-Mendoza  Esq Avenida Mapocho
-502cI;7878;PJ284;PJ284-Parada 4  Tropezón
-502cI;8280;PJ285;PJ285-Parada 1  Villasana - Avenida Mapocho
-502cI;8613;PJ286;PJ286-Parada 1  Dr García G - Av Mapocho
-502cI;8901;PJ287;PJ287-Parada 3  Matucana - Av Mapocho
-502cI;9217;PA387;PA387-Avenida Mapocho  Esq Herrera
-502cI;9499;PA388;PA388-Parada  Población Mapocho
-502cI;9880;PA405;PA405-Avenida Mapocho  Esq General Bulnes
-502cI;10072;PA390;PA390-Avenida Mapocho  Esq Ricardo Cumming
-502cI;10338;PA391;PA391-Avenida Mapocho  Esq Gral Baquedano
-502cI;10594;PA392;PA392-Avenida Mapocho  Esq Almirante Barroso
-502cI;11257;PA352;PA352-Parada  Hospital Traumatológico
-502cI;11549;PA299;PA299-Hermanos Amunátegui  Esq General Mackenna
-502cI;11905;PA300;PA300-Parada 9  Estación Mapocho
-502cI;12464;PA353;PA353-Parada 4  Mercado Central
-502cI;13067;PA409;PA409-Parada  Puente Purísima
-502cI;13440;PA410;PA410-Parada  Puente Purísima
-502cI;13784;PA411;PA411-Parada 1  Facultad De Derecho
-502cI;14269;PC505;PC505-Parada  Puente Racalamac
-502cI;14497;PC506;PC506-Parada  Clínica Santa María
-502cI;14758;PC507;PC507-Avenida Santa María  Esq Del Arzobispo
-502cI;15172;PC508;PC508-Avenida Santa María  Esq J Ewards De Ferrari
-502cI;16295;PC317;PC317-Parada  Clínica Indisa
-502cI;16464;PC318;PC318-Avenida Santa María  Esq Av Pedro De Valdivia
-502cI;16922;PC1225;PC1225-Padre Letelier  Esq Los Españoles
+502R;29413;PJ710;PJ710-Mar De Chile  Esq Llanquihue
+502R;29632;PJ711;PJ711-Mar De Chile  Esq Las Fragatas
+502R;29743;PJ1790;PJ1790-Mar De Chile  Esq Río Douro
+502R;30028;PJ1984;PJ1984-Mar De Chile  Esq Rodoviario
+502cI;69;PJ257;PJ257-La Capilla  Esq Fraternidad
+502cI;279;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
+502cI;665;PJ475;PJ475-Parada  Colegio Saint Orland
+502cI;871;PJ967;PJ967-Salvador Gutiérrez  Esq El Arrollo
+502cI;1086;PJ968;PJ968-Salvador Gutiérrez  Esq Avenida La Estrella
+502cI;1390;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
+502cI;1632;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
+502cI;1845;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
+502cI;2081;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
+502cI;2426;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
+502cI;2675;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
+502cI;2908;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
+502cI;3103;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
+502cI;3501;PJ269;PJ269-Salvador Gutiérrez  Esq 3 De Julio
+502cI;3784;PJ270;PJ270-Salvador Gutiérrez  Esq Hernán Domeyko
+502cI;4019;PJ271;PJ271-Salvador Gutiérrez  Esq Ramón A Seguel
+502cI;4265;PJ272;PJ272-Salvador Gutiérrez  Esq Lo López
+502cI;4476;PJ273;PJ273-Salvador Gutiérrez  Esq Neptuno
+502cI;4921;PJ274;PJ274-Salvador Gutiérrez  Esq Samuel Izquierdo
+502cI;5282;PJ275;PJ275-Salvador Gutiérrez  Esq Catamarca
+502cI;5674;PJ276;PJ276-Salvador Gutiérrez  Esq Jujuy
+502cI;5947;PJ277;PJ277-Salvador Gutiérrez  Esq Radal
+502cI;6229;PJ278;PJ278-Salvador Gutiérrez  Esq Santiago De Uriona
+502cI;6654;PJ279;PJ279-Salvador Gutiérrez  Esq La Plata
+502cI;6939;PJ281;PJ281-Salvador Gutiérrez  Esq Mendoza
+502cI;7221;PJ282;PJ282-Mendoza  Esq Padre Tadeo
+502cI;7392;PJ283;PJ283-Mendoza  Esq Avenida Mapocho
+502cI;7578;PJ284;PJ284-Parada 4  Tropezón
+502cI;7980;PJ285;PJ285-Parada 1  Villasana - Avenida Mapocho
+502cI;8313;PJ286;PJ286-Parada 1  Dr García G - Av Mapocho
+502cI;8601;PJ287;PJ287-Parada 3  Matucana - Av Mapocho
+502cI;8917;PA387;PA387-Avenida Mapocho  Esq Herrera
+502cI;9199;PA388;PA388-Parada  Población Mapocho
+502cI;9580;PA405;PA405-Avenida Mapocho  Esq General Bulnes
+502cI;9772;PA390;PA390-Avenida Mapocho  Esq Ricardo Cumming
+502cI;10039;PA391;PA391-Avenida Mapocho  Esq Gral Baquedano
+502cI;10294;PA392;PA392-Avenida Mapocho  Esq Almirante Barroso
+502cI;10957;PA352;PA352-Parada  Hospital Traumatológico
+502cI;11250;PA299;PA299-Hermanos Amunátegui  Esq General Mackenna
+502cI;11605;PA300;PA300-Parada 9  Estación Mapocho
+502cI;12164;PA353;PA353-Parada 4  Mercado Central
+502cI;12768;PA409;PA409-Parada  Puente Purísima
+502cI;13141;PA410;PA410-Parada  Puente Purísima
+502cI;13484;PA411;PA411-Parada 1  Facultad De Derecho
+502cI;13969;PC505;PC505-Parada  Puente Racalamac
+502cI;14197;PC506;PC506-Parada  Clínica Santa María
+502cI;14458;PC507;PC507-Avenida Santa María  Esq Del Arzobispo
+502cI;14872;PC508;PC508-Avenida Santa María  Esq J Ewards De Ferrari
+502cI;15996;PC317;PC317-Parada  Clínica Indisa
+502cI;16165;PC318;PC318-Avenida Santa María  Esq Av Pedro De Valdivia
+502cI;16622;PC1225;PC1225-Padre Letelier  Esq Los Españoles
 502cR;417;PA393;PA393-Parada 1  Plaza Italia
 502cR;1106;PA395;PA395-Parada 2  (M) Bellas Artes
 502cR;1376;PA260;PA260-Parada  Santo Domingo - Miraflores
@@ -13599,7 +13760,6 @@
 502cR;13425;PJ966;PJ966-Parada  Colegio Saint Orland
 502cR;13748;PJ435;PJ435-Diagonal Reny  Esq La Capilla
 502cR;14133;PJ316;PJ316-Costanera Sur  Esq Serrano
-502cR;14452;PJ317;PJ317-Costanera Sur  Esq Conguillio
 503I;173;PJ116;PJ116-Avenida San Pablo  Esq Av J Guzmán Riesco
 503I;400;PJ164;PJ164-Avenida San Pablo  Esq El Tranque
 503I;872;PJ816;PJ816-Serrano  Esq Fidias
@@ -13969,110 +14129,107 @@
 504R;28745;PJ681;PJ681-AvJMGuzmán Riesco  Esq Iorana
 504R;29130;PJ1798;PJ1798-Rio Refugio  Esq Salar Surire
 504R;29572;PJ1800;PJ1800-Salar Ascotán  Esq Río Clarillo
-505I;144;PJ429;PJ429-Avenida La Estrella  Esq Los Conquistadores
-505I;392;PJ430;PJ430-Avenida La Estrella  Esq Viscu
-505I;570;PJ431;PJ431-Avenida La Estrella  Esq Mapocho Sur
-505I;815;PJ432;PJ432-Mapocho Norte  Esq Diagonal Reny
-505I;1032;PJ1060;PJ1060-Mapocho Norte  Esq La Nutria
-505I;1230;PJ702;PJ702-Mapocho Norte  Esq Río Boroa
-505I;1431;PJ703;PJ703-Río Boroa  Esq Gacela
-505I;1617;PJ704;PJ704-Río Boroa  Esq Río Douro
-505I;1878;PJ705;PJ705-Río Boroa  Esq Salvador Gutiérrez
-505I;2195;PJ435;PJ435-Diagonal Reny  Esq La Capilla
-505I;2580;PJ316;PJ316-Costanera Sur  Esq Serrano
-505I;2694;PJ257;PJ257-La Capilla  Esq Fraternidad
-505I;2904;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-505I;3252;PJ259;PJ259-La Capilla  Esq El Arrollo
-505I;3490;PJ1556;PJ1556-La Capilla  Esq Avenida La Estrella
-505I;3758;PJ436;PJ436-Costanera Sur  Esq Abrantes
-505I;4092;PJ437;PJ437-Costanera Sur  Esq Goruche
-505I;4222;PJ1665;PJ1665-Costanera Sur  Esq Rolando Petersen
-505I;4410;PJ35;PJ35-Costanera Sur  Esq Prof Dario Salazar
-505I;4749;PJ438;PJ438-Costanera Sur  Esq Isoka
-505I;5050;PJ439;PJ439-Costanera Sur  Esq El Resbalon
-505I;5239;PJ1688;PJ1688-Costanera Sur  Esq Doctor Avendaño
-505I;5516;PJ441;PJ441-Costanera Sur  Esq Santos Luis Medel
-505I;5750;PJ1666;PJ1666-Costanera Sur  Esq 5 De Febrero
-505I;6091;PJ442;PJ442-Costanera Sur  Esq Las Lumas
-505I;6316;PJ443;PJ443-Costanera Sur  Esq Padre Las Casas
-505I;6664;PJ444;PJ444-Costanera Sur  Esq Cerámica
-505I;6860;PJ445;PJ445-Avenida Carrascal  Esq Pedro Gil De Castro
-505I;7256;PJ446;PJ446-Avenida Carrascal  Esq Avenida Neptuno
-505I;7679;PJ447;PJ447-Avenida Carrascal  Esq Samuel Izquierdo
-505I;8057;PJ448;PJ448-Avenida Carrascal  Esq Catamarca
-505I;8274;PJ449;PJ449-Parada  Laboratorio Recalcine
-505I;8516;PJ1813;PJ1813-Avenida Carrascal  Esq Jujuy
-505I;8727;PJ5;PJ5-Parada 1  Escuela Lo Franco
-505I;9151;PJ450;PJ450-Parada 1  Escuela E Hurtado
-505I;9317;PJ1729;PJ1729-Avenida Carrascal  Esq Santa Fe
-505I;9592;PJ451;PJ451-Parada  Municipalidad De Quinta Normal
-505I;9786;PJ452;PJ452-Avenida Carrascal  Esq AvWalker Martínez
-505I;10254;PJ453;PJ453-Parada 1  Salvador Gutiérrez - Walker Martínez
-505I;10657;PJ1774;PJ1774-Parada 3  Tropezón
-505I;10936;PJ454;PJ454-Parada 1  Consultorio Andes
-505I;11258;PJ455;PJ455-Av Coronel Robles  Esq Edison
-505I;11578;PJ97;PJ97-Parada 2  (M) Gruta De Lourdes
-505I;12057;PJ136;PJ136-Parada 1  Basílica De Lourdes
-505I;12539;PJ53;PJ53-Parada 1  Matucana - San Pablo
-505I;12841;PJ54;PJ54-Avenida Matucana  Esq Santo Domingo
-505I;13087;PA1;PA1-Parada 6  (M) Quinta Normal
-505I;13324;PA427;PA427-Parada 1  Hospital San Juan De Dios
-505I;13627;PA428;PA428-Compañía De Jesús  Esq Esperanza
-505I;13923;PA429;PA429-Compañía De Jesús  Esq Cueto
-505I;14290;PA430;PA430-Compañía De Jesús  Esq Ricardo Cumming
-505I;14618;PA297;PA297-Parada 1  Plaza Brasil
-505I;15008;PA298;PA298-Parada 7  (M) Santa Ana
-505I;15341;PA332;PA332-Parada 2  Liceo Uno
-505I;15906;PA417;PA417-Parada 3  (M) Plaza De Armas
-505I;16413;PA334;PA334-Merced  Esq Miraflores
-505I;17081;PA40;PA40-Parada 1  Parque Forestal
-505I;17436;PA383;PA383-Parada 5  Plaza Italia
-505I;17885;PC199;PC199-Parada 3  Museo De Los Tajamares
-505I;18163;PC200;PC200-Parada 3  Parque Balmaceda
-505I;18552;PC563;PC563-Parada 5  (M) Salvador
-505I;18726;PC564;PC564-Parada  Hospital Del Salvador
-505I;19103;PC565;PC565-Avenida Salvador  Esq Rancagua
-505I;19391;PC566;PC566-Avenida Salvador  Esq Luis Montaner
-505I;19791;PC567;PC567-Avenida Salvador  Esq Santa Isabel
-505I;20040;PC568;PC568-Avenida Salvador  Esq Caupolicán
-505I;20300;PD482;PD482-Avenida Salvador  Esq Avenida Sucre
-505I;20822;PD784;PD784-Avenida Irarrázaval  Esq Obispo Orrego
-505I;21035;PD332;PD332-Avenida Irarrázaval  Esq Capitán Fuentes
-505I;21317;PD333;PD333-Parada 1  (M) Mons Eyzaguirre
-505I;21854;PD334;PD334-Avenida Irarrázaval  Esq Carlos Aldunate 
-505I;22078;PD335;PD335-Parada 1  (M) Ñuñoa
-505I;22526;PD336;PD336-Avenida Irarrázaval  Esq Exequiel Fernández
-505I;22744;PD337;PD337-Parada 4  (M) Chile España
-505I;23151;PD338;PD338-Parada  Plaza Ñuñoa
-505I;23555;PD339;PD339-Avenida Irarrázaval  Esq Santa Julia
-505I;23865;PD340;PD340-Avenida Irarrázaval  Esq Juan Moya Morales
-505I;24187;PD341;PD341-Avenida Irarrázaval  Esq Alc J Monckeberg
-505I;24410;PD342;PD342-Parada 1  (M) Villa Frei
-505I;24811;PD409;PD409-Parada  Plaza Los Guindos
-505I;25355;PD410;PD410-Parada 3  (M) Plaza Egaña
-505I;25726;PD230;PD230-Av Américo Vespucio  Esq Nuncio Laghi
-505I;25961;PD231;PD231-Av Américo Vespucio  Esq Av Diagonal-Oriente
-505I;26373;PD188;PD188-Parada 1  (M) LosOrientales
-505I;27134;PD189;PD189-Parada 1  (M) Grecia
-505I;28201;PD571;PD571-Parada 1  Los Molineros - Av Grecia
-505I;28955;PI1272;PI1272-Ictinos  Esq Calle 37
-505I;29110;PD486;PD486-Ictinos  Esq Laura Rodríguez
-505I;29381;PD487;PD487-Ictinos  Esq Avenida Oriental
-505I;29667;PD488;PD488-Avenida Oriental  Esq Parque 2
-505I;29930;PD489;PD489-Avenida Oriental  Esq Andrea López Z
-505I;30224;PD490;PD490-Avenida Oriental  Esq Avenida Tobalaba
-505I;30377;PD491;PD491-Av Las Parcelas  Esq Pasaje 445
-505I;30711;PD492;PD492-Av Las Parcelas  Esq Laguna Salada
-505I;30978;PD493;PD493-Av Las Parcelas  Esq Lago Rosselot
-505I;31264;PD494;PD494-Av Las Parcelas  Esq Av Consistorial
-505I;31539;PD495;PD495-Av Las Parcelas  Esq Amanecer
-505I;31778;PD496;PD496-Av Las Parcelas  Esq El Alto 
-505I;32048;PD497;PD497-Av Las Parcelas  Esq Río Claro
-505I;32204;PD793;PD793-Los Baqueanos  Esq Las Perdices
-505I;32445;PD794;PD794-Los Baqueanos  Esq Río Lauca
-505I;32656;PD795;PD795-Los Baqueanos  Esq Quebrada San Pedro
-505I;33065;PD735;PD735-Av Diagonal Las Torres  Esq Río Lauca
-505I;33399;PD736;PD736-Av Diagonal Las Torres  Esq Las Vertientes
+505I;74;PJ1986;PJ1986-Rodoviario  Esq Mar De Chile
+505I;263;PJ1987;PJ1987-Rodoviario  Esq Serrano
+505I;609;PJ1805;PJ1805-Rodoviario  Esq Federico Errázuriz
+505I;1005;PJ703;PJ703-Río Boroa  Esq Gacela
+505I;1190;PJ704;PJ704-Río Boroa  Esq Río Douro
+505I;1452;PJ705;PJ705-Río Boroa  Esq Salvador Gutiérrez
+505I;1769;PJ435;PJ435-Diagonal Reny  Esq La Capilla
+505I;2154;PJ316;PJ316-Costanera Sur  Esq Serrano
+505I;2268;PJ257;PJ257-La Capilla  Esq Fraternidad
+505I;2478;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
+505I;2826;PJ259;PJ259-La Capilla  Esq El Arrollo
+505I;3064;PJ1556;PJ1556-La Capilla  Esq Avenida La Estrella
+505I;3332;PJ436;PJ436-Costanera Sur  Esq Abrantes
+505I;3666;PJ437;PJ437-Costanera Sur  Esq Goruche
+505I;3796;PJ1665;PJ1665-Costanera Sur  Esq Rolando Petersen
+505I;3984;PJ35;PJ35-Costanera Sur  Esq Prof Dario Salazar
+505I;4323;PJ438;PJ438-Costanera Sur  Esq Isoka
+505I;4624;PJ439;PJ439-Costanera Sur  Esq El Resbalon
+505I;4813;PJ1688;PJ1688-Costanera Sur  Esq Doctor Avendaño
+505I;5090;PJ441;PJ441-Costanera Sur  Esq Santos Luis Medel
+505I;5323;PJ1666;PJ1666-Costanera Sur  Esq 5 De Febrero
+505I;5665;PJ442;PJ442-Costanera Sur  Esq Las Lumas
+505I;5889;PJ443;PJ443-Costanera Sur  Esq Padre Las Casas
+505I;6238;PJ444;PJ444-Costanera Sur  Esq Cerámica
+505I;6434;PJ445;PJ445-Avenida Carrascal  Esq Pedro Gil De Castro
+505I;6830;PJ446;PJ446-Avenida Carrascal  Esq Avenida Neptuno
+505I;7253;PJ447;PJ447-Avenida Carrascal  Esq Samuel Izquierdo
+505I;7630;PJ448;PJ448-Avenida Carrascal  Esq Catamarca
+505I;7847;PJ449;PJ449-Parada  Laboratorio Recalcine
+505I;8089;PJ1813;PJ1813-Avenida Carrascal  Esq Jujuy
+505I;8300;PJ5;PJ5-Parada 1  Escuela Lo Franco
+505I;8724;PJ450;PJ450-Parada 1  Escuela E Hurtado
+505I;8891;PJ1729;PJ1729-Avenida Carrascal  Esq Santa Fe
+505I;9165;PJ451;PJ451-Parada  Municipalidad De Quinta Normal
+505I;9359;PJ452;PJ452-Avenida Carrascal  Esq AvWalker Martínez
+505I;9828;PJ453;PJ453-Parada 1  Salvador Gutiérrez - Walker Martínez
+505I;10231;PJ1774;PJ1774-Parada 3  Tropezón
+505I;10509;PJ454;PJ454-Parada 1  Consultorio Andes
+505I;10831;PJ455;PJ455-Av Coronel Robles  Esq Edison
+505I;11152;PJ97;PJ97-Parada 2  (M) Gruta De Lourdes
+505I;11631;PJ136;PJ136-Parada 1  Basílica De Lourdes
+505I;12113;PJ53;PJ53-Parada 1  Matucana - San Pablo
+505I;12415;PJ54;PJ54-Avenida Matucana  Esq Santo Domingo
+505I;12661;PA1;PA1-Parada 6  (M) Quinta Normal
+505I;12897;PA427;PA427-Parada 1  Hospital San Juan De Dios
+505I;13200;PA428;PA428-Compañía De Jesús  Esq Esperanza
+505I;13497;PA429;PA429-Compañía De Jesús  Esq Cueto
+505I;13864;PA430;PA430-Compañía De Jesús  Esq Ricardo Cumming
+505I;14192;PA297;PA297-Parada 1  Plaza Brasil
+505I;14582;PA298;PA298-Parada 7  (M) Santa Ana
+505I;14915;PA332;PA332-Parada 2  Liceo Uno
+505I;15479;PA417;PA417-Parada 3  (M) Plaza De Armas
+505I;15987;PA334;PA334-Merced  Esq Miraflores
+505I;16655;PA40;PA40-Parada 1  Parque Forestal
+505I;17009;PA383;PA383-Parada 5  Plaza Italia
+505I;17458;PC199;PC199-Parada 3  Museo De Los Tajamares
+505I;17736;PC200;PC200-Parada 3  Parque Balmaceda
+505I;18126;PC563;PC563-Parada 5  (M) Salvador
+505I;18299;PC564;PC564-Parada  Hospital Del Salvador
+505I;18676;PC565;PC565-Avenida Salvador  Esq Rancagua
+505I;18965;PC566;PC566-Avenida Salvador  Esq Luis Montaner
+505I;19365;PC567;PC567-Avenida Salvador  Esq Santa Isabel
+505I;19613;PC568;PC568-Avenida Salvador  Esq Caupolicán
+505I;19874;PD482;PD482-Avenida Salvador  Esq Avenida Sucre
+505I;20396;PD784;PD784-Avenida Irarrázaval  Esq Obispo Orrego
+505I;20609;PD332;PD332-Avenida Irarrázaval  Esq Capitán Fuentes
+505I;20890;PD333;PD333-Parada 1  (M) Mons Eyzaguirre
+505I;21428;PD334;PD334-Avenida Irarrázaval  Esq Carlos Aldunate 
+505I;21651;PD335;PD335-Parada 1  (M) Ñuñoa
+505I;22100;PD336;PD336-Avenida Irarrázaval  Esq Exequiel Fernández
+505I;22318;PD337;PD337-Parada 4  (M) Chile España
+505I;22724;PD338;PD338-Parada  Plaza Ñuñoa
+505I;23129;PD339;PD339-Avenida Irarrázaval  Esq Santa Julia
+505I;23438;PD340;PD340-Avenida Irarrázaval  Esq Juan Moya Morales
+505I;23761;PD341;PD341-Avenida Irarrázaval  Esq Alc J Monckeberg
+505I;23984;PD342;PD342-Parada 1  (M) Villa Frei
+505I;24384;PD409;PD409-Parada  Plaza Los Guindos
+505I;24928;PD410;PD410-Parada 3  (M) Plaza Egaña
+505I;25299;PD230;PD230-Av Américo Vespucio  Esq Nuncio Laghi
+505I;25534;PD231;PD231-Av Américo Vespucio  Esq Av Diagonal-Oriente
+505I;25946;PD188;PD188-Parada 1  (M) LosOrientales
+505I;26708;PD189;PD189-Parada 1  (M) Grecia
+505I;27775;PD571;PD571-Parada 1  Los Molineros - Av Grecia
+505I;28528;PI1272;PI1272-Ictinos  Esq Calle 37
+505I;28683;PD486;PD486-Ictinos  Esq Laura Rodríguez
+505I;28955;PD487;PD487-Ictinos  Esq Avenida Oriental
+505I;29241;PD488;PD488-Avenida Oriental  Esq Parque 2
+505I;29504;PD489;PD489-Avenida Oriental  Esq Andrea López Z
+505I;29798;PD490;PD490-Avenida Oriental  Esq Avenida Tobalaba
+505I;29951;PD491;PD491-Av Las Parcelas  Esq Pasaje 445
+505I;30284;PD492;PD492-Av Las Parcelas  Esq Laguna Salada
+505I;30551;PD493;PD493-Av Las Parcelas  Esq Lago Rosselot
+505I;30838;PD494;PD494-Av Las Parcelas  Esq Av Consistorial
+505I;31113;PD495;PD495-Av Las Parcelas  Esq Amanecer
+505I;31351;PD496;PD496-Av Las Parcelas  Esq El Alto 
+505I;31622;PD497;PD497-Av Las Parcelas  Esq Río Claro
+505I;31777;PD793;PD793-Los Baqueanos  Esq Las Perdices
+505I;32018;PD794;PD794-Los Baqueanos  Esq Río Lauca
+505I;32230;PD795;PD795-Los Baqueanos  Esq Quebrada San Pedro
+505I;32638;PD735;PD735-Av Diagonal Las Torres  Esq Río Lauca
+505I;32973;PD736;PD736-Av Diagonal Las Torres  Esq Las Vertientes
 505R;190;PD1215;PD1215-Río Claro  Esq Valle Hermoso
 505R;428;PD1424;PD1424-Valle Hermoso  Esq Qda De Camarones
 505R;641;PD998;PD998-Quebrada Camarones  Esq Av José Arrieta
@@ -14172,11 +14329,9 @@
 505R;32353;PJ715;PJ715-Río Boroa  Esq Vareton
 505R;32535;PJ716;PJ716-Río Boroa  Esq Pombal
 505R;32668;PJ717;PJ717-Río Boroa  Esq Mapocho Norte
-505R;32952;PJ719;PJ719-Mapocho Sur  Esq Frutillar
-505R;33151;PJ720;PJ720-Mapocho Sur  Esq Diagonal Reny
-505R;33330;PJ478;PJ478-Mapocho Sur  Esq Avenida La Estrella
-505R;33559;PJ479;PJ479-Avenida La Estrella  Esq El Nocedal
-505R;33907;PJ480;PJ480-Avenida La Estrella  Esq Av José J Pérez
+505R;32859;PJ1804;PJ1804-Rodoviario  Esq Serrano
+505R;33119;PJ1989;PJ1989-Rodoviario  Esq Serrano
+505R;33298;PJ1988;PJ1988-Rodoviario  Esq Mar De Chile
 506I;635;PI369;PI369-Avenida Portales  Esq La Galaxia
 506I;931;PI459;PI459-Parada 1  Liceo Nacional Maipú
 506I;2090;PI1448;PI1448-Avenida 4 Poniente  Esq Pdte Frei Montalva
@@ -15362,101 +15517,105 @@
 510R;28780;PJ76;PJ76-Avenida Los Mares  Esq Av A Vespucio
 510R;29259;PI1652;PI1652-Av Américo Vespucio  Esq Camino El Olivo
 510R;29568;PI212;PI212-Av Américo Vespucio  Esq Av El Descanso
-511I;85;PJ256;PJ256-Costanera Sur  Esq Mar De Chile
-511I;369;PJ257;PJ257-La Capilla  Esq Fraternidad
-511I;579;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-511I;927;PJ259;PJ259-La Capilla  Esq El Arrollo
-511I;1165;PJ1556;PJ1556-La Capilla  Esq Avenida La Estrella
-511I;1402;PJ260;PJ260-Avenida La Estrella  Esq Salvador Gutiérrez
-511I;1666;PJ735;PJ735-Parada  Escuela Violeta Parra
-511I;1852;PJ983;PJ983-Avenida La Estrella  Esq Cartaxo
-511I;1992;PJ984;PJ984-Avenida La Estrella  Esq Avenida Mapocho
-511I;2262;PJ479;PJ479-Avenida La Estrella  Esq El Nocedal
-511I;2611;PJ480;PJ480-Avenida La Estrella  Esq Av José J Pérez
-511I;2815;PJ481;PJ481-Avenida La Estrella  Esq Av José J Pérez
-511I;3028;PJ985;PJ985-Avenida La Estrella  Esq Zapallar
-511I;3172;PJ986;PJ986-Avenida La Estrella  Esq Av San Daniel
-511I;3447;PJ366;PJ366-Avenida La Estrella  Esq El Anillo
-511I;3671;PJ367;PJ367-Parada 1  Plaza De Pudahuel
-511I;4017;PJ368;PJ368-Avenida La Estrella  Esq Pasaje Almendral
-511I;4468;PJ369;PJ369-Parada 1  San Pablo - La Estrella
-511I;4891;PJ171;PJ171-Parada  Liceo C87
-511I;5364;PJ123;PJ123-Parada  Muni Pudahuel
-511I;5659;PJ987;PJ987-Parada 5  (M) Pudahuel
-511I;6117;PJ173;PJ173-Parada  Villa Los Maitenes
-511I;6393;PJ1777;PJ1777-Parada  Villa Los Poetas
-511I;6630;PJ126;PJ126-Parada 1  Las Torres - San Pablo
-511I;6993;PJ175;PJ175-Avenida San Pablo  Esq Gral J Buendía
-511I;7316;PJ184;PJ184-Parada 5  (M) San Pablo
-511I;7646;PJ1573;PJ1573-Parada 8  (M) San Pablo
-511I;8149;PJ686;PJ686-Parada 3  (M) Neptuno
-511I;8559;PJ908;PJ908-Avenida Dorsal  Esq Min Gana
-511I;8788;PJ909;PJ909-Avenida Dorsal  Esq Hiram
-511I;9045;PJ1038;PJ1038-Avenida Dorsal  Esq Isla Decepción
-511I;9267;PJ911;PJ911-Avenida Dorsal  Esq España
-511I;9450;PJ912;PJ912-Avenida Dorsal  Esq Las Palmas
-511I;9689;PJ913;PJ913-Avenida Dorsal  Esq Av Las Rejas-Norte
-511I;10012;PJ19;PJ19-Avenida Las Rejas  Esq Nueva Imperial
-511I;10502;PJ34;PJ34-Nueva Imperial  Esq Radal
-511I;10749;PJ33;PJ33-Radal  Esq Porto Seguro
-511I;10995;PI1393;PI1393-Radal  Esq Buzo Sobenes
-511I;11219;PI1392;PI1392-Radal  Esq La Coruña
-511I;11428;PI1395;PI1395-Radal  Esq Avenida Ecuador
-511I;11749;PI457;PI457-Parada 3  (M) Ecuador
-511I;12192;PI339;PI339-Parada 3  Concón
-511I;12623;PI401;PI401-Parada 4  (M) San Alberto Hurtado
-511I;12970;PI439;PI439-Parada 3  (M) Universidad De Santiago
-511I;13521;PI440;PI440-Parada 3  San Borja
-511I;14022;PA368;PA368-Parada 4  (M) Estación Central
-511I;14469;PA683;PA683-U Latinoamericana  Esq S Sanfuentes
-511I;15261;PA832;PA832-U Latinoamericana  Esq Blanco Encalada
-511I;15635;PA279;PA279-San Alfonso  Esq Lincoln
-511I;15988;PA280;PA280-San Alfonso  Esq Fray Luis De La Peña
-511I;16247;PA281;PA281-San Alfonso  Esq Espiñeira
-511I;16400;PA589;PA589-San Alfonso  Esq Antofagasta
-511I;16627;PA590;PA590-San Alfonso  Esq Manuel De Amat
-511I;17116;PA684;PA684-Av General Rondizzoni  Esq Francisco Pizarro
-511I;17346;PA537;PA537-Av General Rondizzoni  Esq Avenida El Mirador
-511I;17749;PA285;PA285-El Mirador  Esq Av Pedro Montt
-511I;18272;PA680;PA680-Parada  Penitenciaría
-511I;18658;PA672;PA672-Luis Cousiño  Esq Av Gral Rondizzoni
-511I;18940;PA671;PA671-Parada 3  (M) Rondizzoni
-511I;19350;PA19;PA19-Ñuble  Esq Lord Cochrane
-511I;19858;PA628;PA628-Nataniel Cox  Esq Franklin
-511I;20358;PA64;PA64-San Diego  Esq Schiavett
-511I;20717;PA495;PA495-Arauco  Esq Chiloé
-511I;21013;PA496;PA496-Arauco  Esq Av Santa Rosa
-511I;21276;PA497;PA497-Arauco  Esq San Isidro
-511I;21505;PA498;PA498-Arauco  Esq Santiago Concha
-511I;21848;PA499;PA499-Arauco  Esq Sierra Bella
-511I;22191;PA638;PA638-Arauco  Esq Avenida Portugal
-511I;22419;PA639;PA639-Arauco  Esq Santa Elena
-511I;22799;PH797;PH797-Santa Elena  Esq Carlos Fernández
-511I;23230;PH1552;PH1552-Parada 3  Paradero 2 AvVicuña Mackenna
-511I;23660;PD1319;PD1319-Av Rodrigo De Araya  Esq Til Til
-511I;24107;PD1317;PD1317-Av Rodrigo De Araya  Esq Avenida Marathon
-511I;24365;PD647;PD647-Avenida Marathon  Esq Avenida Zañartu
-511I;24588;PD648;PD648-Avenida Marathon  Esq Guillermo Mann
-511I;24906;PD649;PD649-Avenida Marathon  Esq Calle 2
-511I;25775;PD589;PD589-Parada 1  Avenida Marathon
-511I;26201;PD115;PD115-Parada 1  (M) EstNacional
-511I;26738;PD116;PD116-Parada 1  Los Tres Antonios
-511I;27369;PD590;PD590-Parada 1  Pedagógico
-511I;28124;PD592;PD592-Parada 1  Cesfam Salvador Bustos
-511I;28772;PD645;PD645-Parada 1  Ado Chile
-511I;29374;PD535;PD535-Parada 5  (M) Grecia
-511I;30051;PD571;PD571-Parada 1  Los Molineros - Av Grecia
-511I;30587;PD572;PD572-Parada 1  Ictinos - Avenida Grecia
-511I;31085;PD573;PD573-Parada 1  Calle 1A - Avenida Grecia
-511I;31312;PD1322;PD1322-Parada 1  Tobalaba - Avenida Grecia
-511I;31624;PD537;PD537-Avenida Grecia  Esq Los Tordos
-511I;32082;PD538;PD538-Avenida Grecia  Esq Las Garzas
-511I;32469;PD1323;PD1323-Avenida Grecia  Esq Av Consistorial
-511I;32726;PD539;PD539-Parada  Muni Peñalolén
-511I;33179;PD540;PD540-Parada 1  El Acueducto - Jacarandá
-511I;33614;PD541;PD541-Avenida Grecia  Esq Los Araucanos
-511I;33958;PD542;PD542-Avenida Grecia  Esq Pablo Neruda
-511I;34320;PD543;PD543-Avenida Grecia  Esq Av Diag Las Torres
+511I;74;PJ1986;PJ1986-Rodoviario  Esq Mar De Chile
+511I;278;PJ1985;PJ1985-Mar De Chile  Esq Río Douro
+511I;484;PJ1791;PJ1791-Mar De Chile  Esq Las Fragatas
+511I;711;PJ708;PJ708-Mar De Chile  Esq Los Queltehues
+511I;872;PJ709;PJ709-Mar De Chile  Esq Costanera Sur
+511I;1141;PJ257;PJ257-La Capilla  Esq Fraternidad
+511I;1352;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
+511I;1700;PJ259;PJ259-La Capilla  Esq El Arrollo
+511I;1938;PJ1556;PJ1556-La Capilla  Esq Avenida La Estrella
+511I;2174;PJ260;PJ260-Avenida La Estrella  Esq Salvador Gutiérrez
+511I;2438;PJ735;PJ735-Parada  Escuela Violeta Parra
+511I;2625;PJ983;PJ983-Avenida La Estrella  Esq Cartaxo
+511I;2765;PJ984;PJ984-Avenida La Estrella  Esq Avenida Mapocho
+511I;3035;PJ479;PJ479-Avenida La Estrella  Esq El Nocedal
+511I;3383;PJ480;PJ480-Avenida La Estrella  Esq Av José J Pérez
+511I;3588;PJ481;PJ481-Avenida La Estrella  Esq Av José J Pérez
+511I;3801;PJ985;PJ985-Avenida La Estrella  Esq Zapallar
+511I;3944;PJ986;PJ986-Avenida La Estrella  Esq Av San Daniel
+511I;4219;PJ366;PJ366-Avenida La Estrella  Esq El Anillo
+511I;4443;PJ367;PJ367-Parada 1  Plaza De Pudahuel
+511I;4789;PJ368;PJ368-Avenida La Estrella  Esq Pasaje Almendral
+511I;5240;PJ369;PJ369-Parada 1  San Pablo - La Estrella
+511I;5663;PJ171;PJ171-Parada  Liceo C87
+511I;6137;PJ123;PJ123-Parada  Muni Pudahuel
+511I;6432;PJ987;PJ987-Parada 5  (M) Pudahuel
+511I;6889;PJ173;PJ173-Parada  Villa Los Maitenes
+511I;7165;PJ1777;PJ1777-Parada  Villa Los Poetas
+511I;7403;PJ126;PJ126-Parada 1  Las Torres - San Pablo
+511I;7766;PJ175;PJ175-Avenida San Pablo  Esq Gral J Buendía
+511I;8089;PJ184;PJ184-Parada 5  (M) San Pablo
+511I;8419;PJ1573;PJ1573-Parada 8  (M) San Pablo
+511I;8922;PJ686;PJ686-Parada 3  (M) Neptuno
+511I;9331;PJ908;PJ908-Avenida Dorsal  Esq Min Gana
+511I;9560;PJ909;PJ909-Avenida Dorsal  Esq Hiram
+511I;9818;PJ1038;PJ1038-Avenida Dorsal  Esq Isla Decepción
+511I;10040;PJ911;PJ911-Avenida Dorsal  Esq España
+511I;10223;PJ912;PJ912-Avenida Dorsal  Esq Las Palmas
+511I;10462;PJ913;PJ913-Avenida Dorsal  Esq Av Las Rejas-Norte
+511I;10785;PJ19;PJ19-Avenida Las Rejas  Esq Nueva Imperial
+511I;11275;PJ34;PJ34-Nueva Imperial  Esq Radal
+511I;11522;PJ33;PJ33-Radal  Esq Porto Seguro
+511I;11768;PI1393;PI1393-Radal  Esq Buzo Sobenes
+511I;11992;PI1392;PI1392-Radal  Esq La Coruña
+511I;12201;PI1395;PI1395-Radal  Esq Avenida Ecuador
+511I;12521;PI457;PI457-Parada 3  (M) Ecuador
+511I;12965;PI339;PI339-Parada 3  Concón
+511I;13396;PI401;PI401-Parada 4  (M) San Alberto Hurtado
+511I;13743;PI439;PI439-Parada 3  (M) Universidad De Santiago
+511I;14293;PI440;PI440-Parada 3  San Borja
+511I;14795;PA368;PA368-Parada 4  (M) Estación Central
+511I;15242;PA683;PA683-U Latinoamericana  Esq S Sanfuentes
+511I;16033;PA832;PA832-U Latinoamericana  Esq Blanco Encalada
+511I;16407;PA279;PA279-San Alfonso  Esq Lincoln
+511I;16761;PA280;PA280-San Alfonso  Esq Fray Luis De La Peña
+511I;17020;PA281;PA281-San Alfonso  Esq Espiñeira
+511I;17173;PA589;PA589-San Alfonso  Esq Antofagasta
+511I;17399;PA590;PA590-San Alfonso  Esq Manuel De Amat
+511I;17888;PA684;PA684-Av General Rondizzoni  Esq Francisco Pizarro
+511I;18118;PA537;PA537-Av General Rondizzoni  Esq Avenida El Mirador
+511I;18522;PA285;PA285-El Mirador  Esq Av Pedro Montt
+511I;19045;PA680;PA680-Parada  Penitenciaría
+511I;19431;PA672;PA672-Luis Cousiño  Esq Av Gral Rondizzoni
+511I;19713;PA671;PA671-Parada 3  (M) Rondizzoni
+511I;20122;PA19;PA19-Ñuble  Esq Lord Cochrane
+511I;20630;PA628;PA628-Nataniel Cox  Esq Franklin
+511I;21131;PA64;PA64-San Diego  Esq Schiavett
+511I;21490;PA495;PA495-Arauco  Esq Chiloé
+511I;21786;PA496;PA496-Arauco  Esq Av Santa Rosa
+511I;22049;PA497;PA497-Arauco  Esq San Isidro
+511I;22278;PA498;PA498-Arauco  Esq Santiago Concha
+511I;22621;PA499;PA499-Arauco  Esq Sierra Bella
+511I;22964;PA638;PA638-Arauco  Esq Avenida Portugal
+511I;23192;PA639;PA639-Arauco  Esq Santa Elena
+511I;23572;PH797;PH797-Santa Elena  Esq Carlos Fernández
+511I;24003;PH1552;PH1552-Parada 3  Paradero 2 AvVicuña Mackenna
+511I;24433;PD1319;PD1319-Av Rodrigo De Araya  Esq Til Til
+511I;24879;PD1317;PD1317-Av Rodrigo De Araya  Esq Avenida Marathon
+511I;25137;PD647;PD647-Avenida Marathon  Esq Avenida Zañartu
+511I;25360;PD648;PD648-Avenida Marathon  Esq Guillermo Mann
+511I;25679;PD649;PD649-Avenida Marathon  Esq Calle 2
+511I;26548;PD589;PD589-Parada 1  Avenida Marathon
+511I;26974;PD115;PD115-Parada 1  (M) EstNacional
+511I;27511;PD116;PD116-Parada 1  Los Tres Antonios
+511I;28142;PD590;PD590-Parada 1  Pedagógico
+511I;28897;PD592;PD592-Parada 1  Cesfam Salvador Bustos
+511I;29545;PD645;PD645-Parada 1  Ado Chile
+511I;30146;PD535;PD535-Parada 5  (M) Grecia
+511I;30824;PD571;PD571-Parada 1  Los Molineros - Av Grecia
+511I;31360;PD572;PD572-Parada 1  Ictinos - Avenida Grecia
+511I;31858;PD573;PD573-Parada 1  Calle 1A - Avenida Grecia
+511I;32084;PD1322;PD1322-Parada 1  Tobalaba - Avenida Grecia
+511I;32397;PD537;PD537-Avenida Grecia  Esq Los Tordos
+511I;32855;PD538;PD538-Avenida Grecia  Esq Las Garzas
+511I;33242;PD1323;PD1323-Avenida Grecia  Esq Av Consistorial
+511I;33499;PD539;PD539-Parada  Muni Peñalolén
+511I;33952;PD540;PD540-Parada 1  El Acueducto - Jacarandá
+511I;34386;PD541;PD541-Avenida Grecia  Esq Los Araucanos
+511I;34731;PD542;PD542-Avenida Grecia  Esq Pablo Neruda
+511I;35093;PD543;PD543-Avenida Grecia  Esq Av Diag Las Torres
 511R;37;PD732;PD732-Av Diagonal Las Torres  Esq Avenida Grecia
 511R;321;PD544;PD544-Avenida Grecia  Esq Qda De Sn Pedro
 511R;664;PD545;PD545-Avenida Grecia  Esq Los Picachos
@@ -15547,7 +15706,10 @@
 511R;30925;PJ314;PJ314-Avenida La Estrella  Esq El Zurdo
 511R;31305;PJ315;PJ315-Costanera Sur  Esq El Arrollo
 511R;31936;PJ316;PJ316-Costanera Sur  Esq Serrano
-511R;32255;PJ317;PJ317-Costanera Sur  Esq Conguillio
+511R;32300;PJ710;PJ710-Mar De Chile  Esq Llanquihue
+511R;32519;PJ711;PJ711-Mar De Chile  Esq Las Fragatas
+511R;32630;PJ1790;PJ1790-Mar De Chile  Esq Río Douro
+511R;32914;PJ1984;PJ1984-Mar De Chile  Esq Rodoviario
 513I;144;PJ429;PJ429-Avenida La Estrella  Esq Los Conquistadores
 513I;392;PJ430;PJ430-Avenida La Estrella  Esq Viscu
 513I;570;PJ431;PJ431-Avenida La Estrella  Esq Mapocho Sur
@@ -16624,6 +16786,195 @@
 519R;14312;PA385;PA385-Parada 3  (M) Santa Lucía
 519R;14889;PA183;PA183-Parada 3  (M) Universidad De Chile
 519R;15329;PA365;PA365-Parada 3  (M) La Moneda
+541NI;58;PJ1797;PJ1797-Río Clarillo  Esq Río Trancura
+541NI;408;PJ1055;PJ1055-Río Clarillo  Esq Salar De Ascotán
+541NI;799;PJ1796;PJ1796-Salar De Surire  Esq Río Refugio
+541NI;1081;PJ1799;PJ1799-Rio Refugio  Esq Av J Guzmán Riesco
+541NI;1408;PJ638;PJ638-AvJMGuzmán Riesco  Esq Iorana
+541NI;1520;PJ639;PJ639-AvJMGuzmán Riesco  Esq María Angélica
+541NI;2165;PJ376;PJ376-El Tranque  Esq Cerro Negro
+541NI;2347;PJ377;PJ377-El Tranque  Esq María Angélica
+541NI;2594;PJ378;PJ378-El Tranque  Esq Santa Mariana
+541NI;2795;PJ379;PJ379-El Tranque  Esq Santa Marta
+541NI;3015;PJ380;PJ380-El Tranque  Esq Av San Daniel
+541NI;3294;PJ381;PJ381-Avenida San Daniel  Esq Bravo Luco
+541NI;3604;PJ383;PJ383-El Carmen  Esq Serrano
+541NI;3802;PJ384;PJ384-Avenida San Daniel  Esq Rupanco
+541NI;3971;PJ385;PJ385-Avenida San Daniel  Esq Federico Errázuriz
+541NI;4340;PJ386;PJ386-Avenida San Daniel  Esq Av Santa Victoria
+541NI;4758;PJ387;PJ387-Avenida San Daniel  Esq Jazmín
+541NI;5021;PJ388;PJ388-Avenida San Daniel  Esq Palena
+541NI;5335;PJ366;PJ366-Avenida La Estrella  Esq El Anillo
+541NI;5558;PJ367;PJ367-Parada 1  Plaza De Pudahuel
+541NI;5873;PJ644;PJ644-Av San Francisco  Esq El Anillo
+541NI;6113;PJ645;PJ645-Av San Francisco  Esq San Andrés
+541NI;6371;PJ646;PJ646-Av San Francisco  Esq Cnel Luis Caamaño
+541NI;6598;PJ1725;PJ1725-Av San Francisco  Esq Av Teniente Cruz
+541NI;6893;PJ647;PJ647-Av San Francisco  Esq Estados Unidos
+541NI;7181;PJ648;PJ648-Av San Francisco  Esq Los Maitenes
+541NI;7368;PJ649;PJ649-Av San Francisco  Esq Los Plátanos
+541NI;7535;PJ650;PJ650-Av San Francisco  Esq Avenida Las Torres
+541NI;7904;PJ651;PJ651-Av San Francisco  Esq Las Violetas
+541NI;8143;PJ652;PJ652-Av San Francisco  Esq Las Margaritas
+541NI;8389;PJ653;PJ653-Av San Francisco  Esq Neptuno
+541NI;8550;PJ616;PJ616-Neptuno  Esq Los Copihues
+541NI;8736;PJ617;PJ617-Neptuno  Esq Santa Luisa
+541NI;9120;PJ1552;PJ1552-Parada 2  (M) San Pablo
+541NI;9287;PJ1573;PJ1573-Parada 8  (M) San Pablo
+541NI;9430;PJ620;PJ620-Neptuno  Esq Territorio Antártico
+541NI;9789;PJ686;PJ686-Parada 3  (M) Neptuno
+541NI;10199;PJ908;PJ908-Avenida Dorsal  Esq Min Gana
+541NI;10428;PJ909;PJ909-Avenida Dorsal  Esq Hiram
+541NI;10685;PJ1038;PJ1038-Avenida Dorsal  Esq Isla Decepción
+541NI;10873;PJ1039;PJ1039-Isla Decepción  Esq Pedro De Córdova
+541NI;11212;PJ1040;PJ1040-Isla Decepción  Esq Obispo Rodríguez
+541NI;11462;PI758;PI758-Isla Decepción  Esq Av Gral O Bonilla
+541NI;12345;PI400;PI400-Parada 3  (M) Las Rejas
+541NI;12862;PI457;PI457-Parada 3  (M) Ecuador
+541NI;13306;PI339;PI339-Parada 3  Concón
+541NI;13737;PI401;PI401-Parada 4  (M) San Alberto Hurtado
+541NI;14212;PI341;PI341-Parada 1  (M) Universidad De Santiago
+541NI;14982;PI1813;PI1813-Parada 7  (M) Estación Central
+541NI;15495;PA657;PA657-Parada 5  (M) Unión Latinoamericana
+541NI;15941;PA369;PA369-Parada 5  (M) República
+541NI;16502;PA370;PA370-Parada 9  (M) Los Héroes
+541NI;17212;PA338;PA338-Parada 6  (M) La Moneda
+541NI;17807;PA339;PA339-Parada 5  (M) Universidad De Chile
+541NI;18105;PA340;PA340-Parada 9  (M) Santa Lucía
+541NI;18666;PA341;PA341-Parada 3  (M) Universidad Católica
+541NI;19287;PA383;PA383-Parada 5  Plaza Italia
+541NI;19849;PC147;PC147-Parada 1  Museo De Los Tajamares
+541NI;20131;PC148;PC148-Parada 1  Parque Balmaceda
+541NI;20422;PC149;PC149-Parada 1  (M) Salvador
+541NI;20957;PC150;PC150-Parada 1  Torres De Tajamar
+541NI;21294;PC151;PC151-Parada 1  (M) Manuel Montt
+541NI;21550;PC2;PC2-Parada 7  (M) Pedro De Valdivia
+541NI;22078;PC152;PC152-Parada 3  Guardia Vieja
+541NI;22278;PC153;PC153-Parada 3  (M) Los Leones
+541NI;22589;PC154;PC154-Parada 5  (M) Los Leones
+541NI;23311;PC738;PC738-Parada 4  (M) Tobalaba
+541NI;23611;PC379;PC379-Avenida Tobalaba  Esq Lota
+541NI;23962;PC380;PC380-Avenida Tobalaba  Esq Carmen Sylva
+541NI;24570;PC510;PC510-Parada 3  (M) Cristóbal Colón
+541NI;24819;PC511;PC511-Av Cristóbal Colón  Esq Marco Polo
+541NI;25060;PC512;PC512-Av Cristóbal Colón  Esq Alcántara
+541NI;25296;PC513;PC513-Av Cristóbal Colón  Esq Málaga
+541NI;25470;PC514;PC514-Av Cristóbal Colón  Esq Flandes
+541NI;25665;PC515;PC515-Av Cristóbal Colón  Esq Av A Vespucio-Sur
+541NI;26055;PC516;PC516-Av Cristóbal Colón  Esq Félix De Amesti
+541NI;26661;PC517;PC517-Av Cristóbal Colón  Esq Luis Zegers
+541NI;26968;PC518;PC518-Av Cristóbal Colón  Esq Domingo Bondi
+541NI;27289;PC519;PC519-Av Cristóbal Colón  Esq Av Manquehue-Sur
+541NI;27710;PC520;PC520-Av Cristóbal Colón  Esq H De Magallanes
+541NI;27900;PC521;PC521-Av Cristóbal Colón  Esq Piacenza
+541NI;28058;PC522;PC522-Av Cristóbal Colón  Esq Robinson Crusoe
+541NI;28415;PC1124;PC1124-Parada 5  Rotonda Atenas
+541NI;28575;PC1109;PC1109-Parada 3  Rotonda Atenas
+541NI;28784;PC523;PC523-Av Cristóbal Colón  Esq Guernica
+541NI;28977;PC524;PC524-Av Cristóbal Colón  Esq Tordesillas
+541NI;29170;PC525;PC525-Av Cristóbal Colón  Esq Toconao
+541NI;29342;PC526;PC526-Av Cristóbal Colón  Esq Alhué
+541NI;29518;PC527;PC527-Av Cristóbal Colón  Esq Ayquina
+541NI;29740;PC528;PC528-Parada 1  Parque Gandarillas
+541NI;29970;PC1143;PC1143-Av Cristóbal Colón  Esq Los Vilos
+541NI;30152;PC529;PC529-Av Cristóbal Colón  Esq Av Paul Harris
+541NI;30773;PC307;PC307-Parada 3  Hospital Dipreca
+541NI;30975;PC308;PC308-Vital Apoquindo  Esq Marisol
+541NI;31477;PC452;PC452-Vital Apoquindo  Esq Alejandro Fleming
+541NI;31668;PC666;PC666-Vital Apoquindo  Esq Vía Láctea
+541NI;31836;PC667;PC667-Vital Apoquindo  Esq Av Francisco Bilbao
+541NR;197;PC1223;PC1223-Vital Apoquindo  Esq Lucaro
+541NR;399;PC476;PC476-Vital Apoquindo  Esq Av Paul Harris
+541NR;762;PC1093;PC1093-Vital Apoquindo  Esq Marisol
+541NR;1117;PC477;PC477-Parada 2  Hospital Dipreca
+541NR;1460;PC478;PC478-La Quebrada  Esq La Escuela
+541NR;1615;PC541;PC541-La Quebrada  Esq Av Paul Harris
+541NR;1901;PC1030;PC1030-Av Cristóbal Colón  Esq Diaguitas
+541NR;2082;PC542;PC542-Parada 2  Parque Gandarillas
+541NR;2298;PC543;PC543-Av Cristóbal Colón  Esq Visviri
+541NR;2671;PC544;PC544-Av Cristóbal Colón  Esq Río Guadiana
+541NR;2856;PC545;PC545-Av Cristóbal Colón  Esq Imperial
+541NR;3068;PC546;PC546-Av Cristóbal Colón  Esq Guernica
+541NR;3348;PC547;PC547-Parada 4  Rotonda Atenas
+541NR;3950;PC548;PC548-Av Cristóbal Colón  Esq Piacenza
+541NR;4165;PC549;PC549-Av Cristóbal Colón  Esq H De Magallanes
+541NR;4578;PC550;PC550-Av Cristóbal Colón  Esq Av Manquehue-Sur
+541NR;4923;PC551;PC551-Av Cristóbal Colón  Esq Domingo Bondi
+541NR;5287;PC552;PC552-Av Cristóbal Colón  Esq Sebastián Elcano
+541NR;5772;PC553;PC553-Av Cristóbal Colón  Esq Martín A Pinzón
+541NR;6176;PC554;PC554-Av Cristóbal Colón  Esq Av A Vespucio-Sur
+541NR;6409;PC699;PC699-Av Cristóbal Colón  Esq Alicante
+541NR;6595;PC555;PC555-Av Cristóbal Colón  Esq Málaga
+541NR;6823;PC556;PC556-Av Cristóbal Colón  Esq Alcántara
+541NR;7301;PC557;PC557-Parada 4  (M) Cristóbal Colón
+541NR;7589;PC391;PC391-Avenida Tobalaba  Esq Martín De Zamora
+541NR;7852;PC392;PC392-Avenida Tobalaba  Esq Carmen Sylva
+541NR;8093;PC393;PC393-Avenida Tobalaba  Esq Lota
+541NR;8325;PC394;PC394-Avenida Tobalaba  Esq Avenida El Bosque
+541NR;8830;PC1016;PC1016-Parada 3  (M) Tobalaba
+541NR;9225;PC187;PC187-Parada 2  Hospital Metropolitano
+541NR;9675;PC188;PC188-Parada 6  (M) Los Leones
+541NR;10010;PC189;PC189-Parada 8  (M) Pedro De Valdivia
+541NR;10625;PC191;PC191-Parada 2  Biblioteca De Providencia
+541NR;10957;PC192;PC192-Parada 2  (M) Manuel Montt
+541NR;11265;PC193;PC193-Parada 2  Torres De Tajamar
+541NR;11730;PC194;PC194-Parada 2  (M) Salvador
+541NR;12080;PC195;PC195-Parada 2  Parque Balmaceda
+541NR;12331;PC196;PC196-Parada 2  Museo De Los Tajamares
+541NR;12797;PA343;PA343-Parada 10  Plaza Italia
+541NR;13159;PA41;PA41-Parada 6  (M) Universidad Católica
+541NR;14005;PA344;PA344-Parada 12  (M) Santa Lucía
+541NR;14241;PA345;PA345-Parada 4  (M) Universidad De Chile
+541NR;14791;PA184;PA184-Parada 4  (M) La Moneda
+541NR;15082;PA346;PA346-Parada 10  (M) La Moneda
+541NR;15550;PA347;PA347-Parada 1  (M) Los Héroes
+541NR;16018;PA348;PA348-Parada 6  (M) República
+541NR;16468;PA349;PA349-Parada 4  (M) Unión Latinoamericana
+541NR;17270;PI403;PI403-Parada 8  (M) Estación Central
+541NR;17736;PI404;PI404-Parada 4  (M) Universidad De Santiago
+541NR;18175;PI405;PI405-Parada 2  (M) San Alberto Hurtado
+541NR;18672;PI471;PI471-Parada 4  Concón
+541NR;19088;PI406;PI406-Parada 4  (M) Ecuador
+541NR;19902;PJ165;PJ165-Parada 6  (M) Las Rejas
+541NR;20331;PJ215;PJ215-Avenida Ecuador  Esq Isla Decepción
+541NR;20954;PJ1041;PJ1041-Isla Decepción  Esq Pedro De Córdova
+541NR;21142;PJ1042;PJ1042-Isla Decepción  Esq Avenida Dorsal
+541NR;21254;PJ880;PJ880-Avenida Dorsal  Esq Santa Marta
+541NR;21464;PJ882;PJ882-Avenida Dorsal  Esq Pardo Villalón
+541NR;21688;PJ883;PJ883-Avenida Dorsal  Esq Claudio Zúñiga
+541NR;21957;PJ884;PJ884-Parada 6  (M) Neptuno
+541NR;22319;PJ862;PJ862-Neptuno  Esq Territorio Antártico
+541NR;22738;PJ1586;PJ1586-Parada 10  (M) San Pablo
+541NR;23081;PJ559;PJ559-Neptuno  Esq Yolanda
+541NR;23222;PJ560;PJ560-Neptuno  Esq Los Copihues
+541NR;23417;PJ561;PJ561-Neptuno  Esq Av San Francisco
+541NR;23821;PJ667;PJ667-Av San Francisco  Esq Los Pinos
+541NR;23967;PJ668;PJ668-Av San Francisco  Esq Las Violetas
+541NR;24282;PJ669;PJ669-Av San Francisco  Esq Raúl Silva H
+541NR;24515;PJ670;PJ670-Av San Francisco  Esq Los Plátanos
+541NR;24763;PJ671;PJ671-Av San Francisco  Esq Mons H Campillo
+541NR;24976;PJ672;PJ672-Av San Francisco  Esq Estados Unidos
+541NR;25266;PJ673;PJ673-Av San Francisco  Esq Av Teniente Cruz
+541NR;25503;PJ674;PJ674-Av San Francisco  Esq Cnel Luis Caamaño
+541NR;25677;PJ675;PJ675-Av San Francisco  Esq Pillan
+541NR;26023;PJ676;PJ676-Av San Francisco  Esq Gorbea
+541NR;26299;PJ677;PJ677-Parada 4  Plaza De Pudahuel
+541NR;26605;PJ322;PJ322-Avenida La Estrella  Esq La Espuela
+541NR;26801;PJ323;PJ323-Avenida La Estrella  Esq Av San Daniel
+541NR;27148;PJ1070;PJ1070-Avenida San Daniel  Esq Taltal
+541NR;27540;PJ1071;PJ1071-Avenida San Daniel  Esq Av Santa Victoria
+541NR;27900;PJ1072;PJ1072-Avenida San Daniel  Esq Federico Errázuriz
+541NR;28183;PJ1073;PJ1073-Avenida San Daniel  Esq Serrano
+541NR;28591;PJ419;PJ419-Avenida San Daniel  Esq Psje San Daniel
+541NR;28851;PJ420;PJ420-Avenida San Daniel  Esq El Tranque
+541NR;29073;PJ421;PJ421-El Tranque  Esq Santa Marta
+541NR;29291;PJ422;PJ422-El Tranque  Esq Santa Mariana
+541NR;29530;PJ423;PJ423-El Tranque  Esq María Angélica
+541NR;29904;PJ1814;PJ1814-Cerro San Cristóbal  Esq Av J Guzmán Riesco
+541NR;30086;PJ681;PJ681-AvJMGuzmán Riesco  Esq Iorana
+541NR;30472;PJ1798;PJ1798-Rio Refugio  Esq Salar Surire
+541NR;30913;PJ1800;PJ1800-Salar Ascotán  Esq Río Clarillo
+541NR;31333;PJ1670;PJ1670-Río Clarillo  Esq Río Trancura
 546eI;131;PI1513;PI1513-Quilín  Esq Constitución
 546eI;339;PI1561;PI1561-Quilín  Esq Bagdad
 546eI;542;PI1562;PI1562-Quilín  Esq Psje Portezuelo
@@ -17483,7 +17834,58 @@ B06I;15729;PB566;PB566-Avenida Lo Marcoleta  Esq Psje Puerto Octay
 B06I;15961;PB567;PB567-Avenida Lo Marcoleta  Esq San Luis
 B06I;16290;PB568;PB568-Avenida Lo Marcoleta  Esq Ntra Sra Del Carmen
 B06I;16494;PB1595;PB1595-Avenida Lo Marcoleta  Esq Pquia Jesús Obrero
-B06R;-1;PB987;PB987-Nueva Recoleta  Esq Av Zapadores
+B06R;271;PB534;PB534-Avenida Lo Marcoleta  Esq Ntra Sra Del Carmen
+B06R;735;PB536;PB536-Avenida Lo Marcoleta  Esq Pascual Gambino
+B06R;1274;PB1246;PB1246-Peñablanca  Esq Sotaquí
+B06R;1456;PB1247;PB1247-Peñablanca  Esq Tulahuén
+B06R;1697;PB1248;PB1248-Peñablanca  Esq Cerro Tololo
+B06R;1954;PB1249;PB1249-Card Raúl Silva H  Esq Santa Laura
+B06R;2288;PB952;PB952-Santa Laura  Esq Bali
+B06R;2664;PB953;PB953-Los Cárpatos  Esq Los Himalayas
+B06R;2897;PB954;PB954-Los Cárpatos  Esq Everest
+B06R;3096;PB955;PB955-Los Cárpatos  Esq Rigoberto Jara
+B06R;3336;PB1680;PB1680-Rigoberto Jara  Esq Egipto
+B06R;3592;PB570;PB570-Rigoberto Jara  Esq Ramón Salinas
+B06R;3829;PB956;PB956-Rigoberto Jara  Esq Av Santa Luisa
+B06R;4098;PB492;PB492-Santa Luisa  Esq Av Lo Marcoleta
+B06R;4432;PB647;PB647-Avenida Lo Marcoleta  Esq Lo Ovalle
+B06R;4671;PB957;PB957-Lo Ovalle  Esq María L Bombal
+B06R;4848;PB958;PB958-Lo Ovalle  Esq Del Trigal
+B06R;5087;PB959;PB959-Lo Ovalle  Esq Lib B O'Higgins
+B06R;5194;PB960;PB960-Lib Bdo O'Higgins  Esq Doña Leticia
+B06R;6446;PB1911;PB1911-Parada 1  Lo Cruzat - Manuel A Matta
+B06R;6862;PB1907;PB1907-Parada 1  4 Oriente - Manuel A Matta
+B06R;7323;PB1903;PB1903-Parada 1  Las Parcelas - Manuel A Matta
+B06R;7767;PB1906;PB1906-Av Manuel A Matta  Esq Sen Jaime Guzmán
+B06R;8248;PB1902;PB1902-Av Edo Frei Montalva  Esq Av A Vespucio
+B06R;8812;PB416;PB416-Parada  Fundición Quinta
+B06R;9244;PB417;PB417-Av Edo Frei Montalva  Esq Av Card José Mª Caro
+B06R;9508;PB962;PB962-Av Card José Mª Caro  Esq Los Abetos
+B06R;9835;PB963;PB963-Av Card José Mª Caro  Esq Los Acacios
+B06R;10279;PB964;PB964-Parada 4  (M) Cardenal Caro
+B06R;10460;PB965;PB965-Av Card José Mª Caro  Esq Granada
+B06R;10754;PB966;PB966-Av Card José Mª Caro  Esq Ernesto Ried
+B06R;10949;PB967;PB967-Av Card José Mª Caro  Esq Tokio
+B06R;11159;PB968;PB968-Av Card José Mª Caro  Esq Tupungato
+B06R;11475;PB969;PB969-Av Card José Mª Caro  Esq Puntiagudo
+B06R;11650;PB970;PB970-Av Card José Mª Caro  Esq Rupanco
+B06R;11837;PB971;PB971-Av Card José Mª Caro  Esq Pedro Fontova
+B06R;12180;PB972;PB972-Avenida Principal  Esq Horacio Johnson
+B06R;12389;PB973;PB973-Avenida Principal  Esq Laura
+B06R;12573;PB974;PB974-Avenida Principal  Esq Juan Muñoz
+B06R;12792;PB975;PB975-Avenida Principal  Esq Catalina
+B06R;12962;PB976;PB976-Avenida Principal  Esq General Gambino
+B06R;13257;PB977;PB977-Avenida Principal  Esq Av El Guanaco
+B06R;13504;PB978;PB978-El Guanaco  Esq Benjamin Quezada
+B06R;13662;PB979;PB979-El Guanaco  Esq Diego Silva H
+B06R;13924;PB980;PB980-El Guanaco  Esq Av Zapadores
+B06R;14214;PB1579;PB1579-El Guanaco  Esq Cacique Lemo Leno
+B06R;14463;PB982;PB982-Raúl Montt  Esq Arizona
+B06R;14605;PB983;PB983-Raúl Montt  Esq Montana
+B06R;14862;PB984;PB984-Raúl Montt  Esq Félix Ovalle
+B06R;15106;PB985;PB985-Raúl Montt  Esq José Miguel Carrera
+B06R;15310;PB986;PB986-Raúl Montt  Esq Río Blanco
+B06R;15802;PB987;PB987-Nueva Recoleta  Esq Av Zapadores
 B07I;276;PB1010;PB1010-Caupolicán  Esq El Juncal
 B07I;569;PB1011;PB1011-Caupolicán  Esq El Totoral
 B07I;863;PB1012;PB1012-Parada  San Ignacio Altura Del 100
@@ -18427,13 +18829,13 @@ B18R;11631;PB1346;PB1346-Ismael Briceño  Esq Calle 1
 B18eI;454;PB1679;PB1679-Ismael Briceño  Esq Alc Juan Larenas
 B18eI;837;PB1876;PB1876-Parada  Alto De La Campiña
 B18eI;1023;PB1685;PB1685-Pedro Riveros  Esq Avenida Las Torres
-B18eI;1454;PB1339;PB1339-Ismael Briceño  Esq Calle 1
-B18eI;1674;PB1869;PB1869-Parada  Ismael Briceño Altura Del 1500
-B18eI;1884;PB1340;PB1340-Ismael Briceño  Esq Av A Vespucio
-B18eI;2583;PB490;PB490-Parada  Pasarela Renoir
-B18eI;3281;PB491;PB491-Av Américo Vespucio  Esq Lo Campino
-B18eI;4094;PB468;PB468-Parada  Pasarela Alcalde Guzmán
-B18eI;6816;PB1979;PB1979-Parada 1  Andén (M) Los Libertadores
+B18eI;1427;PB1339;PB1339-Ismael Briceño  Esq Calle 1
+B18eI;1648;PB1869;PB1869-Parada  Ismael Briceño Altura Del 1500
+B18eI;1858;PB1340;PB1340-Ismael Briceño  Esq Av A Vespucio
+B18eI;2557;PB490;PB490-Parada  Pasarela Renoir
+B18eI;3255;PB491;PB491-Av Américo Vespucio  Esq Lo Campino
+B18eI;4068;PB468;PB468-Parada  Pasarela Alcalde Guzmán
+B18eI;6790;PB1979;PB1979-Parada 1  Andén (M) Los Libertadores
 B18eR;107;PB1982;PB1982-Parada 4  Andén (M) Los Libertadores
 B18eR;2412;PB1531;PB1531-Av Américo Vespucio  Esq Lo Campino
 B18eR;2936;PB1845;PB1845-Av Américo Vespucio  Esq Alc Juan Larenas
@@ -18496,52 +18898,52 @@ B19R;376;PB735;PB735-J J Aguirre Luco  Esq El Rosal
 B19R;573;PB1363;PB1363-Avenida El Rosal  Esq Avenida Las Torres
 B19R;775;PB784;PB784-Avenida Las Torres  Esq El Conquistador
 B19R;984;PB736;PB736-Avenida Las Torres  Esq Cam Punta Mocha
-B19R;1352;PB737;PB737-Avenida Las Torres  Esq El Conquistador
-B19R;1584;PB738;PB738-Avenida Las Torres  Esq El Rosal
-B19R;2066;PB739;PB739-Avenida Las Torres  Esq Juan Cristobal
-B19R;2360;PB740;PB740-Juan Cristóbal  Esq C Aguirre Luco
-B19R;2627;PB741;PB741-Guillermo Subiabre  Esq Río Cachapoal
-B19R;2774;PB742;PB742-Guillermo Subiabre  Esq P Aguirre Cerda
-B19R;2967;PB1364;PB1364-Pedro Aguirre Cerda  Esq Los Libertadores
-B19R;3268;PB1365;PB1365-Pedro Aguirre Cerda  Esq Avenida La Pincoya
-B19R;3507;PB1366;PB1366-Pedro Aguirre Cerda  Esq Del Pincoy
-B19R;3859;PB1367;PB1367-Del Pincoy  Esq Guayalolén
-B19R;4020;PB1368;PB1368-Del Pincoy  Esq Avenida Recoleta
-B19R;4299;PB295;PB295-Avenida Recoleta  Esq Avenida La Pincoya
-B19R;4604;PB296;PB296-Parada  Consultorio Pincoya
-B19R;4828;PB297;PB297-Avenida Recoleta  Esq C Aguirre Luco
-B19R;5108;PB298;PB298-Avenida Recoleta  Esq J J Aguirre Luco
-B19R;5462;PB299;PB299-Avenida Recoleta  Esq Industrial
-B19R;5661;PB300;PB300-Avenida Recoleta  Esq Av A Vespucio
-B19R;5909;PB1369;PB1369-Avenida Recoleta  Esq Oscar Castro
-B19R;6078;PB301;PB301-Avenida Recoleta  Esq M Luisa Bombal
-B19R;6345;PB302;PB302-Avenida Recoleta  Esq Alfredo Rosende
-B19R;6685;PB683;PB683-Parada 1  (M) Zapadores
-B19R;7003;PB344;PB344-Av Los Zapadores  Esq Freirina
-B19R;7256;PB345;PB345-Av Los Zapadores  Esq José Miguel Carrera
-B19R;7447;PB346;PB346-Av Los Zapadores  Esq Juan Cristóbal
-B19R;8268;PB1702;PB1702-Avenida Principal  Esq Pasaje Caldera
-B19R;8449;PB1374;PB1374-Avenida Principal  Esq Pasaje Caletones
-B19R;8656;PB1375;PB1375-Avenida Principal  Esq Hubert Benítez
-B19R;8912;PB1376;PB1376-Avenida Principal  Esq Av El Guanaco
-B19R;9248;PB926;PB926-Avenida Principal  Esq General Gambino
-B19R;9519;PB1377;PB1377-General Gambino  Esq Tucapel
-B19R;9755;PB1378;PB1378-General Gambino  Esq La Puntilla
-B19R;10042;PB1234;PB1234-Calle G  Esq Juan Muñoz
-B19R;10232;PB1235;PB1235-Calle G  Esq El Mercurio
-B19R;10566;PB1236;PB1236-Calle G  Esq Horacio Johnson
-B19R;10745;PB1344;PB1344-Huechuraba  Esq Pedro Fontova
-B19R;11127;PB1379;PB1379-Huechuraba  Esq Isabel Carrera
-B19R;11278;PB1380;PB1380-Huechuraba  Esq Maracaibo
-B19R;11626;PB1381;PB1381-Huechuraba  Esq Ernesto Ried
-B19R;11836;PB1382;PB1382-Huechuraba  Esq Canberra
-B19R;12086;PB1383;PB1383-Huechuraba  Esq Albany
-B19R;12348;PB1384;PB1384-Huechuraba  Esq Granada
-B19R;12589;PB1220;PB1220-Granada  Esq Veracruz
-B19R;12792;PB1221;PB1221-Granada  Esq Argel
-B19R;12993;PB1222;PB1222-Granada  Esq Av Card José Mª Caro
-B19R;13433;PB1385;PB1385-Granada  Esq La Coruña
-B19R;13598;PB1386;PB1386-La Coruña  Esq Av Independencia
+B19R;1264;PB737;PB737-Avenida Las Torres  Esq El Conquistador
+B19R;1496;PB738;PB738-Avenida Las Torres  Esq El Rosal
+B19R;1978;PB739;PB739-Avenida Las Torres  Esq Juan Cristobal
+B19R;2272;PB740;PB740-Juan Cristóbal  Esq C Aguirre Luco
+B19R;2539;PB741;PB741-Guillermo Subiabre  Esq Río Cachapoal
+B19R;2686;PB742;PB742-Guillermo Subiabre  Esq P Aguirre Cerda
+B19R;2879;PB1364;PB1364-Pedro Aguirre Cerda  Esq Los Libertadores
+B19R;3180;PB1365;PB1365-Pedro Aguirre Cerda  Esq Avenida La Pincoya
+B19R;3419;PB1366;PB1366-Pedro Aguirre Cerda  Esq Del Pincoy
+B19R;3771;PB1367;PB1367-Del Pincoy  Esq Guayalolén
+B19R;3933;PB1368;PB1368-Del Pincoy  Esq Avenida Recoleta
+B19R;4211;PB295;PB295-Avenida Recoleta  Esq Avenida La Pincoya
+B19R;4516;PB296;PB296-Parada  Consultorio Pincoya
+B19R;4740;PB297;PB297-Avenida Recoleta  Esq C Aguirre Luco
+B19R;5020;PB298;PB298-Avenida Recoleta  Esq J J Aguirre Luco
+B19R;5374;PB299;PB299-Avenida Recoleta  Esq Industrial
+B19R;5573;PB300;PB300-Avenida Recoleta  Esq Av A Vespucio
+B19R;5821;PB1369;PB1369-Avenida Recoleta  Esq Oscar Castro
+B19R;5990;PB301;PB301-Avenida Recoleta  Esq M Luisa Bombal
+B19R;6257;PB302;PB302-Avenida Recoleta  Esq Alfredo Rosende
+B19R;6597;PB683;PB683-Parada 1  (M) Zapadores
+B19R;6916;PB344;PB344-Av Los Zapadores  Esq Freirina
+B19R;7168;PB345;PB345-Av Los Zapadores  Esq José Miguel Carrera
+B19R;7359;PB346;PB346-Av Los Zapadores  Esq Juan Cristóbal
+B19R;8180;PB1702;PB1702-Avenida Principal  Esq Pasaje Caldera
+B19R;8361;PB1374;PB1374-Avenida Principal  Esq Pasaje Caletones
+B19R;8568;PB1375;PB1375-Avenida Principal  Esq Hubert Benítez
+B19R;8824;PB1376;PB1376-Avenida Principal  Esq Av El Guanaco
+B19R;9160;PB926;PB926-Avenida Principal  Esq General Gambino
+B19R;9431;PB1377;PB1377-General Gambino  Esq Tucapel
+B19R;9667;PB1378;PB1378-General Gambino  Esq La Puntilla
+B19R;9954;PB1234;PB1234-Calle G  Esq Juan Muñoz
+B19R;10144;PB1235;PB1235-Calle G  Esq El Mercurio
+B19R;10478;PB1236;PB1236-Calle G  Esq Horacio Johnson
+B19R;10657;PB1344;PB1344-Huechuraba  Esq Pedro Fontova
+B19R;11040;PB1379;PB1379-Huechuraba  Esq Isabel Carrera
+B19R;11190;PB1380;PB1380-Huechuraba  Esq Maracaibo
+B19R;11538;PB1381;PB1381-Huechuraba  Esq Ernesto Ried
+B19R;11748;PB1382;PB1382-Huechuraba  Esq Canberra
+B19R;11999;PB1383;PB1383-Huechuraba  Esq Albany
+B19R;12260;PB1384;PB1384-Huechuraba  Esq Granada
+B19R;12502;PB1220;PB1220-Granada  Esq Veracruz
+B19R;12704;PB1221;PB1221-Granada  Esq Argel
+B19R;12905;PB1222;PB1222-Granada  Esq Av Card José Mª Caro
+B19R;13346;PB1385;PB1385-Granada  Esq La Coruña
+B19R;13511;PB1386;PB1386-La Coruña  Esq Av Independencia
 B20I;41;PB1640;PB1640-Calle 2  Esq Secundaria
 B20I;307;PB1543;PB1543-Calle 2  Esq Secundaria
 B20I;665;PB1847;PB1847-Principal  Esq Interior 2
@@ -18892,7 +19294,50 @@ B23R;6309;PB1466;PB1466-Reina María  Esq 3 De Diciembre
 B23R;6651;PB1467;PB1467-Primavera  Esq Roma
 B23R;6937;PB1469;PB1469-Roma  Esq B De Juras Reales
 B23R;7500;PB1471;PB1471-Bajos De Jiménez  Esq 14 De La Fama
-B24I;-1;PB864;PB864-Artesanos  Esq Avenida La Paz
+B24I;143;PB704;PB704-Fresia  Esq Los Azahares
+B24I;341;PB705;PB705-Fresia  Esq Los Araucanos
+B24I;482;PB706;PB706-Fresia  Esq Los Changos
+B24I;711;PB696;PB696-Puerto Montt  Esq Montevideo
+B24I;901;PB697;PB697-Puerto Montt  Esq Las Margaritas
+B24I;1186;PB698;PB698-Puerto Montt  Esq AvApóstol Santiago
+B24I;1445;PB699;PB699-Av Apóstol Santiago  Esq Las Margaritas
+B24I;1606;PB700;PB700-Av Apóstol Santiago  Esq Las Margaritas
+B24I;1891;PB701;PB701-Av Apóstol Santiago  Esq Costa Rica
+B24I;2112;PB702;PB702-Av Apóstol Santiago  Esq Fresia
+B24I;2663;PB1083;PB1083-Av Apóstol Santiago  Esq Puerto Montt
+B24I;3133;PB1084;PB1084-Av Apóstol Santiago  Esq Puerto Montt
+B24I;3487;PB1085;PB1085-Av Apóstol Santiago  Esq Los Helechos
+B24I;3885;PB1086;PB1086-Av Apóstol Santiago  Esq Los Helechos
+B24I;4333;PB1087;PB1087-Las Margaritas  Esq Los Lirios
+B24I;4629;PB1088;PB1088-Baquedano  Esq Caupolicán
+B24I;5577;PB27;PB27-Senador Jaime Guzmán  Esq AvApóstol Santiago
+B24I;5964;PB28;PB28-Senador Jaime Guzmán  Esq Colón
+B24I;6547;PB1572;PB1572-Los Acacios  Esq Pasaje Agata
+B24I;6857;PB1694;PB1694-Los Acacios  Esq Los Pimientos
+B24I;7001;PB1570;PB1570-Los Acacios  Esq Los Aromos
+B24I;7252;PB805;PB805-Domingo Santa María  Esq Promoncaes
+B24I;7581;PB806;PB806-Domingo Santa María  Esq Los Maquis
+B24I;7883;PB807;PB807-Domingo Santa María  Esq Alberto Pepper
+B24I;8185;PB808;PB808-Domingo Santa María  Esq S Sanfuentes
+B24I;8520;PB809;PB809-Domingo Santa María  Esq Pedro Nolasco V
+B24I;8714;PB376;PB376-Salomón Sack  Esq Ley 338
+B24I;9038;PB377;PB377-Salomón Sack  Esq Alc G Domínguez
+B24I;9425;PB378;PB378-Salomón Sack  Esq Enrique Soro
+B24I;9723;PB379;PB379-Salomón Sack  Esq Soberanía
+B24I;10001;PB380;PB380-Salomón Sack  Esq El Pino
+B24I;10168;PB381;PB381-Salomón Sack  Esq Gamero
+B24I;10410;PB382;PB382-Gamero  Esq Av Fermín Vivaceta
+B24I;10644;PB383;PB383-Gamero  Esq Escanilla
+B24I;10824;PB384;PB384-Escanilla  Esq Colón
+B24I;11239;PB385;PB385-Parada  Municipalidad De Independencia
+B24I;11449;PB1125;PB1125-Los Olivos  Esq Avenida La Paz
+B24I;11748;PB1126;PB1126-Los Olivos  Esq Avenida La Paz
+B24I;11984;PB1127;PB1127-Los Olivos  Esq Fariña
+B24I;12261;PB1128;PB1128-Los Olivos  Esq Avenida Recoleta
+B24I;12546;PB316;PB316-Parada  Clínica Dávila
+B24I;12801;PB317;PB317-Parada  (M) Patronato
+B24I;13074;PB318;PB318-Parada 3  Recoleta Franciscana
+B24I;13424;PB864;PB864-Artesanos  Esq Avenida La Paz
 B24R;0;PB864;PB864-Artesanos  Esq Avenida La Paz
 B24R;58;PB211;PB211-Parada  Vega Central
 B24R;255;PB212;PB212-Parada  Terminal Lastra
@@ -18925,7 +19370,34 @@ B24R;7371;PB1515;PB1515-Av Apóstol Santiago  Esq Puerto Montt
 B24R;7766;PB1516;PB1516-Av Apóstol Santiago  Esq Los Helechos
 B24R;8653;PB1079;PB1079-Fresia  Esq Purén
 B24R;8806;PB1080;PB1080-Fresia  Esq Colcura
-B25I;-1;PB756;PB756-Parada 4  (M) Cerro Blanco
+B25I;8;PB1575;PB1575-Parada  Est Intermodal Vespucio Norte
+B25I;302;PB1229;PB1229-Calle G  Esq Pasaje Ercilla
+B25I;773;PB1230;PB1230-Calle G  Esq Hubert Benítez
+B25I;1061;PB1231;PB1231-Calle G  Esq Av El Guanaco
+B25I;1304;PB1589;PB1589-El Guanaco  Esq Cauquenes
+B25I;1503;PB981;PB981-El Guanaco  Esq Cap I Carrera Pinto
+B25I;1764;PB978;PB978-El Guanaco  Esq Benjamin Quezada
+B25I;1921;PB979;PB979-El Guanaco  Esq Diego Silva H
+B25I;2184;PB980;PB980-El Guanaco  Esq Av Zapadores
+B25I;2474;PB1579;PB1579-El Guanaco  Esq Cacique Lemo Leno
+B25I;2716;PB1698;PB1698-El Guanaco  Esq Av Card José Mª Caro
+B25I;2928;PB1699;PB1699-El Guanaco  Esq Urmeneta
+B25I;3183;PB1413;PB1413-El Guanaco  Esq Avenida Dorsal
+B25I;3380;PB1414;PB1414-El Guanaco  Esq Cerro La Cumbre
+B25I;3737;PB1503;PB1503-El Guanaco  Esq Pablo Urzua
+B25I;3985;PB1566;PB1566-El Guanaco  Esq Avenida Einstein
+B25I;4257;PB1274;PB1274-Avenida Einstein  Esq Agua Santa
+B25I;4516;PB1275;PB1275-Parada 6  Einstein - Independencia
+B25I;5046;PB1960;PB1960-Parada 6  (M) Pza Chacabuco
+B25I;5368;PB1958;PB1958-Av Independencia  Esq Los Nidos
+B25I;5680;PB1957;PB1957-Av Independencia  Esq Central
+B25I;6042;PB1955;PB1955-Av Independencia  Esq San Luis
+B25I;6286;PB1899;PB1899-Parada 5  (M) Hospitales
+B25I;6582;PB758;PB758-Parada  Hospital San José
+B25I;6727;PB759;PB759-Parada  Cementerio General
+B25I;7457;PB761;PB761-Profesor A Zañartu  Esq Avenida Recoleta
+B25I;7798;PB313;PB313-Avenida Recoleta  Esq Urrutia
+B25I;8157;PB756;PB756-Parada 4  (M) Cerro Blanco
 B25R;528;PB757;PB757-Santos Dumont  Esq Avenida La Paz
 B25R;1012;PB387;PB387-Parada 4  Hospital Clínico U De Chile
 B25R;1389;PB1954;PB1954-Parada 6  (M) Hospitales
@@ -23074,7 +23546,52 @@ E11I;10036;PE1319;PE1319-Benjamín Subercaseaux  Esq Av Santa Rosa
 E11I;10535;PE112;PE112-Parada 2  Paradero 28 Santa Rosa
 E11I;11000;PE113;PE113-Parada 2  Paradero 26 Santa Rosa
 E11I;11250;PE1318;PE1318-Parada 11  (M) Santa Rosa
-E11R;-1;PF407;PF407-Diego Portales  Esq Viña Del Monte Pte
+E11R;672;PG1624;PG1624-Parada 3  Paradero 26 Santa Rosa
+E11R;944;PG1625;PG1625-Parada 3  Paradero 27 Santa Rosa
+E11R;1157;PG1626;PG1626-Avenida Santa Rosa  Esq Alpatacal
+E11R;1524;PG1622;PG1622-Riquelme  Esq Av Santa Rosa
+E11R;1852;PE718;PE718-Canto General  Esq Sofía Eastman
+E11R;2094;PE719;PE719-Sofía Eastman De H  Esq B Subercaseaux
+E11R;2267;PE1261;PE1261-Benjamín Subercaseaux  Esq Pasaje 6
+E11R;2489;PE720;PE720-Benjamín Subercaseaux  Esq J Edwards Bello
+E11R;2691;PE721;PE721-J Edwards Bello  Esq Capitán Avalos
+E11R;2897;PE722;PE722-J Edwards Bello  Esq Sofía Carmona
+E11R;3253;PE723;PE723-Sn José De LaEstrella  Esq Las Parcelas
+E11R;3458;PE1365;PE1365-Sn José De LaEstrella  Esq Los Pensamientos
+E11R;3601;PE725;PE725-Sn José De LaEstrella  Esq La Serena
+E11R;3850;PE1366;PE1366-Sn José De LaEstrella  Esq Tongoy
+E11R;3982;PE726;PE726-Sn José De LaEstrella  Esq Bahía Catalina
+E11R;4166;PE206;PE206-Bahía Catalina  Esq Santo Tomás
+E11R;4337;PE207;PE207-Bahía Catalina  Esq El Trombón
+E11R;4445;PG275;PG275-Bahía Catalina  Esq Los Timbales
+E11R;4545;PE632;PE632-Bahía Catalina  Esq Las Gaitas
+E11R;4638;PG276;PG276-Bahía Catalina  Esq Gral Arriagada
+E11R;4894;PG277;PG277-Bahía Catalina  Esq San Miguel
+E11R;5131;PE727;PE727-San Miguel  Esq El Maestro
+E11R;5377;PE728;PE728-San Miguel  Esq Miguel Mujica
+E11R;5516;PE729;PE729-Miguel Mujica  Esq María Elena
+E11R;5692;PE730;PE730-María Elena  Esq Pasaje Suspiro
+E11R;5962;PE731;PE731-María Elena  Esq Av Santa Raquel
+E11R;6240;PE637;PE637-María Elena  Esq Los Gladiolos
+E11R;6639;PE732;PE732-María Elena  Esq Villarrica
+E11R;6881;PE733;PE733-María Elena  Esq Volcán Osorno
+E11R;7052;PE734;PE734-María Elena  Esq Millaray
+E11R;7312;PE332;PE332-Parada 5  (M) Los Quillayes
+E11R;7715;PE333;PE333-San Jorge  Esq Calle 6
+E11R;7913;PE334;PE334-San Jorge  Esq Calle 8
+E11R;8139;PE1280;PE1280-San Jorge  Esq Calle 11
+E11R;8357;PE335;PE335-San Jorge  Esq Santa Cecilia
+E11R;8773;PE336;PE336-Santa Cecilia  Esq Av Diego Portales
+E11R;9058;PE337;PE337-Diego Portales  Esq Josefa Portales
+E11R;9441;PE338;PE338-Diego Portales  Esq La Alauda
+E11R;9602;PE339;PE339-Diego Portales  Esq La Alauda
+E11R;9901;PE278;PE278-Diego Portales  Esq Manuel Montt
+E11R;10161;PE279;PE279-Diego Portales  Esq Manuel Bulnes
+E11R;10343;PE280;PE280-Parada 3  Paradero 26 Av La Florida
+E11R;10768;PF969;PF969-Diego Portales  Esq Avenida Las Torres
+E11R;11161;PF405;PF405-Diego Portales  Esq La Marquesa
+E11R;11470;PF406;PF406-Diego Portales  Esq Av Santa Rosa
+E11R;11652;PF407;PF407-Diego Portales  Esq Viña Del Monte Pte
 E12I;44;PF1010;PF1010-Rosa Ester  Esq Los Cipreses
 E12I;458;PF1129;PF1129-Cerro Tronador  Esq Volcan Viedma
 E12I;4022;PE1420;PE1420-Avenida Santa Raquel  Esq Lago Chungará
@@ -31055,87 +31572,97 @@ J02I;25965;PJ682;PJ682-AvJMGuzmán Riesco  Esq Santa Cristina
 J02I;26299;PJ819;PJ819-AvJMGuzmán Riesco  Esq Lo Prado
 J02I;26407;PJ817;PJ817-AvJMGuzmán Riesco  Esq Río Itata
 J02I;26502;PJ818;PJ818-AvJMGuzmán Riesco  Esq Río Itata
-J03I;272;PJ316;PJ316-Costanera Sur  Esq Serrano
-J03I;386;PJ257;PJ257-La Capilla  Esq Fraternidad
-J03I;596;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-J03I;1849;PJ478;PJ478-Mapocho Sur  Esq Avenida La Estrella
-J03I;1996;PJ484;PJ484-Mapocho Sur  Esq Lisboa
-J03I;2271;PJ485;PJ485-Mapocho Sur  Esq Rolando Petersen
-J03I;2648;PJ486;PJ486-Mapocho Sur  Esq Islas Azores
-J03I;2956;PJ487;PJ487-Mapocho Sur  Esq Huelén
-J03I;4644;PJ683;PJ683-Mateo De Toro Y Z  Esq Ambrosio O'Higgins
-J03I;7508;PJ502;PJ502-Avenida Mapocho  Esq Mendoza
-J03I;7655;PJ284;PJ284-Parada 4  Tropezón
-J03I;8058;PJ285;PJ285-Parada 1  Villasana - Avenida Mapocho
-J03I;8390;PJ286;PJ286-Parada 1  Dr García G - Av Mapocho
-J03I;8678;PJ287;PJ287-Parada 3  Matucana - Av Mapocho
-J03I;8995;PA387;PA387-Avenida Mapocho  Esq Herrera
-J03I;9276;PA388;PA388-Parada  Población Mapocho
-J03I;9657;PA405;PA405-Avenida Mapocho  Esq General Bulnes
-J03I;9849;PA390;PA390-Avenida Mapocho  Esq Ricardo Cumming
-J03I;10116;PA391;PA391-Avenida Mapocho  Esq Gral Baquedano
-J03I;10371;PA392;PA392-Avenida Mapocho  Esq Almirante Barroso
-J03I;10996;PA228;PA228-Manuel Rodríguez  Esq Rosas
-J03I;11128;PA229;PA229-Parada 13  (M) Santa Ana
-J03I;11502;PA460;PA460-Catedral  Esq Almirante Barroso
-J03I;11948;PA271;PA271-Parada 3  Plaza Brasil
-J03I;12211;PA272;PA272-Avenida Brasil  Esq Moneda
-J03I;12864;PA187;PA187-Parada 1  (M) República
-J03I;13036;PA817;PA817-Av Ricardo Cumming  Esq Romero
-J03I;13316;PA295;PA295-Av Ricardo Cumming  Esq Moneda
-J03I;13701;PA296;PA296-Av Ricardo Cumming  Esq Compañía De Jesús
-J03I;13963;PA323;PA323-Av Ricardo Cumming  Esq Santo Domingo
-J03I;14307;PA324;PA324-Av Ricardo Cumming  Esq San Pablo
-J03I;14540;PA622;PA622-Martínez De Rozas  Esq Cautín
-J03I;14813;PA621;PA621-Martínez De Rozas  Esq Cueto
-J03I;15290;PA415;PA415-Andes  Esq Maipú
-J03I;15676;PJ288;PJ288-Parada 2  Patricio Lynch - Andes
-J03I;16219;PJ289;PJ289-Parada 2  Lourdes - Andes
-J03I;16575;PJ290;PJ290-Parada 2  Alcérreca - Andes
-J03I;16804;PJ503;PJ503-Parada 2  Córdova Y Figueroa - Andes
-J03I;17041;PJ504;PJ504-Parada 2  Ladrillero - Andes
-J03I;17334;PJ348;PJ348-Antonio Ebner  Esq Av José J Pérez
-J03I;17628;PJ501;PJ501-Avenida Mapocho  Esq Joaquín Valledor
-J03I;17633;PJ505;PJ505-Avenida Mapocho  Esq Santa Fe
-J03I;17934;PJ506;PJ506-Avenida Mapocho  Esq Santiago De Uriona
-J03I;17955;PJ500;PJ500-Avenida Mapocho  Esq Martín Gil
-J03I;18208;PJ507;PJ507-Avenida Mapocho  Esq Radal
-J03I;18253;PJ499;PJ499-Avenida Mapocho  Esq Radal
-J03I;18481;PJ498;PJ498-Avenida Mapocho  Esq Sergio Valdovinos
-J03I;18501;PJ508;PJ508-Avenida Mapocho  Esq Jujuy
-J03I;18671;PJ509;PJ509-Avenida Mapocho  Esq Prensa Libre
-J03I;18718;PJ497;PJ497-Avenida Mapocho  Esq Molina Lavín
-J03I;18887;PJ510;PJ510-Avenida Mapocho  Esq Catamarca
-J03I;18927;PJ496;PJ496-Avenida Mapocho  Esq Lo Ampuero
-J03I;19218;PJ511;PJ511-Avenida Mapocho  Esq Samuel Izquierdo
-J03I;19261;PJ495;PJ495-Avenida Mapocho  Esq Samuel Izquierdo
-J03I;19441;PJ512;PJ512-Avenida Mapocho  Esq Espech
-J03I;19444;PJ494;PJ494-Avenida Mapocho  Esq Neuquén
-J03I;19639;PJ513;PJ513-Avenida Mapocho  Esq Neptuno
-J03I;19688;PJ493;PJ493-Avenida Mapocho  Esq Neptuno
-J03I;19895;PJ514;PJ514-Avenida Mapocho  Esq Lo López
-J03I;20112;PJ515;PJ515-Avenida Mapocho  Esq Ambrosio O'Higgins
-J03I;20342;PJ516;PJ516-Avenida Mapocho  Esq Hipólito Salas
-J03I;20377;PJ491;PJ491-Avenida Mapocho  Esq Hipólito Salas
-J03I;20563;PJ518;PJ518-Avenida Mapocho  Esq Araucanía
-J03I;20592;PJ1811;PJ1811-Avenida Mapocho  Esq Araucanía
-J03I;20789;PJ519;PJ519-Avenida Mapocho  Esq Torres De Pisa
-J03I;20836;PJ490;PJ490-Avenida Mapocho  Esq Torres De Pisa
-J03I;21002;PJ520;PJ520-Avenida Mapocho  Esq Florencia
-J03I;21081;PJ489;PJ489-Avenida Mapocho  Esq Santos Luis Medel
-J03I;21324;PJ521;PJ521-Avenida Mapocho  Esq Resbalon
-J03I;21405;PJ488;PJ488-Avenida Mapocho  Esq Galo Gonzalez
-J03I;21709;PJ522;PJ522-Avenida Mapocho  Esq Huelén
-J03I;22117;PJ684;PJ684-Mapocho Norte  Esq Islas Azores
-J03I;22490;PJ523;PJ523-Mapocho Norte  Esq Rolando Petersen
-J03I;22857;PJ524;PJ524-Parada  Gimnasio Municipal Cerro Navia
-J03I;23146;PJ477;PJ477-Diagonal Reny  Esq Avenida Mapocho
-J03I;23154;PJ685;PJ685-Diagonal Reny  Esq Bombal
-J03I;23456;PJ433;PJ433-Diagonal Reny  Esq Río Douro
-J03I;23489;PJ476;PJ476-Diagonal Reny  Esq Río Douro
-J03I;23768;PJ434;PJ434-Diagonal Reny  Esq Salvador Gutiérrez
-J03I;23802;PJ475;PJ475-Parada  Colegio Saint Orland
-J03I;24088;PJ435;PJ435-Diagonal Reny  Esq La Capilla
+J03I;1190;PJ257;PJ257-La Capilla  Esq Fraternidad
+J03I;1400;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
+J03I;2653;PJ478;PJ478-Mapocho Sur  Esq Avenida La Estrella
+J03I;2800;PJ484;PJ484-Mapocho Sur  Esq Lisboa
+J03I;3075;PJ485;PJ485-Mapocho Sur  Esq Rolando Petersen
+J03I;3452;PJ486;PJ486-Mapocho Sur  Esq Islas Azores
+J03I;3760;PJ487;PJ487-Mapocho Sur  Esq Huelén
+J03I;5449;PJ683;PJ683-Mateo De Toro Y Z  Esq Ambrosio O'Higgins
+J03I;8312;PJ502;PJ502-Avenida Mapocho  Esq Mendoza
+J03I;8459;PJ284;PJ284-Parada 4  Tropezón
+J03I;8862;PJ285;PJ285-Parada 1  Villasana - Avenida Mapocho
+J03I;9194;PJ286;PJ286-Parada 1  Dr García G - Av Mapocho
+J03I;9483;PJ287;PJ287-Parada 3  Matucana - Av Mapocho
+J03I;9799;PA387;PA387-Avenida Mapocho  Esq Herrera
+J03I;10080;PA388;PA388-Parada  Población Mapocho
+J03I;10461;PA405;PA405-Avenida Mapocho  Esq General Bulnes
+J03I;10654;PA390;PA390-Avenida Mapocho  Esq Ricardo Cumming
+J03I;10920;PA391;PA391-Avenida Mapocho  Esq Gral Baquedano
+J03I;11175;PA392;PA392-Avenida Mapocho  Esq Almirante Barroso
+J03I;11801;PA228;PA228-Manuel Rodríguez  Esq Rosas
+J03I;11932;PA229;PA229-Parada 13  (M) Santa Ana
+J03I;12306;PA460;PA460-Catedral  Esq Almirante Barroso
+J03I;12752;PA271;PA271-Parada 3  Plaza Brasil
+J03I;13015;PA272;PA272-Avenida Brasil  Esq Moneda
+J03I;13668;PA187;PA187-Parada 1  (M) República
+J03I;13841;PA817;PA817-Av Ricardo Cumming  Esq Romero
+J03I;14121;PA295;PA295-Av Ricardo Cumming  Esq Moneda
+J03I;14506;PA296;PA296-Av Ricardo Cumming  Esq Compañía De Jesús
+J03I;14767;PA323;PA323-Av Ricardo Cumming  Esq Santo Domingo
+J03I;15111;PA324;PA324-Av Ricardo Cumming  Esq San Pablo
+J03I;15344;PA622;PA622-Martínez De Rozas  Esq Cautín
+J03I;15617;PA621;PA621-Martínez De Rozas  Esq Cueto
+J03I;16094;PA415;PA415-Andes  Esq Maipú
+J03I;16480;PJ288;PJ288-Parada 2  Patricio Lynch - Andes
+J03I;17023;PJ289;PJ289-Parada 2  Lourdes - Andes
+J03I;17379;PJ290;PJ290-Parada 2  Alcérreca - Andes
+J03I;17608;PJ503;PJ503-Parada 2  Córdova Y Figueroa - Andes
+J03I;17845;PJ504;PJ504-Parada 2  Ladrillero - Andes
+J03I;18138;PJ348;PJ348-Antonio Ebner  Esq Av José J Pérez
+J03I;18432;PJ501;PJ501-Avenida Mapocho  Esq Joaquín Valledor
+J03I;18437;PJ505;PJ505-Avenida Mapocho  Esq Santa Fe
+J03I;18738;PJ506;PJ506-Avenida Mapocho  Esq Santiago De Uriona
+J03I;18759;PJ500;PJ500-Avenida Mapocho  Esq Martín Gil
+J03I;19012;PJ507;PJ507-Avenida Mapocho  Esq Radal
+J03I;19057;PJ499;PJ499-Avenida Mapocho  Esq Radal
+J03I;19285;PJ498;PJ498-Avenida Mapocho  Esq Sergio Valdovinos
+J03I;19306;PJ508;PJ508-Avenida Mapocho  Esq Jujuy
+J03I;19475;PJ509;PJ509-Avenida Mapocho  Esq Prensa Libre
+J03I;19523;PJ497;PJ497-Avenida Mapocho  Esq Molina Lavín
+J03I;19691;PJ510;PJ510-Avenida Mapocho  Esq Catamarca
+J03I;19732;PJ496;PJ496-Avenida Mapocho  Esq Lo Ampuero
+J03I;20022;PJ511;PJ511-Avenida Mapocho  Esq Samuel Izquierdo
+J03I;20065;PJ495;PJ495-Avenida Mapocho  Esq Samuel Izquierdo
+J03I;20245;PJ512;PJ512-Avenida Mapocho  Esq Espech
+J03I;20248;PJ494;PJ494-Avenida Mapocho  Esq Neuquén
+J03I;20444;PJ513;PJ513-Avenida Mapocho  Esq Neptuno
+J03I;20492;PJ493;PJ493-Avenida Mapocho  Esq Neptuno
+J03I;20700;PJ514;PJ514-Avenida Mapocho  Esq Lo López
+J03I;20916;PJ515;PJ515-Avenida Mapocho  Esq Ambrosio O'Higgins
+J03I;21146;PJ516;PJ516-Avenida Mapocho  Esq Hipólito Salas
+J03I;21182;PJ491;PJ491-Avenida Mapocho  Esq Hipólito Salas
+J03I;21367;PJ518;PJ518-Avenida Mapocho  Esq Araucanía
+J03I;21396;PJ1811;PJ1811-Avenida Mapocho  Esq Araucanía
+J03I;21593;PJ519;PJ519-Avenida Mapocho  Esq Torres De Pisa
+J03I;21640;PJ490;PJ490-Avenida Mapocho  Esq Torres De Pisa
+J03I;21806;PJ520;PJ520-Avenida Mapocho  Esq Florencia
+J03I;21885;PJ489;PJ489-Avenida Mapocho  Esq Santos Luis Medel
+J03I;22128;PJ521;PJ521-Avenida Mapocho  Esq Resbalon
+J03I;22209;PJ488;PJ488-Avenida Mapocho  Esq Galo Gonzalez
+J03I;22513;PJ522;PJ522-Avenida Mapocho  Esq Huelén
+J03I;22922;PJ684;PJ684-Mapocho Norte  Esq Islas Azores
+J03I;23294;PJ523;PJ523-Mapocho Norte  Esq Rolando Petersen
+J03I;23661;PJ524;PJ524-Parada  Gimnasio Municipal Cerro Navia
+J03I;23951;PJ477;PJ477-Diagonal Reny  Esq Avenida Mapocho
+J03I;23958;PJ685;PJ685-Diagonal Reny  Esq Bombal
+J03I;24260;PJ433;PJ433-Diagonal Reny  Esq Río Douro
+J03I;24293;PJ476;PJ476-Diagonal Reny  Esq Río Douro
+J03I;24572;PJ434;PJ434-Diagonal Reny  Esq Salvador Gutiérrez
+J03I;24606;PJ475;PJ475-Parada  Colegio Saint Orland
+J03I;24892;PJ435;PJ435-Diagonal Reny  Esq La Capilla
+J03I;25277;PJ316;PJ316-Costanera Sur  Esq Serrano
+J03I;25383;PJ1943;PJ1943-Serrano Esq  La Capilla
+J03I;25412;PJ1944;PJ1944-Serrano  Esq  Los Guiraos
+J03I;25715;PJ1941;PJ1941-Serrano  Esq  Las Fragatas
+J03I;25774;PJ1940;PJ1940-Serrano Esq  Cultura
+J03I;25941;PJ1793;PJ1793-Serrano  Esq Río Douro
+J03I;25947;PJ1802;PJ1802-Serrano  Esq Rodoviario
+J03I;26115;PJ1803;PJ1803-Serrano  Esq Río Douro
+J03I;26124;PJ1792;PJ1792-Serrano  Esq Rodoviario
+J03I;26306;PJ1988;PJ1988-Rodoviario  Esq Mar De Chile
+J03I;26368;PJ1986;PJ1986-Rodoviario  Esq Mar De Chile
 J04I;10;PJ686;PJ686-Parada 3  (M) Neptuno
 J04I;208;PJ687;PJ687-Avenida Dorsal  Esq La Independencia
 J04I;475;PJ688;PJ688-Avenida Dorsal  Esq Gral J Buendía
@@ -31167,145 +31694,149 @@ J04I;7166;PJ1770;PJ1770-Federico Errázuriz  Esq El Nogal
 J04I;7317;PJ1769;PJ1769-Federico Errázuriz  Esq El Belloto
 J04I;7515;PJ1938;PJ1938-Río Douro  Esq Serrano
 J04I;7723;PJ1936;PJ1936-Río Douro  Esq Serrano
-J04I;7921;PJ1934;PJ1934-Río Douro  Esq Mar De Chile
-J04I;8061;PJ1791;PJ1791-Mar De Chile  Esq Las Fragatas
-J04I;8288;PJ708;PJ708-Mar De Chile  Esq Los Queltehues
-J04I;8449;PJ709;PJ709-Mar De Chile  Esq Costanera Sur
-J04I;8566;PJ317;PJ317-Costanera Sur  Esq Conguillio
-J04R;85;PJ256;PJ256-Costanera Sur  Esq Mar De Chile
-J04R;261;PJ710;PJ710-Mar De Chile  Esq Llanquihue
-J04R;480;PJ711;PJ711-Mar De Chile  Esq Las Fragatas
-J04R;591;PJ1790;PJ1790-Mar De Chile  Esq Río Douro
-J04R;841;PJ1935;PJ1935-Río Douro  Esq Serrano
-J04R;1125;PJ1937;PJ1937-Río Douro  Esq Federico Errázuriz
-J04R;1308;PJ1767;PJ1767-Federico Errázuriz  Esq El Sauce
-J04R;1454;PJ1768;PJ1768-Federico Errázuriz  Esq El Alerce
-J04R;1774;PJ718;PJ718-Mapocho Sur  Esq Boroa
-J04R;1977;PJ719;PJ719-Mapocho Sur  Esq Frutillar
-J04R;2176;PJ720;PJ720-Mapocho Sur  Esq Diagonal Reny
-J04R;2355;PJ478;PJ478-Mapocho Sur  Esq Avenida La Estrella
-J04R;2501;PJ484;PJ484-Mapocho Sur  Esq Lisboa
-J04R;2776;PJ485;PJ485-Mapocho Sur  Esq Rolando Petersen
-J04R;2969;PJ721;PJ721-Rolando Petersen  Esq Los Conquistadores
-J04R;3188;PJ722;PJ722-Rolando Petersen  Esq Sgto Candelaria
-J04R;3340;PJ723;PJ723-Rolando Petersen  Esq Pula
-J04R;3596;PJ724;PJ724-Istria  Esq Augusto Senoa
-J04R;3779;PJ726;PJ726-Istria  Esq Av José J Pérez
-J04R;4036;PJ325;PJ325-Av José J Pérez  Esq Arbizu Campos
-J04R;4237;PJ389;PJ389-Av José J Pérez  Esq Nicanor Molinare
-J04R;4453;PJ390;PJ390-Av José J Pérez  Esq Av Teniente Cruz
-J04R;4756;PJ391;PJ391-Parada  Escuela San Damián De Molokai
-J04R;4952;PJ327;PJ327-Av José J Pérez  Esq 8 De Abril
-J04R;5177;PJ392;PJ392-Av José J Pérez  Esq René Oliva
-J04R;5419;PJ393;PJ393-Av José J Pérez  Esq Avenida Las Torres
-J04R;5563;PJ727;PJ727-Avenida Las Torres  Esq Termas Panimávida
-J04R;5929;PJ728;PJ728-Avenida Las Torres  Esq Los Duraznos
-J04R;6092;PJ1678;PJ1678-Avenida Las Torres  Esq Padre Hurtado
-J04R;6247;PJ1679;PJ1679-Avenida Las Torres  Esq Av San Francisco
-J04R;6580;PJ731;PJ731-Avenida Las Torres  Esq Los Copihues
-J04R;6885;PJ732;PJ732-Avenida Las Torres  Esq Los Crisantemos
-J04R;7157;PJ733;PJ733-Avenida Las Torres  Esq Av San Pablo
-J04R;7433;PJ734;PJ734-Avenida Las Torres  Esq Territorio Antártico
-J04R;7834;PJ556;PJ556-Territorio Antártico  Esq Gral J Buendía
-J04R;8172;PJ557;PJ557-Territorio Antártico  Esq Lambayeque
-J04R;8538;PJ686;PJ686-Parada 3  (M) Neptuno
-J05I;521;PJ316;PJ316-Costanera Sur  Esq Serrano
-J05I;1720;PJ1805;PJ1805-Rodoviario  Esq Federico Errázuriz
-J05I;1943;PJ718;PJ718-Mapocho Sur  Esq Boroa
-J05I;2146;PJ719;PJ719-Mapocho Sur  Esq Frutillar
-J05I;9416;PJ282;PJ282-Mendoza  Esq Padre Tadeo
-J05I;9588;PJ283;PJ283-Mendoza  Esq Avenida Mapocho
-J05I;10057;PJ1018;PJ1018-Córdova Y Figueroa  Esq Martínez De Rozas
-J05I;10403;PJ741;PJ741-Córdova Y Figueroa  Esq AvSan Pablo
-J05I;10640;PJ97;PJ97-Parada 2  (M) Gruta De Lourdes
-J05I;11032;PJ52;PJ52-Parada 3  Basílica De Lourdes
-J05I;11519;PJ98;PJ98-Parada 3  Matucana - San Pablo
-J05I;11903;PJ54;PJ54-Avenida Matucana  Esq Santo Domingo
-J05I;12386;PA427;PA427-Parada 1  Hospital San Juan De Dios
-J05I;12689;PA428;PA428-Compañía De Jesús  Esq Esperanza
-J05I;12822;PA643;PA643-Esperanza  Esq Huérfanos
-J05I;13078;PA556;PA556-Esperanza  Esq Moneda
-J05I;13368;PA474;PA474-Esperanza  Esq Romero
-J05I;13615;PA558;PA558-Esperanza  Esq Alameda
-J05I;13716;PA551;PA551-Parada 2  (M) Unión Latinoamericana
-J05I;13932;PA562;PA562-Maipú  Esq Romero
-J05I;14183;PA552;PA552-Maipú  Esq Erasmo Escala
-J05I;14450;PA563;PA563-Maipú  Esq Agustinas
-J05I;14597;PA707;PA707-Avenida Portales  Esq Herrera
-J05I;14904;PA5;PA5-Parada 3  Hospital San Juan De Dios
-J05I;15167;PA547;PA547-Parada 3  (M) Quinta Normal
-J05I;15216;PA1;PA1-Parada 6  (M) Quinta Normal
-J05I;15679;PJ56;PJ56-Parada  Inba
-J05I;15986;PJ57;PJ57-Parada 2  Santuario De Lourdes
-J05I;16394;PJ58;PJ58-Parada 4  (M) Gruta De Lourdes
-J05I;16658;PJ45;PJ45-Parada 1  (M) Gruta De Lourdes
-J05I;17048;PJ591;PJ591-Parada 4  Consultorio Andes
-J05I;17406;PJ291;PJ291-Parada 1  Tropezón
-J05I;17924;PJ292;PJ292-Salvador Gutiérrez  Esq Mendoza
-J05I;17959;PJ281;PJ281-Salvador Gutiérrez  Esq Mendoza
-J05I;18201;PJ294;PJ294-Salvador Gutiérrez  Esq La Plata
-J05I;18244;PJ279;PJ279-Salvador Gutiérrez  Esq La Plata
-J05I;18629;PJ295;PJ295-Salvador Gutiérrez  Esq Santiago De Uriona
-J05I;18669;PJ278;PJ278-Salvador Gutiérrez  Esq Santiago De Uriona
-J05I;18909;PJ296;PJ296-Salvador Gutiérrez  Esq Radal
-J05I;18950;PJ277;PJ277-Salvador Gutiérrez  Esq Radal
-J05I;19191;PJ297;PJ297-Salvador Gutiérrez  Esq Jujuy
-J05I;19224;PJ276;PJ276-Salvador Gutiérrez  Esq Jujuy
-J05I;19578;PJ298;PJ298-Salvador Gutiérrez  Esq Catamarca
-J05I;19615;PJ275;PJ275-Salvador Gutiérrez  Esq Catamarca
-J05I;19948;PJ299;PJ299-Salvador Gutiérrez  Esq Samuel Izquierdo
-J05I;19977;PJ274;PJ274-Salvador Gutiérrez  Esq Samuel Izquierdo
-J05I;20345;PJ300;PJ300-Salvador Gutiérrez  Esq Neptuno
-J05I;20421;PJ273;PJ273-Salvador Gutiérrez  Esq Neptuno
-J05I;20582;PJ301;PJ301-Salvador Gutiérrez  Esq Lo López
-J05I;20633;PJ272;PJ272-Salvador Gutiérrez  Esq Lo López
-J05I;20835;PJ302;PJ302-Salvador Gutiérrez  Esq Ramón A Seguel
-J05I;20879;PJ271;PJ271-Salvador Gutiérrez  Esq Ramón A Seguel
-J05I;21114;PJ270;PJ270-Salvador Gutiérrez  Esq Hernán Domeyko
-J05I;21153;PJ303;PJ303-Salvador Gutiérrez  Esq 5 De Febrero
-J05I;21351;PJ304;PJ304-Salvador Gutiérrez  Esq 3 De Julio
-J05I;21396;PJ269;PJ269-Salvador Gutiérrez  Esq 3 De Julio
-J05I;21770;PJ305;PJ305-Salvador Gutiérrez  Esq Santos Luis Medel
-J05I;21794;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
-J05I;21967;PJ306;PJ306-Salvador Gutiérrez  Esq Sinal
-J05I;21990;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
-J05I;22179;PJ307;PJ307-Salvador Gutiérrez  Esq Fanaloza
-J05I;22223;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
-J05I;22419;PJ308;PJ308-Salvador Gutiérrez  Esq Apolo Xiii
-J05I;22472;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
-J05I;22558;PJ1694;PJ1694-Salvador Gutiérrez  Esq Huelén
-J05I;22808;PJ309;PJ309-Salvador Gutiérrez  Esq Punta Del Sol
-J05I;22817;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
-J05I;23015;PJ310;PJ310-Salvador Gutiérrez  Esq Prof Dario Salazar
-J05I;23053;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
-J05I;23226;PJ311;PJ311-Salvador Gutiérrez  Esq Rolando Petersen
-J05I;23266;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
-J05I;23474;PJ312;PJ312-Salvador Gutiérrez  Esq Lisboa
-J05I;23508;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
-J05I;23732;PJ1789;PJ1789-Salvador Gutiérrez  Esq Pasaje Abrantes
-J05I;23776;PJ313;PJ313-Salvador Gutiérrez  Esq Avenida La Estrella
-J05I;23967;PJ1017;PJ1017-Parada  Escuela Violeta Parra
-J05I;24023;PJ735;PJ735-Parada  Escuela Violeta Parra
-J05I;24060;PJ738;PJ738-Río Douro  Esq Avenida La Estrella
-J05I;24192;PJ736;PJ736-Río Douro  Esq Río Loa
-J05I;24328;PJ737;PJ737-Río Douro  Esq Diagonal Reny
-J05I;24369;PJ433;PJ433-Diagonal Reny  Esq Río Douro
-J05I;24671;PJ685;PJ685-Diagonal Reny  Esq Bombal
-J05I;24678;PJ477;PJ477-Diagonal Reny  Esq Avenida Mapocho
-J05I;24904;PJ1060;PJ1060-Mapocho Norte  Esq La Nutria
-J05I;25102;PJ702;PJ702-Mapocho Norte  Esq Río Boroa
-J05I;25292;PJ1804;PJ1804-Rodoviario  Esq Serrano
-J05I;25610;PJ1792;PJ1792-Serrano  Esq Rodoviario
-J05I;25620;PJ1803;PJ1803-Serrano  Esq Río Douro
-J05I;25788;PJ1802;PJ1802-Serrano  Esq Rodoviario
-J05I;25794;PJ1793;PJ1793-Serrano  Esq Río Douro
-J05I;25961;PJ1940;PJ1940-Serrano  Esq Cultura
-J05I;26020;PJ1941;PJ1941-Serrano  Esq Las Fragatas
-J05I;26323;PJ1944;PJ1944-Serrano  Esq Los Guiraos
-J05I;26352;PJ1943;PJ1943-Serrano  Esq La Capilla
-J05I;26483;PJ257;PJ257-La Capilla  Esq Fraternidad
-J05I;26693;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-J05I;27041;PJ259;PJ259-La Capilla  Esq El Arrollo
+J04I;7851;PJ1940;PJ1940-Serrano Esq  Cultura
+J04I;8241;PJ1943;PJ1943-Serrano Esq  La Capilla
+J04I;8655;PJ710;PJ710-Mar De Chile  Esq Llanquihue
+J04I;8874;PJ711;PJ711-Mar De Chile  Esq Las Fragatas
+J04I;8985;PJ1790;PJ1790-Mar De Chile  Esq Río Douro
+J04R;323;PJ1990;PJ1990-Río Douro  Esq Mar De Chile
+J04R;519;PJ1791;PJ1791-Mar De Chile  Esq Las Fragatas
+J04R;746;PJ708;PJ708-Mar De Chile  Esq Los Queltehues
+J04R;907;PJ709;PJ709-Mar De Chile  Esq Costanera Sur
+J04R;1198;PJ1944;PJ1944-Serrano  Esq  Los Guiraos
+J04R;1501;PJ1941;PJ1941-Serrano  Esq  Las Fragatas
+J04R;1959;PJ1937;PJ1937-Río Douro  Esq Federico Errázuriz
+J04R;2141;PJ1767;PJ1767-Federico Errázuriz  Esq El Sauce
+J04R;2287;PJ1768;PJ1768-Federico Errázuriz  Esq El Alerce
+J04R;2607;PJ718;PJ718-Mapocho Sur  Esq Boroa
+J04R;2810;PJ719;PJ719-Mapocho Sur  Esq Frutillar
+J04R;3010;PJ720;PJ720-Mapocho Sur  Esq Diagonal Reny
+J04R;3188;PJ478;PJ478-Mapocho Sur  Esq Avenida La Estrella
+J04R;3335;PJ484;PJ484-Mapocho Sur  Esq Lisboa
+J04R;3610;PJ485;PJ485-Mapocho Sur  Esq Rolando Petersen
+J04R;3803;PJ721;PJ721-Rolando Petersen  Esq Los Conquistadores
+J04R;4021;PJ722;PJ722-Rolando Petersen  Esq Sgto Candelaria
+J04R;4174;PJ723;PJ723-Rolando Petersen  Esq Pula
+J04R;4429;PJ724;PJ724-Istria  Esq Augusto Senoa
+J04R;4612;PJ726;PJ726-Istria  Esq Av José J Pérez
+J04R;4869;PJ325;PJ325-Av José J Pérez  Esq Arbizu Campos
+J04R;5070;PJ389;PJ389-Av José J Pérez  Esq Nicanor Molinare
+J04R;5287;PJ390;PJ390-Av José J Pérez  Esq Av Teniente Cruz
+J04R;5590;PJ391;PJ391-Parada  Escuela San Damián De Molokai
+J04R;5786;PJ327;PJ327-Av José J Pérez  Esq 8 De Abril
+J04R;6011;PJ392;PJ392-Av José J Pérez  Esq René Oliva
+J04R;6253;PJ393;PJ393-Av José J Pérez  Esq Avenida Las Torres
+J04R;6397;PJ727;PJ727-Avenida Las Torres  Esq Termas Panimávida
+J04R;6763;PJ728;PJ728-Avenida Las Torres  Esq Los Duraznos
+J04R;6926;PJ1678;PJ1678-Avenida Las Torres  Esq Padre Hurtado
+J04R;7081;PJ1679;PJ1679-Avenida Las Torres  Esq Av San Francisco
+J04R;7414;PJ731;PJ731-Avenida Las Torres  Esq Los Copihues
+J04R;7719;PJ732;PJ732-Avenida Las Torres  Esq Los Crisantemos
+J04R;7991;PJ733;PJ733-Avenida Las Torres  Esq Av San Pablo
+J04R;8267;PJ734;PJ734-Avenida Las Torres  Esq Territorio Antártico
+J04R;8668;PJ556;PJ556-Territorio Antártico  Esq Gral J Buendía
+J04R;9006;PJ557;PJ557-Territorio Antártico  Esq Lambayeque
+J04R;9372;PJ686;PJ686-Parada 3  (M) Neptuno
+J05I;323;PJ1990;PJ1990-Río Douro  Esq Mar De Chile
+J05I;2262;PJ1805;PJ1805-Rodoviario  Esq Federico Errázuriz
+J05I;2485;PJ718;PJ718-Mapocho Sur  Esq Boroa
+J05I;2688;PJ719;PJ719-Mapocho Sur  Esq Frutillar
+J05I;9958;PJ282;PJ282-Mendoza  Esq Padre Tadeo
+J05I;10130;PJ283;PJ283-Mendoza  Esq Avenida Mapocho
+J05I;10598;PJ1018;PJ1018-Córdova Y Figueroa  Esq Martínez De Rozas
+J05I;10945;PJ741;PJ741-Córdova Y Figueroa  Esq AvSan Pablo
+J05I;11182;PJ97;PJ97-Parada 2  (M) Gruta De Lourdes
+J05I;11574;PJ52;PJ52-Parada 3  Basílica De Lourdes
+J05I;12061;PJ98;PJ98-Parada 3  Matucana - San Pablo
+J05I;12445;PJ54;PJ54-Avenida Matucana  Esq Santo Domingo
+J05I;12927;PA427;PA427-Parada 1  Hospital San Juan De Dios
+J05I;13231;PA428;PA428-Compañía De Jesús  Esq Esperanza
+J05I;13364;PA643;PA643-Esperanza  Esq Huérfanos
+J05I;13620;PA556;PA556-Esperanza  Esq Moneda
+J05I;13910;PA474;PA474-Esperanza  Esq Romero
+J05I;14156;PA558;PA558-Esperanza  Esq Alameda
+J05I;14258;PA551;PA551-Parada 2  (M) Unión Latinoamericana
+J05I;14474;PA562;PA562-Maipú  Esq Romero
+J05I;14725;PA552;PA552-Maipú  Esq Erasmo Escala
+J05I;14992;PA563;PA563-Maipú  Esq Agustinas
+J05I;15139;PA707;PA707-Avenida Portales  Esq Herrera
+J05I;15445;PA5;PA5-Parada 3  Hospital San Juan De Dios
+J05I;15709;PA547;PA547-Parada 3  (M) Quinta Normal
+J05I;15758;PA1;PA1-Parada 6  (M) Quinta Normal
+J05I;16220;PJ56;PJ56-Parada  Inba
+J05I;16528;PJ57;PJ57-Parada 2  Santuario De Lourdes
+J05I;16936;PJ58;PJ58-Parada 4  (M) Gruta De Lourdes
+J05I;17200;PJ45;PJ45-Parada 1  (M) Gruta De Lourdes
+J05I;17590;PJ591;PJ591-Parada 4  Consultorio Andes
+J05I;17948;PJ291;PJ291-Parada 1  Tropezón
+J05I;18466;PJ292;PJ292-Salvador Gutiérrez  Esq Mendoza
+J05I;18501;PJ281;PJ281-Salvador Gutiérrez  Esq Mendoza
+J05I;18743;PJ294;PJ294-Salvador Gutiérrez  Esq La Plata
+J05I;18786;PJ279;PJ279-Salvador Gutiérrez  Esq La Plata
+J05I;19171;PJ295;PJ295-Salvador Gutiérrez  Esq Santiago De Uriona
+J05I;19211;PJ278;PJ278-Salvador Gutiérrez  Esq Santiago De Uriona
+J05I;19451;PJ296;PJ296-Salvador Gutiérrez  Esq Radal
+J05I;19492;PJ277;PJ277-Salvador Gutiérrez  Esq Radal
+J05I;19733;PJ297;PJ297-Salvador Gutiérrez  Esq Jujuy
+J05I;19766;PJ276;PJ276-Salvador Gutiérrez  Esq Jujuy
+J05I;20120;PJ298;PJ298-Salvador Gutiérrez  Esq Catamarca
+J05I;20157;PJ275;PJ275-Salvador Gutiérrez  Esq Catamarca
+J05I;20490;PJ299;PJ299-Salvador Gutiérrez  Esq Samuel Izquierdo
+J05I;20518;PJ274;PJ274-Salvador Gutiérrez  Esq Samuel Izquierdo
+J05I;20887;PJ300;PJ300-Salvador Gutiérrez  Esq Neptuno
+J05I;20963;PJ273;PJ273-Salvador Gutiérrez  Esq Neptuno
+J05I;21124;PJ301;PJ301-Salvador Gutiérrez  Esq Lo López
+J05I;21174;PJ272;PJ272-Salvador Gutiérrez  Esq Lo López
+J05I;21377;PJ302;PJ302-Salvador Gutiérrez  Esq Ramón A Seguel
+J05I;21420;PJ271;PJ271-Salvador Gutiérrez  Esq Ramón A Seguel
+J05I;21656;PJ270;PJ270-Salvador Gutiérrez  Esq Hernán Domeyko
+J05I;21695;PJ303;PJ303-Salvador Gutiérrez  Esq 5 De Febrero
+J05I;21893;PJ304;PJ304-Salvador Gutiérrez  Esq 3 De Julio
+J05I;21938;PJ269;PJ269-Salvador Gutiérrez  Esq 3 De Julio
+J05I;22312;PJ305;PJ305-Salvador Gutiérrez  Esq Santos Luis Medel
+J05I;22336;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
+J05I;22509;PJ306;PJ306-Salvador Gutiérrez  Esq Sinal
+J05I;22531;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
+J05I;22721;PJ307;PJ307-Salvador Gutiérrez  Esq Fanaloza
+J05I;22765;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
+J05I;22961;PJ308;PJ308-Salvador Gutiérrez  Esq Apolo Xiii
+J05I;23014;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
+J05I;23100;PJ1694;PJ1694-Salvador Gutiérrez  Esq Huelén
+J05I;23350;PJ309;PJ309-Salvador Gutiérrez  Esq Punta Del Sol
+J05I;23358;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
+J05I;23557;PJ310;PJ310-Salvador Gutiérrez  Esq Prof Dario Salazar
+J05I;23595;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
+J05I;23768;PJ311;PJ311-Salvador Gutiérrez  Esq Rolando Petersen
+J05I;23807;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
+J05I;24016;PJ312;PJ312-Salvador Gutiérrez  Esq Lisboa
+J05I;24049;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
+J05I;24274;PJ1789;PJ1789-Salvador Gutiérrez  Esq Pasaje Abrantes
+J05I;24317;PJ313;PJ313-Salvador Gutiérrez  Esq Avenida La Estrella
+J05I;24508;PJ1017;PJ1017-Parada  Escuela Violeta Parra
+J05I;24565;PJ735;PJ735-Parada  Escuela Violeta Parra
+J05I;24602;PJ738;PJ738-Río Douro  Esq Avenida La Estrella
+J05I;24734;PJ736;PJ736-Río Douro  Esq Río Loa
+J05I;24870;PJ737;PJ737-Río Douro  Esq Diagonal Reny
+J05I;24910;PJ433;PJ433-Diagonal Reny  Esq Río Douro
+J05I;25213;PJ685;PJ685-Diagonal Reny  Esq Bombal
+J05I;25220;PJ477;PJ477-Diagonal Reny  Esq Avenida Mapocho
+J05I;25446;PJ1060;PJ1060-Mapocho Norte  Esq La Nutria
+J05I;25644;PJ702;PJ702-Mapocho Norte  Esq Río Boroa
+J05I;25834;PJ1804;PJ1804-Rodoviario  Esq Serrano
+J05I;26152;PJ1792;PJ1792-Serrano  Esq Rodoviario
+J05I;26162;PJ1803;PJ1803-Serrano  Esq Río Douro
+J05I;26329;PJ1802;PJ1802-Serrano  Esq Rodoviario
+J05I;26336;PJ1793;PJ1793-Serrano  Esq Río Douro
+J05I;26503;PJ1940;PJ1940-Serrano Esq  Cultura
+J05I;26561;PJ1941;PJ1941-Serrano  Esq  Las Fragatas
+J05I;26864;PJ1944;PJ1944-Serrano  Esq  Los Guiraos
+J05I;26893;PJ1943;PJ1943-Serrano Esq  La Capilla
+J05I;27173;PJ709;PJ709-Mar De Chile  Esq Costanera Sur
+J05I;27307;PJ710;PJ710-Mar De Chile  Esq Llanquihue
+J05I;27334;PJ708;PJ708-Mar De Chile  Esq Los Queltehues
+J05I;27526;PJ711;PJ711-Mar De Chile  Esq Las Fragatas
+J05I;27561;PJ1791;PJ1791-Mar De Chile  Esq Las Fragatas
+J05I;27637;PJ1790;PJ1790-Mar De Chile  Esq Río Douro
 J06I;55;PJ1741;PJ1741-Panamá  Esq Ricardo Vial
 J06I;386;PJ1572;PJ1572-Parada 11  (M) Pudahuel
 J06I;833;PJ173;PJ173-Parada  Villa Los Maitenes
@@ -31981,58 +32512,67 @@ J13I;12040;PJ313;PJ313-Salvador Gutiérrez  Esq Avenida La Estrella
 J13I;12281;PJ965;PJ965-Salvador Gutiérrez  Esq El Arrollo
 J13I;12460;PJ966;PJ966-Parada  Colegio Saint Orland
 J13I;12783;PJ435;PJ435-Diagonal Reny  Esq La Capilla
-J13I;13112;PJ259;PJ259-La Capilla  Esq El Arrollo
-J13R;458;PJ316;PJ316-Costanera Sur  Esq Serrano
-J13R;572;PJ257;PJ257-La Capilla  Esq Fraternidad
-J13R;782;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-J13R;1167;PJ475;PJ475-Parada  Colegio Saint Orland
-J13R;1373;PJ967;PJ967-Salvador Gutiérrez  Esq El Arrollo
-J13R;1588;PJ968;PJ968-Salvador Gutiérrez  Esq Avenida La Estrella
-J13R;1893;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
-J13R;2135;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
-J13R;2347;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
-J13R;2584;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
-J13R;2928;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
-J13R;3177;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
-J13R;3411;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
-J13R;3606;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
-J13R;3825;PJ969;PJ969-Santos Luis Medel  Esq Rodas
-J13R;4051;PJ970;PJ970-Santos Luis Medel  Esq Avenida Mapocho
-J13R;4388;PJ971;PJ971-Avenida Las Torres  Esq Mestizo Alejo
-J13R;4645;PJ972;PJ972-Torres De Pisa  Esq Turín
-J13R;4924;PJ973;PJ973-Torres De Pisa  Esq Av José J Pérez
-J13R;5042;PJ727;PJ727-Avenida Las Torres  Esq Termas Panimávida
-J13R;5408;PJ728;PJ728-Avenida Las Torres  Esq Los Duraznos
-J13R;5501;PJ695;PJ695-Card Raúl Silva H  Esq Los Menbrillos
-J13R;5851;PJ974;PJ974-Vicuña Rozas  Esq Las Lomas
-J13R;6076;PJ975;PJ975-Vicuña Rozas  Esq Los Retamos
-J13R;6305;PJ976;PJ976-Vicuña Rozas  Esq Pedro Urmiola
-J13R;6499;PJ977;PJ977-Vicuña Rozas  Esq Neptuno
-J13R;6764;PJ614;PJ614-Neptuno  Esq Camino De Loyola
-J13R;6994;PJ615;PJ615-Neptuno  Esq Av San Francisco
-J13R;7213;PJ616;PJ616-Neptuno  Esq Los Copihues
-J13R;7399;PJ617;PJ617-Neptuno  Esq Santa Luisa
-J13R;7622;PJ618;PJ618-Parada 9  (M) San Pablo
-J13R;8064;PJ176;PJ176-Avenida San Pablo  Esq Santa Nora
-J13R;8358;PJ177;PJ177-Parada  (M) Lo Prado
-J13R;8705;PJ178;PJ178-Parada 1  Consultorio Santa Anita
-J13R;8889;PJ131;PJ131-Parada  Villa Caupolicán
-J13R;9113;PJ179;PJ179-Parada 6  (M) Blanqueado
-J13R;9484;PJ180;PJ180-Parada  Escuela Inglaterra
-J13R;9654;PJ133;PJ133-Parada 1  Radal - San Pablo
-J13R;9854;PJ1738;PJ1738-Radal  Esq Santo Domingo
-J13R;10074;PJ978;PJ978-Radal  Esq Catedral
-J13R;10252;PJ979;PJ979-Radal  Esq Cura Marchant
-J13R;10530;PJ33;PJ33-Radal  Esq Porto Seguro
-J13R;10776;PI1393;PI1393-Radal  Esq Buzo Sobenes
-J13R;11000;PI1392;PI1392-Radal  Esq La Coruña
-J13R;11209;PI1395;PI1395-Radal  Esq Avenida Ecuador
-J13R;11529;PI457;PI457-Parada 3  (M) Ecuador
-J13R;11973;PI339;PI339-Parada 3  Concón
-J13R;12608;PI340;PI340-Parada 3  (M) San Alberto Hurtado
-J13R;12879;PI341;PI341-Parada 1  (M) Universidad De Santiago
-J13R;13414;PI342;PI342-Parada 1  San Borja
-J13R;13803;PA368;PA368-Parada 4  (M) Estación Central
+J13I;13168;PJ316;PJ316-Costanera Sur  Esq Serrano
+J13I;13303;PJ1944;PJ1944-Serrano  Esq  Los Guiraos
+J13I;13606;PJ1941;PJ1941-Serrano  Esq  Las Fragatas
+J13I;13838;PJ1802;PJ1802-Serrano  Esq Rodoviario
+J13I;14015;PJ1792;PJ1792-Serrano  Esq Rodoviario
+J13I;14197;PJ1988;PJ1988-Rodoviario  Esq Mar De Chile
+J13R;74;PJ1986;PJ1986-Rodoviario  Esq Mar De Chile
+J13R;327;PJ1803;PJ1803-Serrano  Esq Río Douro
+J13R;501;PJ1793;PJ1793-Serrano  Esq Río Douro
+J13R;668;PJ1940;PJ1940-Serrano Esq  Cultura
+J13R;1058;PJ1943;PJ1943-Serrano Esq  La Capilla
+J13R;1190;PJ257;PJ257-La Capilla  Esq Fraternidad
+J13R;1400;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
+J13R;1786;PJ475;PJ475-Parada  Colegio Saint Orland
+J13R;1992;PJ967;PJ967-Salvador Gutiérrez  Esq El Arrollo
+J13R;2206;PJ968;PJ968-Salvador Gutiérrez  Esq Avenida La Estrella
+J13R;2511;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
+J13R;2753;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
+J13R;2966;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
+J13R;3202;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
+J13R;3546;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
+J13R;3795;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
+J13R;4029;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
+J13R;4224;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
+J13R;4443;PJ969;PJ969-Santos Luis Medel  Esq Rodas
+J13R;4669;PJ970;PJ970-Santos Luis Medel  Esq Avenida Mapocho
+J13R;5006;PJ971;PJ971-Avenida Las Torres  Esq Mestizo Alejo
+J13R;5264;PJ972;PJ972-Torres De Pisa  Esq Turín
+J13R;5542;PJ973;PJ973-Torres De Pisa  Esq Av José J Pérez
+J13R;5660;PJ727;PJ727-Avenida Las Torres  Esq Termas Panimávida
+J13R;6026;PJ728;PJ728-Avenida Las Torres  Esq Los Duraznos
+J13R;6119;PJ695;PJ695-Card Raúl Silva H  Esq Los Menbrillos
+J13R;6470;PJ974;PJ974-Vicuña Rozas  Esq Las Lomas
+J13R;6695;PJ975;PJ975-Vicuña Rozas  Esq Los Retamos
+J13R;6923;PJ976;PJ976-Vicuña Rozas  Esq Pedro Urmiola
+J13R;7118;PJ977;PJ977-Vicuña Rozas  Esq Neptuno
+J13R;7383;PJ614;PJ614-Neptuno  Esq Camino De Loyola
+J13R;7612;PJ615;PJ615-Neptuno  Esq Av San Francisco
+J13R;7831;PJ616;PJ616-Neptuno  Esq Los Copihues
+J13R;8017;PJ617;PJ617-Neptuno  Esq Santa Luisa
+J13R;8241;PJ618;PJ618-Parada 9  (M) San Pablo
+J13R;8682;PJ176;PJ176-Avenida San Pablo  Esq Santa Nora
+J13R;8976;PJ177;PJ177-Parada  (M) Lo Prado
+J13R;9324;PJ178;PJ178-Parada 1  Consultorio Santa Anita
+J13R;9508;PJ131;PJ131-Parada  Villa Caupolicán
+J13R;9731;PJ179;PJ179-Parada 6  (M) Blanqueado
+J13R;10102;PJ180;PJ180-Parada  Escuela Inglaterra
+J13R;10273;PJ133;PJ133-Parada 1  Radal - San Pablo
+J13R;10472;PJ1738;PJ1738-Radal  Esq Santo Domingo
+J13R;10692;PJ978;PJ978-Radal  Esq Catedral
+J13R;10870;PJ979;PJ979-Radal  Esq Cura Marchant
+J13R;11148;PJ33;PJ33-Radal  Esq Porto Seguro
+J13R;11394;PI1393;PI1393-Radal  Esq Buzo Sobenes
+J13R;11618;PI1392;PI1392-Radal  Esq La Coruña
+J13R;11828;PI1395;PI1395-Radal  Esq Avenida Ecuador
+J13R;12148;PI457;PI457-Parada 3  (M) Ecuador
+J13R;12591;PI339;PI339-Parada 3  Concón
+J13R;13226;PI340;PI340-Parada 3  (M) San Alberto Hurtado
+J13R;13497;PI341;PI341-Parada 1  (M) Universidad De Santiago
+J13R;14033;PI342;PI342-Parada 1  San Borja
+J13R;14421;PA368;PA368-Parada 4  (M) Estación Central
 J13cI;464;PJ1896;PJ1896-San Germán  Esq Av San Pablo
 J13cI;802;PJ956;PJ956-Parada 1  (M) San Pablo
 J13cI;1095;PJ559;PJ559-Neptuno  Esq Yolanda
@@ -32061,67 +32601,73 @@ J13cI;6289;PJ312;PJ312-Salvador Gutiérrez  Esq Lisboa
 J13cI;6590;PJ313;PJ313-Salvador Gutiérrez  Esq Avenida La Estrella
 J13cI;6832;PJ965;PJ965-Salvador Gutiérrez  Esq El Arrollo
 J13cI;7010;PJ966;PJ966-Parada  Colegio Saint Orland
-J13cI;7333;PJ435;PJ435-Diagonal Reny  Esq La Capilla
-J13cI;7662;PJ259;PJ259-La Capilla  Esq El Arrollo
-J13cR;458;PJ316;PJ316-Costanera Sur  Esq Serrano
-J13cR;572;PJ257;PJ257-La Capilla  Esq Fraternidad
-J13cR;782;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-J13cR;1167;PJ475;PJ475-Parada  Colegio Saint Orland
-J13cR;1373;PJ967;PJ967-Salvador Gutiérrez  Esq El Arrollo
-J13cR;1588;PJ968;PJ968-Salvador Gutiérrez  Esq Avenida La Estrella
-J13cR;1893;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
-J13cR;2135;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
-J13cR;2347;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
-J13cR;2584;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
-J13cR;2928;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
-J13cR;3177;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
-J13cR;3411;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
-J13cR;3606;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
-J13cR;3825;PJ969;PJ969-Santos Luis Medel  Esq Rodas
-J13cR;4051;PJ970;PJ970-Santos Luis Medel  Esq Avenida Mapocho
-J13cR;4388;PJ971;PJ971-Avenida Las Torres  Esq Mestizo Alejo
-J13cR;4645;PJ972;PJ972-Torres De Pisa  Esq Turín
-J13cR;4924;PJ973;PJ973-Torres De Pisa  Esq Av José J Pérez
-J13cR;5042;PJ727;PJ727-Avenida Las Torres  Esq Termas Panimávida
-J13cR;5408;PJ728;PJ728-Avenida Las Torres  Esq Los Duraznos
-J13cR;5501;PJ695;PJ695-Card Raúl Silva H  Esq Los Menbrillos
-J13cR;5851;PJ974;PJ974-Vicuña Rozas  Esq Las Lomas
-J13cR;6076;PJ975;PJ975-Vicuña Rozas  Esq Los Retamos
-J13cR;6305;PJ976;PJ976-Vicuña Rozas  Esq Pedro Urmiola
-J13cR;6499;PJ977;PJ977-Vicuña Rozas  Esq Neptuno
-J13cR;6764;PJ614;PJ614-Neptuno  Esq Camino De Loyola
-J13cR;6994;PJ615;PJ615-Neptuno  Esq Av San Francisco
-J13cR;7213;PJ616;PJ616-Neptuno  Esq Los Copihues
-J13cR;7399;PJ617;PJ617-Neptuno  Esq Santa Luisa
-J13cR;7622;PJ618;PJ618-Parada 9  (M) San Pablo
-J15cI;85;PJ256;PJ256-Costanera Sur  Esq Mar De Chile
-J15cI;369;PJ257;PJ257-La Capilla  Esq Fraternidad
-J15cI;579;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-J15cI;927;PJ259;PJ259-La Capilla  Esq El Arrollo
-J15cI;1165;PJ1556;PJ1556-La Capilla  Esq Avenida La Estrella
-J15cI;1402;PJ260;PJ260-Avenida La Estrella  Esq Salvador Gutiérrez
-J15cI;1666;PJ735;PJ735-Parada  Escuela Violeta Parra
-J15cI;1852;PJ983;PJ983-Avenida La Estrella  Esq Cartaxo
-J15cI;1992;PJ984;PJ984-Avenida La Estrella  Esq Avenida Mapocho
-J15cI;2262;PJ479;PJ479-Avenida La Estrella  Esq El Nocedal
-J15cI;2611;PJ480;PJ480-Avenida La Estrella  Esq Av José J Pérez
-J15cI;2815;PJ481;PJ481-Avenida La Estrella  Esq Av José J Pérez
-J15cI;3028;PJ985;PJ985-Avenida La Estrella  Esq Zapallar
-J15cI;3172;PJ986;PJ986-Avenida La Estrella  Esq Av San Daniel
-J15cI;3447;PJ366;PJ366-Avenida La Estrella  Esq El Anillo
-J15cI;3671;PJ367;PJ367-Parada 1  Plaza De Pudahuel
-J15cI;4017;PJ368;PJ368-Avenida La Estrella  Esq Pasaje Almendral
-J15cI;4468;PJ369;PJ369-Parada 1  San Pablo - La Estrella
-J15cI;4891;PJ171;PJ171-Parada  Liceo C87
-J15cI;5364;PJ123;PJ123-Parada  Muni Pudahuel
-J15cI;5659;PJ987;PJ987-Parada 5  (M) Pudahuel
-J15cI;6117;PJ173;PJ173-Parada  Villa Los Maitenes
-J15cI;6393;PJ1777;PJ1777-Parada  Villa Los Poetas
-J15cI;6630;PJ126;PJ126-Parada 1  Las Torres - San Pablo
-J15cI;6907;PJ734;PJ734-Avenida Las Torres  Esq Territorio Antártico
-J15cI;7308;PJ556;PJ556-Territorio Antártico  Esq Gral J Buendía
-J15cI;7646;PJ557;PJ557-Territorio Antártico  Esq Lambayeque
-J15cI;8011;PJ686;PJ686-Parada 3  (M) Neptuno
+J13cI;7324;PJ476;PJ476-Diagonal Reny  Esq Río Douro
+J13cI;7775;PJ1938;PJ1938-Río Douro  Esq Serrano
+J13cI;7983;PJ1936;PJ1936-Río Douro  Esq Serrano
+J13cI;8264;PJ1792;PJ1792-Serrano  Esq Rodoviario
+J13cI;8446;PJ1988;PJ1988-Rodoviario  Esq Mar De Chile
+J13cR;74;PJ1986;PJ1986-Rodoviario  Esq Mar De Chile
+J13cR;327;PJ1803;PJ1803-Serrano  Esq Río Douro
+J13cR;501;PJ1793;PJ1793-Serrano  Esq Río Douro
+J13cR;782;PJ1937;PJ1937-Río Douro  Esq Federico Errázuriz
+J13cR;1497;PJ434;PJ434-Diagonal Reny  Esq Salvador Gutiérrez
+J13cR;1701;PJ967;PJ967-Salvador Gutiérrez  Esq El Arrollo
+J13cR;1916;PJ968;PJ968-Salvador Gutiérrez  Esq Avenida La Estrella
+J13cR;2220;PJ261;PJ261-Salvador Gutiérrez  Esq Lisboa
+J13cR;2462;PJ262;PJ262-Salvador Gutiérrez  Esq Rolando Petersen
+J13cR;2675;PJ263;PJ263-Salvador Gutiérrez  Esq Dario Salazar
+J13cR;2911;PJ264;PJ264-Salvador Gutiérrez  Esq Lanzarote
+J13cR;3256;PJ265;PJ265-Salvador Gutiérrez  Esq Río Lundazi
+J13cR;3505;PJ266;PJ266-Salvador Gutiérrez  Esq Resbalon
+J13cR;3738;PJ267;PJ267-Salvador Gutiérrez  Esq Sinal
+J13cR;3934;PJ268;PJ268-Salvador Gutiérrez  Esq Santos Luis Medel
+J13cR;4152;PJ969;PJ969-Santos Luis Medel  Esq Rodas
+J13cR;4378;PJ970;PJ970-Santos Luis Medel  Esq Avenida Mapocho
+J13cR;4716;PJ971;PJ971-Avenida Las Torres  Esq Mestizo Alejo
+J13cR;4973;PJ972;PJ972-Torres De Pisa  Esq Turín
+J13cR;5252;PJ973;PJ973-Torres De Pisa  Esq Av José J Pérez
+J13cR;5369;PJ727;PJ727-Avenida Las Torres  Esq Termas Panimávida
+J13cR;5735;PJ728;PJ728-Avenida Las Torres  Esq Los Duraznos
+J13cR;5828;PJ695;PJ695-Card Raúl Silva H  Esq Los Menbrillos
+J13cR;6179;PJ974;PJ974-Vicuña Rozas  Esq Las Lomas
+J13cR;6404;PJ975;PJ975-Vicuña Rozas  Esq Los Retamos
+J13cR;6633;PJ976;PJ976-Vicuña Rozas  Esq Pedro Urmiola
+J13cR;6827;PJ977;PJ977-Vicuña Rozas  Esq Neptuno
+J13cR;7092;PJ614;PJ614-Neptuno  Esq Camino De Loyola
+J13cR;7321;PJ615;PJ615-Neptuno  Esq Av San Francisco
+J13cR;7541;PJ616;PJ616-Neptuno  Esq Los Copihues
+J13cR;7726;PJ617;PJ617-Neptuno  Esq Santa Luisa
+J13cR;7950;PJ618;PJ618-Parada 9  (M) San Pablo
+J15cI;323;PJ1990;PJ1990-Río Douro  Esq Mar De Chile
+J15cI;504;PJ1935;PJ1935-Río Douro  Esq Serrano
+J15cI;788;PJ1937;PJ1937-Río Douro  Esq Federico Errázuriz
+J15cI;1183;PJ705;PJ705-Río Boroa  Esq Salvador Gutiérrez
+J15cI;1500;PJ435;PJ435-Diagonal Reny  Esq La Capilla
+J15cI;1829;PJ259;PJ259-La Capilla  Esq El Arrollo
+J15cI;2067;PJ1556;PJ1556-La Capilla  Esq Avenida La Estrella
+J15cI;2304;PJ260;PJ260-Avenida La Estrella  Esq Salvador Gutiérrez
+J15cI;2568;PJ735;PJ735-Parada  Escuela Violeta Parra
+J15cI;2755;PJ983;PJ983-Avenida La Estrella  Esq Cartaxo
+J15cI;2895;PJ984;PJ984-Avenida La Estrella  Esq Avenida Mapocho
+J15cI;3165;PJ479;PJ479-Avenida La Estrella  Esq El Nocedal
+J15cI;3513;PJ480;PJ480-Avenida La Estrella  Esq Av José J Pérez
+J15cI;3717;PJ481;PJ481-Avenida La Estrella  Esq Av José J Pérez
+J15cI;3930;PJ985;PJ985-Avenida La Estrella  Esq Zapallar
+J15cI;4074;PJ986;PJ986-Avenida La Estrella  Esq Av San Daniel
+J15cI;4349;PJ366;PJ366-Avenida La Estrella  Esq El Anillo
+J15cI;4573;PJ367;PJ367-Parada 1  Plaza De Pudahuel
+J15cI;4919;PJ368;PJ368-Avenida La Estrella  Esq Pasaje Almendral
+J15cI;5370;PJ369;PJ369-Parada 1  San Pablo - La Estrella
+J15cI;5793;PJ171;PJ171-Parada  Liceo C87
+J15cI;6267;PJ123;PJ123-Parada  Muni Pudahuel
+J15cI;6562;PJ987;PJ987-Parada 5  (M) Pudahuel
+J15cI;7019;PJ173;PJ173-Parada  Villa Los Maitenes
+J15cI;7295;PJ1777;PJ1777-Parada  Villa Los Poetas
+J15cI;7532;PJ126;PJ126-Parada 1  Las Torres - San Pablo
+J15cI;7809;PJ734;PJ734-Avenida Las Torres  Esq Territorio Antártico
+J15cI;8210;PJ556;PJ556-Territorio Antártico  Esq Gral J Buendía
+J15cI;8548;PJ557;PJ557-Territorio Antártico  Esq Lambayeque
+J15cI;8914;PJ686;PJ686-Parada 3  (M) Neptuno
 J15cR;79;PJ1581;PJ1581-Avenida Dorsal  Esq Iquitos
 J15cR;208;PJ687;PJ687-Avenida Dorsal  Esq La Independencia
 J15cR;475;PJ688;PJ688-Avenida Dorsal  Esq Gral J Buendía
@@ -32146,99 +32692,113 @@ J15cR;6303;PJ997;PJ997-Avenida La Estrella  Esq Luis Lazzarini
 J15cR;6557;PJ1017;PJ1017-Parada  Escuela Violeta Parra
 J15cR;6906;PJ314;PJ314-Avenida La Estrella  Esq El Zurdo
 J15cR;7286;PJ315;PJ315-Costanera Sur  Esq El Arrollo
-J15cR;7917;PJ316;PJ316-Costanera Sur  Esq Serrano
-J15cR;8236;PJ317;PJ317-Costanera Sur  Esq Conguillio
-J16I;396;PJ259;PJ259-La Capilla  Esq El Arrollo
-J16I;3807;PJ444;PJ444-Costanera Sur  Esq Cerámica
-J16I;3967;PJ998;PJ998-Costanera Sur  Esq Rodolfo Mondolfo
-J16I;4167;PJ999;PJ999-Costanera Sur  Esq Pasaje C
-J16I;4498;PJ1871;PJ1871-Santa Adriana  Esq Brisas Del Río
-J16I;4764;PJ1000;PJ1000-Brisas Del Río  Esq Santa Edelmira
-J16I;4970;PJ1002;PJ1002-Carmen Lidia  Esq La Frontera
-J16I;5468;PJ1880;PJ1880-Carmen Lidia  Esq Tegualda
-J16I;5622;PJ576;PJ576-Carmen Lidia  Esq Lo Espinoza
-J16I;5755;PJ577;PJ577-Lazo De La Vega  Esq Los Suspiros
-J16I;5909;PJ578;PJ578-Lazo De La Vega  Esq Meza Bell
-J16I;6089;PJ579;PJ579-Lazo De La Vega  Esq Miguel De Atero
-J16I;6419;PJ535;PJ535-Costanera Sur  Esq Gonzalo Bulnes
-J16I;6675;PJ536;PJ536-Costanera Sur  Esq Leoncio Fernández
-J16I;6876;PJ1739;PJ1739-Leoncio Fernández  Esq Embajador Gómez
-J16I;7131;PJ580;PJ580-Gonzalo Bulnes  Esq Dr Marcelo Fitte
-J16I;7328;PJ581;PJ581-Gonzalo Bulnes  Esq Dr C Ottolenghi
-J16I;7617;PJ582;PJ582-Parada 3  Escuela E Hurtado
-J16I;8140;PJ6;PJ6-Parada  Escuela Diego Portales
-J16I;10987;PJ135;PJ135-Avenida San Pablo  Esq Cruchaga Montt
-J16I;11349;PJ97;PJ97-Parada 2  (M) Gruta De Lourdes
-J16I;11741;PJ52;PJ52-Parada 3  Basílica De Lourdes
-J16I;12228;PJ98;PJ98-Parada 3  Matucana - San Pablo
-J16I;12612;PJ54;PJ54-Avenida Matucana  Esq Santo Domingo
-J16I;14087;PA474;PA474-Esperanza  Esq Romero
-J16I;14334;PA558;PA558-Esperanza  Esq Alameda
-J16I;14759;PA16;PA16-Parada 2  (M) Estación Central
-J16I;15237;PA4;PA4-Parada  Liceo Iasura Dinator
-J16I;15700;PA5;PA5-Parada 3  Hospital San Juan De Dios
-J16I;15725;PA599;PA599-Parada 4  Hospital San Juan De Dios
-J16I;15964;PA547;PA547-Parada 3  (M) Quinta Normal
-J16I;16013;PA1;PA1-Parada 6  (M) Quinta Normal
-J16I;16475;PJ56;PJ56-Parada  Inba
-J16I;16783;PJ57;PJ57-Parada 2  Santuario De Lourdes
-J16I;17191;PJ58;PJ58-Parada 4  (M) Gruta De Lourdes
-J16I;17403;PJ1731;PJ1731-Parada 7  (M) Gruta De Lourdes
-J16I;17687;PJ189;PJ189-Santo Domingo  Esq Barros Arana
-J16I;18072;PJ181;PJ181-Parada  Plaza Simón Bolívar
-J16I;18169;PJ143;PJ143-Parada  Plaza Simón Bolívar
-J16I;18413;PJ190;PJ190-Parada 2  Radal - San Pablo
-J16I;18459;PJ1006;PJ1006-Radal  Esq AvSan Pablo
-J16I;18735;PJ1005;PJ1005-Radal  Esq Pasaje F
-J16I;18780;PJ1063;PJ1063-Radal  Esq Martínez De Rozas
-J16I;18967;PJ661;PJ661-Radal  Esq Vicuña Rozas
-J16I;19005;PJ1760;PJ1760-Radal  Esq Andes
-J16I;19318;PJ1761;PJ1761-Radal  Esq Av José J Pérez
-J16I;19380;PJ1004;PJ1004-Radal  Esq Av José J Pérez
-J16I;19591;PJ1762;PJ1762-Radal  Esq Cónsul Poinsett
-J16I;19641;PJ1003;PJ1003-Radal  Esq Cónsul Poinsett
-J16I;19804;PJ8;PJ8-Radal  Esq Avenida Mapocho
-J16I;19869;PJ26;PJ26-Radal  Esq Padre Tadeo
-J16I;20179;PJ27;PJ27-Radal  Esq Salvador Gutiérrez
-J16I;20231;PJ7;PJ7-Radal  Esq Salvador Gutiérrez
-J16I;20690;PJ1564;PJ1564-Hoevel  Esq Santiago De Uriona
-J16I;21148;PJ863;PJ863-Santa Fe  Esq Avenida Carrascal
-J16I;21565;PJ593;PJ593-Embajador Gómez  Esq Mercedes Marín
-J16I;21698;PJ594;PJ594-Embajador Gómez  Esq Dr Marcelo Fitte
-J16I;21910;PJ595;PJ595-Embajador Gómez  Esq Leoncio Fernández
-J16I;22101;PJ596;PJ596-Embajador Gómez  Esq Dr José Tobias
-J16I;22470;PJ597;PJ597-Los Sauces  Esq Miguel De Atero
-J16I;22654;PJ1751;PJ1751-Los Sauces  Esq Meza Bell
-J16I;22833;PJ598;PJ598-Los Sauces  Esq Lo Espinoza
-J16I;23151;PJ599;PJ599-Los Sauces  Esq Pasaje 3
-J16I;23352;PJ600;PJ600-Los Sauces  Esq Samuel Izquierdo
-J16I;23536;PJ1007;PJ1007-Santa Edelmira  Esq Estadio
-J16I;23742;PJ1008;PJ1008-Santa Edelmira  Esq Brisas Del Río
-J16I;24007;PJ1009;PJ1009-Brisas Del Río  Esq Santa Adriana
-J16I;24422;PJ465;PJ465-Avenida Carrascal  Esq Pedro Gil De Castro
-J16I;24681;PJ466;PJ466-Costanera Sur  Esq La Carta
-J16I;24971;PJ467;PJ467-Costanera Sur  Esq Padre Las Casas
-J16I;25025;PJ443;PJ443-Costanera Sur  Esq Padre Las Casas
-J16I;25250;PJ442;PJ442-Costanera Sur  Esq Las Lumas
-J16I;25446;PJ468;PJ468-Costanera Sur  Esq San Sebastian
-J16I;25568;PJ1667;PJ1667-Costanera Sur  Esq 5 De Febrero
-J16I;25591;PJ1666;PJ1666-Costanera Sur  Esq 5 De Febrero
-J16I;25803;PJ470;PJ470-Costanera Sur  Esq Santos Luis Medel
-J16I;25825;PJ441;PJ441-Costanera Sur  Esq Santos Luis Medel
-J16I;26102;PJ1688;PJ1688-Costanera Sur  Esq Doctor Avendaño
-J16I;26106;PJ1687;PJ1687-Costanera Sur  Esq Paraíso
-J16I;26248;PJ471;PJ471-Costanera Sur  Esq El Resbalon
-J16I;26291;PJ439;PJ439-Costanera Sur  Esq El Resbalon
-J16I;26592;PJ438;PJ438-Costanera Sur  Esq Isoka
-J16I;26664;PJ472;PJ472-Costanera Sur  Esq Avenida Huelén
-J16I;26890;PJ95;PJ95-Costanera Sur  Esq Puente Resbalón
-J16I;26931;PJ35;PJ35-Costanera Sur  Esq Prof Dario Salazar
-J16I;27119;PJ1665;PJ1665-Costanera Sur  Esq Rolando Petersen
-J16I;27249;PJ437;PJ437-Costanera Sur  Esq Goruche
-J16I;27274;PJ473;PJ473-Costanera Sur  Esq Gaviola
-J16I;27573;PJ474;PJ474-Costanera Sur  Esq Avenida La Estrella
-J16I;27583;PJ436;PJ436-Costanera Sur  Esq Abrantes
-J16I;27948;PJ315;PJ315-Costanera Sur  Esq El Arrollo
+J15cR;8118;PJ714;PJ714-Río Boroa  Esq Coimbra
+J15cR;8519;PJ1938;PJ1938-Río Douro  Esq Serrano
+J15cR;8727;PJ1936;PJ1936-Río Douro  Esq Serrano
+J15cR;8925;PJ1934;PJ1934-Río Douro  Esq Mar De Chile
+J16I;609;PJ1805;PJ1805-Rodoviario  Esq Federico Errázuriz
+J16I;832;PJ718;PJ718-Mapocho Sur  Esq Boroa
+J16I;1034;PJ719;PJ719-Mapocho Sur  Esq Frutillar
+J16I;1234;PJ720;PJ720-Mapocho Sur  Esq Diagonal Reny
+J16I;1413;PJ478;PJ478-Mapocho Sur  Esq Avenida La Estrella
+J16I;1559;PJ484;PJ484-Mapocho Sur  Esq Lisboa
+J16I;1834;PJ485;PJ485-Mapocho Sur  Esq Rolando Petersen
+J16I;2211;PJ486;PJ486-Mapocho Sur  Esq Islas Azores
+J16I;2520;PJ487;PJ487-Mapocho Sur  Esq Huelén
+J16I;5431;PJ444;PJ444-Costanera Sur  Esq Cerámica
+J16I;5590;PJ998;PJ998-Costanera Sur  Esq Rodolfo Mondolfo
+J16I;5790;PJ999;PJ999-Costanera Sur  Esq Pasaje C
+J16I;6121;PJ1871;PJ1871-Santa Adriana  Esq Brisas Del Río
+J16I;6387;PJ1000;PJ1000-Brisas Del Río  Esq Santa Edelmira
+J16I;6593;PJ1002;PJ1002-Carmen Lidia  Esq La Frontera
+J16I;7091;PJ1880;PJ1880-Carmen Lidia  Esq Tegualda
+J16I;7245;PJ576;PJ576-Carmen Lidia  Esq Lo Espinoza
+J16I;7378;PJ577;PJ577-Lazo De La Vega  Esq Los Suspiros
+J16I;7532;PJ578;PJ578-Lazo De La Vega  Esq Meza Bell
+J16I;7712;PJ579;PJ579-Lazo De La Vega  Esq Miguel De Atero
+J16I;8043;PJ535;PJ535-Costanera Sur  Esq Gonzalo Bulnes
+J16I;8299;PJ536;PJ536-Costanera Sur  Esq Leoncio Fernández
+J16I;8499;PJ1739;PJ1739-Leoncio Fernández  Esq Embajador Gómez
+J16I;8754;PJ580;PJ580-Gonzalo Bulnes  Esq Dr Marcelo Fitte
+J16I;8952;PJ581;PJ581-Gonzalo Bulnes  Esq Dr C Ottolenghi
+J16I;9240;PJ582;PJ582-Parada 3  Escuela E Hurtado
+J16I;9763;PJ6;PJ6-Parada  Escuela Diego Portales
+J16I;12611;PJ135;PJ135-Avenida San Pablo  Esq Cruchaga Montt
+J16I;12972;PJ97;PJ97-Parada 2  (M) Gruta De Lourdes
+J16I;13364;PJ52;PJ52-Parada 3  Basílica De Lourdes
+J16I;13851;PJ98;PJ98-Parada 3  Matucana - San Pablo
+J16I;14235;PJ54;PJ54-Avenida Matucana  Esq Santo Domingo
+J16I;15711;PA474;PA474-Esperanza  Esq Romero
+J16I;15957;PA558;PA558-Esperanza  Esq Alameda
+J16I;16382;PA16;PA16-Parada 2  (M) Estación Central
+J16I;16860;PA4;PA4-Parada  Liceo Iasura Dinator
+J16I;17324;PA5;PA5-Parada 3  Hospital San Juan De Dios
+J16I;17349;PA599;PA599-Parada 4  Hospital San Juan De Dios
+J16I;17587;PA547;PA547-Parada 3  (M) Quinta Normal
+J16I;17636;PA1;PA1-Parada 6  (M) Quinta Normal
+J16I;18098;PJ56;PJ56-Parada  Inba
+J16I;18406;PJ57;PJ57-Parada 2  Santuario De Lourdes
+J16I;18814;PJ58;PJ58-Parada 4  (M) Gruta De Lourdes
+J16I;19026;PJ1731;PJ1731-Parada 7  (M) Gruta De Lourdes
+J16I;19310;PJ189;PJ189-Santo Domingo  Esq Barros Arana
+J16I;19695;PJ181;PJ181-Parada  Plaza Simón Bolívar
+J16I;19792;PJ143;PJ143-Parada  Plaza Simón Bolívar
+J16I;20036;PJ190;PJ190-Parada 2  Radal - San Pablo
+J16I;20082;PJ1006;PJ1006-Radal  Esq AvSan Pablo
+J16I;20358;PJ1005;PJ1005-Radal  Esq Pasaje F
+J16I;20403;PJ1063;PJ1063-Radal  Esq Martínez De Rozas
+J16I;20590;PJ661;PJ661-Radal  Esq Vicuña Rozas
+J16I;20628;PJ1760;PJ1760-Radal  Esq Andes
+J16I;20941;PJ1761;PJ1761-Radal  Esq Av José J Pérez
+J16I;21003;PJ1004;PJ1004-Radal  Esq Av José J Pérez
+J16I;21214;PJ1762;PJ1762-Radal  Esq Cónsul Poinsett
+J16I;21264;PJ1003;PJ1003-Radal  Esq Cónsul Poinsett
+J16I;21427;PJ8;PJ8-Radal  Esq Avenida Mapocho
+J16I;21492;PJ26;PJ26-Radal  Esq Padre Tadeo
+J16I;21802;PJ27;PJ27-Radal  Esq Salvador Gutiérrez
+J16I;21854;PJ7;PJ7-Radal  Esq Salvador Gutiérrez
+J16I;22313;PJ1564;PJ1564-Hoevel  Esq Santiago De Uriona
+J16I;22771;PJ863;PJ863-Santa Fe  Esq Avenida Carrascal
+J16I;23188;PJ593;PJ593-Embajador Gómez  Esq Mercedes Marín
+J16I;23322;PJ594;PJ594-Embajador Gómez  Esq Dr Marcelo Fitte
+J16I;23533;PJ595;PJ595-Embajador Gómez  Esq Leoncio Fernández
+J16I;23724;PJ596;PJ596-Embajador Gómez  Esq Dr José Tobias
+J16I;24093;PJ597;PJ597-Los Sauces  Esq Miguel De Atero
+J16I;24277;PJ1751;PJ1751-Los Sauces  Esq Meza Bell
+J16I;24456;PJ598;PJ598-Los Sauces  Esq Lo Espinoza
+J16I;24774;PJ599;PJ599-Los Sauces  Esq Pasaje 3
+J16I;24975;PJ600;PJ600-Los Sauces  Esq Samuel Izquierdo
+J16I;25159;PJ1007;PJ1007-Santa Edelmira  Esq Estadio
+J16I;25365;PJ1008;PJ1008-Santa Edelmira  Esq Brisas Del Río
+J16I;25631;PJ1009;PJ1009-Brisas Del Río  Esq Santa Adriana
+J16I;26045;PJ465;PJ465-Avenida Carrascal  Esq Pedro Gil De Castro
+J16I;26305;PJ466;PJ466-Costanera Sur  Esq La Carta
+J16I;26594;PJ467;PJ467-Costanera Sur  Esq Padre Las Casas
+J16I;26648;PJ443;PJ443-Costanera Sur  Esq Padre Las Casas
+J16I;26873;PJ442;PJ442-Costanera Sur  Esq Las Lumas
+J16I;27069;PJ468;PJ468-Costanera Sur  Esq San Sebastian
+J16I;27191;PJ1667;PJ1667-Costanera Sur  Esq 5 De Febrero
+J16I;27214;PJ1666;PJ1666-Costanera Sur  Esq 5 De Febrero
+J16I;27426;PJ470;PJ470-Costanera Sur  Esq Santos Luis Medel
+J16I;28062;PJ964;PJ964-Santos Luis Medel  Esq Salvador Gutiérrez
+J16I;28248;PJ969;PJ969-Santos Luis Medel  Esq Rodas
+J16I;28293;PJ963;PJ963-Santos Luis Medel  Esq Rodas
+J16I;28475;PJ970;PJ970-Santos Luis Medel  Esq Avenida Mapocho
+J16I;28527;PJ489;PJ489-Avenida Mapocho  Esq Santos Luis Medel
+J16I;28770;PJ521;PJ521-Avenida Mapocho  Esq Resbalon
+J16I;28851;PJ488;PJ488-Avenida Mapocho  Esq Galo Gonzalez
+J16I;29155;PJ522;PJ522-Avenida Mapocho  Esq Huelén
+J16I;29563;PJ684;PJ684-Mapocho Norte  Esq Islas Azores
+J16I;29936;PJ523;PJ523-Mapocho Norte  Esq Rolando Petersen
+J16I;30303;PJ524;PJ524-Parada  Gimnasio Municipal Cerro Navia
+J16I;30552;PJ432;PJ432-Mapocho Norte  Esq Diagonal Reny
+J16I;30768;PJ1060;PJ1060-Mapocho Norte  Esq La Nutria
+J16I;30966;PJ702;PJ702-Mapocho Norte  Esq Río Boroa
+J16I;31157;PJ1804;PJ1804-Rodoviario  Esq Serrano
+J16I;31417;PJ1989;PJ1989-Rodoviario  Esq Serrano
+J16I;31468;PJ1987;PJ1987-Rodoviario  Esq Serrano
+J16I;31596;PJ1988;PJ1988-Rodoviario  Esq Mar De Chile
+J16I;31657;PJ1986;PJ1986-Rodoviario  Esq Mar De Chile
 J17I;158;PJ96;PJ96-Parada 5  (M) Pajaritos
 J17I;2159;PI761;PI761-Av Gral Oscar Bonilla  Esq Escul Fraser
 J17I;2476;PI762;PI762-Av Gral Oscar Bonilla  Esq Búfalo
@@ -32489,54 +33049,49 @@ J19R;10793;PJ1795;PJ1795-Parada  Claudio Arrau Altura Del 9450
 J19R;11467;PJ111;PJ111-Av Américo Vespucio  Esq Ruta 68
 J19R;12147;PJ821;PJ821-Parada 4  Vespucio - San Pablo
 J19R;12490;PJ1726;PJ1726-Parada 2  Rotonda Sn Pablo
-J20I;366;PJ316;PJ316-Costanera Sur  Esq Serrano
-J20I;1565;PJ1805;PJ1805-Rodoviario  Esq Federico Errázuriz
-J20I;1789;PJ718;PJ718-Mapocho Sur  Esq Boroa
-J20I;1991;PJ719;PJ719-Mapocho Sur  Esq Frutillar
-J20I;2191;PJ720;PJ720-Mapocho Sur  Esq Diagonal Reny
-J20I;2370;PJ478;PJ478-Mapocho Sur  Esq Avenida La Estrella
-J20I;3364;PJ985;PJ985-Avenida La Estrella  Esq Zapallar
-J20I;6729;PJ1777;PJ1777-Parada  Villa Los Poetas
-J20I;6897;PJ1815;PJ1815-Tupungato  Esq Waldo Taff
-J20I;7140;PJ1020;PJ1020-Waldo Taff  Esq Gabriela Mistral
-J20I;7370;PJ173;PJ173-Parada  Villa Los Maitenes
-J20I;7821;PJ1604;PJ1604-Parada 6  (M) Pudahuel
-J20I;7827;PJ987;PJ987-Parada 5  (M) Pudahuel
-J20I;8059;PJ154;PJ154-Parada  Muni Pudahuel
-J20I;8122;PJ123;PJ123-Parada  Muni Pudahuel
-J20I;8596;PJ171;PJ171-Parada  Liceo C87
-J20I;8612;PJ155;PJ155-Parada  Liceo C87
-J20I;8868;PJ156;PJ156-Parada 2  San Pablo - La Estrella
-J20I;9019;PJ369;PJ369-Parada 1  San Pablo - La Estrella
-J20I;9433;PJ320;PJ320-Avenida La Estrella  Esq El Estribo
-J20I;9470;PJ368;PJ368-Avenida La Estrella  Esq Pasaje Almendral
-J20I;9772;PJ321;PJ321-Parada 2  Plaza De Pudahuel
-J20I;9816;PJ367;PJ367-Parada 1  Plaza De Pudahuel
-J20I;10040;PJ366;PJ366-Avenida La Estrella  Esq El Anillo
-J20I;10071;PJ322;PJ322-Avenida La Estrella  Esq La Espuela
-J20I;10267;PJ323;PJ323-Avenida La Estrella  Esq Av San Daniel
-J20I;10315;PJ986;PJ986-Avenida La Estrella  Esq Av San Daniel
-J20I;10434;PJ995;PJ995-Rolando Petersen  Esq Mostar
-J20I;10606;PJ996;PJ996-Rolando Petersen  Esq Av José J Pérez
-J20I;10746;PJ481;PJ481-Avenida La Estrella  Esq Av José J Pérez
-J20I;10950;PJ480;PJ480-Avenida La Estrella  Esq Av José J Pérez
-J20I;11052;PJ429;PJ429-Avenida La Estrella  Esq Los Conquistadores
-J20I;11299;PJ479;PJ479-Avenida La Estrella  Esq El Nocedal
-J20I;11300;PJ430;PJ430-Avenida La Estrella  Esq Viscu
-J20I;11478;PJ431;PJ431-Avenida La Estrella  Esq Mapocho Sur
-J20I;11940;PJ1060;PJ1060-Mapocho Norte  Esq La Nutria
-J20I;12138;PJ702;PJ702-Mapocho Norte  Esq Río Boroa
-J20I;12328;PJ1804;PJ1804-Rodoviario  Esq Serrano
-J20I;12646;PJ1792;PJ1792-Serrano  Esq Rodoviario
-J20I;12656;PJ1803;PJ1803-Serrano  Esq Río Douro
-J20I;12823;PJ1802;PJ1802-Serrano  Esq Rodoviario
-J20I;12830;PJ1793;PJ1793-Serrano  Esq Río Douro
-J20I;12997;PJ1940;PJ1940-Serrano  Esq Cultura
-J20I;13358;PJ1944;PJ1944-Serrano  Esq Los Guiraos
-J20I;13387;PJ1943;PJ1943-Serrano  Esq La Capilla
-J20I;13519;PJ257;PJ257-La Capilla  Esq Fraternidad
-J20I;13729;PJ258;PJ258-La Capilla  Esq Federico Errázuriz
-J20I;14077;PJ259;PJ259-La Capilla  Esq El Arrollo
+J20I;323;PJ1990;PJ1990-Río Douro  Esq Mar De Chile
+J20I;504;PJ1935;PJ1935-Río Douro  Esq Serrano
+J20I;1092;PJ1805;PJ1805-Rodoviario  Esq Federico Errázuriz
+J20I;1315;PJ718;PJ718-Mapocho Sur  Esq Boroa
+J20I;1517;PJ719;PJ719-Mapocho Sur  Esq Frutillar
+J20I;1717;PJ720;PJ720-Mapocho Sur  Esq Diagonal Reny
+J20I;1896;PJ478;PJ478-Mapocho Sur  Esq Avenida La Estrella
+J20I;2890;PJ985;PJ985-Avenida La Estrella  Esq Zapallar
+J20I;6255;PJ1777;PJ1777-Parada  Villa Los Poetas
+J20I;6423;PJ1815;PJ1815-Tupungato  Esq Waldo Taff
+J20I;6666;PJ1020;PJ1020-Waldo Taff  Esq Gabriela Mistral
+J20I;6896;PJ173;PJ173-Parada  Villa Los Maitenes
+J20I;7347;PJ1604;PJ1604-Parada 6  (M) Pudahuel
+J20I;7353;PJ987;PJ987-Parada 5  (M) Pudahuel
+J20I;7585;PJ154;PJ154-Parada  Muni Pudahuel
+J20I;7648;PJ123;PJ123-Parada  Muni Pudahuel
+J20I;8122;PJ171;PJ171-Parada  Liceo C87
+J20I;8138;PJ155;PJ155-Parada  Liceo C87
+J20I;8394;PJ156;PJ156-Parada 2  San Pablo - La Estrella
+J20I;8545;PJ369;PJ369-Parada 1  San Pablo - La Estrella
+J20I;8959;PJ320;PJ320-Avenida La Estrella  Esq El Estribo
+J20I;8996;PJ368;PJ368-Avenida La Estrella  Esq Pasaje Almendral
+J20I;9298;PJ321;PJ321-Parada 2  Plaza De Pudahuel
+J20I;9342;PJ367;PJ367-Parada 1  Plaza De Pudahuel
+J20I;9566;PJ366;PJ366-Avenida La Estrella  Esq El Anillo
+J20I;9598;PJ322;PJ322-Avenida La Estrella  Esq La Espuela
+J20I;9793;PJ323;PJ323-Avenida La Estrella  Esq Av San Daniel
+J20I;9841;PJ986;PJ986-Avenida La Estrella  Esq Av San Daniel
+J20I;9960;PJ995;PJ995-Rolando Petersen  Esq Mostar
+J20I;10132;PJ996;PJ996-Rolando Petersen  Esq Av José J Pérez
+J20I;10272;PJ481;PJ481-Avenida La Estrella  Esq Av José J Pérez
+J20I;10476;PJ480;PJ480-Avenida La Estrella  Esq Av José J Pérez
+J20I;10578;PJ429;PJ429-Avenida La Estrella  Esq Los Conquistadores
+J20I;10825;PJ479;PJ479-Avenida La Estrella  Esq El Nocedal
+J20I;10826;PJ430;PJ430-Avenida La Estrella  Esq Viscu
+J20I;11004;PJ431;PJ431-Avenida La Estrella  Esq Mapocho Sur
+J20I;11466;PJ1060;PJ1060-Mapocho Norte  Esq La Nutria
+J20I;11664;PJ702;PJ702-Mapocho Norte  Esq Río Boroa
+J20I;11854;PJ1804;PJ1804-Rodoviario  Esq Serrano
+J20I;12172;PJ1792;PJ1792-Serrano  Esq Rodoviario
+J20I;12182;PJ1803;PJ1803-Serrano  Esq Río Douro
+J20I;12356;PJ1793;PJ1793-Serrano  Esq Río Douro
+J20I;12593;PJ1934;PJ1934-Río Douro  Esq Mar De Chile
 L1I;3;91;San Pablo 
 L1I;819;60;Neptuno
 L1I;1931;67;Pajaritos
@@ -32829,7 +33384,6 @@ MTNR;13445;PT0214;Estación MetroTren-Lo Espejo (Anden2)
 MTNR;15771;PT0213;Estación MetroTren-Pedro Aguirre Cerda (Anden2)
 MTNR;17419;PT0212;Estación MetroTren-Lo Valledor (Anden2)
 MTNR;20432;PT0211;Estación MetroTren-Alameda (Anden2)
-MTRI;0;PT0201;Estación MetroTren-Alameda (Anden1)
 MTRI;2980;PT0202;Estación MetroTren-Lo Valledor (Anden1)
 MTRI;4658;PT0203;Estación MetroTren-Pedro Aguirre Cerda (Anden1)
 MTRI;6972;PT0204;Estación MetroTren-Lo Espejo (Anden1)
