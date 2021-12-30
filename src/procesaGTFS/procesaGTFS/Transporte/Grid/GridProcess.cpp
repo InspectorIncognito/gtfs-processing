@@ -43,6 +43,9 @@ void GridProcess::ConstruyeGrilla()
 
 	for (map< string, Paradero >::iterator it = fdd_->redParaderos.red.begin(); it != fdd_->redParaderos.red.end(); it++)
 	{
+//		if ((*it).second.lat > 0)
+//			cout << (*it).first << "|" << (*it).second.lat << endl;
+
 		fdd_->grid.minLat = std::fmin(fdd_->grid.minLat, (*it).second.lat);
 		fdd_->grid.maxLat = std::fmax(fdd_->grid.maxLat, (*it).second.lat);
 		fdd_->grid.minLon = std::fmin(fdd_->grid.minLon, (*it).second.lon);
